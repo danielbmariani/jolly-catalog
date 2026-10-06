@@ -1,0 +1,4453 @@
+{
+  "tmdb:285903": {
+    "classind": "L",
+    "first_air_year": 2024,
+    "honors": [
+      {
+        "body": "apca",
+        "prize": "APCA Infantil",
+        "year": 2014
+      }
+    ],
+    "poster": "/8Z1pJKpRDE5BPNKiPNi88O6WkCK.jpg",
+    "providers": [
+      "Globoplay"
+    ],
+    "providers_verified": [
+      "Globoplay"
+    ],
+    "status": "returning",
+    "title": "Quintal da Cultura",
+    "tmdb_id": 285903
+  },
+  "tmdb:333432": {
+    "classind": "L",
+    "first_air_year": 1929,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/yZhS6X56532pMlgFJVYWGonJe0o.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Looney Tunes",
+    "tmdb_id": 333432
+  },
+  "tmdb:63301": {
+    "classind": "L",
+    "first_air_year": 2014,
+    "honors": [
+      {
+        "body": "apca",
+        "prize": null,
+        "year": 2016
+      }
+    ],
+    "lists": [
+      "brasil-canon"
+    ],
+    "poster": "/hYRwRganCESkloQydyEgGz7lYV.jpg",
+    "providers": [
+      "Netflix Standard with Ads"
+    ],
+    "providers_verified": [
+      "Netflix Standard with Ads"
+    ],
+    "status": "returning",
+    "title": "O Show da Luna",
+    "tmdb_id": 63301
+  },
+  "tt0043208": {
+    "classind": "L",
+    "first_air_year": 1951,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/mPUSrFTvQqwEqTtfukxJBtkbxWj.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "I Love Lucy",
+    "tmdb_id": 2730
+  },
+  "tt0052520": {
+    "classind": "L",
+    "first_air_year": 1959,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/7uY4pCOxbEdv4M8jTE4uMPVoSIW.jpg",
+    "providers": [
+      "Oldflix"
+    ],
+    "status": "ended",
+    "title": "Além da Imaginação",
+    "tmdb_id": 6357
+  },
+  "tt0060028": {
+    "classind": "12",
+    "first_air_year": 1966,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/9byecLwsbbkAqGdxcKuuTI5kEzZ.jpg",
+    "providers": [
+      "Oldflix"
+    ],
+    "status": "ended",
+    "title": "Jornada nas Estrelas",
+    "tmdb_id": 253
+  },
+  "tt0062588": {
+    "classind": "L",
+    "first_air_year": 1968,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/qhbeRYVg120cBmc9XvGxvk6EmJF.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Mister Rogers' Neighborhood",
+    "tmdb_id": 15
+  },
+  "tt0063951": {
+    "classind": "L",
+    "first_air_year": 1969,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2017
+      },
+      {
+        "body": "tca-youth",
+        "prize": "Youth Programming",
+        "year": 2018
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2019
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2021
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2022
+      }
+    ],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "status": "returning",
+    "title": "Vila Sésamo",
+    "tmdb_id": 502
+  },
+  "tt0071007": {
+    "classind": "L",
+    "first_air_year": 1974,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/eVpvlqKZfEVsBOttNFTUyfPoA6K.jpg",
+    "providers": [
+      "Oldflix",
+      "Pluto TV"
+    ],
+    "status": "ended",
+    "title": "Os Pioneiros",
+    "tmdb_id": 1781
+  },
+  "tt0074028": {
+    "classind": "L",
+    "first_air_year": 1976,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/x1aZsosXqaCpZTI12lLpNYIj6HX.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Muppet Show",
+    "tmdb_id": 4459
+  },
+  "tt0083413": {
+    "classind": "10",
+    "first_air_year": 1982,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/vxERANdozlMKgl7VqGxbAvZ6u1O.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Caras e Caretas",
+    "tmdb_id": 496
+  },
+  "tt0090500": {
+    "classind": "10",
+    "first_air_year": 1986,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/whb9VJJdDlRjJLrRrQl1NkyD3Dc.jpg",
+    "providers": [
+      "Plex Channel",
+      "Plex Player"
+    ],
+    "status": "ended",
+    "title": "Pee-wee's Playhouse",
+    "tmdb_id": 4612
+  },
+  "tt0092455": {
+    "classind": "L",
+    "first_air_year": 1987,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Jornada nas Estrelas: A Nova Geração",
+    "tmdb_id": 655
+  },
+  "tt0096697": {
+    "classind": "12",
+    "first_air_year": 1989,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "returning",
+    "title": "Os Simpsons",
+    "tmdb_id": 456
+  },
+  "tt0098800": {
+    "classind": "10",
+    "first_air_year": 1990,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/fJXzwxCVr2TEkhhKRKcih9o5DYK.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Um Maluco no Pedaço",
+    "tmdb_id": 1892
+  },
+  "tt0169414": {
+    "classind": "L",
+    "first_air_year": 1996,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": "Youth Programming",
+        "year": 2019
+      }
+    ],
+    "poster": "/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Arthur",
+    "tmdb_id": 2153
+  },
+  "tt0172049": {
+    "classind": "L",
+    "first_air_year": 1998,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2002
+      }
+    ],
+    "poster": "/3pjsgCyli0xupAOSvJsKKo7hlia.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "O Mundo Redondo de Olie",
+    "tmdb_id": 2641
+  },
+  "tt0173528": {
+    "classind": "L",
+    "doc": true,
+    "first_air_year": 1993,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/xdGGiQ8gBEwjyafLxW34IK8sblZ.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Eureka",
+    "tmdb_id": 3483
+  },
+  "tt0206501": {
+    "classind": "10",
+    "doc": true,
+    "first_air_year": 1974,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video"
+    ],
+    "status": "returning",
+    "title": "NOVA",
+    "tmdb_id": 3562
+  },
+  "tt0206512": {
+    "classind": "12",
+    "first_air_year": 1999,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2009
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2010
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2012
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2016
+      }
+    ],
+    "poster": "/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+    "providers": [
+      "HBO Max",
+      "Netflix",
+      "Oldflix",
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Pluto TV"
+    ],
+    "providers_verified": [
+      "Netflix",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Bob Esponja",
+    "tmdb_id": 387
+  },
+  "tt0235916": {
+    "classind": "L",
+    "first_air_year": 2002,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2003
+      }
+    ],
+    "poster": "/MuylmYxxXnTBCmASj9586Ug1mk.jpg",
+    "providers": [
+      "Pluto TV"
+    ],
+    "status": "ended",
+    "title": "ChalkZone",
+    "tmdb_id": 4413
+  },
+  "tt0235918": {
+    "classind": "L",
+    "first_air_year": 2001,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2012
+      }
+    ],
+    "poster": "/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Pluto TV"
+    ],
+    "providers_verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Os Padrinhos Mágicos",
+    "tmdb_id": 4630
+  },
+  "tt0244926": {
+    "classind": "L",
+    "first_air_year": 1999,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2002
+      }
+    ],
+    "poster": "/2As5aMc84mtTurD2DfDLytNLhkh.jpg",
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Pluto TV"
+    ],
+    "providers_verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Rocket Power",
+    "tmdb_id": 2009
+  },
+  "tt0278866": {
+    "classind": "L",
+    "first_air_year": 2002,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2002
+      }
+    ],
+    "poster": "/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Kim Possible",
+    "tmdb_id": 2345
+  },
+  "tt0293737": {
+    "classind": "L",
+    "first_air_year": 2001,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2002
+      }
+    ],
+    "poster": "/wcfbfActZ9VZ3anFqe3YYNWOHsG.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "A Família Radical",
+    "tmdb_id": 543
+  },
+  "tt0294196": {
+    "classind": "L",
+    "first_air_year": 2001,
+    "honors": [],
+    "lists": [
+      "brasil-canon"
+    ],
+    "poster": "/bEY82X0bFLUJxIOFWLumjCZJQAb.jpg",
+    "providers": [
+      "Globoplay"
+    ],
+    "providers_verified": [
+      "Globoplay"
+    ],
+    "status": "ended",
+    "title": "Sítio do Picapau Amarelo",
+    "tmdb_id": 42680
+  },
+  "tt0300815": {
+    "classind": "L",
+    "first_air_year": 1991,
+    "honors": [],
+    "lists": [
+      "brasil-canon"
+    ],
+    "poster": "/9XMXjb6LglmiarHI6D99bnmDuI3.jpg",
+    "providers": [
+      "Netflix",
+      "Oldflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Mundo da Lua",
+    "tmdb_id": 65302
+  },
+  "tt0315068": {
+    "classind": "L",
+    "first_air_year": 2001,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2002
+      }
+    ],
+    "poster": "/5rJHn5sJMZQDMjoToe22KanXeTf.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Stanley",
+    "tmdb_id": 4332
+  },
+  "tt0320808": {
+    "classind": "L",
+    "first_air_year": 2002,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2003
+      }
+    ],
+    "poster": "/dxUNSVBU03LuVSZ3rriui6a7Xvk.jpg",
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Pluto TV"
+    ],
+    "providers_verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "As Aventuras de Jimmy Neutron, O Menino Gênio",
+    "tmdb_id": 2129
+  },
+  "tt0331732": {
+    "classind": "L",
+    "first_air_year": 1994,
+    "honors": [],
+    "lists": [
+      "brasil-canon"
+    ],
+    "poster": "/p9Yo9plrovUUl8sa3UFt3Q9bxpE.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Castelo Rá-Tim-Bum",
+    "tmdb_id": 35254
+  },
+  "tt0376390": {
+    "classind": "L",
+    "first_air_year": 2003,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2003
+      }
+    ],
+    "poster": "/d2PpdUKSTHSLsnlkScMyHkAxC2i.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Duck Dodgers",
+    "tmdb_id": 216
+  },
+  "tt0381772": {
+    "classind": "L",
+    "first_air_year": 2003,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2003
+      }
+    ],
+    "poster": "/vJmdj1yZ5MY3repUubHK39cqUbt.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Jakers! As Aventuras de Piggley Winks",
+    "tmdb_id": 13605
+  },
+  "tt0383126": {
+    "classind": "L",
+    "doc": true,
+    "first_air_year": 2003,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Os Caçadores de Mitos",
+    "tmdb_id": 1428
+  },
+  "tt0389668": {
+    "classind": "L",
+    "first_air_year": 2004,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2007
+      }
+    ],
+    "poster": "/h57yV94qcZcoGf3BNQQUtQa8wvi.jpg",
+    "providers": [
+      "Amazon Prime Video",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Peep and the Big Wide World",
+    "tmdb_id": 1812
+  },
+  "tt0397800": {
+    "classind": "L",
+    "first_air_year": 2003,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2003
+      }
+    ],
+    "poster": "/hVBcvoKrID7Q4B4kZOpY1wHwwaX.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "O Circo da Jojo",
+    "tmdb_id": 5164
+  },
+  "tt0417299": {
+    "classind": "10",
+    "first_air_year": 2005,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2008
+      }
+    ],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
+    "providers": [
+      "Netflix",
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Pluto TV"
+    ],
+    "providers_verified": [
+      "Netflix",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Avatar: A Lenda de Aang",
+    "tmdb_id": 246
+  },
+  "tt0419326": {
+    "classind": "L",
+    "first_air_year": 2004,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2008
+      }
+    ],
+    "poster": "/aerZJVODYwji4BnyWrHFmF3JxhX.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "A Mansão Foster para Amigos Imaginários",
+    "tmdb_id": 1720
+  },
+  "tt0436992": {
+    "classind": "12",
+    "first_air_year": 2005,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Doctor Who",
+    "tmdb_id": 57243
+  },
+  "tt0439349": {
+    "classind": "L",
+    "first_air_year": 2004,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2007
+      }
+    ],
+    "poster": "/dIB32UlWZ81M2HDtQVp72LGq8v8.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Os Backyardigans",
+    "tmdb_id": 1878
+  },
+  "tt0458290": {
+    "classind": "10",
+    "first_air_year": 2008,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2020
+      }
+    ],
+    "poster": "/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Star Wars: The Clone Wars",
+    "tmdb_id": 4194
+  },
+  "tt0473573": {
+    "classind": "L",
+    "first_air_year": 1996,
+    "honors": [],
+    "lists": [
+      "brasil-canon"
+    ],
+    "poster": "/64NyFMaTxe89SXxzbyqXB2zbcgl.jpg",
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video"
+    ],
+    "status": "ended",
+    "title": "Cocoricó",
+    "tmdb_id": 20153
+  },
+  "tt0487849": {
+    "classind": "L",
+    "first_air_year": 2005,
+    "honors": [
+      {
+        "body": "quirino",
+        "prize": null,
+        "year": 2018
+      }
+    ],
+    "poster": "/1fmaC3t96Napg7TR9SsfOX8q11X.jpg",
+    "providers": [
+      "Amazon Prime Video",
+      "Cartoon Network Amazon Channel",
+      "Globoplay",
+      "Gloob Amazon Channel",
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix",
+      "Playkids Learning Amazon Channel"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video",
+      "Cartoon Network Amazon Channel",
+      "Globoplay",
+      "Gloob Amazon Channel",
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix",
+      "Playkids Learning Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Pocoyo",
+    "tmdb_id": 2437
+  },
+  "tt0756522": {
+    "classind": "L",
+    "first_air_year": 2005,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2007
+      }
+    ],
+    "poster": "/ur6dZkHaUhLNkOo1ishRLJ10Tvc.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Mini Einsteins",
+    "tmdb_id": 3090
+  },
+  "tt0784896": {
+    "classind": "L",
+    "first_air_year": 2006,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2009
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2011
+      }
+    ],
+    "poster": "/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "A Casa do Mickey Mouse",
+    "tmdb_id": 3934
+  },
+  "tt0805837": {
+    "classind": "10",
+    "first_air_year": 2007,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2007
+      }
+    ],
+    "poster": "/vHnqmtAoEN8vaA6O8fd0n95Qcru.jpg",
+    "providers": [
+      "Pluto TV"
+    ],
+    "status": "ended",
+    "title": "El Tigre: As Aventuras de Manny Rivera",
+    "tmdb_id": 6046
+  },
+  "tt0892700": {
+    "classind": "L",
+    "first_air_year": 2008,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2009
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2011
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2012
+      }
+    ],
+    "poster": "/1fRG81M83HgwupmndtgZQOBHh8o.jpg",
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Pluto TV"
+    ],
+    "providers_verified": [
+      "Paramount Plus Apple TV channel"
+    ],
+    "status": "ended",
+    "title": "Os Pinguins de Madagascar",
+    "tmdb_id": 7869
+  },
+  "tt0917551": {
+    "classind": "10",
+    "first_air_year": 2008,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2008
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2009
+      }
+    ],
+    "poster": "/9LKMCLpxbCxp8ZZQDSIsOIMG4G4.jpg",
+    "providers": [
+      "Pluto TV"
+    ],
+    "status": "ended",
+    "title": "The Mighty B!",
+    "tmdb_id": 15641
+  },
+  "tt0965404": {
+    "classind": "L",
+    "first_air_year": 2011,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Preschool",
+        "year": 2012
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2013
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2015
+      }
+    ],
+    "poster": "/mxZOTFDGsvQ7YD2zxWrWVInqBxw.jpg",
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Pluto TV"
+    ],
+    "providers_verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Bubble Guppies",
+    "tmdb_id": 39107
+  },
+  "tt10380896": {
+    "classind": "10",
+    "first_air_year": 2021,
+    "honors": [
+      {
+        "body": "peabody-kids",
+        "prize": "Peabody Award",
+        "year": 2021
+      }
+    ],
+    "poster": "/rGSNlbq14XAn92SH22j3kao7CbS.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "canceled",
+    "title": "Cidade de Fantasmas",
+    "tmdb_id": 119831
+  },
+  "tt10558660": {
+    "classind": "L",
+    "first_air_year": 2022,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Preschool",
+        "year": 2022
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Preschool",
+        "year": 2024
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2025
+      }
+    ],
+    "poster": "/sCdQdmUbUmHgcuTBBXUVv8drvpn.jpg",
+    "providers": [],
+    "status": "canceled",
+    "title": "The Tiny Chef Show",
+    "tmdb_id": 221230
+  },
+  "tt10703292": {
+    "classind": "L",
+    "first_air_year": 2019,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2019
+      }
+    ],
+    "poster": "/nk6pcpRIOOVOsLKsNoGo4YrNJ9n.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Norman Picklestripes",
+    "tmdb_id": 96503
+  },
+  "tt10949974": {
+    "classind": "L",
+    "first_air_year": 2020,
+    "honors": [
+      {
+        "body": "quirino",
+        "prize": null,
+        "year": 2020
+      }
+    ],
+    "poster": "/7OeDeKUg05XFnZ6YsGafs7FP6LP.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Momonstros",
+    "tmdb_id": 102925
+  },
+  "tt11004134": {
+    "classind": "10",
+    "first_air_year": 2019,
+    "honors": [
+      {
+        "body": "prix-jeunesse",
+        "prize": "Children's Jury 7-10 Fiction",
+        "year": 2020
+      }
+    ],
+    "poster": "/cylPAXqLws5yM9oJa47MsHItBy8.jpg",
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "providers_verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "status": "canceled",
+    "title": "O Fantasma Escritor",
+    "tmdb_id": 93520
+  },
+  "tt11130978": {
+    "classind": "L",
+    "first_air_year": 2019,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2017
+      }
+    ],
+    "poster": "/18ik0uXxg6xuxSf7xrf0pfG1Dnm.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Mickey Mouse Aventuras sobre Rodas: Mix de Aventuras",
+    "tmdb_id": 139612
+  },
+  "tt1140100": {
+    "classind": "L",
+    "first_air_year": 2007,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2007
+      }
+    ],
+    "poster": "/4H5diUE5bKp9dxcisJ3wbZzvAg7.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Chowder",
+    "tmdb_id": 9907
+  },
+  "tt11570892": {
+    "classind": "L",
+    "first_air_year": 2020,
+    "honors": [
+      {
+        "body": "quirino",
+        "prize": null,
+        "year": 2021
+      }
+    ],
+    "poster": "/5ZRp8VARKCsypFzBQxhRJW0wrx4.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Eu, Elvis Riboldi",
+    "tmdb_id": 125290
+  },
+  "tt11749408": {
+    "classind": "L",
+    "first_air_year": 2021,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2021
+      }
+    ],
+    "poster": "/aGpTCYYsRDYOPAUZLe2aOLRNnbf.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "returning",
+    "title": "Donkey Hodie",
+    "tmdb_id": 125605
+  },
+  "tt1178180": {
+    "classind": "L",
+    "first_air_year": 2008,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2009
+      }
+    ],
+    "poster": "/8dpk0bjBgX93ZkQxEI1daNSj3OW.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "As Trapalhadas de Flapjack",
+    "tmdb_id": 6673
+  },
+  "tt11829340": {
+    "classind": "L",
+    "first_air_year": 2020,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2020
+      }
+    ],
+    "poster": "/7OJBuUMRlhE7b9MkRQDzocY0DiO.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "returning",
+    "title": "Amiguinhos",
+    "tmdb_id": 100746
+  },
+  "tt11947288": {
+    "classind": "L",
+    "first_air_year": 2022,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2022
+      }
+    ],
+    "poster": "/mvo5zgYvcvH0XscuSu4MLg6UlCw.jpg",
+    "providers": [],
+    "status": "canceled",
+    "title": "Big Nate",
+    "tmdb_id": 153528
+  },
+  "tt11992456": {
+    "classind": "L",
+    "first_air_year": 2020,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2022
+      }
+    ],
+    "poster": "/3MEwgOMnsTfuOHcPoX8hAOKrKYn.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Elinor, a Curiosa",
+    "tmdb_id": 124747
+  },
+  "tt12060778": {
+    "classind": "L",
+    "first_air_year": 2020,
+    "honors": [
+      {
+        "body": "quirino",
+        "prize": null,
+        "year": 2021
+      }
+    ],
+    "poster": "/nSiUod5Sizy6VFAFLoK6uUbaPvy.jpg",
+    "providers": [
+      "Box Brazil Play Amazon Channel"
+    ],
+    "providers_verified": [
+      "Box Brazil Play Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Conta Comigo",
+    "tmdb_id": 125285
+  },
+  "tt12180726": {
+    "classind": "L",
+    "first_air_year": 2017,
+    "honors": [
+      {
+        "body": "apca",
+        "prize": null,
+        "year": 2016
+      }
+    ],
+    "poster": "/qq4E9OZEMCST45IQnrkn0Atv6e.jpg",
+    "providers": [
+      "Amazon Prime Video",
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Looke Amazon Channel",
+      "NetMovies",
+      "Netflix",
+      "Playkids Learning Amazon Channel",
+      "Pluto TV",
+      "Shahid VIP"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video",
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Looke Amazon Channel",
+      "Netflix",
+      "Playkids Learning Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Galinha Pintadinha Mini",
+    "tmdb_id": 103048
+  },
+  "tt12397680": {
+    "classind": "L",
+    "first_air_year": 2022,
+    "honors": [
+      {
+        "body": "prix-jeunesse",
+        "prize": "Children's Jury 7-10 Fiction",
+        "year": 2024
+      }
+    ],
+    "poster": "/p8gN7DQMUTRXj9tnkhoCpOXu7vH.jpg",
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "providers_verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "A Rocha Encantada: De Volta à Caverna",
+    "tmdb_id": 104002
+  },
+  "tt12440652": {
+    "classind": "L",
+    "first_air_year": 2021,
+    "honors": [
+      {
+        "body": "prix-jeunesse",
+        "prize": "11-15 Fiction",
+        "year": 2022
+      }
+    ],
+    "poster": "/10JQjyCSTL2YxgkYuCWxYhSfPrr.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Truth or Dare",
+    "tmdb_id": 127138
+  },
+  "tt12640670": {
+    "classind": "L",
+    "first_air_year": 2011,
+    "honors": [],
+    "lists": [
+      "brasil-canon"
+    ],
+    "poster": "/cJowaZyPwAIp6zWv5vBcd2PwngK.jpg",
+    "providers": [
+      "TV Brasil Play"
+    ],
+    "status": "ended",
+    "title": "Tromba Trem",
+    "tmdb_id": 96842
+  },
+  "tt1299440": {
+    "classind": "10",
+    "first_air_year": 2009,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2010
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2011
+      }
+    ],
+    "poster": "/gLNfvdVOuwsTWMHXsrmYn07NIA2.jpg",
+    "providers": [
+      "Pluto TV"
+    ],
+    "status": "ended",
+    "title": "Fanboy & Chum Chum",
+    "tmdb_id": 18686
+  },
+  "tt1305826": {
+    "classind": "12",
+    "first_air_year": 2010,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2010
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2012
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2013
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2014
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2016
+      }
+    ],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Hora de Aventura",
+    "tmdb_id": 15260
+  },
+  "tt1307510": {
+    "classind": "L",
+    "first_air_year": 2008,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2011
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2012
+      }
+    ],
+    "poster": "/7LsJcmPIHmbpbO1NceqPPRbSfwL.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Chuggington",
+    "tmdb_id": 20407
+  },
+  "tt13135714": {
+    "classind": "L",
+    "first_air_year": 2020,
+    "honors": [
+      {
+        "body": "peabody-kids",
+        "prize": "Peabody Award",
+        "year": 2020
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2020
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2021
+      }
+    ],
+    "poster": "/t6tcFn0LiyKRqR76XwNfErK81cw.jpg",
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "providers_verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Sereno: O Panda Zen",
+    "tmdb_id": 111834
+  },
+  "tt13241650": {
+    "classind": "L",
+    "first_air_year": 2021,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2022
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Preschool",
+        "year": 2021
+      }
+    ],
+    "poster": "/vHoHuYdtCkQlj8UtqePjnvUZf80.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "returning",
+    "title": "Ada Batista, cientista",
+    "tmdb_id": 129604
+  },
+  "tt13292830": {
+    "classind": "L",
+    "first_air_year": 2022,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2023
+      }
+    ],
+    "poster": "/nDNUuNNoFaZFNjSwWCG5XwaOf9f.jpg",
+    "providers": [
+      "Cartoon Network Amazon Channel",
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Cartoon Network Amazon Channel",
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "status": "returning",
+    "title": "Batwheels",
+    "tmdb_id": 155780
+  },
+  "tt13303478": {
+    "classind": "L",
+    "first_air_year": 2022,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2022
+      }
+    ],
+    "poster": "/cXJ1m6f8KORhoIcrPSOYap56aAe.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Ursinhos em Curso",
+    "tmdb_id": 117030
+  },
+  "tt13351440": {
+    "classind": "L",
+    "first_air_year": 2021,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2022
+      }
+    ],
+    "poster": "/6BzkRAldoqpolMuAmNa9XnbMw83.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "canceled",
+    "title": "Ridley Jones: A Guardiã do Museu",
+    "tmdb_id": 127289
+  },
+  "tt13351446": {
+    "classind": "L",
+    "first_air_year": 2022,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2022
+      }
+    ],
+    "poster": "/o7NV5naNFB1kv0NZTJMKPQ4H0gl.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "returning",
+    "title": "Guardiões da Floresta",
+    "tmdb_id": 119847
+  },
+  "tt13433814": {
+    "classind": "L",
+    "first_air_year": 2023,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2023
+      }
+    ],
+    "poster": "/cWSPHOTFFf5hs77gamKeLDhxNvm.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "canceled",
+    "title": "O Meu Pai é um Caçador de Recompensas!",
+    "tmdb_id": 157221
+  },
+  "tt13624054": {
+    "classind": "L",
+    "first_air_year": 2021,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2021
+      }
+    ],
+    "poster": "/e5kT33XH2gX7xBFIK1uUJAvU5dj.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "A Vida de Dug",
+    "tmdb_id": 114501
+  },
+  "tt1396212": {
+    "classind": "L",
+    "first_air_year": 2015,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2018
+      }
+    ],
+    "poster": "/grFWAAeKAzJv0ofYNt8g2TcLwey.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Dinotrux",
+    "tmdb_id": 63350
+  },
+  "tt14014144": {
+    "classind": "L",
+    "first_air_year": 2023,
+    "honors": [
+      {
+        "body": "prix-jeunesse",
+        "prize": "Theme Prize",
+        "year": 2024
+      }
+    ],
+    "poster": "/9EuDaqFRui2nVqE4CixB7Umx9AO.jpg",
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video"
+    ],
+    "status": "ended",
+    "title": "Jane",
+    "tmdb_id": 118534
+  },
+  "tt14035218": {
+    "classind": "L",
+    "first_air_year": 2021,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2021
+      }
+    ],
+    "poster": "/oPpA8DMcMThacHlAo5az83WxwBr.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Waffles + Mochi",
+    "tmdb_id": 118439
+  },
+  "tt14075028": {
+    "classind": "L",
+    "first_air_year": 2023,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2024
+      }
+    ],
+    "poster": "/zrpQmt7Qtas0PkSfJOVzMMtzD96.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "O Pequeno Grande Mundo de Jéssica",
+    "tmdb_id": 203696
+  },
+  "tt14076044": {
+    "classind": "10",
+    "first_air_year": 2024,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2024
+      }
+    ],
+    "poster": "/nacwwHnoCz1MX9tIrFTnnNqLmax.jpg",
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "providers_verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "WondLa - A Trilogia",
+    "tmdb_id": 237853
+  },
+  "tt1413677": {
+    "classind": "L",
+    "first_air_year": 2010,
+    "honors": [
+      {
+        "body": "apca",
+        "prize": "APCA Infantil",
+        "year": 2010
+      }
+    ],
+    "poster": "/36O35c7L3fPKD1FQiQm5EmLzU4y.jpg",
+    "providers": [
+      "Box Brazil Play Amazon Channel"
+    ],
+    "providers_verified": [
+      "Box Brazil Play Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Meu AmigãoZão",
+    "tmdb_id": 46759
+  },
+  "tt1432142": {
+    "classind": "L",
+    "first_air_year": 2009,
+    "honors": [],
+    "lists": [
+      "brasil-canon"
+    ],
+    "poster": "/49yeoTcNmi57dJ3fof3nMAYq3fp.jpg",
+    "providers": [
+      "Amazon Prime Video",
+      "Looke",
+      "Looke Amazon Channel",
+      "TV Brasil Play"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video",
+      "Looke",
+      "Looke Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Peixonauta",
+    "tmdb_id": 106154
+  },
+  "tt14741708": {
+    "classind": "L",
+    "first_air_year": 2021,
+    "honors": [
+      {
+        "body": "quirino",
+        "prize": "Best Ibero-American Series",
+        "year": 2022
+      }
+    ],
+    "poster": "/l7joGj61QSDC2jsIOgnUVftoiu2.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Os Sustos Ocultos de Frankelda",
+    "tmdb_id": 137720
+  },
+  "tt14770480": {
+    "classind": "L",
+    "first_air_year": 2021,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2021
+      }
+    ],
+    "poster": "/31ZUoGdl3Fmf1xBCbAq4js0hSY3.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Lições de Cidadania dos EUA",
+    "tmdb_id": 126817
+  },
+  "tt15211330": {
+    "classind": "L",
+    "first_air_year": 2021,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2022
+      }
+    ],
+    "poster": "/1V7IYlTVyGmjwiEH9SvPZREzfom.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "returning",
+    "title": "Octonautas: Missão Planeta",
+    "tmdb_id": 132983
+  },
+  "tt1545214": {
+    "classind": "L",
+    "first_air_year": 2011,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2011
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2013
+      }
+    ],
+    "poster": "/rkq5Jt7boR5v65bDbELHz3DW7sv.jpg",
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Pluto TV"
+    ],
+    "providers_verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Kung Fu Panda: Lendas do Dragão Guerreiro",
+    "tmdb_id": 39898
+  },
+  "tt15527326": {
+    "classind": "L",
+    "first_air_year": 2022,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2023
+      }
+    ],
+    "poster": "/tFi3nx53Dfwa5YOd4J2VnIXpqBk.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "returning",
+    "title": "Mistérios Animais",
+    "tmdb_id": 195407
+  },
+  "tt15837206": {
+    "classind": "10",
+    "first_air_year": 2024,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2024
+      }
+    ],
+    "poster": "/3jiIJgCUT2btYJLASV11t9vxPn6.jpg",
+    "providers": [],
+    "status": "canceled",
+    "title": "Primos",
+    "tmdb_id": 204139
+  },
+  "tt1587718": {
+    "classind": "L",
+    "first_air_year": 1990,
+    "honors": [],
+    "lists": [
+      "brasil-canon"
+    ],
+    "poster": "/h7z2q3XaU3QzOWNqOmFWeyzuiRO.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Rá-Tim-Bum",
+    "tmdb_id": 101823
+  },
+  "tt16267464": {
+    "classind": "L",
+    "first_air_year": 2023,
+    "honors": [
+      {
+        "body": "prix-jeunesse",
+        "prize": "Youth Jury 11-15 Fiction",
+        "year": 2024
+      }
+    ],
+    "poster": "/9tdJdsVRsmUawkr0mo0qBpX8JQZ.jpg",
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel"
+    ],
+    "providers_verified": [
+      "Paramount Plus Apple TV channel"
+    ],
+    "status": "ended",
+    "title": "Crazy Fun Park",
+    "tmdb_id": 217446
+  },
+  "tt16432198": {
+    "classind": "10",
+    "first_air_year": 2022,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2022
+      },
+      {
+        "body": "prix-jeunesse",
+        "prize": "Theme Prize",
+        "year": 2022
+      }
+    ],
+    "poster": "/uVlojXidNz6CHpkEXuj0rt4ealz.jpg",
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "providers_verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "A Surda Absurda",
+    "tmdb_id": 153571
+  },
+  "tt16538364": {
+    "classind": "L",
+    "first_air_year": 2021,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2021
+      }
+    ],
+    "poster": "/o6Uom6mVkHJsghzMFuFA3W6Kc5l.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Shahid VIP"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Odo",
+    "tmdb_id": 156059
+  },
+  "tt1695360": {
+    "classind": "L",
+    "first_air_year": 2012,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2012
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2013
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2014
+      }
+    ],
+    "poster": "/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "providers_verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "A Lenda de Korra",
+    "tmdb_id": 33880
+  },
+  "tt1710177": {
+    "classind": "L",
+    "first_air_year": 2010,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Preschool",
+        "year": 2017
+      }
+    ],
+    "poster": "/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg",
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video"
+    ],
+    "status": "returning",
+    "title": "Octonautas",
+    "tmdb_id": 37472
+  },
+  "tt1710295": {
+    "classind": "L",
+    "first_air_year": 2012,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2016
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2017
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2012
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2013
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2014
+      }
+    ],
+    "poster": "/eeGWJaFkxX0vvOFFpNFXrh9QVxl.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Doutora Brinquedos",
+    "tmdb_id": 46262
+  },
+  "tt1710308": {
+    "classind": "10",
+    "first_air_year": 2010,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2010
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2013
+      }
+    ],
+    "poster": "/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Apenas um Show",
+    "tmdb_id": 31132
+  },
+  "tt1734135": {
+    "classind": "L",
+    "first_air_year": 2016,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2018
+      }
+    ],
+    "poster": "/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Caçadores de Trolls",
+    "tmdb_id": 68267
+  },
+  "tt1807859": {
+    "classind": "L",
+    "first_air_year": 2011,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2020
+      }
+    ],
+    "poster": "/7Nn1AZb6LJv0WedeK7o4yU6Aioh.jpg",
+    "providers": [
+      "Looke",
+      "Looke Amazon Channel"
+    ],
+    "providers_verified": [
+      "Looke",
+      "Looke Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Aventura com os Kratts",
+    "tmdb_id": 35094
+  },
+  "tt18214248": {
+    "classind": "L",
+    "first_air_year": 2022,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2022
+      }
+    ],
+    "poster": "/xKtjZTrJvQLqhVnkBjtsZUg4e1B.jpg",
+    "providers": [],
+    "status": "canceled",
+    "title": "Abominável e a Cidade Escondida",
+    "tmdb_id": 157433
+  },
+  "tt1833403": {
+    "classind": "L",
+    "first_air_year": 2011,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Preschool",
+        "year": 2011
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2012
+      }
+    ],
+    "poster": "/uet64gptwR7iDGc0laIRmYNtNH0.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "canceled",
+    "title": "Jake e os Piratas da Terra do Nunca",
+    "tmdb_id": 34891
+  },
+  "tt1865718": {
+    "classind": "L",
+    "first_air_year": 2012,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2013
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2014
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2015
+      }
+    ],
+    "poster": "/qwi3p6PzKfQZ4YXBzv3CP5pO2dE.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Gravity Falls: Um Verão de Mistérios",
+    "tmdb_id": 40075
+  },
+  "tt1870073": {
+    "classind": "L",
+    "first_air_year": 2011,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2012
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2013
+      }
+    ],
+    "poster": "/o5whvINhOsrOnDaaCHZ0XvT5T8P.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "A Hora do Justin",
+    "tmdb_id": 51795
+  },
+  "tt1877889": {
+    "classind": "10",
+    "first_air_year": 2012,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2016
+      }
+    ],
+    "poster": "/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
+    "providers": [
+      "Paramount+ Amazon Channel",
+      "Pluto TV"
+    ],
+    "providers_verified": [
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "As Tartarugas Ninjas",
+    "tmdb_id": 51817
+  },
+  "tt1942683": {
+    "classind": "L",
+    "first_air_year": 2011,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2011
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2012
+      }
+    ],
+    "poster": "/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "O Incrível Mundo de Gumball",
+    "tmdb_id": 37606
+  },
+  "tt19872854": {
+    "classind": "L",
+    "first_air_year": 2024,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2025
+      }
+    ],
+    "poster": "/unND3SModl42YqZuGIbU4cMnmss.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "returning",
+    "title": "Pré-escola: O Musical!",
+    "tmdb_id": 201480
+  },
+  "tt2014553": {
+    "classind": "L",
+    "first_air_year": 2012,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": "Youth Programming",
+        "year": 2016
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2017
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2018
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2019
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2020
+      }
+    ],
+    "poster": "/pUbHrEFTWegyhIxFmtpOpAQsbfT.jpg",
+    "providers": [
+      "Amazon Prime Video",
+      "Looke",
+      "Playkids Learning Amazon Channel"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video",
+      "Playkids Learning Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Daniel Tigre",
+    "tmdb_id": 40050
+  },
+  "tt20248376": {
+    "classind": "L",
+    "first_air_year": 2023,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2025
+      }
+    ],
+    "poster": "/cXLgFWoNSExBY7AgCkqjaMSj85i.jpg",
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "providers_verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Eva, a Coruja",
+    "tmdb_id": 205164
+  },
+  "tt2059031": {
+    "classind": "L",
+    "first_air_year": 2011,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2013
+      }
+    ],
+    "poster": "/qUNCnbJg4ahgfvCf1Nx7E4iZY2p.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Esquilo Intranquilo",
+    "tmdb_id": 38997
+  },
+  "tt2090152": {
+    "classind": "L",
+    "first_air_year": 2011,
+    "honors": [
+      {
+        "body": "apca",
+        "prize": "APCA Infantil",
+        "year": 2011
+      }
+    ],
+    "poster": "/qpxx79BdPO8nHCzhvaSHL6hXnh.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Julie e os Fantasmas",
+    "tmdb_id": 104617
+  },
+  "tt2136138": {
+    "classind": "L",
+    "first_air_year": 2013,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2016
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2018
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Preschool",
+        "year": 2013
+      }
+    ],
+    "poster": "/eZHmUO1OQRpVkAOdj9VwYCCyQew.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Princesinha Sofia",
+    "tmdb_id": 46928
+  },
+  "tt2139371": {
+    "classind": "10",
+    "first_air_year": 2012,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2015
+      }
+    ],
+    "poster": "/wtugHPxksnORftAs7EOGK3Oy0I5.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Transformers: Rescue Bots",
+    "tmdb_id": 38881
+  },
+  "tt2204472": {
+    "classind": "L",
+    "first_air_year": 2014,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2014
+      }
+    ],
+    "poster": "/99eiTWnMifGSFs888fznKVPKZOJ.jpg",
+    "providers": [
+      "Lionsgate+ Amazon Channel"
+    ],
+    "providers_verified": [
+      "Lionsgate+ Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Zack & Quack",
+    "tmdb_id": 64965
+  },
+  "tt22097692": {
+    "classind": "L",
+    "first_air_year": 2022,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2023
+      }
+    ],
+    "poster": "/ccMq0WNCvgq1GitFrBRbJ3BTzet.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "returning",
+    "title": "StoryBots: Hora da Resposta",
+    "tmdb_id": 213573
+  },
+  "tt2252938": {
+    "classind": "10",
+    "first_air_year": 2013,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2014
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2015
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2016
+      }
+    ],
+    "poster": "/ow88KmFUXMb6S4EKOWyTBy8ta7O.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Galáxia Wander",
+    "tmdb_id": 45013
+  },
+  "tt22750574": {
+    "classind": "10",
+    "first_air_year": 2022,
+    "honors": [
+      {
+        "body": "quirino",
+        "prize": null,
+        "year": 2024
+      }
+    ],
+    "poster": "/unxEXYHjehCBxORd8OM9FcAcfBK.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "returning",
+    "title": "O Menino Maluquinho",
+    "tmdb_id": 210834
+  },
+  "tt22804582": {
+    "classind": "L",
+    "first_air_year": 2022,
+    "honors": [
+      {
+        "body": "prix-jeunesse",
+        "prize": "7-10 Fiction",
+        "year": 2024
+      }
+    ],
+    "poster": "/nIJbFfgBvw3YPa2JY4xYtZ1Yotc.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Superheltskolen",
+    "tmdb_id": 274179
+  },
+  "tt2325846": {
+    "classind": "L",
+    "first_air_year": 2012,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2012
+      }
+    ],
+    "poster": "/gFhBIF8oXjpdVk1NbI4kP4l8LAe.jpg",
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video"
+    ],
+    "status": "ended",
+    "title": "Dragões: A Série",
+    "tmdb_id": 44305
+  },
+  "tt2329077": {
+    "classind": "12",
+    "first_air_year": 2013,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2013
+      }
+    ],
+    "poster": "/4BoJaShIuo6Mwpz6yrwc0ffBdwz.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "A Sombra do Batman",
+    "tmdb_id": 41676
+  },
+  "tt2402500": {
+    "classind": "L",
+    "first_air_year": 2013,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2016
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2017
+      }
+    ],
+    "poster": "/lLLoF9lYMsEq4jPBNczkrCwVjrR.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Peg + Gato",
+    "tmdb_id": 62694
+  },
+  "tt25515858": {
+    "classind": "L",
+    "first_air_year": 2023,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2023
+      }
+    ],
+    "poster": "/bJu8gM5eso8It2uPNbvGV7A95VN.jpg",
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "providers_verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Ilha das Formas",
+    "tmdb_id": 217658
+  },
+  "tt26747306": {
+    "classind": "L",
+    "first_air_year": 2023,
+    "honors": [
+      {
+        "body": "prix-jeunesse",
+        "prize": "11-15 Fiction",
+        "year": 2024
+      }
+    ],
+    "poster": "/n59SWxZeFrPwcYjK3krMHuEfFjh.jpg",
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "providers_verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "我的老板为何那样",
+    "tmdb_id": 219713
+  },
+  "tt27052740": {
+    "classind": "12",
+    "first_air_year": 2024,
+    "honors": [
+      {
+        "body": "prix-jeunesse",
+        "prize": "Children's Jury 7-10 Fiction",
+        "year": 2026
+      }
+    ],
+    "poster": "/tfaRjAqNpDj5zngrReu6YbebrzO.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Becoming Karl Lagerfeld",
+    "tmdb_id": 132503
+  },
+  "tt2720144": {
+    "classind": "L",
+    "first_air_year": 2013,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2013
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2014
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2015
+      }
+    ],
+    "poster": "/36MwBWUBwWa61ndbSXGqz7dHYqF.jpg",
+    "providers": [
+      "Pluto TV"
+    ],
+    "status": "ended",
+    "title": "Peter Rabbit",
+    "tmdb_id": 63893
+  },
+  "tt2758770": {
+    "classind": "L",
+    "first_air_year": 2015,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2015
+      }
+    ],
+    "poster": "/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Star vs. As Forças do Mal",
+    "tmdb_id": 61923
+  },
+  "tt2765302": {
+    "classind": "L",
+    "first_air_year": 1976,
+    "honors": [],
+    "lists": [
+      "brasil-canon"
+    ],
+    "poster": "/V57onWsHdZUMOao3uixaUBbO4o.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix",
+      "Playkids Learning Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix",
+      "Playkids Learning Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Turma da Mônica",
+    "tmdb_id": 67431
+  },
+  "tt2768802": {
+    "classind": "L",
+    "first_air_year": 2013,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2019
+      }
+    ],
+    "poster": "/aAJ5T2Ab28vbbP9s6wWqdtK3arQ.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Mickey Mouse",
+    "tmdb_id": 46879
+  },
+  "tt2769458": {
+    "classind": "L",
+    "first_air_year": 2013,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2015
+      }
+    ],
+    "poster": "/zKoVuDIkhFVjbhoGAi7vxUgrKRz.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "canceled",
+    "title": "A Xerife Callie no Oeste",
+    "tmdb_id": 61330
+  },
+  "tt2771780": {
+    "classind": "10",
+    "first_air_year": 2013,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2013
+      }
+    ],
+    "poster": "/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "status": "returning",
+    "title": "Os Jovens Titãs em Ação!",
+    "tmdb_id": 45140
+  },
+  "tt28069807": {
+    "classind": "L",
+    "first_air_year": 2024,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2024
+      }
+    ],
+    "poster": "/wJ1yJzicptseeCyCVYvk2Dz74b4.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "returning",
+    "title": "Disney Junior Ariel",
+    "tmdb_id": 228669
+  },
+  "tt28521741": {
+    "classind": "12",
+    "first_air_year": 2024,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2025
+      }
+    ],
+    "poster": "/o0ZlpvK0Ewd3iJYUyYPfwAAeR88.jpg",
+    "providers": [
+      "Netflix",
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "providers_verified": [
+      "Netflix",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "canceled",
+    "title": "Tartarugas Ninja: Histórias Mutantes",
+    "tmdb_id": 231394
+  },
+  "tt2869898": {
+    "classind": "L",
+    "first_air_year": 2013,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2015
+      }
+    ],
+    "poster": "/uFBWQcMe79V5xKWML8HX6dYRwG8.jpg",
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Pluto TV"
+    ],
+    "providers_verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Sanjay e Craig",
+    "tmdb_id": 61520
+  },
+  "tt29180190": {
+    "classind": "10",
+    "first_air_year": 2023,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2023
+      }
+    ],
+    "poster": "/sB0pjty0yMjCXJG0X2I8zu8fM57.jpg",
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "providers_verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Uma Maldição de Família",
+    "tmdb_id": 234800
+  },
+  "tt2948562": {
+    "classind": "L",
+    "first_air_year": 2013,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Preschool",
+        "year": 2014
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Preschool",
+        "year": 2015
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Preschool",
+        "year": 2016
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2018
+      }
+    ],
+    "poster": "/8MbsSjulW9HZHfLecV2S2dyzk77.jpg",
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video"
+    ],
+    "status": "ended",
+    "title": "Folha Mágica",
+    "tmdb_id": 65047
+  },
+  "tt29899148": {
+    "classind": "10",
+    "first_air_year": 2024,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2024
+      }
+    ],
+    "poster": "/c2Od0cY2IeayDj5osUxZSAD1QK.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Jurassic World: Teoria do Caos",
+    "tmdb_id": 237512
+  },
+  "tt3061046": {
+    "classind": "10",
+    "first_air_year": 2013,
+    "honors": [
+      {
+        "body": "peabody-kids",
+        "prize": "Peabody Award",
+        "year": 2018
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2015
+      }
+    ],
+    "poster": "/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Steven Universo",
+    "tmdb_id": 61175
+  },
+  "tt3061050": {
+    "classind": "L",
+    "first_air_year": 2014,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2015
+      }
+    ],
+    "poster": "/qZkAyOlDAxHtQreQE4ZzGfrSQl8.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "canceled",
+    "title": "Clarêncio, O Otimista",
+    "tmdb_id": 50035
+  },
+  "tt3121722": {
+    "classind": "L",
+    "first_air_year": 2013,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2015
+      }
+    ],
+    "poster": "/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+    "providers": [
+      "Netflix",
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Pluto TV"
+    ],
+    "providers_verified": [
+      "Netflix",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Patrulha Canina",
+    "tmdb_id": 57532
+  },
+  "tt3219170": {
+    "classind": "10",
+    "first_air_year": 2015,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2015
+      }
+    ],
+    "poster": "/8ZyogSmk6UFKz6Cz3VOo93QRuB4.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Harvey Beaks",
+    "tmdb_id": 62487
+  },
+  "tt33999695": {
+    "classind": "L",
+    "first_air_year": 2024,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2024
+      }
+    ],
+    "poster": "/hgugRSvdi2zH1buV68d3Yj13Jwu.jpg",
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "providers_verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Super Fofos - Aventura na Cidade",
+    "tmdb_id": 274382
+  },
+  "tt3514798": {
+    "classind": "L",
+    "first_air_year": 2014,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2014
+      }
+    ],
+    "poster": "/uESxx2M2fvFZ9jWcao3QEFgOHXx.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Wallykazam!",
+    "tmdb_id": 73489
+  },
+  "tt35323313": {
+    "classind": "10",
+    "first_air_year": 2025,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2025
+      }
+    ],
+    "poster": "/yKFFgGD9JCX7cXZerg2jXh1dMI7.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "My Melody & Kuromi",
+    "tmdb_id": 281512
+  },
+  "tt3559124": {
+    "classind": "L",
+    "first_air_year": 2014,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2019
+      }
+    ],
+    "poster": "/41EWXLXTZO4MLb2BL28mWZuydyq.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "O Show de Tom e Jerry",
+    "tmdb_id": 47480
+  },
+  "tt3590338": {
+    "classind": "L",
+    "first_air_year": 2015,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2016
+      }
+    ],
+    "poster": "/8ZYTNkpubnG8epqlJLjaWbbO30R.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Puffin Rock",
+    "tmdb_id": 69926
+  },
+  "tt36122656": {
+    "classind": "L",
+    "first_air_year": 2025,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2025
+      }
+    ],
+    "poster": "/jnrR6NqTxyNHARpth1glmA37vAo.jpg",
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "providers_verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Wylde Pak",
+    "tmdb_id": 286170
+  },
+  "tt36985473": {
+    "classind": "L",
+    "first_air_year": 2025,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2025
+      }
+    ],
+    "poster": "/wG6tRzXB8lTE03i7NaqwO04z5Oy.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "O Mundo Maravilhosamente Estranho de Gumball",
+    "tmdb_id": 291904
+  },
+  "tt3718778": {
+    "classind": "10",
+    "first_air_year": 2014,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2014
+      }
+    ],
+    "poster": "/m3lU8n7WxzMecxKZcqhq5y5ESy.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "O Segredo Além do Jardim",
+    "tmdb_id": 61617
+  },
+  "tt37202806": {
+    "classind": "L",
+    "first_air_year": 2025,
+    "honors": [
+      {
+        "body": "prix-jeunesse",
+        "prize": "Up to 6 Fiction",
+        "year": 2026
+      }
+    ],
+    "poster": "/YfnP6PwkiYw8o4dIAuROCcWFTk.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Lena's Farm",
+    "tmdb_id": 116552
+  },
+  "tt3900614": {
+    "classind": "L",
+    "first_air_year": 2014,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2016
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2017
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2018
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2019
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2020
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2021
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2022
+      }
+    ],
+    "poster": "/yRVaHKUbUF7e97po0fulgG4yM3h.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Esquadrão Bizarro",
+    "tmdb_id": 73549
+  },
+  "tt3952772": {
+    "classind": "L",
+    "first_air_year": 2017,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2017
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2019
+      }
+    ],
+    "poster": "/AsiXFOliQUKM6bOO4FfkGDAffko.jpg",
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video"
+    ],
+    "status": "ended",
+    "title": "Niko e a Espada da Luz",
+    "tmdb_id": 72898
+  },
+  "tt3952774": {
+    "classind": "L",
+    "first_air_year": 2016,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2016
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2017
+      }
+    ],
+    "poster": "/nepw7xPqA6oiwhyh5YfhU5byLzL.jpg",
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video"
+    ],
+    "status": "returning",
+    "title": "O Programa do Cheiroso e Sujinho",
+    "tmdb_id": 67459
+  },
+  "tt4148744": {
+    "classind": "L",
+    "first_air_year": 2015,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2018
+      }
+    ],
+    "poster": "/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg",
+    "providers": [
+      "Disney Plus",
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Disney Plus",
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "status": "returning",
+    "title": "PJ Masks: Heróis de Pijama",
+    "tmdb_id": 65417
+  },
+  "tt4291050": {
+    "classind": "L",
+    "first_air_year": 2014,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2018
+      }
+    ],
+    "poster": "/qh05P3y8t7ALIp1g19kdOv6Con6.jpg",
+    "providers": [
+      "Globoplay",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "Globoplay",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Hey Duggee",
+    "tmdb_id": 74280
+  },
+  "tt4549142": {
+    "classind": "L",
+    "first_air_year": 2016,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2017
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2018
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2016
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2019
+      }
+    ],
+    "poster": "/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Elena de Avalor",
+    "tmdb_id": 67175
+  },
+  "tt4566846": {
+    "classind": "L",
+    "first_air_year": 2012,
+    "honors": [
+      {
+        "body": "apca",
+        "prize": "APCA Infantil",
+        "year": 2016
+      }
+    ],
+    "lists": [
+      "brasil-canon"
+    ],
+    "poster": "/rrfp63IFXcQLXdR0xlFRwmt2F3h.jpg",
+    "providers": [
+      "Globoplay",
+      "Gloob Amazon Channel"
+    ],
+    "providers_verified": [
+      "Globoplay",
+      "Gloob Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "D.P.A. - Detetives do Prédio Azul",
+    "tmdb_id": 71171
+  },
+  "tt4677846": {
+    "classind": "L",
+    "first_air_year": 2015,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2017
+      }
+    ],
+    "poster": "/bYPm31BjQed8fqbly7BFPjsOjLH.jpg",
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video"
+    ],
+    "status": "ended",
+    "title": "Perdidos em Oz",
+    "tmdb_id": 63054
+  },
+  "tt4834206": {
+    "classind": "12",
+    "first_air_year": 2017,
+    "honors": [
+      {
+        "body": "peabody-kids",
+        "prize": "Peabody Award",
+        "year": 2017
+      }
+    ],
+    "poster": "/qg7WXAatXyQq6zO3SnWnRJEayeZ.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Lemony Snicket: Desventuras em Série",
+    "tmdb_id": 65294
+  },
+  "tt4839610": {
+    "classind": "L",
+    "first_air_year": 2015,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2017
+      }
+    ],
+    "poster": "/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Ursos Sem Curso",
+    "tmdb_id": 63401
+  },
+  "tt4902964": {
+    "classind": "L",
+    "first_air_year": 2017,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2017
+      }
+    ],
+    "poster": "/s12Z2uGrvjj5sA7LsBStTtfTYjC.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "As Enroladas Aventuras da Rapunzel",
+    "tmdb_id": 70047
+  },
+  "tt4947580": {
+    "classind": "L",
+    "first_air_year": 2015,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2016
+      }
+    ],
+    "poster": "/fNjiDb37HydqazzGpriSfFaIKlv.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Natugato",
+    "tmdb_id": 68046
+  },
+  "tt5056360": {
+    "classind": "L",
+    "first_air_year": 2015,
+    "honors": [
+      {
+        "body": "apca",
+        "prize": null,
+        "year": 2016
+      }
+    ],
+    "poster": "/nZJcJJ8ZSItxZZOb70mKVXs0TyX.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Cúmplices de um Resgate",
+    "tmdb_id": 64146
+  },
+  "tt5183980": {
+    "classind": "L",
+    "first_air_year": 2015,
+    "honors": [],
+    "lists": [
+      "brasil-canon"
+    ],
+    "poster": "/i4dUVgo7MhJ9rB4EnbDxDMpq7X5.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Que Monstro Te Mordeu?",
+    "tmdb_id": 201996
+  },
+  "tt5339440": {
+    "classind": "12",
+    "first_air_year": 2017,
+    "honors": [],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/yiQcmPm6pTYyAAp3Q9Ge2xMkf8b.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "canceled",
+    "title": "Um Dia de Cada Vez",
+    "tmdb_id": 69017
+  },
+  "tt5580664": {
+    "classind": "10",
+    "first_air_year": 2016,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2016
+      }
+    ],
+    "poster": "/yWAGNuPuUWJT9gIQmGdZiTGJWzh.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Voltron: O Defensor Lendario",
+    "tmdb_id": 66558
+  },
+  "tt5592146": {
+    "classind": "10",
+    "first_air_year": 2016,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": "Youth Programming",
+        "year": 2017
+      }
+    ],
+    "poster": "/7EHM9vaAWBBWgBJnQapYKjGIVHt.jpg",
+    "providers": [
+      "Plex Channel",
+      "Plex Player",
+      "Pluto TV"
+    ],
+    "status": "canceled",
+    "title": "Speechless",
+    "tmdb_id": 67040
+  },
+  "tt5615874": {
+    "classind": "L",
+    "first_air_year": 2018,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2018
+      }
+    ],
+    "poster": "/zxNXwnC70N9R6Z45fyZrNrukl4T.jpg",
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video"
+    ],
+    "status": "ended",
+    "title": "Um Pouco Grande Demais",
+    "tmdb_id": 67657
+  },
+  "tt5846856": {
+    "classind": "L",
+    "first_air_year": 2016,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2016
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Preschool",
+        "year": 2018
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Preschool",
+        "year": 2019
+      }
+    ],
+    "poster": "/6IY8bmJcUGmgcB9ERnx8hLw7Qz5.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Pergunte aos StoryBots",
+    "tmdb_id": 70437
+  },
+  "tt6337766": {
+    "classind": "L",
+    "first_air_year": 2018,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2018
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2019
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2020
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2021
+      }
+    ],
+    "poster": "/mKO39v4anUjh73s9NIIRp8HKlqm.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Muppet Babies",
+    "tmdb_id": 77410
+  },
+  "tt6385540": {
+    "classind": "L",
+    "first_air_year": 2018,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2018
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2020
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2023
+      }
+    ],
+    "poster": "/giWufGBC7uxrmK9ZESdk9D1cyGm.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Hilda",
+    "tmdb_id": 82456
+  },
+  "tt6512096": {
+    "classind": "L",
+    "first_air_year": 2013,
+    "honors": [
+      {
+        "body": "apca",
+        "prize": "APCA Infantil",
+        "year": 2013
+      }
+    ],
+    "lists": [
+      "brasil-canon"
+    ],
+    "poster": "/ldtSJdm8zALPs3cguxrHDk51mAI.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Historietas Assombradas (Para Crianças Malcriadas)",
+    "tmdb_id": 67416
+  },
+  "tt6574360": {
+    "classind": "L",
+    "first_air_year": 2014,
+    "honors": [
+      {
+        "body": "quirino",
+        "prize": "Best Ibero-American Series",
+        "year": 2019
+      },
+      {
+        "body": "quirino",
+        "prize": "Best Ibero-American Series",
+        "year": 2025
+      },
+      {
+        "body": "apca",
+        "prize": null,
+        "year": 2016
+      }
+    ],
+    "lists": [
+      "brasil-canon"
+    ],
+    "poster": "/3nwQQE7WlIfZg5VDLi5FLA6sGOU.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Irmão do Jorel",
+    "tmdb_id": 74606
+  },
+  "tt6591468": {
+    "classind": "10",
+    "first_air_year": 2017,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2017
+      }
+    ],
+    "poster": "/jEtXiQqeNHR0RB4EowR2U3ADi3L.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "canceled",
+    "title": "Buddy Thunderstruck",
+    "tmdb_id": 70454
+  },
+  "tt6601082": {
+    "classind": "10",
+    "first_air_year": 2018,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2018
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2019
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2020
+      }
+    ],
+    "poster": "/4LZxcn6nWG1yWBKG0RD98HY13b4.jpg",
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Pluto TV"
+    ],
+    "providers_verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "canceled",
+    "title": "O Despertar das Tartarugas Ninja",
+    "tmdb_id": 81026
+  },
+  "tt6921882": {
+    "classind": "L",
+    "first_air_year": 2019,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2022
+      }
+    ],
+    "poster": "/o5bRtFi4aSsuaHfWD6uUjzcxbjn.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Muumilaakso",
+    "tmdb_id": 70617
+  },
+  "tt7042146": {
+    "classind": "L",
+    "first_air_year": 2019,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2019
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2020
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2021
+      }
+    ],
+    "poster": "/jpis9X6awQ1X5MBm9eHRUc0N0pu.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Carmen Sandiego",
+    "tmdb_id": 74728
+  },
+  "tt7200884": {
+    "classind": "L",
+    "first_air_year": 2018,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2019
+      }
+    ],
+    "poster": "/z39qheqospEq6Zo1ds8d1UEJgIZ.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Vamos, Luna!",
+    "tmdb_id": 96501
+  },
+  "tt7289664": {
+    "classind": "L",
+    "first_air_year": 2015,
+    "honors": [
+      {
+        "body": "quirino",
+        "prize": null,
+        "year": 2018
+      },
+      {
+        "body": "quirino",
+        "prize": null,
+        "year": 2019
+      }
+    ],
+    "poster": "/rUmoyR5Yxt8kmqkNncmRGO44t0Y.jpg",
+    "providers": [
+      "Globoplay"
+    ],
+    "providers_verified": [
+      "Globoplay"
+    ],
+    "status": "ended",
+    "title": "Porto Papel",
+    "tmdb_id": 77432
+  },
+  "tt7678620": {
+    "classind": "L",
+    "first_air_year": 2018,
+    "honors": [
+      {
+        "body": "peabody-kids",
+        "prize": "Peabody Award",
+        "year": 2023
+      },
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2021
+      },
+      {
+        "body": "prix-jeunesse",
+        "prize": "Up to 6 Fiction (episode: Sleepytime)",
+        "year": 2022
+      }
+    ],
+    "lists": [
+      "csm-50"
+    ],
+    "poster": "/9p4pNoGcuyCfHcGWKNrTopqMWtq.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "returning",
+    "title": "Bluey",
+    "tmdb_id": 82728
+  },
+  "tt7736544": {
+    "classind": "L",
+    "first_air_year": 2018,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2019
+      }
+    ],
+    "poster": "/eWoplw8QJhSGDnhyYCrs9OugdTj.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Os 3 Lá Embaixo: Contos da Arcadia",
+    "tmdb_id": 84154
+  },
+  "tt7745956": {
+    "classind": "L",
+    "first_air_year": 2018,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2020
+      }
+    ],
+    "poster": "/y6YLtlnV5FGh3Mhs5SUc80IQSV5.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "She-Ra e as Princesas do Poder",
+    "tmdb_id": 79732
+  },
+  "tt7772600": {
+    "classind": "L",
+    "first_air_year": 2019,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Preschool",
+        "year": 2020
+      }
+    ],
+    "poster": "/8kueFMhO5zvrXgBtM8mdEOJRV2D.jpg",
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "providers_verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "As Aventuras de Paddington",
+    "tmdb_id": 96650
+  },
+  "tt8041658": {
+    "classind": "L",
+    "first_air_year": 2023,
+    "honors": [
+      {
+        "body": "peabody-kids",
+        "prize": "Peabody Award",
+        "year": 2025
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2023
+      },
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2024
+      }
+    ],
+    "poster": "/1oFkjiF9fT2asKWjRiJtlbhu3hn.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Garota da Lua e o Dinossauro Demônio",
+    "tmdb_id": 92788
+  },
+  "tt8050740": {
+    "classind": "L",
+    "first_air_year": 2019,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2021
+      }
+    ],
+    "poster": "/bFCgv9iWZECWSDxNQYc9soqvwjx.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Amphibia",
+    "tmdb_id": 85349
+  },
+  "tt8050756": {
+    "classind": "L",
+    "first_air_year": 2020,
+    "honors": [
+      {
+        "body": "peabody-kids",
+        "prize": "Peabody Award",
+        "year": 2020
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2022
+      }
+    ],
+    "poster": "/cZLxKTslrf9gzRomVy8BhaYjg7n.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "A Casa Coruja",
+    "tmdb_id": 92685
+  },
+  "tt8146766": {
+    "classind": "L",
+    "first_air_year": 2019,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2020
+      }
+    ],
+    "poster": "/4EmKaihMUGP8hyEvvTApQj19e1c.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Victor e Valentino",
+    "tmdb_id": 88786
+  },
+  "tt8271176": {
+    "classind": "L",
+    "first_air_year": 2018,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2018
+      }
+    ],
+    "poster": "/x4yvmIVuXxYKfTlgRtSJnGC1Izs.jpg",
+    "providers": [],
+    "status": "ended",
+    "title": "Kung Fu Panda: As Patas do Destino",
+    "tmdb_id": 82747
+  },
+  "tt8651594": {
+    "classind": "L",
+    "first_air_year": 2019,
+    "honors": [
+      {
+        "body": "peabody-kids",
+        "prize": "Peabody Award",
+        "year": 2019
+      },
+      {
+        "body": "tca-youth",
+        "prize": "Youth Programming",
+        "year": 2020
+      }
+    ],
+    "poster": "/8HdIoG6HHJJaf8M3SAVQrGgCvHp.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Molly of Denali",
+    "tmdb_id": 93548
+  },
+  "tt8690518": {
+    "classind": "10",
+    "first_air_year": 2020,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": "Youth Programming",
+        "year": 2021
+      },
+      {
+        "body": "tca-youth",
+        "prize": "Youth Programming",
+        "year": 2022
+      }
+    ],
+    "poster": "/afyG6cPl0jeV3SwNwyZxRG0Q9wd.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "canceled",
+    "title": "O Clube das Babás",
+    "tmdb_id": 100412
+  },
+  "tt8747140": {
+    "classind": "L",
+    "first_air_year": 2019,
+    "honors": [
+      {
+        "body": "prix-jeunesse",
+        "prize": "7-10 Fiction",
+        "year": 2020
+      }
+    ],
+    "poster": "/qirUu5aem4B4KJtqThIjFqGlbrT.jpg",
+    "providers": [
+      "Oldflix"
+    ],
+    "status": "returning",
+    "title": "Hardball",
+    "tmdb_id": 120936
+  },
+  "tt8787772": {
+    "classind": "10",
+    "first_air_year": 2021,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": "Annie — Children",
+        "year": 2021
+      }
+    ],
+    "poster": "/zUBixNeHU0cbSUH7JMktl9OMEMV.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "ended",
+    "title": "Maya e os 3 Guerreiros",
+    "tmdb_id": 132141
+  },
+  "tt9165438": {
+    "classind": "L",
+    "first_air_year": 2021,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2022
+      },
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2024
+      }
+    ],
+    "poster": "/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "returning",
+    "title": "A Casa Mágica da Gabby",
+    "tmdb_id": 111474
+  },
+  "tt9184592": {
+    "classind": "10",
+    "first_air_year": 2019,
+    "honors": [
+      {
+        "body": "prix-jeunesse",
+        "prize": "Youth Jury 11-15 Fiction",
+        "year": 2020
+      }
+    ],
+    "poster": "/dlDPN9MMMc1NQpx5EA6HIUFnRVy.jpg",
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
+    "status": "canceled",
+    "title": "Desplugados",
+    "tmdb_id": 94625
+  },
+  "tt9357248": {
+    "classind": "L",
+    "first_air_year": 2020,
+    "honors": [
+      {
+        "body": "tca-youth",
+        "prize": null,
+        "year": 2022
+      }
+    ],
+    "poster": "/AjZuTNfz82ogbabj8NsVkWkFmyL.jpg",
+    "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
+      "Disney Plus"
+    ],
+    "status": "ended",
+    "title": "Mira, a Detetive do Reino",
+    "tmdb_id": 100975
+  },
+  "tt9560964": {
+    "classind": "L",
+    "first_air_year": 2018,
+    "honors": [
+      {
+        "body": "quirino",
+        "prize": "Best Ibero-American Series",
+        "year": 2020
+      }
+    ],
+    "poster": "/u2JJLbvd1s4JWRNAs6mgdvTB1jR.jpg",
+    "providers": [
+      "Globoplay",
+      "Playkids Learning Amazon Channel"
+    ],
+    "providers_verified": [
+      "Globoplay",
+      "Playkids Learning Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Tainá e os Guardiões da Amazônia",
+    "tmdb_id": 101332
+  },
+  "tt9800520": {
+    "classind": "L",
+    "first_air_year": 2019,
+    "honors": [
+      {
+        "body": "prix-jeunesse",
+        "prize": "11-15 Fiction",
+        "year": 2020
+      }
+    ],
+    "poster": "/hfr697VjaFFI6WDBDglu073wMcj.jpg",
+    "providers": [
+      "Netflix",
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "providers_verified": [
+      "Netflix",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "status": "returning",
+    "title": "Kongen av Gulset",
+    "tmdb_id": 113952
+  },
+  "tt9860690": {
+    "classind": "L",
+    "first_air_year": 2023,
+    "honors": [
+      {
+        "body": "annie-tv",
+        "prize": null,
+        "year": 2024
+      }
+    ],
+    "poster": "/fkkBQsWgRX7OFxzV0jtCM88a0Xq.jpg",
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "providers_verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "status": "ended",
+    "title": "Gremlins: Segredos dos Mogwai",
+    "tmdb_id": 90808
+  }
+}

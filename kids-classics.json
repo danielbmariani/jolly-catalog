@@ -1,0 +1,2332 @@
+{
+  "_lists": {
+    "bfi-14": {
+      "name": "BFI — 50 até os 14",
+      "ranked": false
+    },
+    "csm-50": {
+      "name": "Common Sense — 50 até os 12",
+      "ranked": false
+    },
+    "pixar": {
+      "name": "Diretores da Pixar recomendam",
+      "ranked": false
+    },
+    "timeout-familia": {
+      "name": "Time Out — família",
+      "ranked": true
+    }
+  },
+  "tt0000417": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/9o0v5LLFk51nyTBHZSre6OB37n2.jpg",
+    "title": "A Trip to the Moon",
+    "title_ptbr": "Viagem à Lua",
+    "tmdb_id": 775,
+    "year": 1902
+  },
+  "tt0012349": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/drgMcyTsySQBnUPGaBThCHGdlWT.jpg",
+    "title": "The Kid",
+    "title_ptbr": "O Garoto",
+    "tmdb_id": 10098,
+    "year": 1921
+  },
+  "tt0017925": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/4NmV1Wei4LxT2lpjViCAScgCZLq.jpg",
+    "title": "The General",
+    "title_ptbr": "A General",
+    "tmdb_id": 961,
+    "year": 1926
+  },
+  "tt0024216": {
+    "age": {
+      "classind": "10",
+      "source": "DE"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
+    "title": "King Kong",
+    "tmdb_id": 244,
+    "year": 1933
+  },
+  "tt0027977": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/AthaPakkuCLROdKxtRbKWclkDBK.jpg",
+    "title": "Modern Times",
+    "title_ptbr": "Tempos Modernos",
+    "tmdb_id": 3082,
+    "year": 1936
+  },
+  "tt0029583": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+    "title": "Snow White and the Seven Dwarfs",
+    "title_ptbr": "Branca de Neve e os Sete Anões",
+    "tmdb_id": 408,
+    "year": 1938
+  },
+  "tt0029843": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/c7LX3GMf9uXQTgVm3uxpm7E6Woc.jpg",
+    "title": "The Adventures of Robin Hood",
+    "title_ptbr": "As Aventuras de Robin Hood",
+    "tmdb_id": 10907,
+    "year": 1938
+  },
+  "tt0032138": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 9
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+    "title": "The Wizard of Oz",
+    "title_ptbr": "O Mágico de Oz",
+    "tmdb_id": 630,
+    "year": 1939
+  },
+  "tt0034492": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg",
+    "title": "Bambi",
+    "tmdb_id": 3170,
+    "year": 1942
+  },
+  "tt0036098": {
+    "age": {
+      "classind": "L",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/boMs7uR8yJEnHKSvzkszS6eenmz.jpg",
+    "title": "Lassie Come Home",
+    "title_ptbr": "Lassie: A Força do Coração",
+    "tmdb_id": 2202,
+    "year": 1943
+  },
+  "tt0038650": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+    "title": "It's a Wonderful Life",
+    "title_ptbr": "A Felicidade Não Se Compra",
+    "tmdb_id": 1585,
+    "year": 1946
+  },
+  "tt0038718": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/1Mu98243emXAKy8iZfymUJDgTpS.jpg",
+    "title": "Make Mine Music",
+    "title_ptbr": "Música, Maestro!",
+    "tmdb_id": 20343,
+    "year": 1946
+  },
+  "tt0039628": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/vehuIm3y6BeMI7mYjxzaA1H8M0k.jpg",
+    "title": "Miracle on 34th Street",
+    "title_ptbr": "De Ilusão Também se Vive",
+    "tmdb_id": 11881,
+    "year": 1947
+  },
+  "tt0040522": {
+    "age": {
+      "classind": "12",
+      "source": "DE"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/iPdVqIpmR3bRvOQJPrn4pr2KR3q.jpg",
+    "title": "Bicycle Thieves",
+    "title_ptbr": "Ladrões de Bicicleta",
+    "tmdb_id": 5156,
+    "year": 1948
+  },
+  "tt0040662": {
+    "age": {
+      "classind": "12",
+      "source": "DE"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/wkMdDqXI58MuW99wi9kotC8kCVM.jpg",
+    "title": "Oliver Twist",
+    "tmdb_id": 10949,
+    "year": 1948
+  },
+  "tt0043274": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 32
+      }
+    ],
+    "poster": "/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
+    "title": "Alice in Wonderland",
+    "title_ptbr": "Alice no País das Maravilhas",
+    "tmdb_id": 12092,
+    "year": 1951
+  },
+  "tt0045152": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/671EPwBsHGHBk0cdOeZqmOK0XB3.jpg",
+    "title": "Singin' in the Rain",
+    "title_ptbr": "Cantando na Chuva",
+    "tmdb_id": 872,
+    "year": 1952
+  },
+  "tt0048424": {
+    "age": {
+      "classind": "14",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg",
+    "title": "The Night of the Hunter",
+    "title_ptbr": "O Mensageiro do Diabo",
+    "tmdb_id": 3112,
+    "year": 1955
+  },
+  "tt0048473": {
+    "age": {
+      "classind": "12",
+      "source": "DE"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+    "title": "Pather Panchali",
+    "title_ptbr": "A Canção da Estrada",
+    "tmdb_id": 5801,
+    "year": 1955
+  },
+  "tt0053198": {
+    "age": {
+      "classind": "12",
+      "source": "DE"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+    "title": "The 400 Blows",
+    "title_ptbr": "Os Incompreendidos",
+    "tmdb_id": 147,
+    "year": 1959
+  },
+  "tt0053291": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+    "title": "Some Like It Hot",
+    "title_ptbr": "Quanto Mais Quente Melhor",
+    "tmdb_id": 239,
+    "year": 1959
+  },
+  "tt0056592": {
+    "age": {
+      "classind": "12",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/pKUaZNOb2FDdzSz7kWyAuBMhA8I.jpg",
+    "title": "To Kill a Mockingbird",
+    "title_ptbr": "O Sol é Para Todos",
+    "tmdb_id": 595,
+    "year": 1962
+  },
+  "tt0057197": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/xHVxIgqD5CxlOI5GHxvVSt5Zh5Y.jpg",
+    "title": "Jason and the Argonauts",
+    "title_ptbr": "Jasão e o Velo de Ouro",
+    "tmdb_id": 11533,
+    "year": 1963
+  },
+  "tt0058331": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 23
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/o4Wsby4ydIXhWmtmfvb451D5Np1.jpg",
+    "title": "Mary Poppins",
+    "tmdb_id": 433,
+    "year": 1964
+  },
+  "tt0059742": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 11
+      }
+    ],
+    "poster": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+    "title": "The Sound of Music",
+    "title_ptbr": "A Noviça Rebelde",
+    "tmdb_id": 15121,
+    "year": 1965
+  },
+  "tt0061852": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 33
+      }
+    ],
+    "poster": "/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+    "title": "The Jungle Book",
+    "title_ptbr": "Mogli: O Menino Lobo",
+    "tmdb_id": 9325,
+    "year": 1967
+  },
+  "tt0062136": {
+    "age": {
+      "classind": "12",
+      "source": "DE"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/kQOrS0DLUXYsqPMedM2G6NJcJBq.jpg",
+    "title": "PlayTime",
+    "title_ptbr": "Playtime - Tempo de Diversão",
+    "tmdb_id": 10227,
+    "year": 1967
+  },
+  "tt0064541": {
+    "age": {
+      "classind": "14",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/r1FMq75irhsQBVGjXhPU4xA9SDo.jpg",
+    "title": "Kes",
+    "tmdb_id": 13384,
+    "year": 1970
+  },
+  "tt0066279": {
+    "age": {
+      "classind": "L",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/kusEIHfdngzcypY36yjWJVWMShj.jpg",
+    "title": "The Railway Children",
+    "title_ptbr": "Quando o Coração Bate Mais Forte",
+    "tmdb_id": 37662,
+    "year": 1970
+  },
+  "tt0067959": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/24vooYt5StgtgcQObVr1GHuM5gy.jpg",
+    "title": "Walkabout",
+    "title_ptbr": "A Longa Caminhada",
+    "tmdb_id": 36040,
+    "year": 1971
+  },
+  "tt0067992": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 46
+      }
+    ],
+    "poster": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+    "title": "Willy Wonka & the Chocolate Factory",
+    "title_ptbr": "A Fantástica Fábrica de Chocolate",
+    "tmdb_id": 252,
+    "year": 1971
+  },
+  "tt0070016": {
+    "age": {
+      "classind": "L",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/eLq5bed09bkNVjUfknlbSil2cfR.jpg",
+    "title": "Charlotte's Web",
+    "title_ptbr": "A Menina e o Porquinho",
+    "tmdb_id": 15171,
+    "year": 1973
+  },
+  "tt0076759": {
+    "age": {
+      "classind": "10",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 1
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/fai0rspsNeJCS69wHNjOdWxcI7P.jpg",
+    "title": "Star Wars",
+    "title_ptbr": "Guerra nas Estrelas",
+    "tmdb_id": 11,
+    "year": 1977
+  },
+  "tt0078346": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+    "title": "Superman",
+    "title_ptbr": "Superman: O Filme",
+    "tmdb_id": 1924,
+    "year": 1978
+  },
+  "tt0079588": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 40
+      }
+    ],
+    "poster": "/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
+    "title": "The Muppet Movie",
+    "title_ptbr": "Muppets: O Filme",
+    "tmdb_id": 11176,
+    "year": 1979
+  },
+  "tt0082971": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+    "title": "Raiders of the Lost Ark",
+    "title_ptbr": "Indiana Jones e os Caçadores da Arca Perdida",
+    "tmdb_id": 85,
+    "year": 1981
+  },
+  "tt0083564": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 34
+      }
+    ],
+    "poster": "/xopqD99S1GqQOG8UAeSElsX9MeP.jpg",
+    "title": "Annie",
+    "tmdb_id": 15739,
+    "year": 1982
+  },
+  "tt0083866": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 4
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+    "title": "E.T. the Extra-Terrestrial",
+    "title_ptbr": "E.T.: O Extraterrestre",
+    "tmdb_id": 601,
+    "year": 1982
+  },
+  "tt0085334": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 16
+      }
+    ],
+    "poster": "/34nSHYqmb7222tiqiuKqKJmZiQa.jpg",
+    "title": "A Christmas Story",
+    "title_ptbr": "Uma História de Natal",
+    "tmdb_id": 850,
+    "year": 1983
+  },
+  "tt0086066": {
+    "age": {
+      "classind": "14",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/l9os0HcXY8BOkvUWAx4rvby3j6L.jpg",
+    "title": "The Outsiders",
+    "title_ptbr": "Vidas Sem Rumo",
+    "tmdb_id": 227,
+    "year": 1983
+  },
+  "tt0087538": {
+    "age": {
+      "classind": "10",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 20
+      }
+    ],
+    "poster": "/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
+    "title": "The Karate Kid",
+    "title_ptbr": "Karatê Kid: A Hora da Verdade",
+    "tmdb_id": 1885,
+    "year": 1984
+  },
+  "tt0088727": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/z1owlDzKO3DQpFKNFBnuQlPF891.jpg",
+    "title": "Anne of Green Gables",
+    "title_ptbr": "Os Amores de Anne",
+    "tmdb_id": 17663,
+    "year": 1985
+  },
+  "tt0088763": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 44
+      }
+    ],
+    "poster": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "title": "Back to the Future",
+    "title_ptbr": "De Volta para o Futuro",
+    "tmdb_id": 105,
+    "year": 1985
+  },
+  "tt0089218": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 6
+      }
+    ],
+    "poster": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+    "title": "The Goonies",
+    "title_ptbr": "Os Goonies",
+    "tmdb_id": 9340,
+    "year": 1985
+  },
+  "tt0089606": {
+    "age": {
+      "classind": "12",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/eVg9IsX2HtR1BNYH0UAhF4JPHi7.jpg",
+    "title": "My Life as a Dog",
+    "title_ptbr": "Minha Vida de Cachorro",
+    "tmdb_id": 8816,
+    "year": 1985
+  },
+  "tt0091369": {
+    "age": {
+      "classind": "12",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 47
+      }
+    ],
+    "poster": "/pejayhTVBEL4w8YKSfrhOjjWVlH.jpg",
+    "title": "Labyrinth",
+    "title_ptbr": "Labirinto: A Magia do Tempo",
+    "tmdb_id": 13597,
+    "year": 1986
+  },
+  "tt0092593": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/lXP90Vx7OcviBfbbokcaG6zVnPG.jpg",
+    "title": "Au Revoir les Enfants",
+    "title_ptbr": "Adeus, Meninos",
+    "tmdb_id": 1786,
+    "year": 1987
+  },
+  "tt0093342": {
+    "age": {
+      "classind": "14",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/lrrtMVv2X8PNO7UA0Ce0gTtfuC8.jpg",
+    "title": "Where Is The Friend's House?",
+    "title_ptbr": "Onde Fica a Casa do Meu Amigo?",
+    "tmdb_id": 49964,
+    "year": 1987
+  },
+  "tt0093779": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 18
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+    "title": "The Princess Bride",
+    "title_ptbr": "A Princesa Prometida",
+    "tmdb_id": 2493,
+    "year": 1987
+  },
+  "tt0095489": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/7phV1ETZnQrLsEeuk4hNeceEl25.jpg",
+    "title": "The Land Before Time",
+    "title_ptbr": "Em Busca do Vale Encantado",
+    "tmdb_id": 12144,
+    "year": 1988
+  },
+  "tt0096283": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "pixar",
+        "rank": null
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+    "title": "My Neighbor Totoro",
+    "title_ptbr": "Meu Amigo Totoro",
+    "tmdb_id": 8392,
+    "year": 1988
+  },
+  "tt0097757": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+    "title": "The Little Mermaid",
+    "title_ptbr": "A Pequena Sereia",
+    "tmdb_id": 10144,
+    "year": 1989
+  },
+  "tt0099487": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+    "title": "Edward Scissorhands",
+    "title_ptbr": "Edward Mãos de Tesoura",
+    "tmdb_id": 162,
+    "year": 1990
+  },
+  "tt0099785": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 49
+      }
+    ],
+    "poster": "/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+    "title": "Home Alone",
+    "title_ptbr": "Esqueceram de Mim",
+    "tmdb_id": 771,
+    "year": 1990
+  },
+  "tt0101414": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+    "title": "Beauty and the Beast",
+    "title_ptbr": "A Bela e a Fera",
+    "tmdb_id": 10020,
+    "year": 1991
+  },
+  "tt0104361": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/h5e3r12VwfUotN36fBr1DNeCD4n.jpg",
+    "title": "A Grand Day Out",
+    "title_ptbr": "Dia de Folga com Wallace e Gromit",
+    "tmdb_id": 530,
+    "year": 1990
+  },
+  "tt0104694": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/f9BtX6wYOwJUyfUr4vyeT3COz6m.jpg",
+    "title": "A League of Their Own",
+    "title_ptbr": "Uma Equipe Muito Especial",
+    "tmdb_id": 11287,
+    "year": 1992
+  },
+  "tt0107131": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/el6dJEpK97OJRQiQhuiSGk2jkV5.jpg",
+    "title": "Homeward Bound: The Incredible Journey",
+    "title_ptbr": "A Incrível Jornada",
+    "tmdb_id": 6878,
+    "year": 1993
+  },
+  "tt0107614": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 26
+      }
+    ],
+    "poster": "/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
+    "title": "Mrs. Doubtfire",
+    "title_ptbr": "Uma Babá Quase Perfeita",
+    "tmdb_id": 788,
+    "year": 1993
+  },
+  "tt0107688": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 24
+      }
+    ],
+    "poster": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+    "title": "The Nightmare Before Christmas",
+    "title_ptbr": "O Estranho Mundo de Jack",
+    "tmdb_id": 9479,
+    "year": 1993
+  },
+  "tt0108037": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 27
+      }
+    ],
+    "poster": "/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+    "title": "The Sandlot",
+    "title_ptbr": "Se Brincar o Bicho Morde",
+    "tmdb_id": 11528,
+    "year": 1993
+  },
+  "tt0108071": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/zf6h5dJ7wVG7LqMO9dhHGHVejzj.jpg",
+    "title": "The Secret Garden",
+    "title_ptbr": "O Jardim Secreto",
+    "tmdb_id": 11236,
+    "year": 1993
+  },
+  "tt0108598": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/mV8SDTjkxrDxu0a0egvFz1lRPU7.jpg",
+    "title": "The Wrong Trousers",
+    "title_ptbr": "Wallace & Gromit: As Calças Erradas",
+    "tmdb_id": 531,
+    "year": 1993
+  },
+  "tt0110357": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 2
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "title": "The Lion King",
+    "title_ptbr": "O Rei Leão",
+    "tmdb_id": 8587,
+    "year": 1994
+  },
+  "tt0112431": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg",
+    "title": "Babe",
+    "title_ptbr": "Babe, o Porquinho Atrapalhado",
+    "tmdb_id": 9598,
+    "year": 1995
+  },
+  "tt0112435": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 22
+      }
+    ],
+    "poster": "/cdICP1AzQPgBWsEHwKTZH9ziNyE.jpg",
+    "title": "The Baby-Sitters Club",
+    "title_ptbr": "O Clube das Babás",
+    "tmdb_id": 48287,
+    "year": 1995
+  },
+  "tt0112691": {
+    "age": {
+      "classind": "10",
+      "source": "DE"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/qdIR27trLyrlJ5nmkbcG3Bomah6.jpg",
+    "title": "A Close Shave",
+    "title_ptbr": "Wallace & Gromit: Tosa Completa",
+    "tmdb_id": 532,
+    "year": 1996
+  },
+  "tt0113198": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/bycmMhO3iIoEDzP768sUjq2RV4T.jpg",
+    "title": "A Goofy Movie",
+    "title_ptbr": "Pateta: O Filme",
+    "tmdb_id": 15789,
+    "year": 1995
+  },
+  "tt0113419": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/ozQAmW85tTJu2dhRe3evzyY03Nb.jpg",
+    "title": "The Indian in the Cupboard",
+    "title_ptbr": "A Chave Mágica",
+    "tmdb_id": 11359,
+    "year": 1995
+  },
+  "tt0113497": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 28
+      }
+    ],
+    "poster": "/bdHG5Mo83VPobeZZdlSz0Y7HQHB.jpg",
+    "title": "Jumanji",
+    "tmdb_id": 8844,
+    "year": 1995
+  },
+  "tt0113670": {
+    "age": {
+      "classind": "L",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/9V4bAVEskSNbEqjVI0YmeuB0n8I.jpg",
+    "title": "A Little Princess",
+    "title_ptbr": "A Princesinha",
+    "tmdb_id": 19101,
+    "year": 1995
+  },
+  "tt0114388": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+    "title": "Sense and Sensibility",
+    "title_ptbr": "Razão e Sensibilidade",
+    "tmdb_id": 4584,
+    "year": 1995
+  },
+  "tt0114709": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "pixar",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 19
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "title": "Toy Story",
+    "title_ptbr": "Toy Story: Um Mundo de Aventuras",
+    "tmdb_id": 862,
+    "year": 1995
+  },
+  "tt0116329": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/obcQJkZB2OsRxd5GWIcQ5Qjv4YW.jpg",
+    "title": "Fly Away Home",
+    "title_ptbr": "Voando para Casa",
+    "tmdb_id": 11076,
+    "year": 1996
+  },
+  "tt0116683": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/vNEGobe23vW43mSPYVaVaBLP6qV.jpg",
+    "title": "James and the Giant Peach",
+    "title_ptbr": "James e o Pêssego Gigante",
+    "tmdb_id": 10539,
+    "year": 1996
+  },
+  "tt0117008": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 29
+      }
+    ],
+    "poster": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+    "title": "Matilda",
+    "tmdb_id": 10830,
+    "year": 1996
+  },
+  "tt0117509": {
+    "age": {
+      "classind": "14",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/dJCDUkXhfRdc4q8e4VCKEBbqzBT.jpg",
+    "title": "Romeo + Juliet",
+    "title_ptbr": "Romeu + Julieta",
+    "tmdb_id": 454,
+    "year": 1996
+  },
+  "tt0118849": {
+    "age": {
+      "classind": "L",
+      "source": "DE"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/jWqh1CJWAEcxckMRrf6ARhIEh0R.jpg",
+    "title": "Children of Heaven",
+    "title_ptbr": "Filhos do Paraíso",
+    "tmdb_id": 21334,
+    "year": 1997
+  },
+  "tt0119190": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/lWp8hUqE4oLPxsYgilXoYoVThfU.jpg",
+    "title": "George of the Jungle",
+    "title_ptbr": "George, o Rei da Floresta",
+    "tmdb_id": 10603,
+    "year": 1997
+  },
+  "tt0120762": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
+    "title": "Mulan",
+    "tmdb_id": 10674,
+    "year": 1998
+  },
+  "tt0120783": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 35
+      }
+    ],
+    "poster": "/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+    "title": "The Parent Trap",
+    "title_ptbr": "Operação Cupido",
+    "tmdb_id": 9820,
+    "year": 1998
+  },
+  "tt0126029": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "title": "Shrek",
+    "tmdb_id": 808,
+    "year": 2001
+  },
+  "tt0129167": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/k1Cv5CHJvqGWK1xJDUJz8DojFEy.jpg",
+    "title": "The Iron Giant",
+    "title_ptbr": "O Gigante de Ferro",
+    "tmdb_id": 10386,
+    "year": 1999
+  },
+  "tt0132477": {
+    "age": {
+      "classind": "12",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/umWrXCIWdcYPf764ruvMRCpG3cA.jpg",
+    "title": "October Sky",
+    "title_ptbr": "O Céu de Outubro",
+    "tmdb_id": 13466,
+    "year": 1999
+  },
+  "tt0145487": {
+    "age": {
+      "classind": "12",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/or6XJBVpcEbIkma0V9zshnbEtx4.jpg",
+    "title": "Spider-Man",
+    "title_ptbr": "Homem-Aranha",
+    "tmdb_id": 557,
+    "year": 2002
+  },
+  "tt0150662": {
+    "age": {
+      "classind": "12",
+      "source": "DE"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/ek5fMfwGVTyQ0N0VXBT1VWqan3U.jpg",
+    "title": "Show Me Love",
+    "title_ptbr": "Amigas de Colégio",
+    "tmdb_id": 11634,
+    "year": 1998
+  },
+  "tt0181627": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/9RNrozaagFmpm6m0CP7q4XDcIXj.jpg",
+    "title": "Kirikou and the Sorceress",
+    "title_ptbr": "Kiriku e a Feiticeira",
+    "tmdb_id": 21348,
+    "year": 1998
+  },
+  "tt0210945": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+    "title": "Remember the Titans",
+    "title_ptbr": "Duelo de Titãs",
+    "tmdb_id": 10637,
+    "year": 2000
+  },
+  "tt0241527": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 5
+      }
+    ],
+    "poster": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "title_ptbr": "Harry Potter e a Pedra Filosofal",
+    "tmdb_id": 671,
+    "year": 2001
+  },
+  "tt0245429": {
+    "age": {
+      "classind": "10",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 38
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "title": "Spirited Away",
+    "title_ptbr": "A Viagem de Chihiro",
+    "tmdb_id": 129,
+    "year": 2001
+  },
+  "tt0249462": {
+    "age": {
+      "classind": "12",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/mYtqgWCJiXpDeZwjVcC3OQGD8IR.jpg",
+    "title": "Billy Elliot",
+    "tmdb_id": 71,
+    "year": 2000
+  },
+  "tt0252444": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      }
+    ],
+    "poster": "/vs8ATIRGEEYpcByrNtJ1WyI3LeD.jpg",
+    "title": "Rabbit-Proof Fence",
+    "title_ptbr": "Geração Roubada",
+    "tmdb_id": 9555,
+    "year": 2002
+  },
+  "tt0266543": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 13
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+    "title": "Finding Nemo",
+    "title_ptbr": "Procurando Nemo",
+    "tmdb_id": 12,
+    "year": 2003
+  },
+  "tt0275847": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg",
+    "title": "Lilo & Stitch",
+    "tmdb_id": 11544,
+    "year": 2002
+  },
+  "tt0298228": {
+    "age": {
+      "classind": "14",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "bfi-14",
+        "rank": null
+      },
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/cVBZQZq091KtwBm2qObOv0JTFcH.jpg",
+    "title": "Whale Rider",
+    "title_ptbr": "Encantadora de Baleias",
+    "tmdb_id": 1088,
+    "year": 2003
+  },
+  "tt0317705": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+    "title": "The Incredibles",
+    "title_ptbr": "Os Incríveis",
+    "tmdb_id": 9806,
+    "year": 2004
+  },
+  "tt0319343": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 36
+      }
+    ],
+    "poster": "/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+    "title": "Elf",
+    "title_ptbr": "Um Duende em Nova York",
+    "tmdb_id": 10719,
+    "year": 2003
+  },
+  "tt0347149": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+    "title": "Howl's Moving Castle",
+    "title_ptbr": "O Castelo Animado",
+    "tmdb_id": 4935,
+    "year": 2004
+  },
+  "tt0374900": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg",
+    "title": "Napoleon Dynamite",
+    "tmdb_id": 8193,
+    "year": 2004
+  },
+  "tt0382932": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 37
+      }
+    ],
+    "poster": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+    "title": "Ratatouille",
+    "tmdb_id": 2062,
+    "year": 2007
+  },
+  "tt0413895": {
+    "age": {
+      "classind": "L",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/fU0IR5HF8KxQbZijuWKPTrY81Qv.jpg",
+    "title": "Charlotte's Web",
+    "title_ptbr": "A Menina e o Porquinho",
+    "tmdb_id": 9986,
+    "year": 2006
+  },
+  "tt0437800": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/tLejxaLJu8Qh5F2VKacWniMSZ3v.jpg",
+    "title": "Akeelah and the Bee",
+    "title_ptbr": "Prova de Fogo: Uma História de Vida",
+    "tmdb_id": 13751,
+    "year": 2006
+  },
+  "tt0438205": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/1wDU19PTEdR30QdnLFw93scXto7.jpg",
+    "title": "Mad Hot Ballroom",
+    "tmdb_id": 14358,
+    "year": 2005
+  },
+  "tt0780521": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 48
+      }
+    ],
+    "poster": "/yprv5PbnEksoVj2v6XEnDBg9joR.jpg",
+    "title": "The Princess and the Frog",
+    "title_ptbr": "A Princesa e o Sapo",
+    "tmdb_id": 10198,
+    "year": 2009
+  },
+  "tt0876563": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/yp8vEZflGynlEylxEesbYasc06i.jpg",
+    "title": "Ponyo",
+    "title_ptbr": "Ponyo - Uma Amizade que Veio do Mar",
+    "tmdb_id": 12429,
+    "year": 2008
+  },
+  "tt0892769": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 30
+      }
+    ],
+    "poster": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+    "title": "How to Train Your Dragon",
+    "title_ptbr": "Como Treinar o Seu Dragão",
+    "tmdb_id": 10191,
+    "year": 2010
+  },
+  "tt0910970": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 42
+      }
+    ],
+    "poster": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+    "title": "WALL·E",
+    "title_ptbr": "WALL-E",
+    "tmdb_id": 10681,
+    "year": 2008
+  },
+  "tt0970179": {
+    "age": {
+      "classind": "10",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/1dxRq3o3l3bVWNRvvSb7rRf68qp.jpg",
+    "title": "Hugo",
+    "title_ptbr": "A Invenção de Hugo Cabret",
+    "tmdb_id": 44826,
+    "year": 2011
+  },
+  "tt1049413": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 41
+      }
+    ],
+    "poster": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+    "title": "Up",
+    "title_ptbr": "Up: Altas Aventuras",
+    "tmdb_id": 14160,
+    "year": 2009
+  },
+  "tt1109624": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 3
+      }
+    ],
+    "poster": "/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+    "title": "Paddington",
+    "title_ptbr": "As Aventuras de Paddington",
+    "tmdb_id": 116149,
+    "year": 2014
+  },
+  "tt11655566": {
+    "age": {
+      "classind": "10",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 21
+      }
+    ],
+    "poster": "/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg",
+    "title": "Lilo & Stitch",
+    "tmdb_id": 552524,
+    "year": 2025
+  },
+  "tt1323594": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 14
+      }
+    ],
+    "poster": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+    "title": "Despicable Me",
+    "title_ptbr": "Meu Malvado Favorito",
+    "tmdb_id": 20352,
+    "year": 2010
+  },
+  "tt1449283": {
+    "age": {
+      "classind": "L",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/xlFs85nq62jeR4a9iHNGB113m6x.jpg",
+    "title": "Winnie the Pooh",
+    "title_ptbr": "O Ursinho Pooh",
+    "tmdb_id": 51162,
+    "year": 2011
+  },
+  "tt1490017": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 39
+      }
+    ],
+    "poster": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+    "title": "The Lego Movie",
+    "title_ptbr": "Uma Aventura Lego",
+    "tmdb_id": 137106,
+    "year": 2014
+  },
+  "tt1623288": {
+    "age": {
+      "classind": "10",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 45
+      }
+    ],
+    "poster": "/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
+    "title": "ParaNorman",
+    "tmdb_id": 77174,
+    "year": 2012
+  },
+  "tt1816518": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/iJPbRASktYW0I009Ktc2zUE6Fvg.jpg",
+    "title": "Ernest & Celestine",
+    "title_ptbr": "Ernesto e Celestine",
+    "tmdb_id": 126319,
+    "year": 2012
+  },
+  "tt1865505": {
+    "age": {
+      "classind": "12",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      }
+    ],
+    "poster": "/16LQC6zpqB0l74mVWb93a2oMFnX.jpg",
+    "title": "Song of the Sea",
+    "title_ptbr": "A Canção do Mar",
+    "tmdb_id": 110416,
+    "year": 2014
+  },
+  "tt19500164": {
+    "age": {
+      "classind": "12",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 43
+      }
+    ],
+    "poster": "/2NQljeavtfl22207D1kxLpa4LS3.jpg",
+    "title": "Nimona",
+    "tmdb_id": 961323,
+    "year": 2023
+  },
+  "tt2096673": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 12
+      }
+    ],
+    "poster": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+    "title": "Inside Out",
+    "title_ptbr": "Divertida Mente",
+    "tmdb_id": 150540,
+    "year": 2015
+  },
+  "tt2294629": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "csm-50",
+        "rank": null
+      },
+      {
+        "list": "timeout-familia",
+        "rank": 10
+      }
+    ],
+    "poster": "/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+    "title": "Frozen",
+    "title_ptbr": "Frozen: Uma Aventura Congelante",
+    "tmdb_id": 109445,
+    "year": 2013
+  },
+  "tt2380307": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 7
+      }
+    ],
+    "poster": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+    "title": "Coco",
+    "title_ptbr": "Viva: A Vida é Uma Festa",
+    "tmdb_id": 354912,
+    "year": 2017
+  },
+  "tt2872750": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "lists": [
+      {
+        "list": "pixar",
+        "rank": null
+      }
+    ],
+    "poster": "/1GMvKNy2Ht5QwI0oV0ycYnxzWdC.jpg",
+    "title": "Shaun the Sheep Movie",
+    "title_ptbr": "Shaun, o Carneiro: O Filme",
+    "tmdb_id": 263109,
+    "year": 2015
+  },
+  "tt2953050": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 15
+      }
+    ],
+    "poster": "/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+    "title": "Encanto",
+    "tmdb_id": 568124,
+    "year": 2021
+  },
+  "tt29623480": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 17
+      }
+    ],
+    "poster": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+    "title": "The Wild Robot",
+    "title_ptbr": "Robô Selvagem",
+    "tmdb_id": 1184918,
+    "year": 2024
+  },
+  "tt3521164": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 31
+      }
+    ],
+    "poster": "/4JeejGugONWpJkbnvL12hVoYEDa.jpg",
+    "title": "Moana",
+    "title_ptbr": "Moana: Um Mar de Aventuras",
+    "tmdb_id": 277834,
+    "year": 2016
+  },
+  "tt4341582": {
+    "age": {
+      "classind": "10",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 8
+      }
+    ],
+    "poster": "/m8V2ud6uhV7qH6wEDoQ4Ujw99ji.jpg",
+    "title": "Queen of Katwe",
+    "title_ptbr": "Rainha de Katwe",
+    "tmdb_id": 317557,
+    "year": 2016
+  },
+  "tt4772188": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 25
+      }
+    ],
+    "poster": "/z2sG41PxfL1hnL1mHbxzSREUtOf.jpg",
+    "title": "Flow",
+    "tmdb_id": 823219,
+    "year": 2024
+  },
+  "tt7979580": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "lists": [
+      {
+        "list": "timeout-familia",
+        "rank": 50
+      }
+    ],
+    "poster": "/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+    "title": "The Mitchells vs. the Machines",
+    "title_ptbr": "A Família Mitchell e a Revolta das Máquinas",
+    "tmdb_id": 501929,
+    "year": 2021
+  }
+}

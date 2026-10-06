@@ -1,0 +1,6790 @@
+{
+  "tt0050051": {
+    "providers": []
+  },
+  "tt0072554": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt0072562": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt0075472": {
+    "providers": []
+  },
+  "tt0094484": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt0098936": {
+    "providers": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ],
+    "verified": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ]
+  },
+  "tt0115147": {
+    "providers": []
+  },
+  "tt0118276": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt0118375": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt0121955": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel"
+    ]
+  },
+  "tt0133301": {
+    "providers": []
+  },
+  "tt0137320": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt0141842": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt0159206": {
+    "providers": [
+      "Amazon Prime Video",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt0169414": {
+    "providers": []
+  },
+  "tt0185906": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt0187664": {
+    "providers": []
+  },
+  "tt0193676": {
+    "providers": [
+      "Pluto TV"
+    ]
+  },
+  "tt0200276": {
+    "providers": []
+  },
+  "tt0238784": {
+    "providers": [
+      "Amazon Prime Video",
+      "Disney Plus",
+      "HBO Max"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Disney Plus"
+    ]
+  },
+  "tt0239195": {
+    "providers": []
+  },
+  "tt0248654": {
+    "providers": [
+      "HBO Max"
+    ]
+  },
+  "tt0251497": {
+    "providers": []
+  },
+  "tt0262150": {
+    "providers": []
+  },
+  "tt0264235": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt0278238": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt0285331": {
+    "providers": []
+  },
+  "tt0286486": {
+    "providers": [
+      "Sony One Amazon Channel"
+    ],
+    "verified": [
+      "Sony One Amazon Channel"
+    ]
+  },
+  "tt0290978": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt0296310": {
+    "providers": []
+  },
+  "tt0306414": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt0320037": {
+    "providers": []
+  },
+  "tt0330251": {
+    "providers": []
+  },
+  "tt0338616": {
+    "providers": []
+  },
+  "tt0348914": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt0350439": {
+    "providers": [
+      "Plex Channel",
+      "Plex Player"
+    ]
+  },
+  "tt0353049": {
+    "providers": []
+  },
+  "tt0362192": {
+    "providers": []
+  },
+  "tt0367279": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt0377260": {
+    "providers": [
+      "Plex Channel",
+      "Plex Player"
+    ]
+  },
+  "tt0386676": {
+    "providers": [
+      "Amazon Prime Video",
+      "HBO Max",
+      "Netflix"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Netflix"
+    ]
+  },
+  "tt0387764": {
+    "providers": [
+      "Plex Channel",
+      "Plex Player",
+      "Pluto TV"
+    ]
+  },
+  "tt0395404": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt0397150": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt0407362": {
+    "providers": []
+  },
+  "tt0411008": {
+    "providers": [
+      "Disney Plus",
+      "Oldflix"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt0411027": {
+    "providers": []
+  },
+  "tt0412142": {
+    "providers": [
+      "Amazon Prime Video",
+      "Disney Plus",
+      "HBO Max",
+      "Netflix"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Disney Plus",
+      "Netflix"
+    ]
+  },
+  "tt0413573": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt0416394": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt0417299": {
+    "providers": [
+      "Netflix",
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Pluto TV"
+    ],
+    "verified": [
+      "Netflix",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt0426654": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt0430484": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt0434672": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt0436992": {
+    "providers": []
+  },
+  "tt0459159": {
+    "providers": []
+  },
+  "tt0460649": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt0472954": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt0475784": {
+    "providers": []
+  },
+  "tt0475900": {
+    "providers": []
+  },
+  "tt0477507": {
+    "providers": []
+  },
+  "tt0478942": {
+    "providers": []
+  },
+  "tt0486531": {
+    "providers": []
+  },
+  "tt0496424": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt0758745": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt0773262": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel"
+    ]
+  },
+  "tt0795174": {
+    "providers": []
+  },
+  "tt0795176": {
+    "providers": []
+  },
+  "tt0804484": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt0804503": {
+    "providers": [
+      "Disney Plus",
+      "Lionsgate+ Amazon Channel"
+    ],
+    "verified": [
+      "Disney Plus",
+      "Lionsgate+ Amazon Channel"
+    ]
+  },
+  "tt0808491": {
+    "providers": []
+  },
+  "tt0826760": {
+    "providers": []
+  },
+  "tt0840196": {
+    "providers": []
+  },
+  "tt0863046": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt0866442": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt0891396": {
+    "providers": []
+  },
+  "tt0898266": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt0903747": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt0944947": {
+    "providers": [
+      "HBO Max"
+    ]
+  },
+  "tt10048342": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10050772": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10059744": {
+    "providers": []
+  },
+  "tt10062292": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10094634": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10098620": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10133336": {
+    "providers": []
+  },
+  "tt10155688": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt10166622": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt10167012": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt10184042": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10228230": {
+    "providers": []
+  },
+  "tt10314462": {
+    "providers": [
+      "Lionsgate+ Amazon Channel",
+      "Netflix"
+    ],
+    "verified": [
+      "Lionsgate+ Amazon Channel",
+      "Netflix"
+    ]
+  },
+  "tt10320398": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt10338160": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt1034007": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10370486": {
+    "providers": []
+  },
+  "tt10375672": {
+    "providers": []
+  },
+  "tt10380896": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10394886": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt10405370": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt10417836": {
+    "providers": []
+  },
+  "tt10438052": {
+    "providers": []
+  },
+  "tt10473150": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10482370": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt10517426": {
+    "providers": []
+  },
+  "tt10519936": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt10541088": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt10556338": {
+    "providers": [
+      "Sun Nxt"
+    ]
+  },
+  "tt10574236": {
+    "providers": []
+  },
+  "tt10574558": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10584608": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10588740": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10625706": {
+    "providers": [
+      "Looke"
+    ]
+  },
+  "tt10638036": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10665386": {
+    "providers": []
+  },
+  "tt10669608": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt10677432": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt10714820": {
+    "providers": []
+  },
+  "tt10732048": {
+    "providers": []
+  },
+  "tt1073507": {
+    "providers": [
+      "Lionsgate+ Amazon Channel",
+      "Netflix"
+    ],
+    "verified": [
+      "Lionsgate+ Amazon Channel",
+      "Netflix"
+    ]
+  },
+  "tt10738752": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10768238": {
+    "providers": [
+      "Adrenalina Pura Amazon channel",
+      "Adrenalina Pura Apple TV channel"
+    ],
+    "verified": [
+      "Adrenalina Pura Amazon channel",
+      "Adrenalina Pura Apple TV channel"
+    ]
+  },
+  "tt10795304": {
+    "providers": []
+  },
+  "tt10801368": {
+    "providers": []
+  },
+  "tt10801534": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt10802170": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt10846104": {
+    "providers": []
+  },
+  "tt10846464": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt10919420": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt10934254": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt10957462": {
+    "providers": [
+      "Sony One Amazon Channel"
+    ],
+    "verified": [
+      "Sony One Amazon Channel"
+    ]
+  },
+  "tt10975574": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt10986410": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt11000902": {
+    "providers": []
+  },
+  "tt11016042": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt11041332": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt11058054": {
+    "providers": []
+  },
+  "tt11080216": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt11198330": {
+    "providers": [
+      "HBO Max"
+    ]
+  },
+  "tt11204260": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt11212198": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt11218290": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt11227980": {
+    "providers": []
+  },
+  "tt11269180": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt11280740": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt11285856": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt11324406": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ]
+  },
+  "tt11337908": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt11363282": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt11379026": {
+    "providers": [
+      "Netflix",
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Netflix",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt11379456": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt11382150": {
+    "providers": []
+  },
+  "tt11389652": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt11426660": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt11469904": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt11477416": {
+    "providers": []
+  },
+  "tt11527058": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt11542694": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt11610268": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt11650492": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt11656892": {
+    "providers": []
+  },
+  "tt11691774": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt11704040": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt11771270": {
+    "providers": []
+  },
+  "tt11808942": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt11815682": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt11823076": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt11828492": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt11846996": {
+    "providers": []
+  },
+  "tt11847842": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt11862812": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt11899030": {
+    "providers": []
+  },
+  "tt11921588": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt11947418": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt12015006": {
+    "providers": [
+      "Koiplay Amazon Channel"
+    ],
+    "verified": [
+      "Koiplay Amazon Channel"
+    ]
+  },
+  "tt12106710": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt12162902": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt12181864": {
+    "providers": []
+  },
+  "tt12190580": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt1220617": {
+    "providers": []
+  },
+  "tt12235718": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt12327578": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt12398140": {
+    "providers": [
+      "Apple TV"
+    ],
+    "verified": [
+      "Apple TV"
+    ]
+  },
+  "tt12530128": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt12637874": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt1266020": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt12679084": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt12682076": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt12708140": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt12747876": {
+    "providers": [
+      "Amazon Prime Video",
+      "Netflix"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Netflix"
+    ]
+  },
+  "tt12754910": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt12759100": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt1279972": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt12809988": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt12822708": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt12837188": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt12851512": {
+    "providers": []
+  },
+  "tt12879632": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt12923632": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt12963502": {
+    "providers": []
+  },
+  "tt12994356": {
+    "providers": [
+      "Amazon Prime Video",
+      "Looke",
+      "NetMovies",
+      "Pluto TV",
+      "Runtime"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt12996012": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt13016388": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt13045814": {
+    "providers": [
+      "Telecine Amazon Channel"
+    ],
+    "verified": [
+      "Telecine Amazon Channel"
+    ]
+  },
+  "tt13079194": {
+    "providers": [
+      "Reserva Imovision",
+      "Reserva Imovision Amazon Channel"
+    ],
+    "verified": [
+      "Reserva Imovision",
+      "Reserva Imovision Amazon Channel"
+    ]
+  },
+  "tt13101040": {
+    "providers": []
+  },
+  "tt13116888": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt13159924": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt13282662": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt13309742": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt13323596": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt13327060": {
+    "providers": [
+      "Adrenalina Pura Amazon channel",
+      "Adrenalina Pura Apple TV channel"
+    ],
+    "verified": [
+      "Adrenalina Pura Amazon channel",
+      "Adrenalina Pura Apple TV channel"
+    ]
+  },
+  "tt13354972": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt13406094": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt13439500": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt1353056": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Pluto TV",
+      "WOW Presents Plus"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt13622188": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt13623580": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt13623608": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt13623632": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt13634872": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt13649112": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt13649314": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt13649510": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt13651632": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt13656220": {
+    "providers": [
+      "Netflix",
+      "Netflix Standard with Ads"
+    ],
+    "verified": [
+      "Netflix",
+      "Netflix Standard with Ads"
+    ]
+  },
+  "tt13659724": {
+    "providers": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ],
+    "verified": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ]
+  },
+  "tt13670374": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt13683866": {
+    "providers": []
+  },
+  "tt13782250": {
+    "providers": [
+      "Amazon Prime Video",
+      "Looke"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt13790652": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt13911628": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt13918776": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt13973190": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt13994572": {
+    "providers": []
+  },
+  "tt1399664": {
+    "providers": [
+      "Amazon Prime Video",
+      "Amazon Video"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Amazon Video"
+    ]
+  },
+  "tt14022668": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt14044212": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt14063678": {
+    "providers": []
+  },
+  "tt14082716": {
+    "providers": [
+      "Curiosity Stream"
+    ]
+  },
+  "tt14129378": {
+    "providers": [
+      "Sony One Amazon Channel"
+    ],
+    "verified": [
+      "Sony One Amazon Channel"
+    ]
+  },
+  "tt14192504": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt14203572": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt14206696": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt14218830": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt14269590": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt14302518": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt14371926": {
+    "providers": []
+  },
+  "tt1439629": {
+    "providers": [
+      "Netflix",
+      "Sony One Amazon Channel"
+    ],
+    "verified": [
+      "Netflix",
+      "Sony One Amazon Channel"
+    ]
+  },
+  "tt14403178": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt14404618": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt14412362": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt14419140": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt1442437": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt1442462": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt14440068": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt14440878": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt14452776": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt14466018": {
+    "providers": []
+  },
+  "tt14485734": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt14488438": {
+    "providers": []
+  },
+  "tt14524712": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt14536022": {
+    "providers": []
+  },
+  "tt14540468": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt14584394": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt14596212": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt14671678": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt14676562": {
+    "providers": []
+  },
+  "tt14688458": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt14733462": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt1474684": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt1475582": {
+    "providers": []
+  },
+  "tt14759574": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt14761860": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt14782352": {
+    "providers": [
+      "Plex Channel",
+      "Plex Player"
+    ]
+  },
+  "tt14825858": {
+    "providers": []
+  },
+  "tt14877120": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt14879018": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt1489428": {
+    "providers": [
+      "Amazon Prime Video",
+      "Disney Plus"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Disney Plus"
+    ]
+  },
+  "tt1492966": {
+    "providers": []
+  },
+  "tt14932528": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt15017118": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt15046042": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt1509004": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt15135104": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt15203646": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt15206568": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt15210882": {
+    "providers": [
+      "Amazon Prime Video",
+      "HBO Max"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt15221950": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt15232564": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt15248880": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt15254840": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel",
+      "Disney Plus",
+      "Globoplay",
+      "HBO Max",
+      "Netflix"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel",
+      "Disney Plus",
+      "Globoplay",
+      "Netflix"
+    ]
+  },
+  "tt1526318": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt15280970": {
+    "providers": [
+      "Reserva Imovision Amazon Channel"
+    ],
+    "verified": [
+      "Reserva Imovision Amazon Channel"
+    ]
+  },
+  "tt15296862": {
+    "providers": [
+      "Looke",
+      "Looke Amazon Channel",
+      "NetMovies",
+      "Runtime"
+    ],
+    "verified": [
+      "Looke",
+      "Looke Amazon Channel"
+    ]
+  },
+  "tt15303234": {
+    "providers": []
+  },
+  "tt15309272": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt15346794": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt15366796": {
+    "providers": [
+      "JustWatch TV",
+      "Magellan TV",
+      "Plex Channel",
+      "Plex Player"
+    ]
+  },
+  "tt15384586": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt15385850": {
+    "providers": []
+  },
+  "tt15424742": {
+    "providers": [
+      "Amazon Prime Video",
+      "Looke"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt15435876": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt15469618": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt15472974": {
+    "providers": [
+      "HBO Max"
+    ]
+  },
+  "tt15515490": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt15553252": {
+    "providers": [
+      "Amazon Prime Video",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt15557874": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt15564662": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt15567174": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt15571732": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt15574312": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt1561755": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt15629318": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt15677150": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt15750902": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt15767662": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt15792042": {
+    "providers": [
+      "Looke",
+      "Looke Amazon Channel",
+      "NetMovies",
+      "Pluto TV"
+    ],
+    "verified": [
+      "Looke",
+      "Looke Amazon Channel"
+    ]
+  },
+  "tt15869988": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt15875168": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt16026154": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt16026746": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt1606375": {
+    "providers": [
+      "Amazon Prime Video",
+      "Netflix"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Netflix"
+    ]
+  },
+  "tt16103046": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt16252490": {
+    "providers": []
+  },
+  "tt16283466": {
+    "providers": [
+      "Looke Amazon Channel"
+    ],
+    "verified": [
+      "Looke Amazon Channel"
+    ]
+  },
+  "tt16283758": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt16283804": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt16291038": {
+    "providers": [
+      "Cindie Amazon Channel"
+    ],
+    "verified": [
+      "Cindie Amazon Channel"
+    ]
+  },
+  "tt16294384": {
+    "providers": [
+      "Apple TV"
+    ],
+    "verified": [
+      "Apple TV"
+    ]
+  },
+  "tt16302906": {
+    "providers": [
+      "Netflix",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Netflix",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt16378210": {
+    "providers": [
+      "Amazon Prime Video",
+      "Looke",
+      "NetMovies"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt1640719": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt16452690": {
+    "providers": []
+  },
+  "tt16493232": {
+    "providers": []
+  },
+  "tt16607886": {
+    "providers": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ],
+    "verified": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ]
+  },
+  "tt16729514": {
+    "providers": [
+      "HBO Max"
+    ]
+  },
+  "tt1685471": {
+    "providers": []
+  },
+  "tt16969708": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt1698441": {
+    "providers": []
+  },
+  "tt1701920": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt17074098": {
+    "providers": []
+  },
+  "tt1710295": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt1723816": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt1733785": {
+    "providers": []
+  },
+  "tt17491088": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt17501750": {
+    "providers": []
+  },
+  "tt1751105": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt1758772": {
+    "providers": []
+  },
+  "tt1759761": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt17677612": {
+    "providers": []
+  },
+  "tt17921714": {
+    "providers": []
+  },
+  "tt1796960": {
+    "providers": [
+      "Disney Plus",
+      "Netflix"
+    ],
+    "verified": [
+      "Disney Plus",
+      "Netflix"
+    ]
+  },
+  "tt18070898": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt18182112": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt18228732": {
+    "providers": []
+  },
+  "tt18235300": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt18253682": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt18265020": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt18266822": {
+    "providers": [
+      "Netflix",
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Netflix",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt18268454": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt18273514": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt1856010": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt1877368": {
+    "providers": []
+  },
+  "tt1877514": {
+    "providers": [
+      "The Great Courses Signature Collection Amazon Channel"
+    ],
+    "verified": [
+      "The Great Courses Signature Collection Amazon Channel"
+    ]
+  },
+  "tt18929680": {
+    "providers": []
+  },
+  "tt18974452": {
+    "providers": []
+  },
+  "tt19050000": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt19120296": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt19386538": {
+    "providers": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ],
+    "verified": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ]
+  },
+  "tt19799468": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt1981558": {
+    "providers": []
+  },
+  "tt1984119": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt19854762": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt19868314": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt19891206": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt19899644": {
+    "providers": []
+  },
+  "tt19899752": {
+    "providers": []
+  },
+  "tt1998372": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt20096840": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt20242042": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt20418088": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt2049116": {
+    "providers": []
+  },
+  "tt20516438": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt2058303": {
+    "providers": [
+      "Looke",
+      "Looke Amazon Channel"
+    ],
+    "verified": [
+      "Looke",
+      "Looke Amazon Channel"
+    ]
+  },
+  "tt20758270": {
+    "providers": []
+  },
+  "tt20782190": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt20835678": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt2085059": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt20852952": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt20859920": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt20860338": {
+    "providers": [
+      "Crunchyroll"
+    ]
+  },
+  "tt20916306": {
+    "providers": []
+  },
+  "tt21056886": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt21077460": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt21084712": {
+    "providers": [
+      "Reserva Imovision Amazon Channel"
+    ],
+    "verified": [
+      "Reserva Imovision Amazon Channel"
+    ]
+  },
+  "tt21100682": {
+    "providers": []
+  },
+  "tt21221856": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt21358924": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt21364468": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt21433690": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt21446352": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt2149175": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt2155025": {
+    "providers": []
+  },
+  "tt21627122": {
+    "providers": [
+      "Globoplay"
+    ],
+    "verified": [
+      "Globoplay"
+    ]
+  },
+  "tt21638826": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt21831910": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt2183404": {
+    "providers": []
+  },
+  "tt21867388": {
+    "providers": []
+  },
+  "tt21874900": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt21906238": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt21993130": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt22046348": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt22059224": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt22074164": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt22083416": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt22175166": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt22202452": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt22325698": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt2235759": {
+    "providers": [
+      "The Great Courses Signature Collection Amazon Channel"
+    ],
+    "verified": [
+      "The Great Courses Signature Collection Amazon Channel"
+    ]
+  },
+  "tt2243973": {
+    "providers": [
+      "The Great Courses Signature Collection Amazon Channel",
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "The Great Courses Signature Collection Amazon Channel",
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt22694974": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt22750834": {
+    "providers": []
+  },
+  "tt22813264": {
+    "providers": [
+      "Plex Channel",
+      "Plex Player"
+    ]
+  },
+  "tt22889176": {
+    "providers": [
+      "Filmelier Plus Amazon Channel"
+    ],
+    "verified": [
+      "Filmelier Plus Amazon Channel"
+    ]
+  },
+  "tt2297757": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt2303687": {
+    "providers": []
+  },
+  "tt23052950": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt23143876": {
+    "providers": []
+  },
+  "tt23149640": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt23330464": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt23488694": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt2356777": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt2357547": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt23649128": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt2372162": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt23729238": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt23845296": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt2384811": {
+    "providers": []
+  },
+  "tt23856194": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt23905242": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt2401256": {
+    "providers": [
+      "Amazon Prime Video",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt24053860": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt2442560": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt2467372": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt2492296": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt2531336": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt2543312": {
+    "providers": []
+  },
+  "tt2575988": {
+    "providers": [
+      "HBO Max"
+    ]
+  },
+  "tt2577192": {
+    "providers": [
+      "Lionsgate+ Amazon Channel"
+    ],
+    "verified": [
+      "Lionsgate+ Amazon Channel"
+    ]
+  },
+  "tt2578560": {
+    "providers": [
+      "Pluto TV"
+    ]
+  },
+  "tt2581458": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt26115810": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt26340330": {
+    "providers": [
+      "Plex Channel",
+      "Plex Player"
+    ]
+  },
+  "tt2640044": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt26440341": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt26450613": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt2649356": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt26571301": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt26591147": {
+    "providers": [
+      "Globoplay"
+    ],
+    "verified": [
+      "Globoplay"
+    ]
+  },
+  "tt26670955": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt26676007": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ]
+  },
+  "tt26738706": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt26741906": {
+    "providers": []
+  },
+  "tt2674806": {
+    "providers": []
+  },
+  "tt26750284": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt26894667": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt26933824": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt2699128": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt27012297": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt2707408": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt27156464": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt27329210": {
+    "providers": []
+  },
+  "tt27348595": {
+    "providers": [
+      "Globoplay"
+    ],
+    "verified": [
+      "Globoplay"
+    ]
+  },
+  "tt27348721": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt27370649": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt27444205": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt27494783": {
+    "providers": [
+      "Disney Plus",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "Disney Plus",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt27497198": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt27497448": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt27501560": {
+    "providers": [
+      "Amazon Prime Video",
+      "Looke"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt2750182": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt27557666": {
+    "providers": [
+      "Globoplay"
+    ],
+    "verified": [
+      "Globoplay"
+    ]
+  },
+  "tt27663503": {
+    "providers": []
+  },
+  "tt27715627": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt27733135": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt27740241": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt27837209": {
+    "providers": [
+      "Amazon Prime Video",
+      "Disney Plus"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Disney Plus"
+    ]
+  },
+  "tt27846061": {
+    "providers": []
+  },
+  "tt27867155": {
+    "providers": []
+  },
+  "tt27869794": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt2788316": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt2788432": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt27921612": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt27931200": {
+    "providers": []
+  },
+  "tt27950663": {
+    "providers": []
+  },
+  "tt27995114": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt28013708": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt2802850": {
+    "providers": [
+      "Amazon Prime Video",
+      "MGM+ Apple TV Channel",
+      "Netflix"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "MGM+ Apple TV Channel",
+      "Netflix"
+    ]
+  },
+  "tt28093628": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt28104766": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt28131282": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt28145016": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt28197611": {
+    "providers": [
+      "Amazon Prime Video",
+      "HBO Max"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt28212265": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt28436068": {
+    "providers": [
+      "Adrenalina Pura Amazon channel",
+      "Adrenalina Pura Apple TV channel",
+      "NetMovies"
+    ],
+    "verified": [
+      "Adrenalina Pura Amazon channel",
+      "Adrenalina Pura Apple TV channel"
+    ]
+  },
+  "tt28449878": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt2845786": {
+    "providers": []
+  },
+  "tt28603817": {
+    "providers": [
+      "Telecine Amazon Channel"
+    ],
+    "verified": [
+      "Telecine Amazon Channel"
+    ]
+  },
+  "tt2861424": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ]
+  },
+  "tt28697132": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt28711468": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt28803868": {
+    "providers": []
+  },
+  "tt29011445": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt29199351": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt29258436": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt29511082": {
+    "providers": []
+  },
+  "tt29768339": {
+    "providers": []
+  },
+  "tt30217403": {
+    "providers": [
+      "Crunchyroll",
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ]
+  },
+  "tt30252752": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt3032476": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt30406366": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt30428143": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt30444310": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt3061046": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt30788492": {
+    "providers": [
+      "Cultpix"
+    ]
+  },
+  "tt30895499": {
+    "providers": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ],
+    "verified": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ]
+  },
+  "tt30923123": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt31038430": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt31101783": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt31121364": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt31122777": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt31137273": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt31219594": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt31227639": {
+    "providers": [
+      "Looke",
+      "Looke Amazon Channel"
+    ],
+    "verified": [
+      "Looke",
+      "Looke Amazon Channel"
+    ]
+  },
+  "tt31262522": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt31289994": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt31314751": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt31418326": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt31429675": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt31438328": {
+    "providers": []
+  },
+  "tt31451257": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt31510539": {
+    "providers": []
+  },
+  "tt31739473": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt31806037": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt31828121": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt31852720": {
+    "providers": []
+  },
+  "tt31862843": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt31862968": {
+    "providers": [
+      "WOW Presents Plus"
+    ]
+  },
+  "tt31938062": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt31974367": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt31987295": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt32021861": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt32053847": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt32056314": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt32125946": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt3212804": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt32146322": {
+    "providers": [
+      "Diamond Films Amazon Channel"
+    ],
+    "verified": [
+      "Diamond Films Amazon Channel"
+    ]
+  },
+  "tt32149314": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt32245065": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt3228420": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt32315888": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt32410998": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt32459974": {
+    "providers": []
+  },
+  "tt32583026": {
+    "providers": []
+  },
+  "tt32614039": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt32621968": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt32751696": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt32767294": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt32840267": {
+    "providers": []
+  },
+  "tt32872971": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt3288518": {
+    "providers": [
+      "Amazon Prime Video",
+      "Netflix",
+      "Pluto TV"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Netflix"
+    ]
+  },
+  "tt33043892": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt33045762": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt33059458": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt33087244": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt3314218": {
+    "providers": []
+  },
+  "tt3315386": {
+    "providers": []
+  },
+  "tt33204483": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt33247080": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt33248156": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt33322062": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt33332385": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt33362589": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt33396904": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt3339966": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt33481255": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt3398228": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt34164659": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt3428912": {
+    "providers": []
+  },
+  "tt34385331": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt34570673": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt34618137": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt3464896": {
+    "providers": []
+  },
+  "tt34651911": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt3468798": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt34692112": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt34821695": {
+    "providers": []
+  },
+  "tt3487356": {
+    "providers": []
+  },
+  "tt3501074": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt3502262": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt35050741": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt35052656": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt35228151": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt3526078": {
+    "providers": [
+      "Sony One Amazon Channel"
+    ],
+    "verified": [
+      "Sony One Amazon Channel"
+    ]
+  },
+  "tt3530232": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt35309276": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt35328184": {
+    "providers": []
+  },
+  "tt35404666": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt3543082": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt35495073": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt3556920": {
+    "providers": []
+  },
+  "tt3566726": {
+    "providers": [
+      "Globoplay",
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Globoplay",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt35677100": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt35728748": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt35786909": {
+    "providers": []
+  },
+  "tt3581920": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt35838027": {
+    "providers": []
+  },
+  "tt35853579": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt36056620": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt36153709": {
+    "providers": [
+      "Amazon Prime Video",
+      "Netflix"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Netflix"
+    ]
+  },
+  "tt36173963": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt36217717": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt36325198": {
+    "providers": [
+      "Globoplay"
+    ],
+    "verified": [
+      "Globoplay"
+    ]
+  },
+  "tt36347588": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt36415832": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt36458982": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt3655448": {
+    "providers": []
+  },
+  "tt36592872": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt3673480": {
+    "providers": []
+  },
+  "tt36774488": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt36832222": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
+  "tt3697842": {
+    "providers": []
+  },
+  "tt37050740": {
+    "providers": [
+      "Netflix"
+    ]
+  },
+  "tt37179514": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt37303446": {
+    "providers": [
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt38044662": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt3846642": {
+    "providers": []
+  },
+  "tt38504111": {
+    "providers": []
+  },
+  "tt38672679": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt3879306": {
+    "providers": [
+      "Pluto TV"
+    ]
+  },
+  "tt38973495": {
+    "providers": [
+      "Amazon Prime Video",
+      "Looke",
+      "NetMovies",
+      "Pluto TV",
+      "Runtime"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt39046093": {
+    "providers": []
+  },
+  "tt3920596": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt39292448": {
+    "providers": [
+      "Looke"
+    ]
+  },
+  "tt3960394": {
+    "providers": [
+      "Amazon Prime Video",
+      "Netflix"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Netflix"
+    ]
+  },
+  "tt40407840": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt4063800": {
+    "providers": []
+  },
+  "tt4094300": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel"
+    ]
+  },
+  "tt41050785": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt4130418": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt4158110": {
+    "providers": []
+  },
+  "tt4192812": {
+    "providers": []
+  },
+  "tt4228802": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt4254242": {
+    "providers": []
+  },
+  "tt4270492": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt4277922": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt4288182": {
+    "providers": [
+      "Disney Plus",
+      "Netflix"
+    ],
+    "verified": [
+      "Disney Plus",
+      "Netflix"
+    ]
+  },
+  "tt4299972": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt4301160": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt4307902": {
+    "providers": [
+      "Paramount Plus"
+    ]
+  },
+  "tt4326894": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt43440117": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt4370596": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt4374208": {
+    "providers": []
+  },
+  "tt4378376": {
+    "providers": []
+  },
+  "tt4406178": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt4419214": {
+    "providers": []
+  },
+  "tt4477976": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt4522400": {
+    "providers": []
+  },
+  "tt4574334": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt4635276": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt4635282": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt4643084": {
+    "providers": []
+  },
+  "tt4677934": {
+    "providers": []
+  },
+  "tt4687880": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt4687882": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt4706558": {
+    "providers": []
+  },
+  "tt4718304": {
+    "providers": [
+      "Cartoon Network Amazon Channel",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "Cartoon Network Amazon Channel",
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt4779762": {
+    "providers": []
+  },
+  "tt4786824": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt4789300": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt4792480": {
+    "providers": []
+  },
+  "tt4834206": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt4836846": {
+    "providers": []
+  },
+  "tt4878326": {
+    "providers": []
+  },
+  "tt4947608": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel",
+      "Netflix"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel",
+      "Netflix"
+    ]
+  },
+  "tt4955642": {
+    "providers": []
+  },
+  "tt4998350": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt5012644": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5024912": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt5071412": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5114356": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt5177916": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5189670": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5195114": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt5275892": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt5290382": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5323988": {
+    "providers": []
+  },
+  "tt5339440": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5348176": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt5425186": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt5435008": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5460226": {
+    "providers": [
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt5478730": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt5555260": {
+    "providers": [
+      "Disney Plus",
+      "Globoplay"
+    ],
+    "verified": [
+      "Disney Plus",
+      "Globoplay"
+    ]
+  },
+  "tt5571524": {
+    "providers": []
+  },
+  "tt5580146": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5592146": {
+    "providers": [
+      "Plex Channel",
+      "Plex Player",
+      "Pluto TV"
+    ]
+  },
+  "tt5607976": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt5640558": {
+    "providers": []
+  },
+  "tt5648202": {
+    "providers": []
+  },
+  "tt5674272": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5687612": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt5707802": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5722190": {
+    "providers": []
+  },
+  "tt5743796": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "The Great Courses Signature Collection Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "The Great Courses Signature Collection Amazon Channel"
+    ]
+  },
+  "tt5753856": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5754602": {
+    "providers": []
+  },
+  "tt5770786": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5788792": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt5820976": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5834204": {
+    "providers": [
+      "Amazon Prime Video",
+      "Disney Plus",
+      "Globoplay",
+      "MGM+ Apple TV Channel",
+      "Netflix",
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Disney Plus",
+      "Globoplay",
+      "MGM+ Apple TV Channel",
+      "Netflix",
+      "Paramount Plus Apple TV channel"
+    ]
+  },
+  "tt5842572": {
+    "providers": [
+      "JustWatch TV"
+    ]
+  },
+  "tt5853176": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt5863126": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5867464": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt5869202": {
+    "providers": []
+  },
+  "tt5875444": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt5912064": {
+    "providers": []
+  },
+  "tt6006350": {
+    "providers": []
+  },
+  "tt6078096": {
+    "providers": [
+      "HBO Max"
+    ]
+  },
+  "tt6078644": {
+    "providers": [
+      "Looke",
+      "Looke Amazon Channel",
+      "NetMovies",
+      "Plex Channel",
+      "Plex Player"
+    ],
+    "verified": [
+      "Looke",
+      "Looke Amazon Channel"
+    ]
+  },
+  "tt6128254": {
+    "providers": []
+  },
+  "tt6133034": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt6137444": {
+    "providers": []
+  },
+  "tt6257970": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt6394320": {
+    "providers": []
+  },
+  "tt6445112": {
+    "providers": []
+  },
+  "tt6468322": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt6524350": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt6531888": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt6538034": {
+    "providers": []
+  },
+  "tt6583806": {
+    "providers": []
+  },
+  "tt6586318": {
+    "providers": []
+  },
+  "tt6601950": {
+    "providers": [
+      "Oldflix"
+    ]
+  },
+  "tt6611916": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt6704972": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt6730152": {
+    "providers": []
+  },
+  "tt6835252": {
+    "providers": []
+  },
+  "tt6860634": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt6866266": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt6871344": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt6877772": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt6879486": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt6905542": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt6905686": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt6938856": {
+    "providers": []
+  },
+  "tt6985144": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt7005636": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7008682": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt7011370": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7016936": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7049682": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt7120662": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7137906": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7140432": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt7157494": {
+    "providers": []
+  },
+  "tt7181728": {
+    "providers": []
+  },
+  "tt7186126": {
+    "providers": []
+  },
+  "tt7203552": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt7211618": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt7221388": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7255502": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7259746": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7263154": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7278862": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt7293240": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt7319038": {
+    "providers": [
+      "Plex Channel",
+      "Plex Player"
+    ]
+  },
+  "tt7335184": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7366338": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt7368150": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt7375404": {
+    "providers": []
+  },
+  "tt7422812": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt7435402": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7462410": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt7472896": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt7520794": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7524382": {
+    "providers": []
+  },
+  "tt7529770": {
+    "providers": []
+  },
+  "tt7562112": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt7569576": {
+    "providers": []
+  },
+  "tt7570990": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7605396": {
+    "providers": []
+  },
+  "tt7631146": {
+    "providers": []
+  },
+  "tt7649694": {
+    "providers": []
+  },
+  "tt7658402": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt7660850": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt7660970": {
+    "providers": []
+  },
+  "tt7661390": {
+    "providers": []
+  },
+  "tt7671070": {
+    "providers": [
+      "HBO Max"
+    ]
+  },
+  "tt7678620": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt7721046": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt7724320": {
+    "providers": []
+  },
+  "tt7741830": {
+    "providers": []
+  },
+  "tt7758552": {
+    "providers": []
+  },
+  "tt7767422": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7768836": {
+    "providers": []
+  },
+  "tt7772588": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt7795226": {
+    "providers": []
+  },
+  "tt7801964": {
+    "providers": [
+      "Lionsgate+ Amazon Channel"
+    ],
+    "verified": [
+      "Lionsgate+ Amazon Channel"
+    ]
+  },
+  "tt7806456": {
+    "providers": []
+  },
+  "tt7808566": {
+    "providers": []
+  },
+  "tt7808608": {
+    "providers": [
+      "Disney Plus",
+      "Netflix"
+    ],
+    "verified": [
+      "Disney Plus",
+      "Netflix"
+    ]
+  },
+  "tt7820906": {
+    "providers": []
+  },
+  "tt7879820": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7907922": {
+    "providers": []
+  },
+  "tt7908628": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt7909970": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt7942806": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt8000638": {
+    "providers": []
+  },
+  "tt8001092": {
+    "providers": [
+      "CurtaOn Amazon Channel",
+      "Globoplay"
+    ],
+    "verified": [
+      "CurtaOn Amazon Channel",
+      "Globoplay"
+    ]
+  },
+  "tt8005176": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt8036272": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Netflix"
+    ]
+  },
+  "tt8036816": {
+    "providers": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ],
+    "verified": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ]
+  },
+  "tt8050586": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt8064302": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt8089592": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt8101850": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt8111088": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt8118950": {
+    "providers": []
+  },
+  "tt8134186": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt8134470": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt8146754": {
+    "providers": []
+  },
+  "tt8146760": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt8178684": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt8199790": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt8201186": {
+    "providers": [
+      "MGM Plus Amazon Channel",
+      "MGM+ Apple TV Channel"
+    ],
+    "verified": [
+      "MGM Plus Amazon Channel",
+      "MGM+ Apple TV Channel"
+    ]
+  },
+  "tt8220344": {
+    "providers": []
+  },
+  "tt8259114": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt8310612": {
+    "providers": []
+  },
+  "tt8324422": {
+    "providers": []
+  },
+  "tt8332798": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt8333976": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt8344544": {
+    "providers": []
+  },
+  "tt8359654": {
+    "providers": [
+      "Plex Channel",
+      "Plex Player"
+    ]
+  },
+  "tt8385496": {
+    "providers": []
+  },
+  "tt8396314": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt8416494": {
+    "providers": []
+  },
+  "tt8420184": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt8427658": {
+    "providers": [
+      "Cindie Amazon Channel"
+    ],
+    "verified": [
+      "Cindie Amazon Channel"
+    ]
+  },
+  "tt8430356": {
+    "providers": []
+  },
+  "tt8518136": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt8531222": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt8548830": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount+ Amazon Channel"
+    ]
+  },
+  "tt8550732": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt8561620": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt8577458": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt8594324": {
+    "providers": []
+  },
+  "tt8594510": {
+    "providers": []
+  },
+  "tt8594528": {
+    "providers": [
+      "Amazon Prime Video",
+      "Runtime"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt8594544": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt8634332": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt8681148": {
+    "providers": []
+  },
+  "tt8690518": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt8694364": {
+    "providers": []
+  },
+  "tt8697554": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt8708280": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt8712456": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt8740614": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt8740790": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt8746478": {
+    "providers": []
+  },
+  "tt8749198": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
+  "tt8772296": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt8838112": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt8879940": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt8888462": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ]
+  },
+  "tt8905884": {
+    "providers": []
+  },
+  "tt8905948": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel",
+      "Netflix"
+    ],
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel",
+      "Netflix"
+    ]
+  },
+  "tt8929142": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt8962130": {
+    "providers": []
+  },
+  "tt9055008": {
+    "providers": [
+      "Globoplay",
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Globoplay",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel",
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt9059760": {
+    "providers": []
+  },
+  "tt9139220": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt9140342": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt9140554": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt9140560": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt9140632": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt9148598": {
+    "providers": []
+  },
+  "tt9151230": {
+    "providers": []
+  },
+  "tt9151310": {
+    "providers": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ],
+    "verified": [
+      "MUBI",
+      "MUBI Amazon Channel"
+    ]
+  },
+  "tt9170108": {
+    "providers": []
+  },
+  "tt9174558": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt9184994": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt9204170": {
+    "providers": []
+  },
+  "tt9244556": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt9252090": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt9253284": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt9257258": {
+    "providers": []
+  },
+  "tt9272514": {
+    "providers": []
+  },
+  "tt9308346": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt9340526": {
+    "providers": [
+      "Lionsgate+ Amazon Channel"
+    ],
+    "verified": [
+      "Lionsgate+ Amazon Channel"
+    ]
+  },
+  "tt9343720": {
+    "providers": []
+  },
+  "tt9348700": {
+    "providers": [
+      "Globoplay"
+    ],
+    "verified": [
+      "Globoplay"
+    ]
+  },
+  "tt9362790": {
+    "providers": []
+  },
+  "tt9573980": {
+    "providers": []
+  },
+  "tt9612102": {
+    "providers": []
+  },
+  "tt9644058": {
+    "providers": [
+      "Lionsgate+ Amazon Channel"
+    ],
+    "verified": [
+      "Lionsgate+ Amazon Channel"
+    ]
+  },
+  "tt9660182": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
+    ]
+  },
+  "tt9680524": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt9698520": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt9735318": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt9772698": {
+    "providers": []
+  },
+  "tt9789272": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt9789804": {
+    "providers": []
+  },
+  "tt9805674": {
+    "providers": []
+  },
+  "tt9805678": {
+    "providers": []
+  },
+  "tt9805708": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt9815454": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
+  "tt9839222": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
+    ]
+  },
+  "tt9848536": {
+    "providers": []
+  },
+  "tt9909248": {
+    "providers": []
+  }
+}
