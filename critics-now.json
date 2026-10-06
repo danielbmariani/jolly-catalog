@@ -3233,174 +3233,14 @@
       "url": "https://www.theguardian.com/tv-and-radio/2025/oct/06/joe-wicks-licensed-to-kill-review-protein-bars-channel-4"
     }
   ],
-  "tt0057427": {
-    "age": {
-      "classind": "16",
-      "source": "DE"
-    },
+  "movie:tmdb:1339070": {
+    "age": null,
     "genres": [
-      80,
-      18,
-      9648
-    ],
-    "media_type": "movie",
-    "poster": "/4qDUe5HqB8pXNplSBlsoyVjNP3r.jpg",
-    "recs": [
-      {
-        "date": "2026-04-20",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/apr/20/the-trial-review-searing-record-of-argentinas-courtroom-reckoning-with-its-brutal-dirty-war"
-      }
-    ],
-    "title": "The Trial",
-    "tmdb_id": 3009,
-    "year": 1962
-  },
-  "tt0071809": {
-    "age": {
-      "classind": "18",
-      "source": "DE"
-    },
-    "genres": [
-      80,
-      18,
+      99,
       10770
     ],
     "media_type": "movie",
-    "poster": "/jkVpV6Crjc6i7sf5EjezAqam5oY.jpg",
-    "recs": [
-      {
-        "date": "2026-09-23",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/sep/23/manhunter-review-brian-cox-hannibal-michael-mann-red-dragon-adaptation"
-      }
-    ],
-    "title": "Manhunter",
-    "tmdb_id": 100279,
-    "year": 1974
-  },
-  "tt0073467": {
-    "age": {
-      "classind": "16",
-      "source": "DE"
-    },
-    "genres": [
-      80,
-      18,
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/6fBEEaf4MXch3BWS1RMMCXtP36Z.jpg",
-    "recs": [
-      {
-        "date": "2026-06-30",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/film/2026/jun/30/not-a-pretty-picture-review-martha-coolidge"
-      }
-    ],
-    "title": "Not a Pretty Picture",
-    "tmdb_id": 432907,
-    "year": 1976
-  },
-  "tt0079924": {
-    "age": null,
-    "genres": [
-      18,
-      10402
-    ],
-    "media_type": "movie",
-    "poster": "/iULQFKitbtYb3T7IbGjGi49hZPZ.jpg",
-    "recs": [
-      {
-        "date": "2026-07-29",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jul/29/solo-sunny-review-konrad-wolf"
-      }
-    ],
-    "title": "Solo Sunny",
-    "tmdb_id": 1906,
-    "year": 1980
-  },
-  "tt0086022": {
-    "age": null,
-    "genres": [
-      18,
-      10749
-    ],
-    "media_type": "movie",
-    "poster": "/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg",
-    "recs": [
-      {
-        "date": "2026-07-22",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/film/2026/jul/22/nostalgia-review-andrei-tarkovsky"
-      }
-    ],
-    "title": "Nostalgia",
-    "tmdb_id": 1394,
-    "year": 1983
-  },
-  "tt0091203": {
-    "age": {
-      "classind": "14",
-      "source": "BR"
-    },
-    "genres": [
-      12,
-      28,
-      14
-    ],
-    "kids": {
-      "providers": [
-        "Cindie Amazon Channel",
-        "Oldflix"
-      ],
-      "urls": {
-        "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.04dae25c-391e-4bf3-a28e-9899bc8774b7",
-        "Oldflix": "https://www.oldflix.com.br/title/play/58ed3c9fd5a0d11a848b90e9"
-      }
-    },
-    "media_type": "movie",
-    "poster": "/8Z8dptJEypuLoOQro1WugD855YE.jpg",
-    "recs": [
-      {
-        "date": "2026-04-30",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/apr/30/highlander-review-dodgy-accents-no-trouble-to-exciting-epic-and-unashamedly-fun-80s-blockbuster"
-      }
-    ],
-    "title": "Highlander",
-    "tmdb_id": 8009,
-    "year": 1986
-  },
-  "tt0092099": {
-    "age": {
-      "classind": "12",
-      "source": "BR"
-    },
-    "genres": [
-      28,
-      18,
-      10749
-    ],
-    "kids": {
-      "providers": [
-        "Paramount Plus",
-        "Paramount+ Amazon Channel"
-      ],
-      "urls": {
-        "Paramount Plus": "https://www.paramountplus.com/movies/top-gun/0roVPvRM_8J7Gs9eyqXovs2WN6ZX23C8?amp%3Butm_source=publisher",
-        "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ad95bd5-79e1-4677-8453-ff5093abe3c7"
-      }
-    },
-    "media_type": "movie",
-    "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+    "poster": "/vvb30vlvcz10dJmPtG5D26vBdf5.jpg",
     "recs": [
       {
         "date": "2026-05-14",
@@ -3409,126 +3249,15 @@
         "url": "https://www.theguardian.com/film/2026/may/14/top-gun-review-tom-cruise-val-kilmer-kelly-mcgillis"
       }
     ],
-    "title": "Top Gun",
-    "tmdb_id": 744,
-    "year": 1986
+    "title": "Guy Martin: Top Gun",
+    "tmdb_id": 1339070,
+    "year": 2024
   },
-  "tt0092263": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      28,
-      80,
-      18
-    ],
+  "movie:tmdb:1434103": {
+    "age": null,
+    "genres": [],
     "media_type": "movie",
-    "poster": "/uxZIWxOm2yonHyjLARzW37aEZjF.jpg",
-    "recs": [
-      {
-        "date": "2026-06-25",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jun/25/a-better-tomorrow-review-john-woo"
-      }
-    ],
-    "title": "A Better Tomorrow",
-    "tmdb_id": 11471,
-    "year": 1986
-  },
-  "tt0099426": {
-    "age": {
-      "classind": "18",
-      "source": "DE"
-    },
-    "genres": [
-      28,
-      80,
-      53,
-      10752
-    ],
-    "media_type": "movie",
-    "poster": "/zsLcRua8Jt5RtD8l8NAq1voXDfg.jpg",
-    "recs": [
-      {
-        "date": "2026-05-27",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/may/27/bullet-in-the-head-review-john-woo-rerelease"
-      }
-    ],
-    "title": "Bullet in the Head",
-    "tmdb_id": 11909,
-    "year": 1990
-  },
-  "tt0105488": {
-    "age": {
-      "classind": "L",
-      "source": "BR"
-    },
-    "genres": [
-      35,
-      18,
-      10749
-    ],
-    "media_type": "movie",
-    "poster": "/f6vs4DQGuNpLuA5Z7k69uuKpbVG.jpg",
-    "recs": [
-      {
-        "date": "2026-06-11",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jun/11/strictly-ballroom-review-baz-luhrmann-reissue"
-      }
-    ],
-    "title": "Strictly Ballroom",
-    "tmdb_id": 10409,
-    "year": 1992
-  },
-  "tt0110357": {
-    "age": {
-      "classind": "L",
-      "source": "BR"
-    },
-    "genres": [
-      16,
-      10751,
-      18
-    ],
-    "kids": {
-      "providers": [
-        "Disney Plus"
-      ],
-      "urls": {
-        "Disney Plus": "https://www.disneyplus.com/browse/entity-a3ae7371-39a5-4c0b-a1f2-29a70b372848"
-      }
-    },
-    "media_type": "movie",
-    "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
-    "recs": [
-      {
-        "date": "2026-04-24",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/apr/24/the-lion-king-review-musical-sydney"
-      }
-    ],
-    "title": "The Lion King",
-    "tmdb_id": 8587,
-    "year": 1994
-  },
-  "tt0110620": {
-    "age": {
-      "classind": "16",
-      "source": "US"
-    },
-    "genres": [
-      27,
-      53
-    ],
-    "media_type": "movie",
-    "poster": "/uwo3iDfPNdZoSNGAgQDXEM7xMu8.jpg",
+    "poster": "/lX1HICVXSIEJej07awbfhCAuy5Y.jpg",
     "recs": [
       {
         "date": "2026-08-06",
@@ -3538,8 +3267,46 @@
       }
     ],
     "title": "Nadja",
-    "tmdb_id": 34574,
-    "year": 1995
+    "tmdb_id": 1434103,
+    "year": 2025
+  },
+  "movie:tmdb:1451003": {
+    "age": null,
+    "genres": [],
+    "media_type": "movie",
+    "poster": "/kOIIfuYUG5UcLdAZwcC7luo7ZOw.jpg",
+    "recs": [
+      {
+        "date": "2026-04-20",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/apr/20/the-trial-review-searing-record-of-argentinas-courtroom-reckoning-with-its-brutal-dirty-war"
+      }
+    ],
+    "title": "The Trial",
+    "tmdb_id": 1451003,
+    "year": 2024
+  },
+  "movie:tmdb:1730994": {
+    "age": null,
+    "genres": [
+      18,
+      10749,
+      10751
+    ],
+    "media_type": "movie",
+    "poster": "/n7L5OQG9pkCxAllWpJjEGrNTPKQ.jpg",
+    "recs": [
+      {
+        "date": "2026-07-22",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/film/2026/jul/22/nostalgia-review-andrei-tarkovsky"
+      }
+    ],
+    "title": "Nostalgia",
+    "tmdb_id": 1730994,
+    "year": 2026
   },
   "tt0111893": {
     "age": {
@@ -3570,184 +3337,6 @@
       }
     },
     "year": 1995
-  },
-  "tt0115963": {
-    "age": {
-      "classind": "12",
-      "source": "BR"
-    },
-    "genres": [
-      27,
-      18,
-      14
-    ],
-    "media_type": "movie",
-    "poster": "/8bW2RdRkloYtEPhbQZN4wcdmJP4.jpg",
-    "recs": [
-      {
-        "date": "2026-10-06",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary"
-      }
-    ],
-    "title": "The Craft",
-    "tmdb_id": 9100,
-    "year": 1996
-  },
-  "tt0118749": {
-    "age": {
-      "classind": "18",
-      "source": "BR"
-    },
-    "genres": [
-      18,
-      35
-    ],
-    "media_type": "movie",
-    "poster": "/2hVSN9yOfoI8EUTqcVW6zCIyQ1G.jpg",
-    "recs": [
-      {
-        "date": "2026-06-10",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/film/2026/jun/10/boogie-nights-review-paul-thomas-anderson-porn-movie"
-      }
-    ],
-    "title": "Boogie Nights",
-    "tmdb_id": 4995,
-    "year": 1997
-  },
-  "tt0120791": {
-    "age": {
-      "classind": "12",
-      "source": "BR"
-    },
-    "genres": [
-      10749,
-      14,
-      35
-    ],
-    "kids": {
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
-      ],
-      "urls": {
-        "HBO Max": "https://play.hbomax.com/show/0e03cb4b-546b-4c49-a46a-25458223c859",
-        "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8a9f67e-a687-5e03-32d0-77b88e8f629c"
-      }
-    },
-    "media_type": "movie",
-    "poster": "/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",
-    "recs": [
-      {
-        "date": "2026-08-06",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/aug/06/practical-magic-review-nicole-kidman-and-sandra-bullocks-90s-witchy-fantasy-still-enchants"
-      }
-    ],
-    "title": "Practical Magic",
-    "tmdb_id": 6435,
-    "year": 1998
-  },
-  "tt0123904": {
-    "age": null,
-    "genres": [
-      18,
-      10751
-    ],
-    "media_type": "movie",
-    "poster": "/sTcV3zBRBrxYddJPCxwDTWCtaEd.jpg",
-    "recs": [
-      {
-        "date": "2026-09-16",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/sep/16/smile-at-last-review-estonia"
-      }
-    ],
-    "title": "Smile at Last",
-    "tmdb_id": 280219,
-    "year": 1985
-  },
-  "tt0134928": {
-    "age": {
-      "classind": "16",
-      "source": "DE"
-    },
-    "genres": [
-      14,
-      27,
-      9648,
-      53
-    ],
-    "media_type": "movie",
-    "poster": "/nSJUlIejc5yL1qAInQBtIgGysaK.jpg",
-    "recs": [
-      {
-        "date": "2026-09-07",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/sep/07/the-spiral-review-valeria-bruni-tedeschi-venice-film-festival"
-      }
-    ],
-    "title": "The Spiral",
-    "tmdb_id": 9706,
-    "year": 1998
-  },
-  "tt0199065": {
-    "age": {
-      "classind": "14",
-      "source": "US"
-    },
-    "genres": [
-      99,
-      10402
-    ],
-    "media_type": "movie",
-    "poster": "/cdngbxv85szwwyJDqrBrRX1Wtbm.jpg",
-    "recs": [
-      {
-        "date": "2026-10-02",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/oct/02/take-it-or-leave-it-review-vividly-atmospheric-formative-adventures-of-future-pop-princes-madness"
-      }
-    ],
-    "title": "Take It or Leave It",
-    "tmdb_id": 133626,
-    "year": 1981
-  },
-  "tt0208502": {
-    "age": {
-      "classind": "10",
-      "source": "BR"
-    },
-    "genres": [
-      16,
-      14,
-      9648,
-      878
-    ],
-    "kids": {
-      "providers": [],
-      "urls": {}
-    },
-    "media_type": "movie",
-    "poster": "/dcEUGvckbePFzPKhGXnS9T3kZMG.jpg",
-    "recs": [
-      {
-        "date": "2026-06-15",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jun/15/angels-egg-review-1985-mamoru-oshii-anime"
-      }
-    ],
-    "title": "Angel's Egg",
-    "tmdb_id": 15916,
-    "year": 1985
   },
   "tt0221734": {
     "age": null,
@@ -3806,67 +3395,6 @@
       }
     },
     "year": 2001
-  },
-  "tt0285891": {
-    "age": null,
-    "genres": [
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/jICYJWiDK53aUVcaqsKiNkTPTmC.jpg",
-    "recs": [
-      {
-        "date": "2026-07-29",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jul/29/personal-problems-review-an-exhilarating-lo-fi-epic-of-black-working-class-life-in-80s-new-york"
-      }
-    ],
-    "title": "Personal Problems",
-    "tmdb_id": 353933,
-    "year": 1980
-  },
-  "tt0497365": {
-    "age": null,
-    "genres": [
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/pquMZPfTw0EWbYhvx4jAqK5Via9.jpg",
-    "recs": [
-      {
-        "date": "2026-05-19",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/may/19/true-north-review-students-take-stand-against-racism-in-highly-charged-account-of-protest-in-60s-canada"
-      }
-    ],
-    "title": "True North",
-    "tmdb_id": 8557,
-    "year": 2007
-  },
-  "tt0783233": {
-    "age": {
-      "classind": "14",
-      "source": "BR"
-    },
-    "genres": [
-      18,
-      10749
-    ],
-    "media_type": "movie",
-    "poster": "/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
-    "recs": [
-      {
-        "date": "2026-09-30",
-        "outlet": "IndieWire",
-        "rating": "A-",
-        "url": "https://www.indiewire.com/criticism/movies/atonement-review-2026-true-war-reed-van-dyk-1235194409/"
-      }
-    ],
-    "title": "Atonement",
-    "tmdb_id": 4347,
-    "year": 2007
   },
   "tt0808224": {
     "age": null,
@@ -3969,28 +3497,6 @@
     "tmdb_id": 27984,
     "year": 2007
   },
-  "tt10937434": {
-    "age": {
-      "classind": "16",
-      "source": "DE"
-    },
-    "genres": [
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/vHqpFuguBugZZfXIyjsb4tOAXve.jpg",
-    "recs": [
-      {
-        "date": "2026-04-21",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/apr/21/ultras-review-love-letter-to-footballs-most-dedicated-supporters"
-      }
-    ],
-    "title": "Ultras",
-    "tmdb_id": 668195,
-    "year": 2020
-  },
   "tt10970762": {
     "age": {
       "classind": "18",
@@ -4053,24 +3559,37 @@
     },
     "year": 2022
   },
-  "tt11767082": {
-    "age": null,
+  "tt13186482": {
+    "age": {
+      "classind": "10",
+      "source": "BR"
+    },
     "genres": [
-      27
+      12,
+      10751,
+      16
     ],
+    "kids": {
+      "providers": [
+        "Disney Plus"
+      ],
+      "urls": {
+        "Disney Plus": "https://www.disneyplus.com/browse/entity-be4719cc-b491-4593-b5a7-d8658976c0b9"
+      }
+    },
     "media_type": "movie",
-    "poster": "/zgpfGEzFDNa2M1ZBwoq5xo5pIch.jpg",
+    "poster": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
     "recs": [
       {
-        "date": "2026-06-02",
+        "date": "2026-04-24",
         "outlet": "The Guardian",
         "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jun/02/acting-review-cheek-by-jowl-masterclass-in-how-to-strut-and-fret-upon-the-shakesperian-stage"
+        "url": "https://www.theguardian.com/film/2026/apr/24/the-lion-king-review-musical-sydney"
       }
     ],
-    "title": "Acting",
-    "tmdb_id": 1298145,
-    "year": 2021
+    "title": "Mufasa: The Lion King",
+    "tmdb_id": 762509,
+    "year": 2024
   },
   "tt13951052": {
     "age": {
@@ -4316,6 +3835,27 @@
     },
     "year": 2010
   },
+  "tt17497130": {
+    "age": null,
+    "genres": [
+      9648,
+      18,
+      53
+    ],
+    "media_type": "movie",
+    "poster": "/z3ZQXbY05pfeDwbozfxdbj7yQjM.jpg",
+    "recs": [
+      {
+        "date": "2026-07-06",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/jul/06/the-guest-review-trine-dyrholm-mads-mengel-danish"
+      }
+    ],
+    "title": "The Invisible Guest",
+    "tmdb_id": 1058588,
+    "year": 2026
+  },
   "tt17676654": {
     "age": {
       "classind": "16",
@@ -4378,47 +3918,6 @@
       }
     },
     "year": 2010
-  },
-  "tt19245164": {
-    "age": null,
-    "genres": [
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/svQjhwFV08AZShibVt1ZhiHXNz9.jpg",
-    "recs": [
-      {
-        "date": "2026-08-19",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/aug/19/over-under-review-beautiful-coming-of-age-story-set-across-five-summers"
-      }
-    ],
-    "title": "Over/Under",
-    "tmdb_id": 956319,
-    "year": 2022
-  },
-  "tt19864828": {
-    "age": {
-      "classind": "16",
-      "source": "US"
-    },
-    "genres": [
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/cZgTA5ZOKOIRGyYClJMu02VUNcE.jpg",
-    "recs": [
-      {
-        "date": "2026-08-03",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/aug/03/memory-review-a-childs-eye-view-of-terror-in-chechnya-vladlena-sandu"
-      }
-    ],
-    "title": "Memory",
-    "tmdb_id": 979097,
-    "year": 2023
   },
   "tt19868452": {
     "age": null,
@@ -4551,23 +4050,6 @@
     "tmdb_id": 1660401,
     "year": 2026
   },
-  "tt2188919": {
-    "age": null,
-    "genres": [],
-    "media_type": "movie",
-    "poster": "/tBSdY8dC0gfX99t7lxdMhnRVbf5.jpg",
-    "recs": [
-      {
-        "date": "2026-09-21",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping"
-      }
-    ],
-    "title": "The Seasons",
-    "tmdb_id": 646887,
-    "year": 1954
-  },
   "tt21990160": {
     "age": null,
     "genres": [
@@ -4684,6 +4166,26 @@
     "title": "Little Bird",
     "tmdb_id": 220594,
     "year": 2023
+  },
+  "tt23411728": {
+    "age": null,
+    "genres": [
+      18,
+      53
+    ],
+    "media_type": "movie",
+    "poster": "/hkpxitZPz3cKQMl2g0MxzKQdtpP.jpg",
+    "recs": [
+      {
+        "date": "2026-09-07",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/sep/07/the-spiral-review-valeria-bruni-tedeschi-venice-film-festival"
+      }
+    ],
+    "title": "The Spiral",
+    "tmdb_id": 1412795,
+    "year": 2026
   },
   "tt2355896": {
     "age": null,
@@ -4829,6 +4331,26 @@
     "title": "Musk",
     "tmdb_id": 1096228,
     "year": 2026
+  },
+  "tt27054971": {
+    "age": null,
+    "genres": [
+      18,
+      878
+    ],
+    "media_type": "movie",
+    "poster": "/jh8JKeO9VgeeEAfzuUUVi6xpBO4.jpg",
+    "recs": [
+      {
+        "date": "2026-06-25",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/jun/25/a-better-tomorrow-review-john-woo"
+      }
+    ],
+    "title": "A Better Tomorrow",
+    "tmdb_id": 1243238,
+    "year": 2024
   },
   "tt27219293": {
     "age": null,
@@ -5216,30 +4738,6 @@
     "title": "Cactus Pears",
     "tmdb_id": 1288748,
     "year": 2025
-  },
-  "tt2980592": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      9648,
-      53,
-      28
-    ],
-    "media_type": "movie",
-    "poster": "/gvlEFHu9FuYLmBZwsARTtuNIiDO.jpg",
-    "recs": [
-      {
-        "date": "2026-07-06",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jul/06/the-guest-review-trine-dyrholm-mads-mengel-danish"
-      }
-    ],
-    "title": "The Guest",
-    "tmdb_id": 241848,
-    "year": 2014
   },
   "tt30343126": {
     "age": null,
@@ -6271,6 +5769,34 @@
     "tmdb_id": 1299581,
     "year": 2026
   },
+  "tt32588798": {
+    "age": {
+      "classind": "12",
+      "source": "BR"
+    },
+    "genres": [
+      10749,
+      14,
+      35
+    ],
+    "kids": {
+      "providers": [],
+      "urls": {}
+    },
+    "media_type": "movie",
+    "poster": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "recs": [
+      {
+        "date": "2026-08-06",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/aug/06/practical-magic-review-nicole-kidman-and-sandra-bullocks-90s-witchy-fantasy-still-enchants"
+      }
+    ],
+    "title": "Practical Magic 2",
+    "tmdb_id": 1302904,
+    "year": 2026
+  },
   "tt32750053": {
     "age": null,
     "genres": [
@@ -6408,6 +5934,25 @@
     },
     "year": 2025
   },
+  "tt32908732": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "poster": "/6smZ3elE1oM4xzFbs0LBYvw3sk3.jpg",
+    "recs": [
+      {
+        "date": "2026-06-02",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/jun/02/acting-review-cheek-by-jowl-masterclass-in-how-to-strut-and-fret-upon-the-shakesperian-stage"
+      }
+    ],
+    "title": "Acting",
+    "tmdb_id": 1328921,
+    "year": 2024
+  },
   "tt32928666": {
     "age": null,
     "genres": [
@@ -6457,6 +6002,27 @@
       }
     },
     "year": 2026
+  },
+  "tt33030072": {
+    "age": null,
+    "genres": [
+      35,
+      18,
+      10749
+    ],
+    "media_type": "movie",
+    "poster": "/6ZkmsvBjEV4ylGRJjPQC799aiqC.jpg",
+    "recs": [
+      {
+        "date": "2026-09-21",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping"
+      }
+    ],
+    "title": "The Seasons",
+    "tmdb_id": 1207074,
+    "year": 2024
   },
   "tt33037725": {
     "age": null,
@@ -7205,6 +6771,25 @@
     "title": "Woman Unknown",
     "tmdb_id": 1511780,
     "year": 2027
+  },
+  "tt34939690": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "poster": "/gOOFnmalnzGY2JWYaknxbBIgD0T.jpg",
+    "recs": [
+      {
+        "date": "2026-04-21",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/apr/21/ultras-review-love-letter-to-footballs-most-dedicated-supporters"
+      }
+    ],
+    "title": "Ultras",
+    "tmdb_id": 1412744,
+    "year": 2026
   },
   "tt34965172": {
     "age": null,
@@ -8259,6 +7844,26 @@
     "tmdb_id": 1474319,
     "year": null
   },
+  "tt36789083": {
+    "age": null,
+    "genres": [
+      10752,
+      18
+    ],
+    "media_type": "movie",
+    "poster": "/pOVdATDlYfPimHCDgI42LGHCKf9.jpg",
+    "recs": [
+      {
+        "date": "2026-09-30",
+        "outlet": "IndieWire",
+        "rating": "A-",
+        "url": "https://www.indiewire.com/criticism/movies/atonement-review-2026-true-war-reed-van-dyk-1235194409/"
+      }
+    ],
+    "title": "Atonement",
+    "tmdb_id": 1484085,
+    "year": 2026
+  },
   "tt36789130": {
     "age": null,
     "genres": [
@@ -8341,6 +7946,25 @@
     ],
     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "tmdb_id": 1477104,
+    "year": 2026
+  },
+  "tt36943968": {
+    "age": null,
+    "genres": [
+      18
+    ],
+    "media_type": "movie",
+    "poster": null,
+    "recs": [
+      {
+        "date": "2026-10-06",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary"
+      }
+    ],
+    "title": "The Craft",
+    "tmdb_id": 1735981,
     "year": 2026
   },
   "tt37020296": {
@@ -8746,6 +8370,25 @@
         "Disney Plus": "https://www.disneyplus.com/browse/entity-a7fe8b37-3304-4eeb-a87b-74de9c7b3f03"
       }
     },
+    "year": 2026
+  },
+  "tt37801860": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "poster": "/txm24fir8YmUFBlWTd7jdK9FSfp.jpg",
+    "recs": [
+      {
+        "date": "2026-09-07",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/sep/07/imperium-review-sergei-loznitsas-archive-collage-pieces-together-normal-life-in-cold-war-soviet-union"
+      }
+    ],
+    "title": "Imperium",
+    "tmdb_id": 1603920,
     "year": 2026
   },
   "tt37803364": {
@@ -9200,6 +8843,26 @@
     ],
     "title": "Once Upon a Time in Space",
     "tmdb_id": 246148,
+    "year": 2025
+  },
+  "tt38772545": {
+    "age": null,
+    "genres": [
+      35,
+      10751
+    ],
+    "media_type": "movie",
+    "poster": "/eMYN7xwMW3y5E4s92Qm6Li0oAlG.jpg",
+    "recs": [
+      {
+        "date": "2026-06-03",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/film/2026/jun/03/the-misfits-review-marilyn-monroe-john-huston-western-arthur-miller"
+      }
+    ],
+    "title": "The Misfits",
+    "tmdb_id": 1536667,
     "year": 2025
   },
   "tt38784236": {
@@ -9715,6 +9378,26 @@
     "title": "Derek vs Derek",
     "tmdb_id": 1638280,
     "year": 2027
+  },
+  "tt40269077": {
+    "age": null,
+    "genres": [
+      10749,
+      18
+    ],
+    "media_type": "movie",
+    "poster": "/1ucCvNfCUlhacBZseLik4IWg797.jpg",
+    "recs": [
+      {
+        "date": "2026-08-03",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/aug/03/memory-review-a-childs-eye-view-of-terror-in-chechnya-vladlena-sandu"
+      }
+    ],
+    "title": "A Special Memory",
+    "tmdb_id": 1630264,
+    "year": 2026
   },
   "tt40443746": {
     "age": null,
@@ -10707,84 +10390,6 @@
     "tmdb_id": 1773855,
     "year": 2026
   },
-  "tt4698684": {
-    "age": {
-      "classind": "14",
-      "source": "BR"
-    },
-    "genres": [
-      12,
-      35,
-      18
-    ],
-    "kids": {
-      "providers": [
-        "Sony One Amazon Channel"
-      ],
-      "urls": {
-        "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6180a6af-9b11-4c62-8050-b35cb9f30539"
-      }
-    },
-    "media_type": "movie",
-    "poster": "/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
-    "recs": [
-      {
-        "date": "2026-08-06",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/aug/06/hunt-for-the-wilderpeople-review-sam-neill-taika-waititi"
-      }
-    ],
-    "title": "Hunt for the Wilderpeople",
-    "tmdb_id": 371645,
-    "year": 2016
-  },
-  "tt4781612": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      80,
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/fEwo3gZfbeoovdcTyf4o4wATE1r.jpg",
-    "recs": [
-      {
-        "date": "2026-09-07",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/sep/07/imperium-review-sergei-loznitsas-archive-collage-pieces-together-normal-life-in-cold-war-soviet-union"
-      }
-    ],
-    "title": "Imperium",
-    "tmdb_id": 374617,
-    "year": 2016
-  },
-  "tt4876134": {
-    "age": {
-      "classind": "18",
-      "source": "BR"
-    },
-    "genres": [
-      28,
-      53
-    ],
-    "media_type": "movie",
-    "poster": "/dPOyYnCkRbWAEem85N3VFpQODf5.jpg",
-    "recs": [
-      {
-        "date": "2026-06-03",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/film/2026/jun/03/the-misfits-review-marilyn-monroe-john-huston-western-arthur-miller"
-      }
-    ],
-    "title": "The Misfits",
-    "tmdb_id": 581644,
-    "year": 2021
-  },
   "tt6037988": {
     "age": {
       "classind": "16",
@@ -10915,28 +10520,6 @@
       }
     },
     "year": 2019
-  },
-  "tt9046038": {
-    "age": {
-      "classind": "14",
-      "source": "BR"
-    },
-    "genres": [
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/ypVVErMoXxK97gsQZ9swJ4fN0Md.jpg",
-    "recs": [
-      {
-        "date": "2026-09-07",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/sep/07/the-last-bath-review-self-mortifying-nun-struggles-with-profoundly-uneasy-sexual-awakening"
-      }
-    ],
-    "title": "The Last Bath",
-    "tmdb_id": 736169,
-    "year": 2020
   },
   "tt9280400": {
     "age": {
