@@ -10,12 +10,7 @@
       }
     ],
     "poster": "/8Z1pJKpRDE5BPNKiPNi88O6WkCK.jpg",
-    "providers": [
-      "Globoplay"
-    ],
-    "providers_verified": [
-      "Globoplay"
-    ],
+    "providers": [],
     "status": "returning",
     "title": "Quintal da Cultura",
     "tmdb_id": 285903
@@ -212,6 +207,7 @@
     ],
     "poster": "/whb9VJJdDlRjJLrRrQl1NkyD3Dc.jpg",
     "providers": [
+      "Plex",
       "Plex Channel",
       "Plex Player"
     ],
@@ -297,16 +293,7 @@
       }
     ],
     "poster": "/3pjsgCyli0xupAOSvJsKKo7hlia.jpg",
-    "providers": [
-      "HBO Max",
-      "HBO Max Amazon Channel",
-      "Netflix"
-    ],
-    "providers_verified": [
-      "HBO Max",
-      "HBO Max Amazon Channel",
-      "Netflix"
-    ],
+    "providers": [],
     "status": "ended",
     "title": "O Mundo Redondo de Olie",
     "tmdb_id": 2641
@@ -334,12 +321,7 @@
       "csm-50"
     ],
     "poster": "/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-    "providers": [
-      "Amazon Prime Video"
-    ],
-    "providers_verified": [
-      "Amazon Prime Video"
-    ],
+    "providers": [],
     "status": "returning",
     "title": "NOVA",
     "tmdb_id": 3562
@@ -524,13 +506,7 @@
       "brasil-canon"
     ],
     "poster": "/9XMXjb6LglmiarHI6D99bnmDuI3.jpg",
-    "providers": [
-      "Netflix",
-      "Oldflix"
-    ],
-    "providers_verified": [
-      "Netflix"
-    ],
+    "providers": [],
     "status": "ended",
     "title": "Mundo da Lua",
     "tmdb_id": 65302
@@ -616,12 +592,7 @@
       }
     ],
     "poster": "/vJmdj1yZ5MY3repUubHK39cqUbt.jpg",
-    "providers": [
-      "Netflix"
-    ],
-    "providers_verified": [
-      "Netflix"
-    ],
+    "providers": [],
     "status": "ended",
     "title": "Jakers! As Aventuras de Piggley Winks",
     "tmdb_id": 13605
@@ -651,16 +622,7 @@
       }
     ],
     "poster": "/h57yV94qcZcoGf3BNQQUtQa8wvi.jpg",
-    "providers": [
-      "Amazon Prime Video",
-      "HBO Max",
-      "HBO Max Amazon Channel"
-    ],
-    "providers_verified": [
-      "Amazon Prime Video",
-      "HBO Max",
-      "HBO Max Amazon Channel"
-    ],
+    "providers": [],
     "status": "ended",
     "title": "Peep and the Big Wide World",
     "tmdb_id": 1812
@@ -820,7 +782,6 @@
       "Gloob Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
-      "Netflix",
       "Playkids Learning Amazon Channel"
     ],
     "providers_verified": [
@@ -830,7 +791,6 @@
       "Gloob Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
-      "Netflix",
       "Playkids Learning Amazon Channel"
     ],
     "status": "returning",
@@ -1166,12 +1126,7 @@
       }
     ],
     "poster": "/aGpTCYYsRDYOPAUZLe2aOLRNnbf.jpg",
-    "providers": [
-      "Netflix"
-    ],
-    "providers_verified": [
-      "Netflix"
-    ],
+    "providers": [],
     "status": "returning",
     "title": "Donkey Hodie",
     "tmdb_id": 125605
@@ -1286,22 +1241,16 @@
     "poster": "/qq4E9OZEMCST45IQnrkn0Atv6e.jpg",
     "providers": [
       "Amazon Prime Video",
+      "Amazon Prime Video with Ads",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Looke Amazon Channel",
       "NetMovies",
       "Netflix",
+      "Netflix Standard with Ads",
       "Playkids Learning Amazon Channel",
       "Pluto TV",
       "Shahid VIP"
-    ],
-    "providers_verified": [
-      "Amazon Prime Video",
-      "HBO Max",
-      "HBO Max Amazon Channel",
-      "Looke Amazon Channel",
-      "Netflix",
-      "Playkids Learning Amazon Channel"
     ],
     "status": "returning",
     "title": "Galinha Pintadinha Mini",
@@ -1953,13 +1902,7 @@
       }
     ],
     "poster": "/9tdJdsVRsmUawkr0mo0qBpX8JQZ.jpg",
-    "providers": [
-      "Paramount Plus",
-      "Paramount Plus Apple TV channel"
-    ],
-    "providers_verified": [
-      "Paramount Plus Apple TV channel"
-    ],
+    "providers": [],
     "status": "ended",
     "title": "Crazy Fun Park",
     "tmdb_id": 217446
@@ -2508,12 +2451,7 @@
       }
     ],
     "poster": "/99eiTWnMifGSFs888fznKVPKZOJ.jpg",
-    "providers": [
-      "Lionsgate+ Amazon Channel"
-    ],
-    "providers_verified": [
-      "Lionsgate+ Amazon Channel"
-    ],
+    "providers": [],
     "status": "ended",
     "title": "Zack & Quack",
     "tmdb_id": 64965
@@ -2614,10 +2552,8 @@
     ],
     "poster": "/gFhBIF8oXjpdVk1NbI4kP4l8LAe.jpg",
     "providers": [
-      "Amazon Prime Video"
-    ],
-    "providers_verified": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads"
     ],
     "status": "ended",
     "title": "Dragões: A Série",
@@ -2695,12 +2631,10 @@
     ],
     "poster": "/n59SWxZeFrPwcYjK3krMHuEfFjh.jpg",
     "providers": [
-      "Crunchyroll",
-      "Crunchyroll Amazon Channel"
+      "Netflix"
     ],
     "providers_verified": [
-      "Crunchyroll",
-      "Crunchyroll Amazon Channel"
+      "Netflix"
     ],
     "status": "ended",
     "title": "我的老板为何那样",
@@ -2787,13 +2721,11 @@
     "providers": [
       "HBO Max",
       "HBO Max Amazon Channel",
-      "Netflix",
       "Playkids Learning Amazon Channel"
     ],
     "providers_verified": [
       "HBO Max",
       "HBO Max Amazon Channel",
-      "Netflix",
       "Playkids Learning Amazon Channel"
     ],
     "status": "returning",
@@ -3207,7 +3139,12 @@
       }
     ],
     "poster": "/8ZYTNkpubnG8epqlJLjaWbbO30R.jpg",
-    "providers": [],
+    "providers": [
+      "Netflix"
+    ],
+    "providers_verified": [
+      "Netflix"
+    ],
     "status": "returning",
     "title": "Puffin Rock",
     "tmdb_id": 69926
@@ -3410,14 +3347,12 @@
     "providers": [
       "Disney Plus",
       "HBO Max",
-      "HBO Max Amazon Channel",
-      "Netflix"
+      "HBO Max Amazon Channel"
     ],
     "providers_verified": [
       "Disney Plus",
       "HBO Max",
-      "HBO Max Amazon Channel",
-      "Netflix"
+      "HBO Max Amazon Channel"
     ],
     "status": "returning",
     "title": "PJ Masks: Heróis de Pijama",
@@ -3692,6 +3627,7 @@
     ],
     "poster": "/7EHM9vaAWBBWgBJnQapYKjGIVHt.jpg",
     "providers": [
+      "Plex",
       "Plex Channel",
       "Plex Player",
       "Pluto TV"
@@ -4412,17 +4348,7 @@
       }
     ],
     "poster": "/hfr697VjaFFI6WDBDglu073wMcj.jpg",
-    "providers": [
-      "Netflix",
-      "Paramount Plus",
-      "Paramount Plus Apple TV channel",
-      "Paramount+ Amazon Channel"
-    ],
-    "providers_verified": [
-      "Netflix",
-      "Paramount Plus Apple TV channel",
-      "Paramount+ Amazon Channel"
-    ],
+    "providers": [],
     "status": "returning",
     "title": "Kongen av Gulset",
     "tmdb_id": 113952

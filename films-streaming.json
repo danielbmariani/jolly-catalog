@@ -43,14 +43,12 @@
   },
   "10098": {
     "providers": [
-      "JustWatch TV",
       "Looke",
       "NetMovies",
       "Pluto TV",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-garoto?package=jwt",
       "Looke": "https://www.looke.com.br/detalhes/127006",
       "NetMovies": "https://www.netmovies.com.br/filmes/127006",
       "Pluto TV": "https://pluto.tv/on-demand/movies/charlie-chaplin-o-garoto-br-1920-1-1",
@@ -286,7 +284,6 @@
       "Belas Artes à La Carte",
       "Bloodstream",
       "Cindie Amazon Channel",
-      "JustWatch TV",
       "Libreflix",
       "Looke",
       "NetMovies",
@@ -299,7 +296,6 @@
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Bloodstream": "https://bloodstreamtv.com/show-details/nightofthelivingdead?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.20bc4553-b941-cf85-1b93-d39251f0cca2",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/a-noite-dos-mortos-vivos-1968?package=jwt",
       "Libreflix": "https://libreflix.org/i/night-of-the-living-dead",
       "Looke": "https://www.looke.com.br/detalhes/127009",
       "NetMovies": "https://www.netmovies.com.br/filmes/127009",
@@ -326,10 +322,16 @@
   },
   "10340": {
     "providers": [
-      "Disney Plus"
+      "Disney Plus",
+      "Plex",
+      "Plex Channel",
+      "Plex Player"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-f8a68a49-f7c3-417d-baed-1ff7c7b862de"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-f8a68a49-f7c3-417d-baed-1ff7c7b862de",
+      "Plex": "https://watch.plex.tv/movie/lady-and-the-tramp?autoplay=1",
+      "Plex Channel": "https://www.justwatch.com/br/filme/a-dama-e-o-vagabundo?package=plc",
+      "Plex Player": "https://watch.plex.tv/embed/movie/lady-and-the-tramp?referrer=JustWatch"
     }
   },
   "10386": {
@@ -400,11 +402,9 @@
   },
   "10501": {
     "providers": [
-      "Disney Plus",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-3c8b0cb9-b1e5-4cea-93fc-f095b3433bbb",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6b0a844-79db-d7b4-91ee-8d2b7458d606"
     }
   },
@@ -639,12 +639,10 @@
   },
   "10728": {
     "providers": [
-      "JustWatch TV",
       "MUBI",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/fausto?package=jwt",
       "MUBI": "https://mubi.com/films/faust-1926",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6698926e-7ef9-4a9a-ae05-e270a8dc49fc"
     }
@@ -1359,6 +1357,16 @@
       "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.252d757e-5206-426c-81e4-924ab9b5d6f2"
     }
   },
+  "1159559": {
+    "providers": [
+      "Paramount Plus",
+      "Paramount+ Amazon Channel"
+    ],
+    "urls": {
+      "Paramount Plus": "https://www.paramountplus.com/movies/scream-7/ALVE01KPZPWF2QE3F8QA428PX7WGCE?amp%3Butm_source=publisher",
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ca2b77ec-3eae-489f-b28c-3dc98d189007"
+    }
+  },
   "11602": {
     "providers": [
       "Looke",
@@ -1590,7 +1598,7 @@
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/spongebob-squarepants-movie/xIib0RQzhlochSQUGRYGnTQtYjoA6h0N?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90f5a4db-52fc-4219-8683-348a370e80de"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98270b81-28e9-426e-a56f-af23bf8ec32d"
     }
   },
   "11837": {
@@ -1691,7 +1699,7 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6aa9f6d4-b7f6-f0b4-a4ff-4d18649d0709"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6a9f6fc-6490-1b6e-7230-793c5a4da987"
     }
   },
   "11902": {
@@ -1734,7 +1742,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-dc6c97e1-ab46-4b22-90c8-2a9a59560074"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-ae19dd2f-a945-442b-a18e-d57fa8f5091f"
     }
   },
   "11977": {
@@ -1888,7 +1896,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351495ES419",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351495ESES",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0a6a0715-eb48-403f-b942-f7d6fbb8414b"
     }
   },
@@ -1959,15 +1967,18 @@
   },
   "1226699": {
     "providers": [
-      "Crunchyroll",
       "Netflix"
-    ],
-    "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GR4G22K3Y"
-    }
+    ]
   },
   "1228841": {
-    "providers": []
+    "providers": [
+      "Looke",
+      "NetMovies"
+    ],
+    "urls": {
+      "Looke": "https://www.looke.com.br/detalhes/7954",
+      "NetMovies": "https://www.netmovies.com.br/filmes/7954"
+    }
   },
   "122906": {
     "providers": [
@@ -2239,7 +2250,16 @@
     ]
   },
   "1280398": {
-    "providers": []
+    "providers": [
+      "Plex",
+      "Plex Channel",
+      "Plex Player"
+    ],
+    "urls": {
+      "Plex": "https://watch.plex.tv/movie/fast-food-1998?autoplay=1",
+      "Plex Channel": "https://www.justwatch.com/br/filme/home-fries?package=plc",
+      "Plex Player": "https://watch.plex.tv/embed/movie/fast-food-1998?referrer=JustWatch"
+    }
   },
   "1280738": {
     "providers": [
@@ -2505,16 +2525,6 @@
   "135": {
     "providers": []
   },
-  "1352624": {
-    "providers": [
-      "MUBI",
-      "MUBI Amazon Channel"
-    ],
-    "urls": {
-      "MUBI": "https://mubi.com/films/the-mastermind",
-      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8d85f4da-0897-4dd7-918a-65cbca115305"
-    }
-  },
   "13528": {
     "providers": [
       "Plex",
@@ -2548,14 +2558,12 @@
   "13562": {
     "providers": [
       "Artiflix",
-      "JustWatch TV",
       "Plex",
       "Plex Channel",
       "Plex Player"
     ],
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/my-man-godfrey?package=jwt",
       "Plex": "https://watch.plex.tv/movie/my-man-godfrey?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/my-man-godfrey?package=plc",
       "Plex Player": "https://watch.plex.tv/embed/movie/my-man-godfrey?referrer=JustWatch"
@@ -2749,12 +2757,16 @@
   },
   "138": {
     "providers": [
-      "Globoplay",
+      "Looke",
+      "Looke Amazon Channel",
+      "Oldflix",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Globoplay": "https://globoplay.globo.com/dracula-uma-historia-de-amor-eterno/t/bxzRdwNjTP/",
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d93810de-a87e-4430-b5d3-f9becab02992"
+      "Looke": "https://www.looke.com.br/detalhes/243060",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ff973e9-ba7c-4f97-9d39-6023921296f9",
+      "Oldflix": "https://www.oldflix.com.br/title/play/597abef419ac3913d83c9e2a",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2fb4887c-a93f-456f-aa22-f995a3b7ca6a"
     }
   },
   "1380316": {
@@ -3150,7 +3162,14 @@
     "providers": []
   },
   "1433583": {
-    "providers": []
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "urls": {
+      "HBO Max": "https://play.hbomax.com/video/watch/a3b31b77-3ba6-475f-80f6-1017df9f167a",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.45f93cd1-8a9b-423c-8e9e-312187b34728"
+    }
   },
   "14337": {
     "providers": []
@@ -3192,7 +3211,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GG1UXW875"
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G50UMKQ80"
     }
   },
   "14421": {
@@ -3221,7 +3240,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-24ff6801-575d-45d4-a157-e95f4499e161"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-09aa241f-b771-4323-a7ac-e2dae4f3782e"
     }
   },
   "145": {
@@ -3285,10 +3304,12 @@
   },
   "14572": {
     "providers": [
-      "Amazon Prime Video"
+      "Apple TV",
+      "Apple TV Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e5bd378-8aad-4f94-a13d-5a70fb526b6e"
+      "Apple TV": "https://tv.apple.com/br/movie/matchbox---o-filme/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv",
+      "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c5dc1582-c445-4e43-b959-ef3f43ea5345"
     }
   },
   "14580": {
@@ -3381,16 +3402,7 @@
     }
   },
   "1468383": {
-    "providers": [
-      "JustWatch TV",
-      "MUBI",
-      "Telecine Amazon Channel"
-    ],
-    "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/fausto?package=jwt",
-      "MUBI": "https://mubi.com/films/faust-1926",
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6698926e-7ef9-4a9a-ae05-e270a8dc49fc"
-    }
+    "providers": []
   },
   "146904": {
     "providers": []
@@ -3691,12 +3703,13 @@
   "1536667": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max",
-      "Netflix"
+      "Looke",
+      "NetMovies"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cbeb18c4-6f49-4fd9-a278-dd8a5d4dc412",
-      "HBO Max": "https://play.hbomax.com/show/0fbb6fbc-8c16-485a-919e-c38d3ca4be44"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e1fefe-51f6-44b3-979d-78d80111652d",
+      "Looke": "https://www.looke.com.br/detalhes/214892",
+      "NetMovies": "https://www.netmovies.com.br/filmes/214892"
     }
   },
   "15371": {
@@ -3763,7 +3776,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GQJUG9QE5",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G0DUN0J4N",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c39376c9-e069-49e5-a26f-eb5222945d96"
     }
   },
@@ -3855,13 +3868,11 @@
   "1578": {
     "providers": [
       "Amazon Prime Video",
-      "MUBI",
-      "MUBI Amazon Channel"
+      "MUBI"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f470ce06-ae18-4c44-af5e-c0c83923e7dc",
-      "MUBI": "https://mubi.com/films/raging-bull",
-      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.48aafb9a-5863-4bb3-8f3a-9f6dd3319d8e"
+      "MUBI": "https://mubi.com/films/raging-bull"
     }
   },
   "15789": {
@@ -3990,9 +4001,6 @@
       "Pluto TV": "https://pluto.tv/on-demand/movies/a-cry-for-iran-ira-um-brado-de-fe-2021-1-1"
     }
   },
-  "1596326": {
-    "providers": []
-  },
   "1596335": {
     "providers": [
       "Netflix"
@@ -4029,7 +4037,6 @@
       "Bloodstream",
       "Cindie Amazon Channel",
       "Cultpix",
-      "JustWatch TV",
       "Plex",
       "Plex Channel",
       "Plex Player",
@@ -4040,7 +4047,6 @@
       "Bloodstream": "https://bloodstreamtv.com/show-details/carnivalofsouls?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8f5a0c2-7eee-4c25-af61-116a42343383",
       "Cultpix": "https://www.cultpix.com/movie/carnival-of-souls/2350",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/carnival-of-souls?package=jwt",
       "Plex": "https://watch.plex.tv/movie/carnival-of-souls?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/carnival-of-souls?package=plc",
       "Plex Player": "https://watch.plex.tv/embed/movie/carnival-of-souls?referrer=JustWatch",
@@ -4116,7 +4122,7 @@
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/jules-and-jim",
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e3caca9e-592a-489a-8e7d-a8ae4c7a90a0"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c946406d-2965-43c3-9e2c-86139b653432"
     }
   },
   "1630264": {
@@ -4249,12 +4255,7 @@
     ]
   },
   "16661": {
-    "providers": [
-      "JustWatch TV"
-    ],
-    "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/levado-da-breca?package=jwt"
-    }
+    "providers": []
   },
   "1666787": {
     "providers": []
@@ -4524,6 +4525,9 @@
       "Netflix"
     ]
   },
+  "1754364": {
+    "providers": []
+  },
   "1755291": {
     "providers": []
   },
@@ -4644,12 +4648,10 @@
   },
   "18030": {
     "providers": [
-      "Belas Artes à La Carte",
-      "JustWatch TV"
+      "Belas Artes à La Carte"
     ],
     "urls": {
-      "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/kiss-me-deadly?package=jwt"
+      "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
     }
   },
   "180662": {
@@ -4793,10 +4795,12 @@
   },
   "1885": {
     "providers": [
-      "Sony One Amazon Channel"
+      "HBO Max",
+      "HBO Max Amazon Channel"
     ],
     "urls": {
-      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26f71da8-ed1f-4713-9586-e10f7c6d92cc"
+      "HBO Max": "https://play.hbomax.com/show/056dfe5a-8245-490b-a76f-a9081c3a76bc",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26f71da8-ed1f-4713-9586-e10f7c6d92cc"
     }
   },
   "1890": {
@@ -5114,12 +5118,10 @@
   },
   "20352": {
     "providers": [
-      "Globoplay",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "urls": {
-      "Globoplay": "https://globoplay.globo.com/meu-malvado-favorito/t/Xy6HmkQsrM/",
       "HBO Max": "https://play.hbomax.com/show/6a368918-b971-4553-9c1e-4f64daf45fbf",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aaa9f745-36a7-14a5-440f-3cfc1ee8aa30"
     }
@@ -5128,7 +5130,6 @@
     "providers": [
       "Artiflix",
       "Belas Artes à La Carte",
-      "JustWatch TV",
       "Looke",
       "NetMovies",
       "Pluto TV"
@@ -5136,7 +5137,6 @@
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/detour?package=jwt",
       "Looke": "https://www.looke.com.br/detalhes/126311",
       "NetMovies": "https://www.netmovies.com.br/filmes/126311",
       "Pluto TV": "https://pluto.tv/on-demand/movies/detour-br-1944-1-1"
@@ -5481,14 +5481,12 @@
   "223": {
     "providers": [
       "Filmzie",
-      "JustWatch TV",
       "Looke",
       "NetMovies",
       "Oldflix"
     ],
     "urls": {
       "Filmzie": "https://filmzie.com/content/rebecca-1940",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/rebecca-a-mulher-inesquecivel?package=jwt",
       "Looke": "https://www.looke.com.br/detalhes/43019",
       "NetMovies": "https://www.netmovies.com.br/filmes/43019",
       "Oldflix": "https://www.oldflix.com.br/title/play/5a2040e74f3d73103c721e40"
@@ -5503,12 +5501,7 @@
     }
   },
   "224": {
-    "providers": [
-      "JustWatch TV"
-    ],
-    "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-homem-de-marmore?package=jwt"
-    }
+    "providers": []
   },
   "225": {
     "providers": [
@@ -5553,11 +5546,9 @@
   },
   "22596": {
     "providers": [
-      "JustWatch TV",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/safety-last?package=jwt",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c44a98e1-fc7f-4802-8398-0cbc420342bd"
     }
   },
@@ -5743,7 +5734,6 @@
   "23620": {
     "providers": [
       "Artiflix",
-      "JustWatch TV",
       "Plex",
       "Plex Channel",
       "Plex Player",
@@ -5751,7 +5741,6 @@
     ],
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/salt-of-the-earth?package=jwt",
       "Plex": "https://watch.plex.tv/movie/salt-of-the-earth?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/salt-of-the-earth?package=plc",
       "Plex Player": "https://watch.plex.tv/embed/movie/salt-of-the-earth?referrer=JustWatch",
@@ -6146,12 +6135,10 @@
   },
   "25768": {
     "providers": [
-      "Artiflix",
-      "JustWatch TV"
+      "Artiflix"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/steamboat-bill-jr?package=jwt"
+      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
     }
   },
   "258480": {
@@ -6203,7 +6190,6 @@
     "providers": [
       "Artiflix",
       "Belas Artes à La Carte",
-      "JustWatch TV",
       "Looke",
       "Plex",
       "Plex Channel",
@@ -6213,7 +6199,6 @@
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/os-39-degraus?package=jwt",
       "Looke": "https://www.looke.com.br/detalhes/126874",
       "Plex": "https://watch.plex.tv/movie/the-39-steps?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/os-39-degraus?package=plc",
@@ -6288,19 +6273,14 @@
   "26317": {
     "providers": [
       "Belas Artes à La Carte",
-      "JustWatch TV",
       "Telecine Amazon Channel"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-homem-da-camera?package=jwt",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3defb8b5-01a1-4ef5-9202-fb187527afac"
     }
   },
   "26372": {
-    "providers": []
-  },
-  "26405": {
     "providers": []
   },
   "264660": {
@@ -6508,17 +6488,8 @@
   },
   "27324": {
     "providers": [
-      "Lionsgate+ Amazon Channel",
-      "Plex",
-      "Plex Channel",
-      "Plex Player"
-    ],
-    "urls": {
-      "Lionsgate+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86723518-f341-4c32-b7a9-d4cdbbccd396",
-      "Plex": "https://watch.plex.tv/movie/pulse?autoplay=1",
-      "Plex Channel": "https://www.justwatch.com/br/filme/pulse?package=plc",
-      "Plex Player": "https://watch.plex.tv/embed/movie/pulse?referrer=JustWatch"
-    }
+      "Netflix"
+    ]
   },
   "27367": {
     "providers": [
@@ -6546,12 +6517,10 @@
   },
   "274": {
     "providers": [
-      "Amazon Prime Video",
-      "Universal+ Amazon Channel"
+      "Amazon Prime Video"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.980c9d35-6004-49ea-a47a-819fe3a9a1b4",
-      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cdb7bdae-5154-409e-b8f6-6ea97b9359c4"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.980c9d35-6004-49ea-a47a-819fe3a9a1b4"
     }
   },
   "27443": {
@@ -6586,26 +6555,19 @@
   "27503": {
     "providers": [
       "Bloodstream",
-      "JustWatch TV",
       "Plex",
       "Plex Channel",
       "Plex Player"
     ],
     "urls": {
       "Bloodstream": "https://bloodstreamtv.com/show-details/the-unknown?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-monstro-do-circo?package=jwt",
       "Plex": "https://watch.plex.tv/movie/the-unknown?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/o-monstro-do-circo?package=plc",
       "Plex Player": "https://watch.plex.tv/embed/movie/the-unknown?referrer=JustWatch"
     }
   },
   "27517": {
-    "providers": [
-      "JustWatch TV"
-    ],
-    "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/the-man-who-laughs?package=jwt"
-    }
+    "providers": []
   },
   "2756": {
     "providers": [
@@ -6736,6 +6698,15 @@
       "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4a560bbd-84e3-410f-8d7b-de4617258f4d"
     }
   },
+  "28001": {
+    "providers": [
+      "Amazon Prime Video",
+      "Pluto TV"
+    ],
+    "urls": {
+      "Pluto TV": "https://pluto.tv/on-demand/movies/gift-the-br-1999-1-1"
+    }
+  },
   "28043": {
     "providers": [
       "Artiflix",
@@ -6771,12 +6742,7 @@
     }
   },
   "28189": {
-    "providers": [
-      "JustWatch TV"
-    ],
-    "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/the-fall-of-the-house-of-usher?package=jwt"
-    }
+    "providers": []
   },
   "283161": {
     "providers": []
@@ -6933,13 +6899,11 @@
   },
   "28963": {
     "providers": [
-      "JustWatch TV",
       "Plex",
       "Plex Channel",
       "Plex Player"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/the-thief-of-bagdad-1924?package=jwt",
       "Plex": "https://watch.plex.tv/movie/the-thief-of-bagdad-1924?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/the-thief-of-bagdad-1924?package=plc",
       "Plex Player": "https://watch.plex.tv/embed/movie/the-thief-of-bagdad-1924?referrer=JustWatch"
@@ -6947,12 +6911,10 @@
   },
   "28978": {
     "providers": [
-      "JustWatch TV",
       "Pluto TV",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-circo?package=jwt",
       "Pluto TV": "https://pluto.tv/on-demand/movies/charlie-chaplin-o-circo-br-1927-1-1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e091a5b6-e400-4901-aad3-975e37b1770d"
     }
@@ -6989,7 +6951,7 @@
   },
   "29082": {
     "providers": [
-      "Disney Plus"
+      "Telecine Amazon Channel"
     ]
   },
   "2912": {
@@ -7192,14 +7154,12 @@
   "3059": {
     "providers": [
       "Belas Artes à La Carte",
-      "JustWatch TV",
       "Plex",
       "Plex Channel",
       "Plex Player"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/intolerance?package=jwt",
       "Plex": "https://watch.plex.tv/movie/intolerance-1916?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/intolerance?package=plc",
       "Plex Player": "https://watch.plex.tv/embed/movie/intolerance-1916?referrer=JustWatch"
@@ -7207,13 +7167,11 @@
   },
   "3060": {
     "providers": [
-      "JustWatch TV",
       "Plex",
       "Plex Channel",
       "Plex Player"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-grande-desfile?package=jwt",
       "Plex": "https://watch.plex.tv/movie/the-big-parade-1925?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/o-grande-desfile?package=plc",
       "Plex Player": "https://watch.plex.tv/embed/movie/the-big-parade-1925?referrer=JustWatch"
@@ -7517,12 +7475,7 @@
     }
   },
   "31416": {
-    "providers": [
-      "JustWatch TV"
-    ],
-    "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-vento?package=jwt"
-    }
+    "providers": []
   },
   "31417": {
     "providers": []
@@ -7684,12 +7637,7 @@
     }
   },
   "32318": {
-    "providers": [
-      "JustWatch TV"
-    ],
-    "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-navegante?package=jwt"
-    }
+    "providers": []
   },
   "323661": {
     "providers": []
@@ -7732,11 +7680,9 @@
   },
   "32600": {
     "providers": [
-      "JustWatch TV",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/seven-chances?package=jwt",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3791d6fc-caf3-46b4-b624-3f2414159c13"
     }
   },
@@ -7875,12 +7821,10 @@
   },
   "335797": {
     "providers": [
-      "Amazon Prime Video",
-      "Globoplay"
+      "Amazon Prime Video"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02ac577a-2d2f-5258-32c6-77748549e3c3",
-      "Globoplay": "https://globoplay.globo.com/sing-quem-canta-seus-males-espanta/t/XcnmcFCNMD/"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02ac577a-2d2f-5258-32c6-77748549e3c3"
     }
   },
   "335984": {
@@ -8020,12 +7964,10 @@
   },
   "35227": {
     "providers": [
-      "Artiflix",
-      "JustWatch TV"
+      "Artiflix"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/foolish-wives?package=jwt"
+      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
     }
   },
   "3529": {
@@ -8045,12 +7987,7 @@
     }
   },
   "35454": {
-    "providers": [
-      "JustWatch TV"
-    ],
-    "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/prapancha-pash?package=jwt"
-    }
+    "providers": []
   },
   "354912": {
     "providers": [
@@ -8479,7 +8416,7 @@
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/lady-bird",
-      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e15a2836-00be-45a2-b1e5-cbfe9e413b39"
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44c5044f-5e1b-44e6-afc5-03695b112902"
     }
   },
   "39266": {
@@ -8596,7 +8533,7 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0b0a46d-8331-5226-ca3f-83986cdcf96f"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42b08541-73f4-a5a1-dc9b-42d73367079e"
     }
   },
   "40096": {
@@ -8702,9 +8639,7 @@
     }
   },
   "41498": {
-    "providers": [
-      "Netflix"
-    ]
+    "providers": []
   },
   "41662": {
     "providers": [
@@ -8877,7 +8812,7 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e62610ba-f9e9-4635-b0f6-6e0b0b8a9624"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.40a9f71f-f0bd-7bc6-0201-334a2157c92b"
     }
   },
   "425": {
@@ -8896,16 +8831,10 @@
     "providers": []
   },
   "42511": {
-    "providers": [
-      "JustWatch TV"
-    ],
-    "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/orphans-of-the-storm?package=jwt"
-    }
+    "providers": []
   },
   "42518": {
     "providers": [
-      "JustWatch TV",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies",
@@ -8914,7 +8843,6 @@
       "Plex Player"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/gullivers-travels?package=jwt",
       "Looke": "https://www.looke.com.br/detalhes/43275",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1601f5a0-62ef-4510-9a9d-3cb1ffe1843b",
       "NetMovies": "https://www.netmovies.com.br/filmes/43275",
@@ -9203,7 +9131,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GE00375500PTBR"
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GE00375500TAIN"
     }
   },
   "44379": {
@@ -9296,13 +9224,11 @@
   },
   "44967": {
     "providers": [
-      "JustWatch TV",
       "Looke",
       "NetMovies",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/stachka?package=jwt",
       "Looke": "https://www.looke.com.br/detalhes/8716",
       "NetMovies": "https://www.netmovies.com.br/filmes/8716",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.43d117f3-f8f6-4c0d-91ed-e233073e2d85"
@@ -9372,8 +9298,11 @@
   },
   "456154": {
     "providers": [
-      "Netflix"
-    ]
+      "Disney Plus"
+    ],
+    "urls": {
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-fe93aa7b-a841-4e32-8bd4-d1217d83d04d"
+    }
   },
   "4566": {
     "providers": []
@@ -9509,7 +9438,7 @@
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/511dd4f9-577b-4dc6-aa7a-2d42bfb7b4cb",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0a9f68f-89a4-a432-aa15-cbe914a8dbb9"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6ca9f704-9145-b5a2-e99d-c5c15cba88c8"
     }
   },
   "469": {
@@ -10052,12 +9981,7 @@
     }
   },
   "5153": {
-    "providers": [
-      "JustWatch TV"
-    ],
-    "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/cabiria?package=jwt"
-    }
+    "providers": []
   },
   "5155": {
     "providers": []
@@ -10069,7 +9993,7 @@
       "Oldflix"
     ],
     "urls": {
-      "Arte Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ee3b5db1-b2d8-498f-b0b2-a0bf141971a6",
+      "Arte Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ef9010e2-74a2-4147-b0df-ed51fc9b9ce7",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Oldflix": "https://www.oldflix.com.br/title/play/58ee5290d5a0d11a848c3136"
     }
@@ -10187,7 +10111,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GZ7UVJ0ZE",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G6QWJPGG6",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b60cdc-298d-e6c6-a212-9bec39967b01"
     }
   },
@@ -10268,7 +10192,6 @@
   },
   "541": {
     "providers": [
-      "JustWatch TV",
       "Looke",
       "NetMovies",
       "Plex",
@@ -10277,7 +10200,6 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-homem-do-braco-de-ouro?package=jwt",
       "Looke": "https://www.looke.com.br/detalhes/7705",
       "NetMovies": "https://www.netmovies.com.br/filmes/7705",
       "Plex": "https://watch.plex.tv/movie/the-man-with-the-golden-arm?autoplay=1",
@@ -10289,7 +10211,6 @@
   "543": {
     "providers": [
       "Artiflix",
-      "JustWatch TV",
       "Looke",
       "NetMovies",
       "Plex",
@@ -10298,7 +10219,6 @@
     ],
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/chantagem?package=jwt",
       "Looke": "https://www.looke.com.br/detalhes/7960",
       "NetMovies": "https://www.netmovies.com.br/filmes/7960",
       "Plex": "https://watch.plex.tv/movie/blackmail?autoplay=1",
@@ -10434,10 +10354,12 @@
   },
   "557": {
     "providers": [
-      "Universal+ Amazon Channel"
+      "Amazon Prime Video",
+      "HBO Max"
     ],
     "urls": {
-      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53065791-4335-46ce-bc1b-5c5ebbb21073"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16a9f6fd-c82a-d83d-6bfc-0265e317f307",
+      "HBO Max": "https://play.hbomax.com/show/52c902ab-d1ff-4e18-9326-31641a07ed9a"
     }
   },
   "55721": {
@@ -10599,7 +10521,6 @@
     "providers": [
       "Bloodstream",
       "Cultpix",
-      "JustWatch TV",
       "Plex",
       "Plex Channel",
       "Plex Player"
@@ -10607,7 +10528,6 @@
     "urls": {
       "Bloodstream": "https://bloodstreamtv.com/show-details/haxan-witchcraft-through-the-ages?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Cultpix": "https://www.cultpix.com/movie/haxan/2348",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/haxan?package=jwt",
       "Plex": "https://watch.plex.tv/movie/haxan?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/haxan?package=plc",
       "Plex Player": "https://watch.plex.tv/embed/movie/haxan?referrer=JustWatch"
@@ -10726,12 +10646,7 @@
     "providers": []
   },
   "58129": {
-    "providers": [
-      "JustWatch TV"
-    ],
-    "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/a-carruagem-fantasma?package=jwt"
-    }
+    "providers": []
   },
   "581734": {
     "providers": [
@@ -10929,7 +10844,14 @@
     "providers": []
   },
   "5955": {
-    "providers": []
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "urls": {
+      "HBO Max": "https://play.hbomax.com/show/203bb6f0-42cc-451c-a937-37effc8e4743",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4143033e-86bd-4233-9b16-2ca19f630d44"
+    }
   },
   "596": {
     "providers": []
@@ -10990,12 +10912,10 @@
   },
   "5991": {
     "providers": [
-      "Belas Artes à La Carte",
-      "JustWatch TV"
+      "Belas Artes à La Carte"
     ],
     "urls": {
-      "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-ultimo-dos-homens?package=jwt"
+      "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
     }
   },
   "5998": {
@@ -11003,7 +10923,7 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3504672f-1070-400f-a088-26c496b02b3b"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.18020ca2-6414-4515-a842-b5c68ba79e51"
     }
   },
   "59990": {
@@ -11012,7 +10932,7 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Globoplay": "https://globoplay.globo.com/o-pagador-de-promessas/t/nCJH9rNQmK/",
+      "Globoplay": "https://globoplay.globo.com/o-pagador-de-promessas-o-filme/t/Ftkc65fVxW/",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0cd926c5-cd2b-465f-87e5-637cbbd6b610"
     }
   },
@@ -11194,12 +11114,10 @@
   },
   "618": {
     "providers": [
-      "Artiflix",
-      "JustWatch TV"
+      "Artiflix"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-nascimento-de-uma-nacao?package=jwt"
+      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
     }
   },
   "62": {
@@ -11310,27 +11228,23 @@
     "providers": [
       "Belas Artes à La Carte",
       "HBO Max",
-      "HBO Max Amazon Channel",
-      "Telecine Amazon Channel"
+      "HBO Max Amazon Channel"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "HBO Max": "https://play.hbomax.com/show/18a7f5a2-3f3a-4a62-a257-29136ac68dff",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.758f239c-8787-4d09-96b2-2a59b0811989",
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0b87b0d-11a1-b68c-f4b9-41dfbe0ca3bc"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.758f239c-8787-4d09-96b2-2a59b0811989"
     }
   },
   "631": {
     "providers": [
       "Belas Artes à La Carte",
-      "JustWatch TV",
       "Plex",
       "Plex Channel",
       "Plex Player"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/aurora-1927?package=jwt",
       "Plex": "https://watch.plex.tv/movie/sunrise-1927?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/aurora-1927?package=plc",
       "Plex Player": "https://watch.plex.tv/embed/movie/sunrise-1927?referrer=JustWatch"
@@ -11505,7 +11419,6 @@
       "Bloodstream",
       "Cindie Amazon Channel",
       "Cultpix",
-      "JustWatch TV",
       "Libreflix",
       "Looke",
       "MUBI",
@@ -11522,7 +11435,6 @@
       "Bloodstream": "https://bloodstreamtv.com/show-details/noseferatu?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3f00d61e-5f54-4e20-9a0c-3259b9a52891",
       "Cultpix": "https://www.cultpix.com/movie/nosferatu-eine-symphonie-des-grauens/2346",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/nosferatu?package=jwt",
       "Libreflix": "https://libreflix.org/i/nosferatu-1922",
       "Looke": "https://www.looke.com.br/detalhes/126873",
       "MUBI": "https://mubi.com/films/nosferatu",
@@ -11565,7 +11477,7 @@
       "Amazon Prime Video"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.da3bc8f4-bc7e-42ec-bb66-549fcb718cb3"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a79541a5-1cfe-4a3e-ac49-6e650f18fe60"
     }
   },
   "659": {
@@ -11604,7 +11516,7 @@
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/la-jetee",
-      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.804f6bc7-5bf7-4d8e-a2d1-739c7207adf7"
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86461a11-d72a-46ed-81ba-97bfe78fef81"
     }
   },
   "663459": {
@@ -11709,7 +11621,7 @@
       "HBO Max Amazon Channel"
     ],
     "urls": {
-      "HBO Max": "https://play.hbomax.com/show/4b990c5d-38ab-4daf-8092-2617cbc6d062",
+      "HBO Max": "https://play.hbomax.com/show/e22cdcd3-49d1-4e28-8846-d8feec300d77",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b23aabe8-9ba6-4d44-b3de-71f88cfbfd73"
     }
   },
@@ -11911,12 +11823,14 @@
   "6949": {
     "providers": [
       "HBO Max",
+      "HBO Max Amazon Channel",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/4f8d95a5-07ac-498b-b5ce-433b2e75b9a4",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.daa9f772-2150-fc39-7fac-9a4c3e7cf040",
       "Looke": "https://www.looke.com.br/detalhes/278924",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cb5d231-c8e3-b089-8a14-0b0505d7076e",
       "NetMovies": "https://www.netmovies.com.br/filmes/278924"
@@ -11941,13 +11855,11 @@
   },
   "697": {
     "providers": [
-      "JustWatch TV",
       "Looke",
       "NetMovies",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/oktyabr?package=jwt",
       "Looke": "https://www.looke.com.br/detalhes/8715",
       "NetMovies": "https://www.netmovies.com.br/filmes/8715",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6b5cec51-2aee-4f35-8982-76c78891f4eb"
@@ -11970,13 +11882,11 @@
   },
   "701": {
     "providers": [
-      "JustWatch TV",
       "Plex",
       "Plex Channel",
       "Plex Player"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/our-hospitality?package=jwt",
       "Plex": "https://watch.plex.tv/movie/our-hospitality?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/our-hospitality?package=plc",
       "Plex Player": "https://watch.plex.tv/embed/movie/our-hospitality?referrer=JustWatch"
@@ -12073,7 +11983,7 @@
       "Filmelier Plus Amazon Channel"
     ],
     "urls": {
-      "Filmelier Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae183ea0-53bf-437b-ad28-ffe8f59ab206"
+      "Filmelier Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28b7fd0e-9bbf-17b8-b11a-79691d2359e5"
     }
   },
   "712": {
@@ -12203,7 +12113,6 @@
       "Artiflix",
       "Belas Artes à La Carte",
       "Filmzie",
-      "JustWatch TV",
       "Oldflix",
       "Plex",
       "Plex Channel",
@@ -12213,7 +12122,6 @@
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Filmzie": "https://filmzie.com/content/the-bigamist-1953",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/the-bigamist?package=jwt",
       "Oldflix": "https://www.oldflix.com.br/title/play/6047be18882bf74cb99c382d",
       "Plex": "https://watch.plex.tv/movie/the-bigamist?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/the-bigamist?package=plc",
@@ -12456,7 +12364,7 @@
     "urls": {
       "Disney Plus": "https://www.disneyplus.com/browse/entity-06b377ad-f0ca-4c81-89cc-113a3e744b4f",
       "Paramount Plus": "https://www.paramountplus.com/movies/lost-city/f89Td5BgP6aTvIYDD3Ow_mz1P01x4Vlr?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fb27d467-ca1b-4d35-9d6d-8598269e36bd"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10ced554-f3a6-4392-b1cf-c08381f36cee"
     }
   },
   "76816": {
@@ -12646,12 +12554,10 @@
   "780": {
     "providers": [
       "Belas Artes à La Carte",
-      "JustWatch TV",
       "Telecine Amazon Channel"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/a-paixao-de-joana-darc?package=jwt",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f14896ed-cbfd-4022-a452-949cd64786f7"
     }
   },
@@ -12901,23 +12807,19 @@
   "808": {
     "providers": [
       "Amazon Prime Video",
-      "Disney Plus",
       "Netflix"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dab0a83d-a456-2887-7423-48e96de4e8c7",
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-36c01be2-e036-46d9-9da2-522bfd12b54f"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dab0a83d-a456-2887-7423-48e96de4e8c7"
     }
   },
   "809": {
     "providers": [
       "Amazon Prime Video",
-      "Disney Plus",
       "Netflix"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7eb0a83f-e142-e935-04c6-7793b2729dce",
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-8ec43e87-4517-416b-bed6-450298bec227"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7eb0a83f-e142-e935-04c6-7793b2729dce"
     }
   },
   "81": {
@@ -13106,7 +13008,7 @@
     ],
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/346531",
-      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08e1bb10-dd2c-48e9-8b00-8001394c9838",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10a9f789-b5b4-c137-6234-5f41d8694ae6",
       "NetMovies": "https://www.netmovies.com.br/filmes/346531"
     }
   },
@@ -13126,7 +13028,6 @@
   "832": {
     "providers": [
       "Belas Artes à La Carte",
-      "JustWatch TV",
       "Looke",
       "NetMovies",
       "Plex",
@@ -13136,7 +13037,6 @@
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/m-o-vampiro-de-dusseldorf?package=jwt",
       "Looke": "https://www.looke.com.br/detalhes/43255",
       "NetMovies": "https://www.netmovies.com.br/filmes/43255",
       "Plex": "https://watch.plex.tv/movie/m?autoplay=1",
@@ -13342,7 +13242,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G8WUNE9P1",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GYE5KKQ0R",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0ae34e3-0c48-14fd-4cb6-ae9907a08ba1"
     }
   },
@@ -13355,7 +13255,7 @@
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "HBO Max": "https://play.hbomax.com/show/980fe7f4-93a2-4757-86a4-a91620fea6de",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1f5569c-f7cb-4a12-891f-219fa3b1f064"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8aa9f7a2-1852-a766-ffa1-a1d0f95ed8e7"
     }
   },
   "845387": {
@@ -13698,17 +13598,12 @@
       "HBO Max": "https://play.hbomax.com/show/fdf4a03d-07e3-49f1-a159-183e301d0393"
     }
   },
-  "884692": {
-    "providers": []
-  },
   "885": {
     "providers": [
-      "Artiflix",
-      "JustWatch TV"
+      "Artiflix"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/docas-de-nova-york?package=jwt"
+      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
     }
   },
   "88591": {
@@ -13802,13 +13697,11 @@
   },
   "899": {
     "providers": [
-      "JustWatch TV",
       "Plex",
       "Plex Channel",
       "Plex Player"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-lirio-quebrado?package=jwt",
       "Plex": "https://watch.plex.tv/movie/broken-blossoms-or-the-yellow-man-and-the-girl?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/o-lirio-quebrado?package=plc",
       "Plex Player": "https://watch.plex.tv/embed/movie/broken-blossoms-or-the-yellow-man-and-the-girl?referrer=JustWatch"
@@ -13993,7 +13886,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29988",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GN7UD22PN",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506"
     }
@@ -14040,8 +13933,7 @@
     "providers": [
       "Looke",
       "Looke Amazon Channel",
-      "NetMovies",
-      "Netflix"
+      "NetMovies"
     ],
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/270846",
@@ -14162,13 +14054,11 @@
   "939": {
     "providers": [
       "Artiflix",
-      "Filmzie",
-      "JustWatch TV"
+      "Filmzie"
     ],
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
-      "Filmzie": "https://filmzie.com/content/the-jazz-singer-1927",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-cantor-de-jazz?package=jwt"
+      "Filmzie": "https://filmzie.com/content/the-jazz-singer-1927"
     }
   },
   "9390": {
@@ -14209,7 +14099,6 @@
     "providers": [
       "Artiflix",
       "Belas Artes à La Carte",
-      "JustWatch TV",
       "Looke",
       "NetMovies",
       "Plex",
@@ -14220,7 +14109,6 @@
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/a-dama-oculta?package=jwt",
       "Looke": "https://www.looke.com.br/detalhes/7667",
       "NetMovies": "https://www.netmovies.com.br/filmes/7667",
       "Plex": "https://watch.plex.tv/movie/the-lady-vanishes?autoplay=1",
@@ -14365,12 +14253,10 @@
   },
   "9502": {
     "providers": [
-      "Amazon Prime Video",
-      "Globoplay"
+      "Amazon Prime Video"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0b0a846-c40e-4fdf-74ba-be366aa7b5fb",
-      "Globoplay": "https://globoplay.globo.com/kung-fu-panda/t/DsPTgD5L5V/"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0b0a846-c40e-4fdf-74ba-be366aa7b5fb"
     }
   },
   "950396": {
@@ -14497,7 +14383,6 @@
     "providers": [
       "Artiflix",
       "Filmzie",
-      "JustWatch TV",
       "Looke",
       "NetMovies",
       "Plex",
@@ -14508,7 +14393,6 @@
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Filmzie": "https://filmzie.com/content/the-general-1926",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/general?package=jwt",
       "Looke": "https://www.looke.com.br/detalhes/43312",
       "NetMovies": "https://www.netmovies.com.br/filmes/43312",
       "Plex": "https://watch.plex.tv/movie/the-general?autoplay=1",
@@ -14557,13 +14441,11 @@
     "providers": [
       "Artiflix",
       "Bloodstream",
-      "JustWatch TV",
       "Pluto TV"
     ],
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Bloodstream": "https://bloodstreamtv.com/show-details/thephantomoftheopera?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
-      "JustWatch TV": "https://www.justwatch.com/br/filme/o-fantasma-da-opera?package=jwt",
       "Pluto TV": "https://pluto.tv/on-demand/movies/phantom-of-the-opera-the-br-1924-1-1"
     }
   },
@@ -14844,12 +14726,7 @@
     }
   },
   "98477": {
-    "providers": [
-      "JustWatch TV"
-    ],
-    "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/a-aguia-negra?package=jwt"
-    }
+    "providers": []
   },
   "985": {
     "providers": [
@@ -14928,14 +14805,12 @@
   },
   "992": {
     "providers": [
-      "JustWatch TV",
       "Plex",
       "Plex Channel",
       "Plex Player",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "JustWatch TV": "https://www.justwatch.com/br/filme/sherlock-jr?package=jwt",
       "Plex": "https://watch.plex.tv/movie/sherlock-jr?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/sherlock-jr?package=plc",
       "Plex Player": "https://watch.plex.tv/embed/movie/sherlock-jr?referrer=JustWatch",
@@ -14991,14 +14866,6 @@
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
-    }
-  },
-  "997113": {
-    "providers": [
-      "Amazon Prime Video"
-    ],
-    "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b26bf447-17ff-4765-83bc-2603eee9c51e"
     }
   },
   "9982": {

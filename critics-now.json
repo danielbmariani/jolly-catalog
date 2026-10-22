@@ -1,7 +1,7 @@
 {
   "_raw": [
     {
-      "date": "2026-10-17",
+      "date": "2026-10-22",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -9,7 +9,7 @@
       "url": "https://www.rogerebert.com/reviews/rose-sandra-huller-film-review-2026"
     },
     {
-      "date": "2026-10-17",
+      "date": "2026-10-22",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -17,7 +17,7 @@
       "url": "https://www.rogerebert.com/reviews/you-can-see-everything-nathan-fielder-elizabeth-holmes-a24-film-review-2026"
     },
     {
-      "date": "2026-10-17",
+      "date": "2026-10-22",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -25,12 +25,140 @@
       "url": "https://www.rogerebert.com/reviews/norm-the-tale-of-norm-macdonald-netflix-documentary-film-review-2026"
     },
     {
-      "date": "2026-10-17",
+      "date": "2026-10-22",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
       "title": "Sense and Sensibility (2026)",
       "url": "https://www.rogerebert.com/reviews/sense-and-sensibility-daisy-edgar-jones-jane-austen-movie-review-2026"
+    },
+    {
+      "date": "2026-10-22",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "La bola negra",
+      "url": "https://www.rogerebert.com/reviews/la-bola-negra-netflix-penelope-cruz-glenn-close-film-review-2026"
+    },
+    {
+      "date": "2026-10-22",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Possible Love",
+      "url": "https://www.rogerebert.com/reviews/possible-love-lee-chang-dong-netflix-movie-review-2026"
+    },
+    {
+      "date": "2026-10-22",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Fatherland",
+      "url": "https://www.rogerebert.com/reviews/fatherland-film-review-2026"
+    },
+    {
+      "date": "2026-10-22",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "The Audacity",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-review-hbo-max-jonathan-glatzer"
+    },
+    {
+      "date": "2026-10-22",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "Nobody Wants This",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/nobody-wants-this-season-three-review-netflix"
+    },
+    {
+      "date": "2026-10-22",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Making Marie Antoinette",
+      "url": "https://www.rogerebert.com/reviews/making-marie-antoinette-eleanor-coppola-documentary-film-review-2026"
+    },
+    {
+      "date": "2026-10-22",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Ray Gunn",
+      "url": "https://www.rogerebert.com/reviews/ray-gunn-brad-bird-netflx-movie-review"
+    },
+    {
+      "date": "2026-10-22",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Once Upon a Time in Harlem",
+      "url": "https://www.rogerebert.com/reviews/once-upon-a-time-in-harlem-william-graves-documentary-film-review-2026"
+    },
+    {
+      "date": "2026-10-21",
+      "media_type": "movie",
+      "outlet": "IndieWire",
+      "rating": "A",
+      "title": "Possible Love",
+      "url": "https://www.indiewire.com/criticism/movies/possible-love-movie-review-1235215136/"
+    },
+    {
+      "date": "2026-10-21",
+      "media_type": "movie",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "Scream",
+      "url": "https://www.theguardian.com/film/2026/oct/21/scream-review-wes-craven-meta-horror-remains-super-smart-and-scary-30-years-on"
+    },
+    {
+      "date": "2026-10-21",
+      "media_type": "movie",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "Ghosts: The Possession of Button House",
+      "url": "https://www.theguardian.com/film/2026/oct/21/ghosts-the-possession-of-button-house-review-spin-off-new-film-bbc-haunted-house-comedy"
+    },
+    {
+      "date": "2026-10-21",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "The Experiment",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability"
+    },
+    {
+      "date": "2026-10-21",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "Ellie & Natasia",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/21/ellie-natasia-review-bbc-irresistibly-weird-sketch-comedy"
+    },
+    {
+      "date": "2026-10-19",
+      "media_type": "movie",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "The Night Is Fading Away",
+      "url": "https://www.theguardian.com/film/2026/oct/19/the-night-is-fading-away-review"
+    },
+    {
+      "date": "2026-10-19",
+      "media_type": "movie",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "Ghost in the Cell",
+      "url": "https://www.theguardian.com/film/2026/oct/19/ghost-in-the-cell-review-joko-anwar-indonesia"
+    },
+    {
+      "date": "2026-10-19",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "Aberfan: The Village That Fought Back",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/19/aberfan-the-village-that-fought-back-review-the-contempt-they-have-faced-to-get-justice-is-sickening"
     },
     {
       "date": "2026-10-17",
@@ -564,14 +692,6 @@
       "date": "2026-09-24",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "La bola negra",
-      "url": "https://www.rogerebert.com/reviews/la-bola-negra-netflix-penelope-cruz-glenn-close-film-review-2026"
-    },
-    {
-      "date": "2026-09-24",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
       "rating": "3.5★",
       "title": "Your Mother Your Mother Your Mother",
       "url": "https://www.rogerebert.com/reviews/your-mother-your-mother-your-mother-mahershala-ali-movie-review-2026"
@@ -743,14 +863,6 @@
       "rating": "B+",
       "title": "Best of the Best",
       "url": "https://www.indiewire.com/criticism/movies/best-of-the-best-netflix-film-review-1235217597/"
-    },
-    {
-      "date": "2026-09-17",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "Possible Love",
-      "url": "https://www.rogerebert.com/reviews/possible-love-lee-chang-dong-netflix-movie-review-2026"
     },
     {
       "date": "2026-09-16",
@@ -1089,14 +1201,6 @@
       "url": "https://www.indiewire.com/criticism/movies/practical-magic-2-review-sandra-bullock-nicole-kidman-1235215192/"
     },
     {
-      "date": "2026-09-08",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Fatherland",
-      "url": "https://www.rogerebert.com/reviews/fatherland-film-review-2026"
-    },
-    {
       "date": "2026-09-07",
       "media_type": "movie",
       "outlet": "The Guardian",
@@ -1207,14 +1311,6 @@
       "rating": "B+",
       "title": "The Echo Chamber",
       "url": "https://www.indiewire.com/criticism/movies/the-echo-chamber-movie-review-luca-marinelli-1235212896/"
-    },
-    {
-      "date": "2026-09-06",
-      "media_type": "movie",
-      "outlet": "IndieWire",
-      "rating": "A",
-      "title": "Possible Love",
-      "url": "https://www.indiewire.com/criticism/movies/possible-love-movie-review-1235215136/"
     },
     {
       "date": "2026-09-06",
@@ -6095,38 +6191,6 @@
       "rating": "3.5★",
       "title": "Mistress Dispeller",
       "url": "https://www.rogerebert.com/reviews/mistress-dispeller-documentary-film-review-2025"
-    },
-    {
-      "date": "2025-10-21",
-      "media_type": "movie",
-      "outlet": "IndieWire",
-      "rating": "B+",
-      "title": "Hedda",
-      "url": "https://www.indiewire.com/criticism/movies/hedda-review-1235149867/"
-    },
-    {
-      "date": "2025-10-17",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "4★",
-      "title": "Leonard and Hungry Paul",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/oct/17/leonard-and-hungry-paul-review-this-julia-roberts-narrated-comedy-is-the-perfect-antidote-to-modern-life"
-    },
-    {
-      "date": "2025-10-17",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "The Mastermind",
-      "url": "https://www.rogerebert.com/reviews/the-mastermind-kelly-reichardt-film-review-2025"
-    },
-    {
-      "date": "2025-10-17",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "The Man Who Saves the World?",
-      "url": "https://www.rogerebert.com/reviews/the-man-who-saves-the-world-documentary-film-review-2025"
     }
   ],
   "movie:tmdb:1339070": {
@@ -6421,6 +6485,25 @@
       }
     },
     "year": 2001
+  },
+  "tt0305044": {
+    "age": null,
+    "genres": [
+      35
+    ],
+    "media_type": "tv",
+    "poster": "/4elzKoIIb4fHO80UGG4gpH8fdK4.jpg",
+    "recs": [
+      {
+        "date": "2026-10-21",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability"
+      }
+    ],
+    "title": "The Jamie Kennedy Experiment",
+    "tmdb_id": 9814,
+    "year": 2002
   },
   "tt0808224": {
     "age": null,
@@ -7640,6 +7723,12 @@
     "poster": "/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
     "recs": [
       {
+        "date": "2026-10-22",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/ray-gunn-brad-bird-netflx-movie-review"
+      },
+      {
         "date": "2026-10-10",
         "outlet": "The Guardian",
         "rating": "5★",
@@ -8506,6 +8595,12 @@
     "poster": "/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg",
     "recs": [
       {
+        "date": "2026-10-22",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/nobody-wants-this-season-three-review-netflix"
+      },
+      {
         "date": "2025-10-23",
         "outlet": "The Guardian",
         "rating": "4★",
@@ -8515,9 +8610,7 @@
     "title": "Nobody Wants This",
     "tmdb_id": 250923,
     "watch": {
-      "providers": [
-        "Netflix"
-      ],
+      "providers": [],
       "urls": {}
     },
     "year": 2024
@@ -8542,6 +8635,30 @@
     ],
     "title": "Musk",
     "tmdb_id": 1096228,
+    "year": 2026
+  },
+  "tt27047903": {
+    "age": {
+      "classind": "18",
+      "source": "BR"
+    },
+    "genres": [
+      27,
+      9648,
+      80
+    ],
+    "media_type": "movie",
+    "poster": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+    "recs": [
+      {
+        "date": "2026-10-21",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/oct/21/scream-review-wes-craven-meta-horror-remains-super-smart-and-scary-30-years-on"
+      }
+    ],
+    "title": "Scream 7",
+    "tmdb_id": 1159559,
     "year": 2026
   },
   "tt27054971": {
@@ -9067,30 +9184,6 @@
     ],
     "title": "The Secret Agent",
     "tmdb_id": 1220564,
-    "year": 2025
-  },
-  "tt27953589": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      18,
-      53,
-      10749
-    ],
-    "media_type": "movie",
-    "poster": "/ecflk7AZf0ij205yDswjlvdxlCO.jpg",
-    "recs": [
-      {
-        "date": "2025-10-21",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/hedda-review-1235149867/"
-      }
-    ],
-    "title": "Hedda",
-    "tmdb_id": 997113,
     "year": 2025
   },
   "tt28083456": {
@@ -9820,6 +9913,29 @@
     "title": "Eagles of the Republic",
     "tmdb_id": 1220566,
     "year": 2025
+  },
+  "tt30923123": {
+    "age": {
+      "classind": "18",
+      "source": "US"
+    },
+    "genres": [
+      18,
+      35
+    ],
+    "media_type": "tv",
+    "poster": "/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+    "recs": [
+      {
+        "date": "2026-10-22",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-review-hbo-max-jonathan-glatzer"
+      }
+    ],
+    "title": "The Audacity",
+    "tmdb_id": 258036,
+    "year": 2026
   },
   "tt30984541": {
     "age": null,
@@ -11714,6 +11830,12 @@
     ],
     "title": "Trespasses",
     "tmdb_id": 260650,
+    "watch": {
+      "providers": [
+        "Netflix"
+      ],
+      "urls": {}
+    },
     "year": 2025
   },
   "tt33095251": {
@@ -12127,29 +12249,6 @@
     "title": "The Beloved",
     "tmdb_id": 1074074,
     "year": 2026
-  },
-  "tt33455099": {
-    "age": {
-      "classind": "14",
-      "source": "BR"
-    },
-    "genres": [
-      18,
-      80
-    ],
-    "media_type": "movie",
-    "poster": "/oPaEQ3m4zHOzIAstgXCZZtzcHTL.jpg",
-    "recs": [
-      {
-        "date": "2025-10-17",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/the-mastermind-kelly-reichardt-film-review-2025"
-      }
-    ],
-    "title": "The Mastermind",
-    "tmdb_id": 1352624,
-    "year": 2025
   },
   "tt33473000": {
     "age": {
@@ -13163,6 +13262,12 @@
     "poster": "/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
     "recs": [
       {
+        "date": "2026-08-12",
+        "outlet": "IndieWire",
+        "rating": "A-",
+        "url": "https://www.indiewire.com/criticism/movies/the-wrong-girls-review-1235210080/"
+      },
+      {
         "date": "2026-07-08",
         "outlet": "The Guardian",
         "rating": "5★",
@@ -13192,26 +13297,6 @@
     "title": "Free Nelson Mandela",
     "tmdb_id": 324590,
     "year": 2026
-  },
-  "tt35219844": {
-    "age": null,
-    "genres": [
-      35,
-      18
-    ],
-    "media_type": "tv",
-    "poster": "/cZmdkzJwTk3Q5ygE5EfuFDz2PxX.jpg",
-    "recs": [
-      {
-        "date": "2025-10-17",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/oct/17/leonard-and-hungry-paul-review-this-julia-roberts-narrated-comedy-is-the-perfect-antidote-to-modern-life"
-      }
-    ],
-    "title": "Leonard and Hungry Paul",
-    "tmdb_id": 292069,
-    "year": 2025
   },
   "tt35222590": {
     "age": {
@@ -13482,16 +13567,16 @@
     "poster": "/l76qrRUs1e1Th4CNeQIQ10TjHOl.jpg",
     "recs": [
       {
+        "date": "2026-10-22",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/la-bola-negra-netflix-penelope-cruz-glenn-close-film-review-2026"
+      },
+      {
         "date": "2026-10-15",
         "outlet": "IndieWire",
         "rating": "A",
         "url": "https://www.indiewire.com/criticism/movies/the-black-ball-review-los-javis-1235195462/"
-      },
-      {
-        "date": "2026-09-24",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/la-bola-negra-netflix-penelope-cruz-glenn-close-film-review-2026"
       },
       {
         "date": "2026-05-21",
@@ -13918,10 +14003,12 @@
     "tmdb_id": 286617,
     "watch": {
       "providers": [
-        "HBO Max"
+        "HBO Max",
+        "HBO Max Amazon Channel"
       ],
       "urls": {
-        "HBO Max": "https://play.hbomax.com/video/watch/8c2c2753-97e5-4e9a-bec4-b771d8bd28b1"
+        "HBO Max": "https://play.hbomax.com/video/watch/8c2c2753-97e5-4e9a-bec4-b771d8bd28b1",
+        "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c3a7aa78-3a0a-4115-83bc-075bf1a40bf6"
       }
     },
     "year": 2026
@@ -15346,7 +15433,7 @@
     "poster": "/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
     "recs": [
       {
-        "date": "2026-09-08",
+        "date": "2026-10-22",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/fatherland-film-review-2026"
@@ -15670,25 +15757,6 @@
     "tmdb_id": 1329909,
     "year": 2026
   },
-  "tt37677322": {
-    "age": null,
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/iBOdUw02yc5oQNODycDPrPWTBaw.jpg",
-    "recs": [
-      {
-        "date": "2025-10-17",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/the-man-who-saves-the-world-documentary-film-review-2025"
-      }
-    ],
-    "title": "The Man Who Saves the World?",
-    "tmdb_id": 1525147,
-    "year": 2025
-  },
   "tt37677758": {
     "age": null,
     "genres": [
@@ -15779,22 +15847,22 @@
     "poster": "/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
     "recs": [
       {
-        "date": "2026-09-17",
+        "date": "2026-10-22",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/possible-love-lee-chang-dong-netflix-movie-review-2026"
+      },
+      {
+        "date": "2026-10-21",
+        "outlet": "IndieWire",
+        "rating": "A",
+        "url": "https://www.indiewire.com/criticism/movies/possible-love-movie-review-1235215136/"
       },
       {
         "date": "2026-09-06",
         "outlet": "The Guardian",
         "rating": "4★",
         "url": "https://www.theguardian.com/film/2026/sep/06/possible-love-review-a-tale-of-two-couples-is-finely-judged-study-of-exploitation-and-friendship"
-      },
-      {
-        "date": "2026-09-06",
-        "outlet": "IndieWire",
-        "rating": "A",
-        "url": "https://www.indiewire.com/criticism/movies/possible-love-movie-review-1235215136/"
       }
     ],
     "title": "Possible Love",
@@ -16371,6 +16439,25 @@
         "Disney Plus": "https://www.disneyplus.com/browse/entity-a948a435-fdcc-4cbe-b699-85dd62fec60b"
       }
     },
+    "year": 2025
+  },
+  "tt38689439": {
+    "age": null,
+    "genres": [
+      18
+    ],
+    "media_type": "movie",
+    "poster": "/39jzHk0VK2kdt9lRAb8CqNuGcGc.jpg",
+    "recs": [
+      {
+        "date": "2026-10-19",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/oct/19/the-night-is-fading-away-review"
+      }
+    ],
+    "title": "The Night Is Fading Away",
+    "tmdb_id": 1554544,
     "year": 2025
   },
   "tt38691481": {
@@ -17068,6 +17155,12 @@
     "poster": "/9eukk5gby8NZCwraiC7mloZmasP.jpg",
     "recs": [
       {
+        "date": "2026-10-22",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/once-upon-a-time-in-harlem-william-graves-documentary-film-review-2026"
+      },
+      {
         "date": "2026-01-26",
         "outlet": "IndieWire",
         "rating": "B+",
@@ -17417,9 +17510,11 @@
     "tmdb_id": 312626,
     "watch": {
       "providers": [
-        "Netflix"
+        "Amazon Prime Video"
       ],
-      "urls": {}
+      "urls": {
+        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.75df2945-f796-4e62-9230-8278e9fe07bd"
+      }
     },
     "year": 2026
   },
@@ -17460,6 +17555,26 @@
     ],
     "title": "A Special Memory",
     "tmdb_id": 1630264,
+    "year": 2026
+  },
+  "tt40311603": {
+    "age": null,
+    "genres": [
+      14,
+      35
+    ],
+    "media_type": "movie",
+    "poster": "/vdRbC8masrQDyhFHLOGECEMllPV.jpg",
+    "recs": [
+      {
+        "date": "2026-10-21",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/oct/21/ghosts-the-possession-of-button-house-review-spin-off-new-film-bbc-haunted-house-comedy"
+      }
+    ],
+    "title": "Ghosts: The Possession of Button House",
+    "tmdb_id": 1643567,
     "year": 2026
   },
   "tt40383471": {
@@ -18434,6 +18549,25 @@
     "tmdb_id": 1462368,
     "year": 2026
   },
+  "tt43656794": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "poster": "/1vt7dhpq5dYA5H5VDEf7IITMbSg.jpg",
+    "recs": [
+      {
+        "date": "2026-10-22",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/making-marie-antoinette-eleanor-coppola-documentary-film-review-2026"
+      }
+    ],
+    "title": "Making Marie Antoinette",
+    "tmdb_id": 1754364,
+    "year": 2026
+  },
   "tt43675224": {
     "age": null,
     "genres": [
@@ -18774,7 +18908,7 @@
     "poster": "/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
     "recs": [
       {
-        "date": "2026-10-17",
+        "date": "2026-10-22",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/norm-the-tale-of-norm-macdonald-netflix-documentary-film-review-2026"
@@ -18841,7 +18975,7 @@
     "poster": "/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
     "recs": [
       {
-        "date": "2026-10-17",
+        "date": "2026-10-22",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/you-can-see-everything-nathan-fielder-elizabeth-holmes-a24-film-review-2026"
@@ -19192,6 +19326,25 @@
     },
     "year": 2019
   },
+  "tt8594544": {
+    "age": null,
+    "genres": [
+      35
+    ],
+    "media_type": "tv",
+    "poster": "/weoiU5nwWc8T5s1BJ99Ufnp6lBr.jpg",
+    "recs": [
+      {
+        "date": "2026-10-21",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/21/ellie-natasia-review-bbc-irresistibly-weird-sketch-comedy"
+      }
+    ],
+    "title": "Ellie & Natasia",
+    "tmdb_id": 203669,
+    "year": 2022
+  },
   "tt8629424": {
     "age": {
       "classind": "12",
@@ -19267,6 +19420,27 @@
     ],
     "title": "Cold Storage",
     "tmdb_id": 696393,
+    "year": 2026
+  },
+  "tt9000310": {
+    "age": null,
+    "genres": [
+      27,
+      35,
+      53
+    ],
+    "media_type": "movie",
+    "poster": "/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
+    "recs": [
+      {
+        "date": "2026-10-19",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/oct/19/ghost-in-the-cell-review-joko-anwar-indonesia"
+      }
+    ],
+    "title": "Ghost in the Cell",
+    "tmdb_id": 1393326,
     "year": 2026
   },
   "tt9280400": {
