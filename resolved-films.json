@@ -1,10 +1,10 @@
 {
  "_meta": {
   "by_imdb": 3030,
-  "by_title": 5811,
+  "by_title": 5832,
   "generated": "2026-10-23",
   "miss_imdb": 39,
-  "miss_title": 460
+  "miss_title": 477
  },
  "by_imdb": {
   "tt0020094": {
@@ -36508,6 +36508,17 @@
    "vote": 7.3,
    "year": 2019
   },
+  "4 blocks|2017": {
+   "backdrop": null,
+   "genres": [
+    10402
+   ],
+   "poster": "/p4fmlPCug1s9GAzZwl4EFFRLZAU.jpg",
+   "title": "Martin Block's Musical Merry-Go-Round No. 4",
+   "tmdb_id": 691188,
+   "vote": 5.7,
+   "year": 1948
+  },
   "45 seconds of laughter|2019": {
    "backdrop": null,
    "genres": [
@@ -41351,6 +41362,18 @@
    "vote": 5.8,
    "year": 2016
   },
+  "art college 1994|2023": {
+   "backdrop": "/jJ1757F6MCpab42xt4BFRoqxXxD.jpg",
+   "genres": [
+    16,
+    35
+   ],
+   "poster": "/yKjolzlO4or3GKNoMEdPostoxmG.jpg",
+   "title": "Art College 1994",
+   "tmdb_id": 954905,
+   "vote": 6.6,
+   "year": 2025
+  },
   "as a cure|2026": {
    "backdrop": null,
    "genres": [
@@ -45169,6 +45192,17 @@
    "vote": 10.0,
    "year": 2020
   },
+  "brecht|2019": {
+   "backdrop": "/cXjXVabQZjTGJWkf13AAwT6sAJ7.jpg",
+   "genres": [
+    99
+   ],
+   "poster": "/kbe0TJ4hHyiQZa1ljEUee8dvlmI.jpg",
+   "title": "Brecht und das Berliner Ensemble",
+   "tmdb_id": 788453,
+   "vote": 8.0,
+   "year": 2019
+  },
   "breeze|2018": {
    "backdrop": null,
    "genres": [
@@ -48303,6 +48337,17 @@
    "tmdb_id": 457201,
    "vote": 4.6,
    "year": 2018
+  },
+  "copenhagen cowboy|2022": {
+   "backdrop": "/yPMTs7ISAzH1On1ByCn0ZNpMR7w.jpg",
+   "genres": [
+    99
+   ],
+   "poster": "/7UWPWjz3w3WuNkLkFViqllnh5nJ.jpg",
+   "title": "Copenhagen Cowboy: Nightcall with Nicolas Winding Refn",
+   "tmdb_id": 1078856,
+   "vote": 7.4,
+   "year": 2023
   },
   "copilot|2021": {
    "backdrop": "/pigQBEI6xpamTs8ItzXW3z77rtd.jpg",
@@ -51952,6 +51997,17 @@
    "vote": 0.0,
    "year": 2026
   },
+  "eight hours don't make a day|2017": {
+   "backdrop": null,
+   "genres": [
+    99
+   ],
+   "poster": "/ipuKxJJNYpNZKPszkroufMDNqUz.jpg",
+   "title": "Eight Hours Don’t Make a Day: A Series Becomes a Family Reunion",
+   "tmdb_id": 555103,
+   "vote": 0.0,
+   "year": 2017
+  },
   "eight postcards from utopia|2024": {
    "backdrop": "/AqsbXc6LY8NT6dIIZRXu1TcySG.jpg",
    "genres": [
@@ -54335,6 +54391,18 @@
    "vote": 6.0,
    "year": 2018
   },
+  "filipiñana|2026": {
+   "backdrop": "/7lgpPrmD2XYABOw8Cu3kyUn4usR.jpg",
+   "genres": [
+    18,
+    9648
+   ],
+   "poster": "/64hnrTmeJEvUYoJyuOM7taE3CqT.jpg",
+   "title": "Filipiñana",
+   "tmdb_id": 1417935,
+   "vote": 6.5,
+   "year": 2026
+  },
   "fill the void|2013": {
    "backdrop": "/5EQ72VsocH2zfl6qMujRycFUDIZ.jpg",
    "genres": [
@@ -56255,6 +56323,17 @@
    "tmdb_id": 453356,
    "vote": 6.6,
    "year": 2017
+  },
+  "gail daughtry and the celebrity sex pass|2026": {
+   "backdrop": "/vfcqksiJMpzFJ8Y1cVbSAH6J6rY.jpg",
+   "genres": [
+    35
+   ],
+   "poster": "/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+   "title": "Gail Daughtry and the Celebrity Sex Pass",
+   "tmdb_id": 1476682,
+   "vote": 6.509,
+   "year": 2026
   },
   "game girls|2018": {
    "backdrop": "/liL9awX9uQZtnWLowRalJDkIdaG.jpg",
@@ -59185,6 +59264,17 @@
    "vote": 4.5,
    "year": 2021
   },
+  "hillary|2020": {
+   "backdrop": null,
+   "genres": [
+    99
+   ],
+   "poster": "/tvNkqdALqzgm5AWuQleF0AQXT11.jpg",
+   "title": "HillaryHulu2020Rip.1080p.avi",
+   "tmdb_id": 777128,
+   "vote": 0.0,
+   "year": 2020
+  },
   "hillbilly elegy|2020": {
    "backdrop": "/kCqWQ24m7TjA0RllQMn0JYrcy4a.jpg",
    "genres": [
@@ -60062,6 +60152,17 @@
    "tmdb_id": 1182952,
    "vote": 10.0,
    "year": 2025
+  },
+  "how to divorce during the war|2026": {
+   "backdrop": "/lSkwzoCKgVmxh34RZrUQsO5ZWQd.jpg",
+   "genres": [
+    18
+   ],
+   "poster": "/naG3eXp5wsq7us6hnNKdaUgwOgk.jpg",
+   "title": "How to Divorce During the War",
+   "tmdb_id": 1529024,
+   "vote": 5.75,
+   "year": 2026
   },
   "how to have sex|2023": {
    "backdrop": "/akvlTeB0LiNzw9U9YCAB8wwb5Qo.jpg",
@@ -66175,6 +66276,17 @@
    "vote": 6.7,
    "year": 2025
   },
+  "leila's brothers|2022": {
+   "backdrop": "/hqU7refTJZ8rqQsMpfnCsiJAy8p.jpg",
+   "genres": [
+    18
+   ],
+   "poster": "/onQUSikPNXVvoT3wCLzHgiOPrHT.jpg",
+   "title": "Leila's Brothers",
+   "tmdb_id": 962558,
+   "vote": 7.6,
+   "year": 2022
+  },
   "lemebel|2019": {
    "backdrop": "/2jauWa6t5TW2uszCyBxIH2Mmv2Y.jpg",
    "genres": [
@@ -67010,6 +67122,17 @@
    "vote": 6.0,
    "year": 2025
   },
+  "little death|2024": {
+   "backdrop": "/1SapfzBNXQ133o5VGw5mq6JTGVk.jpg",
+   "genres": [
+    18
+   ],
+   "poster": "/beGHEvgYEDnSNENnfc1LYyoapgh.jpg",
+   "title": "The Little Death",
+   "tmdb_id": 1160725,
+   "vote": 0.0,
+   "year": 2023
+  },
   "little girl blue (œdo)|2023": {
    "backdrop": "/6IJZrSRNsMkOHLvx8v5NKecYnoW.jpg",
    "genres": [
@@ -67359,6 +67482,17 @@
    "tmdb_id": 840098,
    "vote": 7.2,
    "year": 2022
+  },
+  "lord of the flies|2026": {
+   "backdrop": "/hmO6gcVSYchZXN0N7XcbXtjaC0k.jpg",
+   "genres": [
+    99
+   ],
+   "poster": "/mjhgTkb3WVqyasATS3SQNh99qtN.jpg",
+   "title": "Making of Lord of the Flies",
+   "tmdb_id": 1672938,
+   "vote": 9.545,
+   "year": 2026
   },
   "loriot's great cartoon revue|2023": {
    "backdrop": "/on7ob2E1fUxiR6lkCHwlpajTi4q.jpg",
@@ -76840,6 +76974,17 @@
    "vote": 5.2,
    "year": 2024
   },
+  "patriot|2017": {
+   "backdrop": null,
+   "genres": [
+    18
+   ],
+   "poster": "/jZwQuqC1dOcVqeGYF5gDsO8GPyO.jpg",
+   "title": "Patriot",
+   "tmdb_id": 363350,
+   "vote": 5.7,
+   "year": 2015
+  },
   "patti cake$ (cdo) (closing film)|2017": {
    "backdrop": "/kVaTdQ4N3j64pIpFao31v7DeYcu.jpg",
    "genres": [
@@ -82768,6 +82913,18 @@
    "vote": 6.6,
    "year": 2018
   },
+  "shock waves – diary of my mind|2018": {
+   "backdrop": "/6m8rIeZXB8LbK2usemEqGR0Cbja.jpg",
+   "genres": [
+    18,
+    80
+   ],
+   "poster": "/hXOXzftkE4Hw8DvPwy5Djwgym36.jpg",
+   "title": "Diary of My Mind",
+   "tmdb_id": 500834,
+   "vote": 4.9,
+   "year": 2018
+  },
   "shock waves – first name: mathieu|2018": {
    "backdrop": "/v5DowFh3HApqUQ6XiRlDnXByBh.jpg",
    "genres": [
@@ -84148,6 +84305,17 @@
    "tmdb_id": 582925,
    "vote": 6.4,
    "year": 2020
+  },
+  "songs for a passerby|2023": {
+   "backdrop": "/c8Myay0wzYz9ZJhnWSPHst1UKC2.jpg",
+   "genres": [
+    16
+   ],
+   "poster": "/uiLvDHhkLMOjkE95MwgG665VUPV.jpg",
+   "title": "Songs for a Passerby",
+   "tmdb_id": 1315899,
+   "vote": 10.0,
+   "year": 2023
   },
   "songs my brother taught me|2015": {
    "backdrop": "/cSVIQcChsIqaP7frfaiXTTH3vOM.jpg",
@@ -91941,6 +92109,17 @@
    "vote": 6.0,
    "year": 2025
   },
+  "the last romantics|2024": {
+   "backdrop": "/wVgSduM63YxsKOm4boFEZTzEv6F.jpg",
+   "genres": [
+    18
+   ],
+   "poster": "/nXxydY183uXfZ9Tki22YEa7FlBe.jpg",
+   "title": "The Last Romantics",
+   "tmdb_id": 1247538,
+   "vote": 6.2,
+   "year": 2024
+  },
   "the last stop in yuma county|2023": {
    "backdrop": "/wy92wLmcjfEy6Gp3v0Q30gxNWrS.jpg",
    "genres": [
@@ -94765,6 +94944,18 @@
    "tmdb_id": 574094,
    "vote": 5.5,
    "year": 2020
+  },
+  "the same sky|2017": {
+   "backdrop": null,
+   "genres": [
+    18,
+    10749
+   ],
+   "poster": null,
+   "title": "Under the Same Sky",
+   "tmdb_id": 1610152,
+   "vote": 0.0,
+   "year": 2017
   },
   "the samurai and the prisoner|2026": {
    "backdrop": "/pPThPhqsh5bKwJoZDlWd67qCHcc.jpg",
@@ -98404,6 +98595,17 @@
    "vote": 5.266,
    "year": 2024
   },
+  "timestamp|2025": {
+   "backdrop": "/zZRJD5mVrpEFGbPcgLMWtqscbS5.jpg",
+   "genres": [
+    99
+   ],
+   "poster": "/b49YNh0qTTBbxS7IP4sWdypTKoP.jpg",
+   "title": "Timestamp",
+   "tmdb_id": 1421157,
+   "vote": 7.0,
+   "year": 2025
+  },
   "time|2020": {
    "backdrop": "/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg",
    "genres": [
@@ -100450,6 +100652,18 @@
    "vote": 5.3,
    "year": 2019
   },
+  "vergüenza|2017": {
+   "backdrop": "/6bzhqOWDVnlyWBGHOzjZWUfeS2k.jpg",
+   "genres": [
+    18,
+    35
+   ],
+   "poster": "/5TexkyXfiHPLyt8YAnMTrl7Cy8e.jpg",
+   "title": "Vergüenza",
+   "tmdb_id": 618643,
+   "vote": 2.0,
+   "year": 2017
+  },
   "vermiglio|2024": {
    "backdrop": "/fYepNPcgAYHQRMNZW95oOykLRgQ.jpg",
    "genres": [
@@ -100714,6 +100928,17 @@
    "tmdb_id": 961080,
    "vote": 5.8,
    "year": 2024
+  },
+  "vitalina varela|2019": {
+   "backdrop": "/2ITFFpDaKBa0zmjENtY1SMJkieu.jpg",
+   "genres": [
+    18
+   ],
+   "poster": "/79KnJn7gdaYukkSwJzeJ5ApDCYz.jpg",
+   "title": "Vitalina Varela",
+   "tmdb_id": 468592,
+   "vote": 6.547,
+   "year": 2019
   },
   "vitalina varela|2020": {
    "backdrop": "/2ITFFpDaKBa0zmjENtY1SMJkieu.jpg",
@@ -101145,6 +101370,15 @@
    "tmdb_id": 1168937,
    "vote": 0.0,
    "year": 2023
+  },
+  "we are who we are|2020": {
+   "backdrop": "/v5pSsSoMtQ7q1Gqx0rO7jj0v6Ft.jpg",
+   "genres": [],
+   "poster": "/s6lHIFerBqKlk8t88NwI0IHJ3hB.jpg",
+   "title": "Who we are",
+   "tmdb_id": 845060,
+   "vote": 0.0,
+   "year": 2020
   },
   "we barbarians|2023": {
    "backdrop": "/68M1PtLEHiJtk3qCDhQ1cjZ4K2d.jpg",
@@ -104166,16 +104400,19 @@
   "house of yang|2026",
   "how to survive a plague: the inside story of how citizens and science tamed aids|2012",
   "human violins - prelude|2023",
+  "i know your soul (episodes 1 and 2)|2023",
   "i never cry [ ca ]|2020",
   "if only (opening film)|2019",
   "il tentato suicidio nell'adolescenza (t.s. giovanile)|2017",
   "imago (œdo)|2025",
   "immortality for all: a film trilogy on russian cosmism|2017",
+  "in the land of arto (opening film)|2025",
   "in the name of blood [ fr ]|2024",
   "in waves (cdo) (opening film)|2026",
   "indianara (œdo, qp)|2019",
   "invitation films from morelia international film festival|2024",
   "irkala – gilgamesh’s dream|2025",
+  "irma vep (episodes 1 and 2)|2022",
   "isadora's children [ fr ]|2019",
   "jack hock|2018",
   "janet shearon armstrong|2018",
@@ -104244,6 +104481,7 @@
   "militantropos (œdo)|2025",
   "munduruku: the fight to defend the heart of the amazong|2017",
   "mutzenbacher [ de ]|2022",
+  "my brilliant friend (series)|2018",
   "my father the guestworker|2023",
   "my name is o90|2023",
   "napalm (œdo)|2017",
@@ -104263,6 +104501,7 @@
   "nothingwood (cdo) (œdo)|2017",
   "nuestras paredes (corto)|2016",
   "obscure night - \"ain't i a child?\" (œdo)|2025",
+  "of money and blood (12 episodes)|2023",
   "one day (cdo)|2018",
   "onoda: 10,000 nights in the jungle (opening film)|2021",
   "oracene price|2021",
@@ -104327,6 +104566,7 @@
   "saroo brierley|2016",
   "savanna and the mountain (œdo)|2024",
   "scattered night [ ko ]|2019",
+  "scenes from a marriage (5 episodes)|2021",
   "seed: the untold story special mention: death by design|2016",
   "sensei sergio st. carlos|2025",
   "september 5 (opening film)|2024",
@@ -104355,6 +104595,7 @@
   "sister agnes|2024",
   "six months in the pink building (cdo)|2026",
   "skin in spring [ de ]|2024",
+  "sleep (cdo)|2023",
   "small axe: alex wheatle|2020",
   "small axe: lovers rock|2020",
   "small axe: mangrove|2020",
@@ -104391,6 +104632,7 @@
   "special screenings|2026",
   "special sessions|2024",
   "species (cdo)|2026",
+  "ss-gb|2017",
   "st. clair bayfield|2016",
   "stams [ c ]|2023",
   "stanislaus \"kat\" katczinsky|2022",
@@ -104400,9 +104642,11 @@
   "studio ghibli 's honorary palme d'or celebrations|2024",
   "sue brierley|2016",
   "sugar babies [ wd ]|2025",
+  "supersex (episodes 1–3)|2024",
   "surfacing [ de ]|2024",
   "thanks for coming (œdo)|2026",
   "the american backyard (closing film)|2024",
+  "the art of joy (series)|2024",
   "the ballet lesson|2026",
   "the calming [ de ]|2020",
   "the cemetery of cinema [ c ]|2023",
@@ -104419,6 +104663,7 @@
   "the hedonists (corto)|2016",
   "the house of the spirits [ es ]|2026",
   "the hunger games: monckinjay – part 1|2014",
+  "the idol (episodes 1 and 2)|2023",
   "the intrusion [ b ]|2023",
   "the invasion (œdo)|2024",
   "the klezmer project [ a ]|2023",
@@ -104427,6 +104672,8 @@
   "the monster of florence (4 episodes)|2025",
   "the monster of the crypt|2021",
   "the mountain [ fr ]|2022",
+  "the narrow road to the deep north (series)|2025",
+  "the new pope (episodes 2 and 7)|2019",
   "the new years (10 episodes)|2024",
   "the open couple (opening film)|2024",
   "the quiet migration [ a ]|2023",
@@ -104437,6 +104684,7 @@
   "the trial [ c ]|2023",
   "the vagabonds (cdo)|2022",
   "the walls of bergamo [ c ]|2023",
+  "the young pope (series)|2016",
   "therese belivet|2015",
   "third act [ wd ]|2025",
   "this is the end [ d ]|2023",
@@ -104444,6 +104692,7 @@
   "tokyo burst: the roundup|2026",
   "tommy trotter|2025",
   "too many beasts (cdo)|2026",
+  "too old to die young (episodes 4 and 5)|2019",
   "tranchées [ uk ]|2021",
   "transfariana [ d ]|2023",
   "tribute to pierre richard|2025",
@@ -104467,9 +104716,11 @@
   "william hale|2023",
   "women's tales project|2021",
   "women's tales project|2022",
+  "wormwood (miniseries)|2017",
   "wrong elements (œdo)|2016",
   "young leda caruso|2021",
   "zeit verbrechen (episodes 1–4)|2024",
-  "zelda fuller|2017"
+  "zelda fuller|2017",
+  "zerozerozero (episodes 1 and 2)|2019"
  ]
 }
