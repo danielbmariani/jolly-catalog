@@ -1,7 +1,7 @@
 {
   "_raw": [
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -9,7 +9,7 @@
       "url": "https://www.rogerebert.com/reviews/rose-sandra-huller-film-review-2026"
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -17,7 +17,7 @@
       "url": "https://www.rogerebert.com/reviews/you-can-see-everything-nathan-fielder-elizabeth-holmes-a24-film-review-2026"
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -25,7 +25,7 @@
       "url": "https://www.rogerebert.com/reviews/norm-the-tale-of-norm-macdonald-netflix-documentary-film-review-2026"
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -33,7 +33,7 @@
       "url": "https://www.rogerebert.com/reviews/sense-and-sensibility-daisy-edgar-jones-jane-austen-movie-review-2026"
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -41,7 +41,7 @@
       "url": "https://www.rogerebert.com/reviews/la-bola-negra-netflix-penelope-cruz-glenn-close-film-review-2026"
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -49,12 +49,60 @@
       "url": "https://www.rogerebert.com/reviews/possible-love-lee-chang-dong-netflix-movie-review-2026"
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
       "title": "Fatherland",
       "url": "https://www.rogerebert.com/reviews/fatherland-film-review-2026"
+    },
+    {
+      "date": "2026-10-23",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Making Marie Antoinette",
+      "url": "https://www.rogerebert.com/reviews/making-marie-antoinette-eleanor-coppola-documentary-film-review-2026"
+    },
+    {
+      "date": "2026-10-23",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Ray Gunn",
+      "url": "https://www.rogerebert.com/reviews/ray-gunn-brad-bird-netflx-movie-review"
+    },
+    {
+      "date": "2026-10-23",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Once Upon a Time in Harlem",
+      "url": "https://www.rogerebert.com/reviews/once-upon-a-time-in-harlem-william-graves-documentary-film-review-2026"
+    },
+    {
+      "date": "2026-10-23",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "Lupin",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/23/lupin-review-the-french-super-thief-is-magnetic-in-his-blockbuster-return"
+    },
+    {
+      "date": "2026-10-23",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "5★",
+      "title": "Last One Laughing: Halloween",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/23/last-one-laughing-halloween-review-still-a-total-treat-despite-the-new-twist"
+    },
+    {
+      "date": "2026-10-23",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Mouse (2026)",
+      "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
     },
     {
       "date": "2026-10-22",
@@ -74,27 +122,11 @@
     },
     {
       "date": "2026-10-22",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
+      "media_type": "tv",
+      "outlet": "The Guardian",
       "rating": "4★",
-      "title": "Making Marie Antoinette",
-      "url": "https://www.rogerebert.com/reviews/making-marie-antoinette-eleanor-coppola-documentary-film-review-2026"
-    },
-    {
-      "date": "2026-10-22",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Ray Gunn",
-      "url": "https://www.rogerebert.com/reviews/ray-gunn-brad-bird-netflx-movie-review"
-    },
-    {
-      "date": "2026-10-22",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "Once Upon a Time in Harlem",
-      "url": "https://www.rogerebert.com/reviews/once-upon-a-time-in-harlem-william-graves-documentary-film-review-2026"
+      "title": "It Gets Worse",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/it-gets-worse-review-leo-reich-is-a-rare-star-and-the-future-of-tv-comedy"
     },
     {
       "date": "2026-10-21",
@@ -6175,22 +6207,6 @@
       "rating": "4★",
       "title": "Nobody Wants This",
       "url": "https://www.theguardian.com/tv-and-radio/2025/oct/23/nobody-wants-this-review-kristen-bell-adam-brody-netflix"
-    },
-    {
-      "date": "2025-10-22",
-      "media_type": "movie",
-      "outlet": "IndieWire",
-      "rating": "B+",
-      "title": "Chainsaw Man — The Movie: Reze Arc",
-      "url": "https://www.indiewire.com/criticism/movies/chainsaw-man-the-movie-reze-arc-review-1235156950/"
-    },
-    {
-      "date": "2025-10-22",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Mistress Dispeller",
-      "url": "https://www.rogerebert.com/reviews/mistress-dispeller-documentary-film-review-2025"
     }
   ],
   "movie:tmdb:1339070": {
@@ -7723,7 +7739,7 @@
     "poster": "/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
     "recs": [
       {
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/ray-gunn-brad-bird-netflx-movie-review"
@@ -8017,25 +8033,6 @@
     "tmdb_id": 1624363,
     "year": 2026
   },
-  "tt22060498": {
-    "age": null,
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/h0gWCKUwROWll8ZzyEuaUJTsigA.jpg",
-    "recs": [
-      {
-        "date": "2025-10-22",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/mistress-dispeller-documentary-film-review-2025"
-      }
-    ],
-    "title": "Mistress Dispeller",
-    "tmdb_id": 951055,
-    "year": 2025
-  },
   "tt22202452": {
     "age": {
       "classind": "16",
@@ -8314,6 +8311,36 @@
     "title": "Eternity",
     "tmdb_id": 1259102,
     "year": 2025
+  },
+  "tt2531336": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "media_type": "tv",
+    "poster": "/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+    "recs": [
+      {
+        "date": "2026-10-23",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/23/lupin-review-the-french-super-thief-is-magnetic-in-his-blockbuster-return"
+      }
+    ],
+    "title": "Lupin",
+    "tmdb_id": 96677,
+    "watch": {
+      "providers": [
+        "Netflix"
+      ],
+      "urls": {}
+    },
+    "year": 2021
   },
   "tt25399154": {
     "age": {
@@ -9828,12 +9855,6 @@
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/chainsaw-man-the-movie-reze-arc-film-review-2025"
-      },
-      {
-        "date": "2025-10-22",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/chainsaw-man-the-movie-reze-arc-review-1235156950/"
       }
     ],
     "title": "Chainsaw Man - The Movie: Reze Arc",
@@ -12550,6 +12571,37 @@
     "tmdb_id": 1495629,
     "year": 2025
   },
+  "tt34161421": {
+    "age": {
+      "classind": "12",
+      "source": "DE"
+    },
+    "genres": [
+      10764,
+      35
+    ],
+    "media_type": "tv",
+    "poster": "/fbBmdW8BWcoaQemB1WXUzWw2m7U.jpg",
+    "recs": [
+      {
+        "date": "2026-10-23",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/23/last-one-laughing-halloween-review-still-a-total-treat-despite-the-new-twist"
+      }
+    ],
+    "title": "LOL: Last One Laughing Germany - Halloween Special",
+    "tmdb_id": 274864,
+    "watch": {
+      "providers": [
+        "Amazon Prime Video"
+      ],
+      "urls": {
+        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88f787ce-8705-42d6-8f99-b9e6c7302166"
+      }
+    },
+    "year": 2024
+  },
   "tt34196445": {
     "age": null,
     "genres": [
@@ -13567,7 +13619,7 @@
     "poster": "/l76qrRUs1e1Th4CNeQIQ10TjHOl.jpg",
     "recs": [
       {
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/la-bola-negra-netflix-penelope-cruz-glenn-close-film-review-2026"
@@ -14109,6 +14161,25 @@
     ],
     "title": "undertone",
     "tmdb_id": 1480387,
+    "year": 2026
+  },
+  "tt35926686": {
+    "age": null,
+    "genres": [
+      35
+    ],
+    "media_type": "tv",
+    "poster": "/vdvHHnAzYGt4OEhTmUdErjZIGBG.jpg",
+    "recs": [
+      {
+        "date": "2026-10-22",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/it-gets-worse-review-leo-reich-is-a-rare-star-and-the-future-of-tv-comedy"
+      }
+    ],
+    "title": "It Gets Worse",
+    "tmdb_id": 334470,
     "year": 2026
   },
   "tt35946742": {
@@ -15433,7 +15504,7 @@
     "poster": "/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
     "recs": [
       {
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/fatherland-film-review-2026"
@@ -15847,7 +15918,7 @@
     "poster": "/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
     "recs": [
       {
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/possible-love-lee-chang-dong-netflix-movie-review-2026"
@@ -17155,7 +17226,7 @@
     "poster": "/9eukk5gby8NZCwraiC7mloZmasP.jpg",
     "recs": [
       {
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/once-upon-a-time-in-harlem-william-graves-documentary-film-review-2026"
@@ -18558,7 +18629,7 @@
     "poster": "/1vt7dhpq5dYA5H5VDEf7IITMbSg.jpg",
     "recs": [
       {
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/making-marie-antoinette-eleanor-coppola-documentary-film-review-2026"
@@ -18908,7 +18979,7 @@
     "poster": "/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
     "recs": [
       {
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/norm-the-tale-of-norm-macdonald-netflix-documentary-film-review-2026"
@@ -18975,7 +19046,7 @@
     "poster": "/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
     "recs": [
       {
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/you-can-see-everything-nathan-fielder-elizabeth-holmes-a24-film-review-2026"
