@@ -6217,26 +6217,6 @@
       "url": "https://www.rogerebert.com/reviews/chainsaw-man-the-movie-reze-arc-film-review-2025"
     }
   ],
-  "movie:tmdb:1339070": {
-    "age": null,
-    "genres": [
-      99,
-      10770
-    ],
-    "media_type": "movie",
-    "poster": "/vvb30vlvcz10dJmPtG5D26vBdf5.jpg",
-    "recs": [
-      {
-        "date": "2026-05-14",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/may/14/top-gun-review-tom-cruise-val-kilmer-kelly-mcgillis"
-      }
-    ],
-    "title": "Guy Martin: Top Gun",
-    "tmdb_id": 1339070,
-    "year": 2024
-  },
   "movie:tmdb:1376668": {
     "age": null,
     "genres": [
@@ -6327,25 +6307,22 @@
     "tmdb_id": 1637615,
     "year": 2024
   },
-  "movie:tmdb:1709186": {
+  "movie:tmdb:1642331": {
     "age": null,
-    "genres": [
-      36,
-      35
-    ],
+    "genres": [],
     "media_type": "movie",
-    "poster": "/u6o8BtSCK2eqxJaLsr1NnVo06NH.jpg",
+    "poster": "/xiyx7obD1DbL7yLTN3uIuIiyase.jpg",
     "recs": [
       {
-        "date": "2026-05-06",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/amadeus-paul-bettany-will-sharpe-tv-review-2026"
+        "date": "2025-11-24",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/wake-up-dead-man-review-rian-johnson-third-knives-out-1235149631/"
       }
     ],
-    "title": "Amadeus: Beit Lessin",
-    "tmdb_id": 1709186,
-    "year": 2026
+    "title": "Wake Up, Dead Man!",
+    "tmdb_id": 1642331,
+    "year": null
   },
   "movie:tmdb:1730994": {
     "age": null,
@@ -6387,6 +6364,23 @@
     "title": "The Stranger",
     "tmdb_id": 1786979,
     "year": 2024
+  },
+  "movie:tmdb:1794626": {
+    "age": null,
+    "genres": [],
+    "media_type": "movie",
+    "poster": null,
+    "recs": [
+      {
+        "date": "2025-11-14",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/the-beast-in-me-claire-danes-netflix-tv-review-2025"
+      }
+    ],
+    "title": "The Beast in Me",
+    "tmdb_id": 1794626,
+    "year": null
   },
   "tt0071007": {
     "age": {
@@ -6470,14 +6464,6 @@
     ],
     "title": "Call of the Wild",
     "tmdb_id": 21624,
-    "watch": {
-      "providers": [
-        "Disney Plus"
-      ],
-      "urls": {
-        "Disney Plus": "https://www.disneyplus.com/browse/entity-eee5940d-ef80-43c3-96eb-cd2ecc826823"
-      }
-    },
     "year": 2000
   },
   "tt0285403": {
@@ -6934,38 +6920,6 @@
     "tmdb_id": 1062722,
     "year": 2025
   },
-  "tt13186482": {
-    "age": {
-      "classind": "10",
-      "source": "BR"
-    },
-    "genres": [
-      12,
-      10751,
-      16
-    ],
-    "kids": {
-      "providers": [
-        "Disney Plus"
-      ],
-      "urls": {
-        "Disney Plus": "https://www.disneyplus.com/browse/entity-be4719cc-b491-4593-b5a7-d8658976c0b9"
-      }
-    },
-    "media_type": "movie",
-    "poster": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
-    "recs": [
-      {
-        "date": "2026-04-24",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/apr/24/the-lion-king-review-musical-sydney"
-      }
-    ],
-    "title": "Mufasa: The Lion King",
-    "tmdb_id": 762509,
-    "year": 2024
-  },
   "tt13609648": {
     "age": {
       "classind": "10",
@@ -7050,17 +7004,6 @@
     ],
     "title": "Revival",
     "tmdb_id": 254013,
-    "watch": {
-      "providers": [
-        "Booh Amazon Channel",
-        "Looke",
-        "WeTV"
-      ],
-      "urls": {
-        "Looke": "https://www.looke.com.br/detalhes/436489",
-        "WeTV": "https://wetv.vip/en/play/705eb5vyv2obxld/utm_source=just_watch&utm_medium=just_watch_home&utm_campaign=just_watch"
-      }
-    },
     "year": 2025
   },
   "tt1399664": {
@@ -7091,7 +7034,7 @@
         "Amazon Video"
       ],
       "urls": {
-        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ea9f68d-5bf9-bb34-dc15-2f971f46c793",
+        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ba8005d-d26b-4c22-992b-3ebbb25049ad",
         "Amazon Video": "https://www.primevideo.com/detail/0MRUIDS4CJ4WX0FJNZYZ3DUBOA"
       }
     },
@@ -7194,12 +7137,6 @@
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/knives-out-3-wake-up-dead-man-movie-review-2025"
-      },
-      {
-        "date": "2025-11-24",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/wake-up-dead-man-review-rian-johnson-third-knives-out-1235149631/"
       }
     ],
     "title": "Wake Up Dead Man: A Knives Out Mystery",
@@ -7350,26 +7287,6 @@
     "title": "Hamnet",
     "tmdb_id": 858024,
     "year": 2025
-  },
-  "tt15029528": {
-    "age": null,
-    "genres": [
-      16,
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/55zRo09f2VRm0Kjp53AAK3EKEPW.jpg",
-    "recs": [
-      {
-        "date": "2026-07-20",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jul/20/flavours-of-iraq-review-animation"
-      }
-    ],
-    "title": "Flavors of Iraq",
-    "tmdb_id": 698780,
-    "year": 2024
   },
   "tt15047880": {
     "age": {
@@ -7574,28 +7491,6 @@
     "tmdb_id": 1514863,
     "year": 2026
   },
-  "tt1660648": {
-    "age": {
-      "classind": "14",
-      "source": "BR"
-    },
-    "genres": [
-      35
-    ],
-    "media_type": "movie",
-    "poster": "/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg",
-    "recs": [
-      {
-        "date": "2026-04-24",
-        "outlet": "IndieWire",
-        "rating": "A-",
-        "url": "https://www.indiewire.com/criticism/movies/ricky-movie-review-stephan-james-1235088827/"
-      }
-    ],
-    "title": "Ricky Stanicky",
-    "tmdb_id": 1022690,
-    "year": 2024
-  },
   "tt1694423": {
     "age": {
       "classind": "10",
@@ -7656,27 +7551,6 @@
       "urls": {}
     },
     "year": 2023
-  },
-  "tt17497130": {
-    "age": null,
-    "genres": [
-      9648,
-      18,
-      53
-    ],
-    "media_type": "movie",
-    "poster": "/z3ZQXbY05pfeDwbozfxdbj7yQjM.jpg",
-    "recs": [
-      {
-        "date": "2026-07-06",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jul/06/the-guest-review-trine-dyrholm-mads-mengel-danish"
-      }
-    ],
-    "title": "The Invisible Guest",
-    "tmdb_id": 1058588,
-    "year": 2026
   },
   "tt17497960": {
     "age": null,
@@ -7964,40 +7838,6 @@
     },
     "year": 2026
   },
-  "tt21435976": {
-    "age": {
-      "classind": "14",
-      "source": "BR"
-    },
-    "genres": [
-      28,
-      18,
-      53
-    ],
-    "kids": {
-      "providers": [
-        "Looke",
-        "Looke Amazon Channel"
-      ],
-      "urls": {
-        "Looke": "https://www.looke.com.br/detalhes/418540",
-        "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23b5d2b8-faef-44d1-8295-8162148f438d"
-      }
-    },
-    "media_type": "movie",
-    "poster": "/1MGTX64SlNIccKQV738rnllHkfM.jpg",
-    "recs": [
-      {
-        "date": "2026-09-13",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/babies-review-anna-kendrick-seth-rogen-1235216694/"
-      }
-    ],
-    "title": "September Babies",
-    "tmdb_id": 1276207,
-    "year": 2024
-  },
   "tt21856850": {
     "age": null,
     "genres": [
@@ -8202,29 +8042,6 @@
     "tmdb_id": 220594,
     "year": 2023
   },
-  "tt22827888": {
-    "age": {
-      "classind": "12",
-      "source": "BR"
-    },
-    "genres": [
-      10749,
-      35
-    ],
-    "media_type": "movie",
-    "poster": "/nQ5q2QhlekcUFrU2fWXCGJMVHRO.jpg",
-    "recs": [
-      {
-        "date": "2026-06-26",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/camp-horror-movie-review-avalon-fast-1235202145/"
-      }
-    ],
-    "title": "Boot Camp",
-    "tmdb_id": 1319504,
-    "year": 2024
-  },
   "tt23411728": {
     "age": null,
     "genres": [
@@ -8319,7 +8136,7 @@
         "Universal+ Amazon Channel"
       ],
       "urls": {
-        "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3f628c1c-45bd-4814-b45c-dc42ebbedf07"
+        "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33ab033d-e7c4-4714-9ca0-0ceea515b821"
       }
     },
     "year": 2022
@@ -8667,7 +8484,9 @@
     "title": "Nobody Wants This",
     "tmdb_id": 250923,
     "watch": {
-      "providers": [],
+      "providers": [
+        "Netflix"
+      ],
       "urls": {}
     },
     "year": 2024
@@ -8692,30 +8511,6 @@
     ],
     "title": "Musk",
     "tmdb_id": 1096228,
-    "year": 2026
-  },
-  "tt27047903": {
-    "age": {
-      "classind": "18",
-      "source": "BR"
-    },
-    "genres": [
-      27,
-      9648,
-      80
-    ],
-    "media_type": "movie",
-    "poster": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-    "recs": [
-      {
-        "date": "2026-10-21",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/oct/21/scream-review-wes-craven-meta-horror-remains-super-smart-and-scary-30-years-on"
-      }
-    ],
-    "title": "Scream 7",
-    "tmdb_id": 1159559,
     "year": 2026
   },
   "tt27054971": {
@@ -8842,10 +8637,6 @@
     ],
     "title": "Reckless",
     "tmdb_id": 58951,
-    "watch": {
-      "providers": [],
-      "urls": {}
-    },
     "year": 2014
   },
   "tt27369017": {
@@ -9138,30 +8929,6 @@
     "tmdb_id": 1124566,
     "year": 2025
   },
-  "tt27802226": {
-    "age": {
-      "classind": "10",
-      "source": "DE"
-    },
-    "genres": [
-      35,
-      18,
-      10749
-    ],
-    "media_type": "movie",
-    "poster": "/6psNzdIymhnN8KQggL4tiZRNIXg.jpg",
-    "recs": [
-      {
-        "date": "2026-06-02",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jun/02/virginia-woolfs-night-and-day-review-tina-gharavi-timothy-spall-jennifer-saunders"
-      }
-    ],
-    "title": "Virginia Woolf's Night & Day",
-    "tmdb_id": 1291375,
-    "year": 2026
-  },
   "tt27811632": {
     "age": {
       "classind": "10",
@@ -9355,23 +9122,6 @@
     "tmdb_id": 1165366,
     "year": 2026
   },
-  "tt28555994": {
-    "age": null,
-    "genres": [],
-    "media_type": "movie",
-    "poster": "/zLCz73mc5Gq2UV3l3t10O5fQ9ta.jpg",
-    "recs": [
-      {
-        "date": "2026-06-26",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/camp-avalon-fast-film-review-2026"
-      }
-    ],
-    "title": "Film Camp",
-    "tmdb_id": 1483809,
-    "year": 2025
-  },
   "tt28690468": {
     "age": {
       "classind": "16",
@@ -9492,29 +9242,6 @@
     "title": "Viva Carmen",
     "tmdb_id": 1061821,
     "year": 2026
-  },
-  "tt29101725": {
-    "age": {
-      "classind": "16",
-      "source": "US"
-    },
-    "genres": [
-      53,
-      37
-    ],
-    "media_type": "movie",
-    "poster": "/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
-    "recs": [
-      {
-        "date": "2026-09-11",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/sep/11/faith-review-erin-doherty-james-mcavoy"
-      }
-    ],
-    "title": "Killing Faith",
-    "tmdb_id": 1200320,
-    "year": 2025
   },
   "tt29271622": {
     "age": {
@@ -9767,12 +9494,6 @@
     "poster": "/jnaOmD9PmAkNjgVtCn17o7clOYe.jpg",
     "recs": [
       {
-        "date": "2026-02-24",
-        "outlet": "IndieWire",
-        "rating": "A-",
-        "url": "https://www.indiewire.com/criticism/movies/dreams-review-jessica-chastain-michel-franco-1235092639/"
-      },
-      {
         "date": "2025-11-06",
         "outlet": "RogerEbert.com",
         "rating": "4★",
@@ -9826,6 +9547,26 @@
     ],
     "title": "Miss You, Love You",
     "tmdb_id": 1232667,
+    "year": 2026
+  },
+  "tt30460036": {
+    "age": null,
+    "genres": [
+      18,
+      14
+    ],
+    "media_type": "movie",
+    "poster": "/i0skd2t9mmixFCFrS2AN9iSVhn2.jpg",
+    "recs": [
+      {
+        "date": "2026-09-15",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/at-night-review-1235217342/"
+      }
+    ],
+    "title": "At Night",
+    "tmdb_id": 1228911,
     "year": 2026
   },
   "tt30460310": {
@@ -9963,6 +9704,25 @@
     ],
     "title": "Eagles of the Republic",
     "tmdb_id": 1220566,
+    "year": 2025
+  },
+  "tt30829699": {
+    "age": null,
+    "genres": [
+      18
+    ],
+    "media_type": "movie",
+    "poster": "/iUmPnPKyW2YEmhZlP91gwtW8O6B.jpg",
+    "recs": [
+      {
+        "date": "2026-04-24",
+        "outlet": "IndieWire",
+        "rating": "A-",
+        "url": "https://www.indiewire.com/criticism/movies/ricky-movie-review-stephan-james-1235088827/"
+      }
+    ],
+    "title": "Ricky",
+    "tmdb_id": 1355715,
     "year": 2025
   },
   "tt30923123": {
@@ -10426,11 +10186,31 @@
     ],
     "title": "The Split Up",
     "tmdb_id": 334653,
-    "watch": {
-      "providers": [],
-      "urls": {}
-    },
     "year": 2026
+  },
+  "tt31710990": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      10749,
+      53,
+      18
+    ],
+    "media_type": "movie",
+    "poster": "/zJCOHBvy4O6nIslbbxJ8tICn53d.jpg",
+    "recs": [
+      {
+        "date": "2026-02-24",
+        "outlet": "IndieWire",
+        "rating": "A-",
+        "url": "https://www.indiewire.com/criticism/movies/dreams-review-jessica-chastain-michel-franco-1235092639/"
+      }
+    ],
+    "title": "Dreams",
+    "tmdb_id": 1134463,
+    "year": 2025
   },
   "tt31711040": {
     "age": {
@@ -10572,10 +10352,6 @@
     ],
     "title": "Kabul",
     "tmdb_id": 250996,
-    "watch": {
-      "providers": [],
-      "urls": {}
-    },
     "year": 2025
   },
   "tt32058710": {
@@ -10738,25 +10514,6 @@
     "title": "28 Years Later: The Bone Temple",
     "tmdb_id": 1272837,
     "year": 2026
-  },
-  "tt32151094": {
-    "age": null,
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/seNQ32fEwPNFFRhkgqM3zakzNts.jpg",
-    "recs": [
-      {
-        "date": "2026-06-26",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/cielo-movie-review-1235202392/"
-      }
-    ],
-    "title": "Cielo Roto",
-    "tmdb_id": 1276549,
-    "year": 2024
   },
   "tt32212403": {
     "age": {
@@ -11274,14 +11031,6 @@
     ],
     "title": "The Black Swan",
     "tmdb_id": 255510,
-    "watch": {
-      "providers": [
-        "Disney Plus"
-      ],
-      "urls": {
-        "Disney Plus": "https://www.disneyplus.com/browse/entity-0de850bd-a343-4dd7-86c4-c008cdaca86f"
-      }
-    },
     "year": 2024
   },
   "tt32499731": {
@@ -11341,28 +11090,6 @@
     "tmdb_id": 1299581,
     "year": 2026
   },
-  "tt32538648": {
-    "age": {
-      "classind": "16",
-      "source": "DE"
-    },
-    "genres": [
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/rkCHBDGgc6UW9ETyTWZ0RiEiten.jpg",
-    "recs": [
-      {
-        "date": "2026-06-26",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/romeria-carla-simon-movie-review-2026"
-      }
-    ],
-    "title": "Romería",
-    "tmdb_id": 1182861,
-    "year": 2025
-  },
   "tt32547691": {
     "age": {
       "classind": "14",
@@ -11409,12 +11136,6 @@
         "outlet": "IndieWire",
         "rating": "B+",
         "url": "https://www.indiewire.com/criticism/movies/practical-magic-2-review-sandra-bullock-nicole-kidman-1235215192/"
-      },
-      {
-        "date": "2026-08-06",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/aug/06/practical-magic-review-nicole-kidman-and-sandra-bullocks-90s-witchy-fantasy-still-enchants"
       }
     ],
     "title": "Practical Magic 2",
@@ -12539,12 +12260,6 @@
     ],
     "title": "The Cage",
     "tmdb_id": 287230,
-    "watch": {
-      "providers": [
-        "Netflix"
-      ],
-      "urls": {}
-    },
     "year": 2026
   },
   "tt34142731": {
@@ -12588,14 +12303,6 @@
     ],
     "title": "LOL: Last One Laughing Germany - Halloween Special",
     "tmdb_id": 274864,
-    "watch": {
-      "providers": [
-        "Amazon Prime Video"
-      ],
-      "urls": {
-        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88f787ce-8705-42d6-8f99-b9e6c7302166"
-      }
-    },
     "year": 2024
   },
   "tt34196445": {
@@ -12616,16 +12323,6 @@
     ],
     "title": "The Borderline",
     "tmdb_id": 274915,
-    "watch": {
-      "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ],
-      "urls": {
-        "Crunchyroll": "https://www.crunchyroll.com/watch/G31UX0JV3",
-        "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d065b0ae-fc3a-4ce5-8d58-b8b1f7f3ed83"
-      }
-    },
     "year": 2026
   },
   "tt34206385": {
@@ -13077,25 +12774,6 @@
     "tmdb_id": 1412744,
     "year": 2026
   },
-  "tt34963034": {
-    "age": null,
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
-    "recs": [
-      {
-        "date": "2026-03-03",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/andre-is-an-idiot-documentary-film-review-2026"
-      }
-    ],
-    "title": "André Is an Idiot",
-    "tmdb_id": 1400731,
-    "year": 2026
-  },
   "tt34964219": {
     "age": {
       "classind": "12",
@@ -13314,12 +12992,6 @@
         "outlet": "IndieWire",
         "rating": "A-",
         "url": "https://www.indiewire.com/criticism/movies/the-wrong-girls-review-1235210080/"
-      },
-      {
-        "date": "2026-07-08",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/film/2026/jul/08/the-girls-review-sumitra-peries-sri-lanka"
       }
     ],
     "title": "The Wrong Girls",
@@ -13709,12 +13381,6 @@
         "outlet": "The Guardian",
         "rating": "4★",
         "url": "https://www.theguardian.com/film/2026/jul/01/nirvanna-the-band-the-show-the-movie-review"
-      },
-      {
-        "date": "2026-02-13",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/nirvanna-the-band-the-show-the-movie-review-2026"
       }
     ],
     "title": "Nirvanna the Band the Show the Movie",
@@ -15045,10 +14711,6 @@
     ],
     "title": "Believe Me",
     "tmdb_id": 301283,
-    "watch": {
-      "providers": [],
-      "urls": {}
-    },
     "year": 2026
   },
   "tt36832222": {
@@ -16171,6 +15833,29 @@
     "tmdb_id": 1585239,
     "year": 2026
   },
+  "tt38066489": {
+    "age": {
+      "classind": "16",
+      "source": "US"
+    },
+    "genres": [
+      35,
+      18
+    ],
+    "media_type": "movie",
+    "poster": "/qthjxiZ2cNvyQvVbbJz6rfUCEgk.jpg",
+    "recs": [
+      {
+        "date": "2026-09-13",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/babies-review-anna-kendrick-seth-rogen-1235216694/"
+      }
+    ],
+    "title": "Babies",
+    "tmdb_id": 1537546,
+    "year": 2027
+  },
   "tt38120423": {
     "age": null,
     "genres": [
@@ -16270,6 +15955,26 @@
     ],
     "title": "Dog Park",
     "tmdb_id": 307823,
+    "year": 2026
+  },
+  "tt38226226": {
+    "age": null,
+    "genres": [
+      18,
+      27
+    ],
+    "media_type": "movie",
+    "poster": "/pQrlFAiakpphxCrR5lmHT3GR7Td.jpg",
+    "recs": [
+      {
+        "date": "2026-06-26",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/camp-horror-movie-review-avalon-fast-1235202145/"
+      }
+    ],
+    "title": "CAMP",
+    "tmdb_id": 1362262,
     "year": 2026
   },
   "tt38267923": {
@@ -16405,26 +16110,6 @@
     "title": "Carousel",
     "tmdb_id": 1558701,
     "year": 2026
-  },
-  "tt38629979": {
-    "age": null,
-    "genres": [
-      35,
-      53
-    ],
-    "media_type": "movie",
-    "poster": "/6odKHNxNoEeJrQHDfdLMPnsR4KX.jpg",
-    "recs": [
-      {
-        "date": "2026-09-12",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/sep/12/everybody-wants-to-fck-me-review-taron-egerton"
-      }
-    ],
-    "title": "Everybody Wants to F*ck Me",
-    "tmdb_id": 1559269,
-    "year": 2027
   },
   "tt38638836": {
     "age": null,
@@ -16850,29 +16535,6 @@
     "tmdb_id": 1455247,
     "year": 2026
   },
-  "tt39018643": {
-    "age": {
-      "classind": "L",
-      "source": "BR"
-    },
-    "genres": [
-      10402,
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/zfFvltKHntGBupFuubx3r61v48e.jpg",
-    "recs": [
-      {
-        "date": "2026-05-07",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d-james-cameron-concert-film-review-2026"
-      }
-    ],
-    "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
-    "tmdb_id": 1515899,
-    "year": 2026
-  },
   "tt39028241": {
     "age": null,
     "genres": [
@@ -16919,29 +16581,6 @@
       "urls": {}
     },
     "year": 2026
-  },
-  "tt39075285": {
-    "age": null,
-    "genres": [
-      28,
-      16,
-      14,
-      80,
-      53
-    ],
-    "media_type": "movie",
-    "poster": "/x14YpgJ9Z77vufopLaPGDFSftcM.jpg",
-    "recs": [
-      {
-        "date": "2025-12-05",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/kill-bill-the-whole-bloody-affair-quentin-tarantino-film-review"
-      }
-    ],
-    "title": "The Lost Chapter: Yuki's Revenge",
-    "tmdb_id": 1588237,
-    "year": 2025
   },
   "tt39075417": {
     "age": {
@@ -17450,6 +17089,45 @@
     "tmdb_id": 1599497,
     "year": 2026
   },
+  "tt39378214": {
+    "age": null,
+    "genres": [
+      18
+    ],
+    "media_type": "movie",
+    "poster": "/Agpqn5YurARQJiwZlnLLO29bwQn.jpg",
+    "recs": [
+      {
+        "date": "2026-07-06",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/jul/06/the-guest-review-trine-dyrholm-mads-mengel-danish"
+      }
+    ],
+    "title": "The Guest",
+    "tmdb_id": 1706729,
+    "year": 2026
+  },
+  "tt39466118": {
+    "age": null,
+    "genres": [
+      18,
+      14
+    ],
+    "media_type": "movie",
+    "poster": "/2EYG3jgPgDMlL6Gunmwq90UXHUl.jpg",
+    "recs": [
+      {
+        "date": "2026-09-11",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/sep/11/faith-review-erin-doherty-james-mcavoy"
+      }
+    ],
+    "title": "Faith",
+    "tmdb_id": 1625126,
+    "year": 2026
+  },
   "tt39555444": {
     "age": null,
     "genres": [
@@ -17633,26 +17311,6 @@
     "tmdb_id": 1638280,
     "year": 2027
   },
-  "tt40269077": {
-    "age": null,
-    "genres": [
-      10749,
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/1ucCvNfCUlhacBZseLik4IWg797.jpg",
-    "recs": [
-      {
-        "date": "2026-08-03",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/aug/03/memory-review-a-childs-eye-view-of-terror-in-chechnya-vladlena-sandu"
-      }
-    ],
-    "title": "A Special Memory",
-    "tmdb_id": 1630264,
-    "year": 2026
-  },
   "tt40311603": {
     "age": null,
     "genres": [
@@ -17671,25 +17329,6 @@
     ],
     "title": "Ghosts: The Possession of Button House",
     "tmdb_id": 1643567,
-    "year": 2026
-  },
-  "tt40383471": {
-    "age": null,
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/mjhgTkb3WVqyasATS3SQNh99qtN.jpg",
-    "recs": [
-      {
-        "date": "2026-05-04",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/lord-of-the-flies-tv-review-2026"
-      }
-    ],
-    "title": "Making of Lord of the Flies",
-    "tmdb_id": 1672938,
     "year": 2026
   },
   "tt40443746": {
@@ -18054,10 +17693,6 @@
       10751,
       35
     ],
-    "kids": {
-      "providers": [],
-      "urls": {}
-    },
     "media_type": "movie",
     "poster": "/rjmhzdVS3Ia535pFawju857e2Na.jpg",
     "recs": [
@@ -18133,10 +17768,6 @@
     ],
     "title": "See No Evil",
     "tmdb_id": 65824,
-    "watch": {
-      "providers": [],
-      "urls": {}
-    },
     "year": 2015
   },
   "tt41993588": {
@@ -18165,28 +17796,6 @@
       ],
       "urls": {}
     },
-    "year": 2026
-  },
-  "tt42037166": {
-    "age": {
-      "classind": "12",
-      "source": "BR"
-    },
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/1v259q0lEWNyB2y78WUcvb55VnW.jpg",
-    "recs": [
-      {
-        "date": "2026-06-25",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jun/25/chris-and-martina-the-final-set-review-tennis-titans-discuss-their-deep-bond-and-intense-rivalry"
-      }
-    ],
-    "title": "Chris & Martina: The Final Set",
-    "tmdb_id": 1675177,
     "year": 2026
   },
   "tt42070862": {
@@ -18265,16 +17874,6 @@
     ],
     "title": "Abandoned",
     "tmdb_id": 324050,
-    "watch": {
-      "providers": [
-        "Amazon Prime Video",
-        "Runtime"
-      ],
-      "urls": {
-        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e0b0ba85-68c6-d20c-8a49-fc652988c0fa",
-        "Runtime": "https://runtime.tv/node/27409"
-      }
-    },
     "year": 2026
   },
   "tt42443155": {
@@ -18382,31 +17981,6 @@
     ],
     "title": "Lovers in the Blue Night",
     "tmdb_id": 1699532,
-    "year": 2026
-  },
-  "tt42826707": {
-    "age": null,
-    "genres": [
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/nmIQQG8IDy0WYQy79Z0N7PhRNHg.jpg",
-    "recs": [
-      {
-        "date": "2026-09-04",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/sep/04/1518-a-place-to-heal-review-heartfelt-docu-realist-study-of-a-french-teen-psychiatric-facility"
-      },
-      {
-        "date": "2026-09-04",
-        "outlet": "IndieWire",
-        "rating": "A",
-        "url": "https://www.indiewire.com/criticism/movies/15-18-a-place-to-heal-movie-review-1235214815/"
-      }
-    ],
-    "title": "A Place to Heal",
-    "tmdb_id": 1429602,
     "year": 2026
   },
   "tt42898395": {
@@ -18607,25 +18181,6 @@
     "tmdb_id": 1630504,
     "year": 2026
   },
-  "tt43636661": {
-    "age": null,
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/9JJQ016vE6VPI3Nnghm33vOcual.jpg",
-    "recs": [
-      {
-        "date": "2026-09-18",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/you-had-to-be-there-how-the-toronto-godspell-ignited-the-comedy-revolution-documentary-film-review-2026"
-      }
-    ],
-    "title": "You Just Had to Be There",
-    "tmdb_id": 1583876,
-    "year": 2026
-  },
   "tt43637896": {
     "age": null,
     "genres": [
@@ -18724,26 +18279,6 @@
     ],
     "title": "DAU",
     "tmdb_id": 1734147,
-    "year": 2026
-  },
-  "tt43704164": {
-    "age": null,
-    "genres": [
-      36,
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/hwNCYExtvwC3SAWVSAoCq9yGvXt.jpg",
-    "recs": [
-      {
-        "date": "2026-09-11",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/let-us-through-dear-ancestors-review-lav-diaz-1235216132/"
-      }
-    ],
-    "title": "Let Us Through, Dear Ancestors",
-    "tmdb_id": 1736478,
     "year": 2026
   },
   "tt43704167": {
@@ -18914,10 +18449,6 @@
     ],
     "title": "Secret Lives of Gypsy Wives",
     "tmdb_id": 329221,
-    "watch": {
-      "providers": [],
-      "urls": {}
-    },
     "year": 2026
   },
   "tt43745570": {
@@ -19134,25 +18665,6 @@
     "tmdb_id": 1773855,
     "year": 2026
   },
-  "tt47741641": {
-    "age": null,
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/wITYnpTRBAm0ivZS1giQAnIwmip.jpg",
-    "recs": [
-      {
-        "date": "2026-09-15",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/at-night-review-1235217342/"
-      }
-    ],
-    "title": "One Night at KitKat",
-    "tmdb_id": 1779955,
-    "year": 2026
-  },
   "tt6037988": {
     "age": {
       "classind": "16",
@@ -19273,33 +18785,6 @@
       }
     },
     "year": 2018
-  },
-  "tt7526136": {
-    "age": {
-      "classind": "14",
-      "source": "BR"
-    },
-    "genres": [
-      12,
-      53
-    ],
-    "kids": {
-      "providers": [],
-      "urls": {}
-    },
-    "media_type": "movie",
-    "poster": "/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "recs": [
-      {
-        "date": "2025-11-14",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/the-beast-in-me-claire-danes-netflix-tv-review-2025"
-      }
-    ],
-    "title": "Heart of the Beast",
-    "tmdb_id": 1263337,
-    "year": 2026
   },
   "tt7671070": {
     "age": {
@@ -19462,14 +18947,6 @@
     ],
     "title": "Gnomes",
     "tmdb_id": 335813,
-    "watch": {
-      "providers": [
-        "Looke"
-      ],
-      "urls": {
-        "Looke": "https://www.looke.com.br/detalhes/4643"
-      }
-    },
     "year": 2026
   },
   "tt8667404": {
@@ -19613,31 +19090,6 @@
     "tmdb_id": 1576934,
     "year": 2026
   },
-  "tt9859510": {
-    "age": null,
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/7wjGDsUDmUDNIf8lMV7cIxeIiqy.jpg",
-    "recs": [
-      {
-        "date": "2026-05-01",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/our-land-nuestra-tierra-lucrecia-martel-documentary-film-review-2026"
-      },
-      {
-        "date": "2026-04-27",
-        "outlet": "IndieWire",
-        "rating": "A-",
-        "url": "https://www.indiewire.com/criticism/movies/nuestra-tierra-landmarks-review-lucrecia-martel-1235147161/"
-      }
-    ],
-    "title": "Our Land",
-    "tmdb_id": 661603,
-    "year": 2026
-  },
   "tv:tmdb:208965": {
     "age": null,
     "genres": [],
@@ -19672,14 +19124,6 @@
     ],
     "title": "Race Across the World",
     "tmdb_id": 221534,
-    "watch": {
-      "providers": [
-        "WOW Presents Plus"
-      ],
-      "urls": {
-        "WOW Presents Plus": "https://www.wowpresentsplus.com/rupaul-s-drag-race-uk-vs-the-world"
-      }
-    },
     "year": 2023
   },
   "tv:tmdb:306218": {
@@ -19852,10 +19296,6 @@
     ],
     "title": "The Great British Bake Off",
     "tmdb_id": 87012,
-    "watch": {
-      "providers": [],
-      "urls": {}
-    },
     "year": 2017
   }
 }
