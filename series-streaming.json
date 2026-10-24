@@ -2252,6 +2252,11 @@
       "HBO Max Amazon Channel"
     ]
   },
+  "tt20242042": {
+    "providers": [
+      "WeTV"
+    ]
+  },
   "tt20418088": {
     "providers": [
       "Amazon Prime Video"
@@ -3313,14 +3318,6 @@
       "Plex Player"
     ]
   },
-  "tt33059458": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
-    ]
-  },
   "tt3314218": {
     "providers": []
   },
@@ -3842,10 +3839,12 @@
   },
   "tt4718304": {
     "providers": [
+      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "verified": [
+      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ]

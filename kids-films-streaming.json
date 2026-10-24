@@ -708,14 +708,17 @@
   "11836": {
     "providers": [
       "Paramount Plus",
-      "Paramount+ Amazon Channel"
+      "Paramount+ Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/spongebob-squarepants-movie/xIib0RQzhlochSQUGRYGnTQtYjoA6h0N?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98270b81-28e9-426e-a56f-af23bf8ec32d"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98270b81-28e9-426e-a56f-af23bf8ec32d",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.24bf3dde-bb0e-4c28-9b2e-10e9f14a3d9f"
     },
     "verified": [
-      "Paramount+ Amazon Channel"
+      "Paramount+ Amazon Channel",
+      "Universal+ Amazon Channel"
     ]
   },
   "11837": {
@@ -781,7 +784,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-ae19dd2f-a945-442b-a18e-d57fa8f5091f"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-dc6c97e1-ab46-4b22-90c8-2a9a59560074"
     },
     "verified": [
       "Disney Plus"
@@ -1050,6 +1053,7 @@
   },
   "13475": {
     "providers": [
+      "Netflix",
       "Paramount Plus",
       "Paramount+ Amazon Channel"
     ],
@@ -1058,6 +1062,7 @@
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.39c27a42-2564-4f82-948a-4873f37bb8b0"
     },
     "verified": [
+      "Netflix",
       "Paramount+ Amazon Channel"
     ]
   },
@@ -2953,10 +2958,15 @@
   },
   "44896": {
     "providers": [
-      "Netflix"
+      "Netflix",
+      "Universal+ Amazon Channel"
     ],
+    "urls": {
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4780c5ee-4e16-44af-a4d3-9dd0283e7b0d"
+    },
     "verified": [
-      "Netflix"
+      "Netflix",
+      "Universal+ Amazon Channel"
     ]
   },
   "453191": {
@@ -3475,15 +3485,13 @@
   },
   "557": {
     "providers": [
-      "Amazon Prime Video",
-      "HBO Max"
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16a9f6fd-c82a-d83d-6bfc-0265e317f307",
-      "HBO Max": "https://play.hbomax.com/show/52c902ab-d1ff-4e18-9326-31641a07ed9a"
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53065791-4335-46ce-bc1b-5c5ebbb21073"
     },
     "verified": [
-      "Amazon Prime Video"
+      "Universal+ Amazon Channel"
     ]
   },
   "55931": {
@@ -4355,7 +4363,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-e6ef640e-787e-4477-aba4-9e05925ebac2"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-154b2e5c-fbe7-49b7-b6be-fd0e6c75651f"
     },
     "verified": [
       "Disney Plus"
