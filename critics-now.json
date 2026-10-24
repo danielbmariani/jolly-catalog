@@ -6307,23 +6307,6 @@
     "tmdb_id": 1637615,
     "year": 2024
   },
-  "movie:tmdb:1642331": {
-    "age": null,
-    "genres": [],
-    "media_type": "movie",
-    "poster": "/xiyx7obD1DbL7yLTN3uIuIiyase.jpg",
-    "recs": [
-      {
-        "date": "2025-11-24",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/wake-up-dead-man-review-rian-johnson-third-knives-out-1235149631/"
-      }
-    ],
-    "title": "Wake Up, Dead Man!",
-    "tmdb_id": 1642331,
-    "year": null
-  },
   "movie:tmdb:1730994": {
     "age": null,
     "genres": [
@@ -6933,6 +6916,12 @@
     "poster": "/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
     "recs": [
       {
+        "date": "2026-10-23",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/sense-and-sensibility-daisy-edgar-jones-jane-austen-movie-review-2026"
+      },
+      {
         "date": "2026-10-13",
         "outlet": "IndieWire",
         "rating": "B+",
@@ -6952,6 +6941,12 @@
     "media_type": "movie",
     "poster": "/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
     "recs": [
+      {
+        "date": "2026-10-24",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
+      },
       {
         "date": "2026-02-13",
         "outlet": "IndieWire",
@@ -7137,6 +7132,12 @@
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/knives-out-3-wake-up-dead-man-movie-review-2025"
+      },
+      {
+        "date": "2025-11-24",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/wake-up-dead-man-review-rian-johnson-third-knives-out-1235149631/"
       }
     ],
     "title": "Wake Up Dead Man: A Knives Out Mystery",
@@ -8208,6 +8209,12 @@
     "media_type": "movie",
     "poster": "/4k3ph6BoeZr7IMiQx8ioEV8d9cJ.jpg",
     "recs": [
+      {
+        "date": "2026-10-24",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/rose-sandra-huller-film-review-2026"
+      },
       {
         "date": "2026-02-17",
         "outlet": "IndieWire",
@@ -11090,6 +11097,28 @@
     "tmdb_id": 1299581,
     "year": 2026
   },
+  "tt32538648": {
+    "age": {
+      "classind": "16",
+      "source": "DE"
+    },
+    "genres": [
+      18
+    ],
+    "media_type": "movie",
+    "poster": "/rkCHBDGgc6UW9ETyTWZ0RiEiten.jpg",
+    "recs": [
+      {
+        "date": "2026-06-26",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/romeria-carla-simon-movie-review-2026"
+      }
+    ],
+    "title": "Romería",
+    "tmdb_id": 1182861,
+    "year": 2025
+  },
   "tt32547691": {
     "age": {
       "classind": "14",
@@ -12348,29 +12377,6 @@
     "tmdb_id": 1375441,
     "year": 2026
   },
-  "tt34250044": {
-    "age": {
-      "classind": "12",
-      "source": "DE"
-    },
-    "genres": [
-      18,
-      36
-    ],
-    "media_type": "movie",
-    "poster": "/awq1O9RRi6JW74fDmGXJJGD5le8.jpg",
-    "recs": [
-      {
-        "date": "2025-11-06",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/peter-hujars-day-ben-whishaw-rebecca-hall-film-review-2025"
-      }
-    ],
-    "title": "Peter Hujar's Day",
-    "tmdb_id": 1159539,
-    "year": 2025
-  },
   "tt34379051": {
     "age": {
       "classind": "16",
@@ -12772,6 +12778,25 @@
     ],
     "title": "Ultras",
     "tmdb_id": 1412744,
+    "year": 2026
+  },
+  "tt34963034": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "poster": "/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
+    "recs": [
+      {
+        "date": "2026-03-03",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/andre-is-an-idiot-documentary-film-review-2026"
+      }
+    ],
+    "title": "André Is an Idiot",
+    "tmdb_id": 1400731,
     "year": 2026
   },
   "tt34964219": {
@@ -14028,12 +14053,6 @@
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/oasis-dont-look-back-in-anger-concert-film-review"
-      },
-      {
-        "date": "2026-09-05",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review"
       }
     ],
     "title": "Oasis: Don't Look Back in Anger",
@@ -14654,25 +14673,6 @@
     "tmdb_id": 1492865,
     "year": 2026
   },
-  "tt36776683": {
-    "age": null,
-    "genres": [
-      27
-    ],
-    "media_type": "movie",
-    "poster": "/5oarqxmmBQ2I20P1aHmAfZxKPgQ.jpg",
-    "recs": [
-      {
-        "date": "2026-09-30",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/sep/30/rapture-review-cult-spanish-horror-pedro-almodovar"
-      }
-    ],
-    "title": "Rapture",
-    "tmdb_id": 1474319,
-    "year": null
-  },
   "tt36789083": {
     "age": null,
     "genres": [
@@ -14800,25 +14800,6 @@
     ],
     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "tmdb_id": 1477104,
-    "year": 2026
-  },
-  "tt36867663": {
-    "age": null,
-    "genres": [
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/u7AAna0FE3d0yIzlLeBbxIcvtp0.jpg",
-    "recs": [
-      {
-        "date": "2026-10-08",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/oct/08/new-zealand-movie-teenager-chat-room-big-girls-dont-cry-review"
-      }
-    ],
-    "title": "Big Girls Don't Cry",
-    "tmdb_id": 1477963,
     "year": 2026
   },
   "tt36874833": {
@@ -16535,6 +16516,29 @@
     "tmdb_id": 1455247,
     "year": 2026
   },
+  "tt39018643": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "genres": [
+      10402,
+      99
+    ],
+    "media_type": "movie",
+    "poster": "/zfFvltKHntGBupFuubx3r61v48e.jpg",
+    "recs": [
+      {
+        "date": "2026-05-07",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d-james-cameron-concert-film-review-2026"
+      }
+    ],
+    "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+    "tmdb_id": 1515899,
+    "year": 2026
+  },
   "tt39028241": {
     "age": null,
     "genres": [
@@ -17798,6 +17802,28 @@
     },
     "year": 2026
   },
+  "tt42037166": {
+    "age": {
+      "classind": "12",
+      "source": "BR"
+    },
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "poster": "/1v259q0lEWNyB2y78WUcvb55VnW.jpg",
+    "recs": [
+      {
+        "date": "2026-06-25",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/jun/25/chris-and-martina-the-final-set-review-tennis-titans-discuss-their-deep-bond-and-intense-rivalry"
+      }
+    ],
+    "title": "Chris & Martina: The Final Set",
+    "tmdb_id": 1675177,
+    "year": 2026
+  },
   "tt42070862": {
     "age": null,
     "genres": [
@@ -17981,6 +18007,25 @@
     ],
     "title": "Lovers in the Blue Night",
     "tmdb_id": 1699532,
+    "year": 2026
+  },
+  "tt42826707": {
+    "age": null,
+    "genres": [
+      18
+    ],
+    "media_type": "movie",
+    "poster": "/nmIQQG8IDy0WYQy79Z0N7PhRNHg.jpg",
+    "recs": [
+      {
+        "date": "2026-09-04",
+        "outlet": "IndieWire",
+        "rating": "A",
+        "url": "https://www.indiewire.com/criticism/movies/15-18-a-place-to-heal-movie-review-1235214815/"
+      }
+    ],
+    "title": "A Place to Heal",
+    "tmdb_id": 1429602,
     "year": 2026
   },
   "tt42898395": {
@@ -18279,6 +18324,26 @@
     ],
     "title": "DAU",
     "tmdb_id": 1734147,
+    "year": 2026
+  },
+  "tt43704164": {
+    "age": null,
+    "genres": [
+      36,
+      18
+    ],
+    "media_type": "movie",
+    "poster": "/hwNCYExtvwC3SAWVSAoCq9yGvXt.jpg",
+    "recs": [
+      {
+        "date": "2026-09-11",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/let-us-through-dear-ancestors-review-lav-diaz-1235216132/"
+      }
+    ],
+    "title": "Let Us Through, Dear Ancestors",
+    "tmdb_id": 1736478,
     "year": 2026
   },
   "tt43704167": {
@@ -19088,6 +19153,31 @@
     ],
     "title": "The Echo Chamber",
     "tmdb_id": 1576934,
+    "year": 2026
+  },
+  "tt9859510": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "poster": "/7wjGDsUDmUDNIf8lMV7cIxeIiqy.jpg",
+    "recs": [
+      {
+        "date": "2026-05-01",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/our-land-nuestra-tierra-lucrecia-martel-documentary-film-review-2026"
+      },
+      {
+        "date": "2026-04-27",
+        "outlet": "IndieWire",
+        "rating": "A-",
+        "url": "https://www.indiewire.com/criticism/movies/nuestra-tierra-landmarks-review-lucrecia-martel-1235147161/"
+      }
+    ],
+    "title": "Our Land",
+    "tmdb_id": 661603,
     "year": 2026
   },
   "tv:tmdb:208965": {
