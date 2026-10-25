@@ -6201,30 +6201,11 @@
       "url": "https://www.theguardian.com/tv-and-radio/2025/oct/27/once-upon-a-time-in-space-review-the-fascinating-intimate-tales-of-the-people-who-climbed-inside-the-shuttle"
     }
   ],
-  "movie:tmdb:1376668": {
-    "age": null,
-    "genres": [
-      27,
-      14
-    ],
-    "media_type": "movie",
-    "poster": "/rOJmxhTvwfTifz81FiQx27P9gzp.jpg",
-    "recs": [
-      {
-        "date": "2026-01-16",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/seeds-documentary-film-review-2026"
-      }
-    ],
-    "title": "SEEdS",
-    "tmdb_id": 1376668,
-    "year": 2024
-  },
   "movie:tmdb:1434103": {
     "age": null,
     "genres": [],
     "media_type": "movie",
+    "original_title": "Nadja",
     "poster": "/lX1HICVXSIEJej07awbfhCAuy5Y.jpg",
     "recs": [
       {
@@ -6238,27 +6219,11 @@
     "tmdb_id": 1434103,
     "year": 2025
   },
-  "movie:tmdb:1451003": {
-    "age": null,
-    "genres": [],
-    "media_type": "movie",
-    "poster": "/kOIIfuYUG5UcLdAZwcC7luo7ZOw.jpg",
-    "recs": [
-      {
-        "date": "2026-04-20",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/apr/20/the-trial-review-searing-record-of-argentinas-courtroom-reckoning-with-its-brutal-dirty-war"
-      }
-    ],
-    "title": "The Trial",
-    "tmdb_id": 1451003,
-    "year": 2024
-  },
   "movie:tmdb:1616215": {
     "age": null,
     "genres": [],
     "media_type": "movie",
+    "original_title": "Flag Day",
     "poster": "/wnlKA2eKBcGUmVLqxCkCeAdEGeO.jpg",
     "recs": [
       {
@@ -6272,116 +6237,184 @@
     "tmdb_id": 1616215,
     "year": 2026
   },
-  "movie:tmdb:1637615": {
+  "movie:tmdb:1645692": {
+    "age": null,
+    "genres": [
+      10751,
+      18
+    ],
+    "media_type": "movie",
+    "original_title": "A Poet",
+    "poster": "/5LwIEe84Uxb3icRGK14a7JR1Nu.jpg",
+    "recs": [
+      {
+        "date": "2026-01-30",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/a-poet-film-review-2026"
+      }
+    ],
+    "title": "A Poet",
+    "tmdb_id": 1645692,
+    "year": 2026
+  },
+  "movie:tmdb:1663288": {
+    "age": null,
+    "genres": [
+      18,
+      99
+    ],
+    "media_type": "movie",
+    "original_title": "Benita",
+    "poster": "/zSOR7XKiuQyas7MIIt5P8zwQFrJ.jpg",
+    "recs": [
+      {
+        "date": "2026-06-22",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/jun/22/benita-review-alan-berliner-puts-new-spin-on-late-film-makers-work-in-entrancing-tribute"
+      }
+    ],
+    "title": "Benita",
+    "tmdb_id": 1663288,
+    "year": 2026
+  },
+  "movie:tmdb:1694266": {
+    "age": null,
+    "genres": [],
+    "media_type": "movie",
+    "original_title": "Crushed",
+    "poster": "/8R0CYPmxArtcJvMsJcj8YrllsuB.jpg",
+    "recs": [
+      {
+        "date": "2026-09-28",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/sep/28/crushed-review-child-kidnap-thriller-steve-oram"
+      }
+    ],
+    "title": "Crushed",
+    "tmdb_id": 1694266,
+    "year": 2026
+  },
+  "movie:tmdb:1728901": {
+    "age": null,
+    "genres": [],
+    "media_type": "movie",
+    "original_title": "Chão",
+    "poster": null,
+    "recs": [
+      {
+        "date": "2026-04-10",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/chao-animated-movie-review-2026"
+      }
+    ],
+    "title": "Chão",
+    "tmdb_id": 1728901,
+    "year": 2026
+  },
+  "movie:tmdb:1737922": {
+    "age": null,
+    "genres": [
+      27
+    ],
+    "media_type": "movie",
+    "original_title": "Knife",
+    "poster": "/fspxpyhWZwuIjeipc6ZbQfDJVvO.jpg",
+    "recs": [
+      {
+        "date": "2026-09-18",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/knife-the-attempted-murder-of-salman-rushdie-documentary-movie-review-2026"
+      }
+    ],
+    "title": "Knife",
+    "tmdb_id": 1737922,
+    "year": 2024
+  },
+  "movie:tmdb:1758434": {
     "age": null,
     "genres": [
       18
     ],
     "media_type": "movie",
-    "poster": "/35Ehp7wHxSbjKCRMZZLotbWHKDu.jpg",
+    "original_title": "The Love That Remains",
+    "poster": "/omg0rlcYF8UFT2oAO6FVcZxEPtK.jpg",
     "recs": [
       {
-        "date": "2026-04-03",
+        "date": "2026-01-30",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/yes-nadav-lapid-movie-review-2026"
+        "url": "https://www.rogerebert.com/reviews/the-love-that-remains-film-review-2026"
       }
     ],
-    "title": "Yes",
-    "tmdb_id": 1637615,
-    "year": 2024
-  },
-  "movie:tmdb:1730994": {
-    "age": null,
-    "genres": [
-      18,
-      10749,
-      10751
-    ],
-    "media_type": "movie",
-    "poster": "/n7L5OQG9pkCxAllWpJjEGrNTPKQ.jpg",
-    "recs": [
-      {
-        "date": "2026-07-22",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/film/2026/jul/22/nostalgia-review-andrei-tarkovsky"
-      }
-    ],
-    "title": "Nostalgia",
-    "tmdb_id": 1730994,
+    "title": "The Love That Remains",
+    "tmdb_id": 1758434,
     "year": 2026
   },
-  "movie:tmdb:1786979": {
+  "movie:tmdb:1767527": {
     "age": null,
     "genres": [
-      53,
-      27
+      18
     ],
     "media_type": "movie",
-    "poster": "/5jTN9nSejWvyUCIXHtvDXpH9Gog.jpg",
-    "recs": [
-      {
-        "date": "2026-04-02",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/the-stranger-francois-ozon-movie-review-2026"
-      }
-    ],
-    "title": "The Stranger",
-    "tmdb_id": 1786979,
-    "year": 2024
-  },
-  "movie:tmdb:1794626": {
-    "age": null,
-    "genres": [],
-    "media_type": "movie",
+    "original_title": "Одержимость",
     "poster": null,
     "recs": [
       {
-        "date": "2025-11-14",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/the-beast-in-me-claire-danes-netflix-tv-review-2025"
-      }
-    ],
-    "title": "The Beast in Me",
-    "tmdb_id": 1794626,
-    "year": null
-  },
-  "tt0071007": {
-    "age": {
-      "classind": "L",
-      "source": "BR"
-    },
-    "genres": [
-      37,
-      18,
-      10751
-    ],
-    "media_type": "tv",
-    "poster": "/eVpvlqKZfEVsBOttNFTUyfPoA6K.jpg",
-    "recs": [
-      {
-        "date": "2026-07-09",
+        "date": "2026-05-13",
         "outlet": "IndieWire",
         "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/shows/little-house-on-the-prairie-review-netflix-reboot-purpose-1235203928/"
+        "url": "https://www.indiewire.com/criticism/movies/obsession-review-curry-baker-1235149428/"
       }
     ],
-    "title": "Little House on the Prairie",
-    "tmdb_id": 1781,
-    "watch": {
-      "providers": [
-        "Oldflix",
-        "Pluto TV"
-      ],
-      "urls": {
-        "Oldflix": "https://www.oldflix.com.br/title/play/634998e0bd3bf366f058928f",
-        "Pluto TV": "https://pluto.tv/on-demand/series/os-pioneiros-br/season/1/episode/uma-colheita-de-amigos-1973-1-1"
+    "title": "Obsession",
+    "tmdb_id": 1767527,
+    "year": 2026
+  },
+  "movie:tmdb:1770248": {
+    "age": null,
+    "genres": [
+      27,
+      16
+    ],
+    "media_type": "movie",
+    "original_title": "RAPTURE",
+    "poster": "/gzm0XLi1f5dUnALy86LCoFmLLhX.jpg",
+    "recs": [
+      {
+        "date": "2026-09-30",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/sep/30/rapture-review-cult-spanish-horror-pedro-almodovar"
       }
-    },
-    "year": 1974
+    ],
+    "title": "RAPTURE",
+    "tmdb_id": 1770248,
+    "year": 2026
+  },
+  "movie:tmdb:1796902": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "original_title": "Landmarks",
+    "poster": "/4lsdUu4bbX2pwMp6rgthPp8GOy.jpg",
+    "recs": [
+      {
+        "date": "2026-04-27",
+        "outlet": "IndieWire",
+        "rating": "A-",
+        "url": "https://www.indiewire.com/criticism/movies/nuestra-tierra-landmarks-review-lucrecia-martel-1235147161/"
+      }
+    ],
+    "title": "Landmarks",
+    "tmdb_id": 1796902,
+    "year": 2026
   },
   "tt0111893": {
     "age": {
@@ -6392,6 +6425,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "The Beatles Anthology",
     "poster": "/97zhDkOLlrkaIiIvROPsAMSqnzQ.jpg",
     "recs": [
       {
@@ -6413,81 +6447,13 @@
     },
     "year": 1995
   },
-  "tt0221734": {
-    "age": null,
-    "genres": [
-      10751,
-      10759
-    ],
-    "media_type": "tv",
-    "poster": "/bCwxf8wQIaAxLl90g31ugGM1adK.jpg",
-    "recs": [
-      {
-        "date": "2026-01-01",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jan/01/wild-london-review-honestly-telly-does-not-get-any-better-than-this"
-      }
-    ],
-    "title": "Call of the Wild",
-    "tmdb_id": 21624,
-    "year": 2000
-  },
-  "tt0285403": {
-    "age": {
-      "classind": "14",
-      "source": "BR"
-    },
-    "genres": [
-      35
-    ],
-    "media_type": "tv",
-    "poster": "/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
-    "recs": [
-      {
-        "date": "2026-02-26",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/feb/26/scrubs-review-daft-gags-volcanic-fury-medical-sitcom"
-      }
-    ],
-    "title": "Scrubs",
-    "tmdb_id": 4556,
-    "watch": {
-      "providers": [
-        "Disney Plus"
-      ],
-      "urls": {
-        "Disney Plus": "https://www.disneyplus.com/browse/entity-bba197b5-eb03-4a09-b5f6-f04c053471d7"
-      }
-    },
-    "year": 2001
-  },
-  "tt0305044": {
-    "age": null,
-    "genres": [
-      35
-    ],
-    "media_type": "tv",
-    "poster": "/4elzKoIIb4fHO80UGG4gpH8fdK4.jpg",
-    "recs": [
-      {
-        "date": "2026-10-21",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability"
-      }
-    ],
-    "title": "The Jamie Kennedy Experiment",
-    "tmdb_id": 9814,
-    "year": 2002
-  },
   "tt0808224": {
     "age": null,
     "genres": [
       18
     ],
     "media_type": "tv",
+    "original_title": "The Death of Bunny Munro",
     "poster": "/2ucY5MO4lSpcHzry93aFzSoJ2S6.jpg",
     "recs": [
       {
@@ -6516,6 +6482,7 @@
       10765
     ],
     "media_type": "tv",
+    "original_title": "Les Sentinelles",
     "poster": "/sPSAHmFFgF9rDZG7xnajlSKeRtZ.jpg",
     "recs": [
       {
@@ -6539,6 +6506,7 @@
       28
     ],
     "media_type": "movie",
+    "original_title": "They Fight",
     "poster": "/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg",
     "recs": [
       {
@@ -6552,28 +6520,6 @@
     "tmdb_id": 1587964,
     "year": 2026
   },
-  "tt1045779": {
-    "age": {
-      "classind": "14",
-      "source": "US"
-    },
-    "genres": [
-      18
-    ],
-    "media_type": "tv",
-    "poster": "/1Y6QdyqoVkypvDJkS80kLrXNx74.jpg",
-    "recs": [
-      {
-        "date": "2025-11-03",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/04/happiness-review-kiwi-comedy-rebecca-gibney-harry-mcnaughton"
-      }
-    ],
-    "title": "2900 Happiness",
-    "tmdb_id": 27984,
-    "year": 2007
-  },
   "tt10794054": {
     "age": {
       "classind": "16",
@@ -6585,6 +6531,7 @@
       80
     ],
     "media_type": "movie",
+    "original_title": "The Weight",
     "poster": "/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
     "recs": [
       {
@@ -6607,6 +6554,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "The Testaments",
     "poster": "/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
     "recs": [
       {
@@ -6639,6 +6587,7 @@
       10759
     ],
     "media_type": "tv",
+    "original_title": "House of the Dragon",
     "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
     "recs": [
       {
@@ -6671,6 +6620,7 @@
       10765
     ],
     "media_type": "tv",
+    "original_title": "Carrie",
     "poster": "/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
     "recs": [
       {
@@ -6702,8 +6652,15 @@
       10759
     ],
     "media_type": "tv",
+    "original_title": "The Boys",
     "poster": "/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
     "recs": [
+      {
+        "date": "2026-04-08",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/apr/08/the-boys-season-five-review-prime-video"
+      },
       {
         "date": "2026-04-08",
         "outlet": "IndieWire",
@@ -6742,6 +6699,7 @@
       }
     },
     "media_type": "movie",
+    "original_title": "Project Hail Mary",
     "poster": "/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
     "recs": [
       {
@@ -6755,27 +6713,6 @@
     "tmdb_id": 687163,
     "year": 2026
   },
-  "tt1256514": {
-    "age": null,
-    "genres": [
-      18,
-      35,
-      10766
-    ],
-    "media_type": "tv",
-    "poster": "/6aEydiZi8cnoJYiDa1JYPtJfW7G.jpg",
-    "recs": [
-      {
-        "date": "2025-10-30",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/shows/i-love-la-review-rachel-sennott-hbo-series-1235157967/"
-      }
-    ],
-    "title": "I Love Betty La Fea",
-    "tmdb_id": 7379,
-    "year": 2008
-  },
   "tt12583926": {
     "age": {
       "classind": "16",
@@ -6786,6 +6723,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Anniversary",
     "poster": "/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg",
     "recs": [
       {
@@ -6799,69 +6737,38 @@
     "tmdb_id": 1126336,
     "year": 2025
   },
-  "tt12878838": {
+  "tt12637874": {
     "age": {
-      "classind": "16",
+      "classind": "18",
       "source": "BR"
     },
     "genres": [
+      10759,
+      10765,
       18
     ],
     "media_type": "tv",
-    "poster": "/j8tbXWXrL15RucA6H4khq87dEXa.jpg",
+    "original_title": "Fallout",
+    "poster": "/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
     "recs": [
       {
-        "date": "2026-10-06",
+        "date": "2025-12-17",
         "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/06/bel-review-a-tearful-heartbreaking-tribute-to-a-spellbinding-singer"
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2025/dec/17/fallout-season-two-review-prime-video"
       }
     ],
-    "title": "Bel-Air",
-    "tmdb_id": 107365,
+    "title": "Fallout",
+    "tmdb_id": 106379,
     "watch": {
       "providers": [
-        "Disney Plus"
+        "Amazon Prime Video"
       ],
       "urls": {
-        "Disney Plus": "https://www.disneyplus.com/browse/entity-6b5ae7bc-19c0-4375-8eb3-59593530022c"
+        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.220a83cb-b9b4-4cad-b8a0-e768bb603fa7"
       }
     },
-    "year": 2022
-  },
-  "tt1305826": {
-    "age": {
-      "classind": "12",
-      "source": "BR"
-    },
-    "genres": [
-      16,
-      35,
-      10765
-    ],
-    "media_type": "tv",
-    "poster": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
-    "recs": [
-      {
-        "date": "2026-10-11",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/11/time-review-david-tennant-siobhan-finneran-bbc-iplayer"
-      }
-    ],
-    "title": "Adventure Time",
-    "tmdb_id": 15260,
-    "watch": {
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
-      ],
-      "urls": {
-        "HBO Max": "https://play.hbomax.com/video/watch/09e32005-aa85-48e7-be19-5beeb29b9efe",
-        "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f1f160e-ff70-42dd-b5f2-d51f9ed6950b"
-      }
-    },
-    "year": 2010
+    "year": 2024
   },
   "tt1312221": {
     "age": {
@@ -6874,6 +6781,7 @@
       27
     ],
     "media_type": "movie",
+    "original_title": "Frankenstein",
     "poster": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
     "recs": [
       {
@@ -6887,6 +6795,40 @@
     "tmdb_id": 1062722,
     "year": 2025
   },
+  "tt13138834": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      18,
+      80
+    ],
+    "media_type": "tv",
+    "original_title": "Time",
+    "poster": "/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
+    "recs": [
+      {
+        "date": "2026-10-11",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/11/time-review-david-tennant-siobhan-finneran-bbc-iplayer"
+      }
+    ],
+    "title": "Time",
+    "tmdb_id": 126116,
+    "watch": {
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ],
+      "urls": {
+        "HBO Max": "https://play.hbomax.com/video/watch/b5240701-7cad-494d-9ff2-b04f9971b054",
+        "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aac66a27-f8c6-4496-ba34-d4ca3f4e65fa"
+      }
+    },
+    "year": 2021
+  },
   "tt13609648": {
     "age": {
       "classind": "10",
@@ -6897,6 +6839,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "Sense and Sensibility",
     "poster": "/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
     "recs": [
       {
@@ -6923,6 +6866,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Mouse",
     "poster": "/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
     "recs": [
       {
@@ -6948,6 +6892,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "我们不是陌生人",
     "poster": "/aFs5h73L9BS4Q4UItDhWC5sw4Z9.jpg",
     "recs": [
       {
@@ -6972,6 +6917,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "Revival",
     "poster": "/xf2u02mLodDN2ujMSfLFDkPVFac.jpg",
     "recs": [
       {
@@ -6996,6 +6942,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "The Night Manager",
     "poster": "/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
     "recs": [
       {
@@ -7026,6 +6973,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "The Face of Horror",
     "poster": "/2Lf4xG2RHbXCLLs9q8MjjqFJPCI.jpg",
     "recs": [
       {
@@ -7045,6 +6993,31 @@
     "tmdb_id": 1051646,
     "year": 2026
   },
+  "tt14128708": {
+    "age": {
+      "classind": "18",
+      "source": "DE"
+    },
+    "genres": [
+      18,
+      12,
+      14
+    ],
+    "media_type": "movie",
+    "original_title": "Cielo",
+    "poster": "/6EIkJFhirgeuq2wN6tvN7auUXQB.jpg",
+    "recs": [
+      {
+        "date": "2026-06-26",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/cielo-movie-review-1235202392/"
+      }
+    ],
+    "title": "Cielo",
+    "tmdb_id": 1443869,
+    "year": 2025
+  },
   "tt14142060": {
     "age": {
       "classind": "12",
@@ -7055,6 +7028,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Rental Family",
     "poster": "/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
     "recs": [
       {
@@ -7079,6 +7053,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "The Invite",
     "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
     "recs": [
       {
@@ -7109,6 +7084,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Wake Up Dead Man: A Knives Out Mystery",
     "poster": "/iV9LM8aUb83BjCCx2RUnKE5sSQg.jpg",
     "recs": [
       {
@@ -7138,6 +7114,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "The Bear",
     "poster": "/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
     "recs": [
       {
@@ -7172,6 +7149,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Blue Lights",
     "poster": "/3C3c40DH8M6qdECHLlxk8o5nrC0.jpg",
     "recs": [
       {
@@ -7199,6 +7177,7 @@
       80
     ],
     "media_type": "movie",
+    "original_title": "Faces of Death",
     "poster": "/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
     "recs": [
       {
@@ -7212,23 +7191,36 @@
     "tmdb_id": 855435,
     "year": 2026
   },
-  "tt14714568": {
-    "age": null,
+  "tt14671678": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
     "genres": [
-      18
+      35,
+      80
     ],
     "media_type": "tv",
-    "poster": "/dbJkHZzWhDJLG9IVqjHAS1KpMBJ.jpg",
+    "original_title": "Deadloch",
+    "poster": "/7rI7T4AfSzOx0Rqw73AusyIpeXf.jpg",
     "recs": [
       {
-        "date": "2026-01-15",
+        "date": "2026-03-18",
         "outlet": "The Guardian",
         "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jan/15/in-our-time-review-melvyn-bragg-less-show-bbc-management"
+        "url": "https://www.theguardian.com/tv-and-radio/2026/mar/19/deadloch-season-two-review"
       }
     ],
-    "title": "In Our Splendid Time",
-    "tmdb_id": 115546,
+    "title": "Deadloch",
+    "tmdb_id": 225780,
+    "watch": {
+      "providers": [
+        "Amazon Prime Video"
+      ],
+      "urls": {
+        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b7882aa6-82ec-4d42-ae86-72fe4c67b0c0"
+      }
+    },
     "year": 2023
   },
   "tt14770736": {
@@ -7237,6 +7229,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "7 Miles Out",
     "poster": "/mFArKgtryYbKgvZhe0lxqoaENTt.jpg",
     "recs": [
       {
@@ -7260,6 +7253,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "Hamnet",
     "poster": "/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
     "recs": [
       {
@@ -7287,6 +7281,7 @@
       "urls": {}
     },
     "media_type": "movie",
+    "original_title": "Disclosure Day",
     "poster": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
     "recs": [
       {
@@ -7322,6 +7317,7 @@
       36
     ],
     "media_type": "movie",
+    "original_title": "Being Heumann",
     "poster": "/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
     "recs": [
       {
@@ -7346,6 +7342,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Dead Man's Wire",
     "poster": "/dgSoeebklY0IGKWbp36r9FwRXlv.jpg",
     "recs": [
       {
@@ -7370,6 +7367,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "어쩔수가없다",
     "poster": "/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
     "recs": [
       {
@@ -7394,6 +7392,7 @@
       9648
     ],
     "media_type": "movie",
+    "original_title": "Mārama",
     "poster": "/a2grH0utOOUIVA6YydwvAZdHvru.jpg",
     "recs": [
       {
@@ -7418,6 +7417,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Wild Horse Nine",
     "poster": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
     "recs": [
       {
@@ -7431,29 +7431,6 @@
     "tmdb_id": 891621,
     "year": 2026
   },
-  "tt16233642": {
-    "age": {
-      "classind": "16",
-      "source": "US"
-    },
-    "genres": [
-      18,
-      53
-    ],
-    "media_type": "movie",
-    "poster": "/40HGsaRnPsrHbFI573uOkuaHrs5.jpg",
-    "recs": [
-      {
-        "date": "2026-09-18",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/knife-the-attempted-murder-of-salman-rushdie-documentary-movie-review-2026"
-      }
-    ],
-    "title": "The Knife",
-    "tmdb_id": 1275978,
-    "year": 2025
-  },
   "tt16478058": {
     "age": {
       "classind": "12",
@@ -7463,6 +7440,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Best of the Best",
     "poster": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
     "recs": [
       {
@@ -7476,38 +7454,6 @@
     "tmdb_id": 1514863,
     "year": 2026
   },
-  "tt1694423": {
-    "age": {
-      "classind": "10",
-      "source": "BR"
-    },
-    "genres": [
-      10764
-    ],
-    "media_type": "tv",
-    "poster": "/42gO1qCC6GPtHKNXvOdhunhzyS3.jpg",
-    "recs": [
-      {
-        "date": "2026-04-21",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/apr/21/masterchef-review-bbc-one-iplayer-grace-dent-anna-haugh"
-      }
-    ],
-    "title": "MasterChef",
-    "tmdb_id": 40290,
-    "watch": {
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
-      ],
-      "urls": {
-        "HBO Max": "https://play.hbomax.com/video/watch/e20a9074-67e9-4edd-b98d-b5642381b149",
-        "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.327617bd-a127-4313-be11-56a9d1f3857a"
-      }
-    },
-    "year": 2010
-  },
   "tt17491088": {
     "age": {
       "classind": "16",
@@ -7518,6 +7464,7 @@
       10768
     ],
     "media_type": "tv",
+    "original_title": "The Diplomat",
     "poster": "/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg",
     "recs": [
       {
@@ -7543,6 +7490,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "BLKNWS: Terms & Conditions",
     "poster": "/4DTTBR1TdT3gfthXmFtwl3tViZZ.jpg",
     "recs": [
       {
@@ -7565,6 +7513,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "American Classic",
     "poster": "/nQoTcFVB9xO6tLnoSARRViitPQF.jpg",
     "recs": [
       {
@@ -7587,6 +7536,30 @@
     },
     "year": 2026
   },
+  "tt18228732": {
+    "age": null,
+    "genres": [
+      35
+    ],
+    "media_type": "tv",
+    "original_title": "Colin from Accounts",
+    "poster": "/zYPRXAImgarNSKrwd4kXobjXQNQ.jpg",
+    "recs": [
+      {
+        "date": "2026-07-26",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/27/colin-from-accounts-season-3-review-tv-show"
+      }
+    ],
+    "title": "Colin from Accounts",
+    "tmdb_id": 203614,
+    "watch": {
+      "providers": [],
+      "urls": {}
+    },
+    "year": 2022
+  },
   "tt18270542": {
     "age": {
       "classind": "10",
@@ -7603,6 +7576,7 @@
       "urls": {}
     },
     "media_type": "movie",
+    "original_title": "Ray Gunn",
     "poster": "/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
     "recs": [
       {
@@ -7622,38 +7596,38 @@
     "tmdb_id": 940009,
     "year": 2026
   },
-  "tt1841321": {
+  "tt19854762": {
     "age": {
       "classind": "14",
       "source": "BR"
     },
     "genres": [
-      35,
-      18,
-      10765
+      18
     ],
     "media_type": "tv",
-    "poster": "/2G5m6cMGN5DR5GsGGdg9OcgNNlG.jpg",
+    "original_title": "Hijack",
+    "poster": "/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
     "recs": [
       {
-        "date": "2026-04-05",
+        "date": "2026-01-14",
         "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/apr/05/secret-garden-review-david-attenborough-bbc"
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jan/14/hijack-season-two-review-idris-elba-apple-tv"
       }
     ],
-    "title": "Secret Garden",
-    "tmdb_id": 37636,
+    "title": "Hijack",
+    "tmdb_id": 198102,
     "watch": {
       "providers": [
-        "Netflix",
-        "WeTV"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ],
       "urls": {
-        "WeTV": "https://wetv.vip/en/play/t6em5dqqhq2q1e6-Secret Garden/d0034m534n0-秘密花园_01/"
+        "Apple TV": "https://tv.apple.com/br/episode/a-ultima-chamada/umc.cmc.4levibvvz01hl4zsm0jdk5v2p?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.4000%3AA0059301001&showId=umc.cmc.1dg08zn0g3zx52hs8npoj5qe3",
+        "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0791637-707f-4484-9b73-67f407455012"
       }
     },
-    "year": 2010
+    "year": 2023
   },
   "tt19868452": {
     "age": null,
@@ -7661,6 +7635,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Okurimono",
     "poster": "/u2M4mdPmFTVj7UX0mlJiD4CrzTZ.jpg",
     "recs": [
       {
@@ -7683,6 +7658,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "La mesías",
     "poster": "/3RG1JkUj42H2VqIUdUMAkZ0m4YB.jpg",
     "recs": [
       {
@@ -7717,6 +7693,7 @@
       80
     ],
     "media_type": "movie",
+    "original_title": "Motor City",
     "poster": "/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
     "recs": [
       {
@@ -7745,6 +7722,7 @@
       "urls": {}
     },
     "media_type": "movie",
+    "original_title": "Wildwood",
     "poster": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "recs": [
       {
@@ -7768,6 +7746,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Wonder Man",
     "poster": "/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
     "recs": [
       {
@@ -7789,6 +7768,40 @@
     },
     "year": 2026
   },
+  "tt21088136": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      80,
+      18
+    ],
+    "media_type": "tv",
+    "original_title": "Criminal Record",
+    "poster": "/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg",
+    "recs": [
+      {
+        "date": "2026-04-22",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/apr/22/criminal-record-season-two-review-peter-capaldi-cush-jumbo"
+      }
+    ],
+    "title": "Criminal Record",
+    "tmdb_id": 204490,
+    "watch": {
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ],
+      "urls": {
+        "Apple TV": "https://tv.apple.com/br/episode/chamada-de-emergencia/umc.cmc.5giagzhgx959jmh338y1vrn8y?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.4000%3AA0057001001&showId=umc.cmc.1sbjeoma6tvxgda6l0h4bb0x3",
+        "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2da89c6-d386-4995-bcd3-23b5b4f5f06c"
+      }
+    },
+    "year": 2024
+  },
   "tt21097264": {
     "age": {
       "classind": "16",
@@ -7798,6 +7811,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "East of Eden",
     "poster": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
     "recs": [
       {
@@ -7823,12 +7837,57 @@
     },
     "year": 2026
   },
+  "tt21257788": {
+    "age": {
+      "classind": "12",
+      "source": "BR"
+    },
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "original_title": "As Estações",
+    "poster": "/c4TLFLhhH2ec9CUrRxEMNIIJxo2.jpg",
+    "recs": [
+      {
+        "date": "2026-09-21",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping"
+      }
+    ],
+    "title": "The Seasons",
+    "tmdb_id": 1042910,
+    "year": 2025
+  },
+  "tt21438656": {
+    "age": null,
+    "genres": [
+      35,
+      18
+    ],
+    "media_type": "tv",
+    "original_title": "Boarders",
+    "poster": "/fHcPEs8rDXW4mwlOZxbVXxowl4M.jpg",
+    "recs": [
+      {
+        "date": "2026-03-16",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/mar/16/boarders-season-three-review-bbc-three-iplayer"
+      }
+    ],
+    "title": "Boarders",
+    "tmdb_id": 242189,
+    "year": 2024
+  },
   "tt21856850": {
     "age": null,
     "genres": [
       99
     ],
     "media_type": "movie",
+    "original_title": "Northern Soul: Still Burning",
     "poster": "/7YgiKgejyfGJXYItzDP7hFicCPb.jpg",
     "recs": [
       {
@@ -7842,38 +7901,36 @@
     "tmdb_id": 1660401,
     "year": 2026
   },
-  "tt21906554": {
+  "tt21906238": {
     "age": {
-      "classind": "14",
-      "source": "BR"
+      "classind": "18",
+      "source": "US"
     },
     "genres": [
-      18,
-      80
+      18
     ],
     "media_type": "tv",
-    "poster": "/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg",
+    "original_title": "Rivals",
+    "poster": "/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
     "recs": [
       {
-        "date": "2026-10-11",
+        "date": "2026-05-10",
         "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/11/the-party-review-itvx-thriller-elizabeth-day-book-adaptation-sarah-soleman"
+        "rating": "5★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/may/11/rivals-season-two-review-bonkbuster-disney-plus"
       }
     ],
-    "title": "The Hunting Party",
-    "tmdb_id": 247723,
+    "title": "Rivals",
+    "tmdb_id": 208921,
     "watch": {
       "providers": [
-        "Amazon Prime Video",
-        "Universal+ Amazon Channel"
+        "Disney Plus"
       ],
       "urls": {
-        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.85e5c1de-f593-40d9-bfc6-107c74e2176a",
-        "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8835364-4c3d-4ea5-a288-db50df55af30"
+        "Disney Plus": "https://www.disneyplus.com/browse/entity-97399b9f-964e-444c-91f3-7db9f11efe5d"
       }
     },
-    "year": 2025
+    "year": 2024
   },
   "tt21990160": {
     "age": null,
@@ -7881,6 +7938,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Lomu",
     "poster": "/6uWYzJjf6ycj13wUU6OtWV5Xgf4.jpg",
     "recs": [
       {
@@ -7894,6 +7952,26 @@
     "tmdb_id": 1624363,
     "year": 2026
   },
+  "tt22042290": {
+    "age": null,
+    "genres": [
+      35
+    ],
+    "media_type": "movie",
+    "original_title": "Big Break",
+    "poster": "/qU5wj4MfMB4nyK2chJdsw7mv7vX.jpg",
+    "recs": [
+      {
+        "date": "2026-07-21",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/big-break-review-simple-town-1235206501/"
+      }
+    ],
+    "title": "Big Break",
+    "tmdb_id": 1711792,
+    "year": 2026
+  },
   "tt22202452": {
     "age": {
       "classind": "16",
@@ -7904,6 +7982,7 @@
       10765
     ],
     "media_type": "tv",
+    "original_title": "Pluribus",
     "poster": "/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
     "recs": [
       {
@@ -7942,6 +8021,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "La misteriosa mirada del flamenco",
     "poster": "/xfPhni21LIEmuV8HiDfrLhcmTwr.jpg",
     "recs": [
       {
@@ -7965,6 +8045,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "I Wish You All the Best",
     "poster": "/zJAxxNoyzwFC9Q8OLMj1r2zlcDc.jpg",
     "recs": [
       {
@@ -7989,6 +8070,7 @@
       14
     ],
     "media_type": "movie",
+    "original_title": "ผีใช้ได้ค่ะ",
     "poster": "/ysCOASLn8SaiFYWZYqNLTdO97NQ.jpg",
     "recs": [
       {
@@ -8014,6 +8096,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Little Bird",
     "poster": "/yI314yQpzVTn5xp3texIFwG9wve.jpg",
     "recs": [
       {
@@ -8027,6 +8110,26 @@
     "tmdb_id": 220594,
     "year": 2023
   },
+  "tt22876530": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "original_title": "Nuestra Tierra",
+    "poster": "/lU38H0sVKLmMrWuoEEAyaKk0VoX.jpg",
+    "recs": [
+      {
+        "date": "2026-05-01",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/our-land-nuestra-tierra-lucrecia-martel-documentary-film-review-2026"
+      }
+    ],
+    "title": "Our Island",
+    "tmdb_id": 1426643,
+    "year": 2025
+  },
   "tt23411728": {
     "age": null,
     "genres": [
@@ -8034,6 +8137,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "L'estranea",
     "poster": "/hkpxitZPz3cKQMl2g0MxzKQdtpP.jpg",
     "recs": [
       {
@@ -8053,6 +8157,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Life Support",
     "poster": "/AdTvNdus38Y9ir5i411lFv7AFQe.jpg",
     "recs": [
       {
@@ -8083,6 +8188,7 @@
       "urls": {}
     },
     "media_type": "movie",
+    "original_title": "The SpongeBob Movie: Search for SquarePants",
     "poster": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
     "recs": [
       {
@@ -8105,6 +8211,7 @@
       10764
     ],
     "media_type": "tv",
+    "original_title": "The Traitors",
     "poster": "/6KeLm8fSqBgK0lRNXorwlmcf6j2.jpg",
     "recs": [
       {
@@ -8126,6 +8233,37 @@
     },
     "year": 2022
   },
+  "tt2431250": {
+    "age": {
+      "classind": "12",
+      "source": "BR"
+    },
+    "genres": [
+      18,
+      37,
+      10751
+    ],
+    "media_type": "tv",
+    "original_title": "Little House on the Prairie",
+    "poster": "/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
+    "recs": [
+      {
+        "date": "2026-07-09",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/shows/little-house-on-the-prairie-review-netflix-reboot-purpose-1235203928/"
+      }
+    ],
+    "title": "Little House on the Prairie",
+    "tmdb_id": 283304,
+    "watch": {
+      "providers": [
+        "Netflix"
+      ],
+      "urls": {}
+    },
+    "year": 2026
+  },
   "tt24950660": {
     "age": {
       "classind": "14",
@@ -8137,6 +8275,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Eternity",
     "poster": "/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
     "recs": [
       {
@@ -8161,6 +8300,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "Lupin",
     "poster": "/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
     "recs": [
       {
@@ -8191,6 +8331,7 @@
       10752
     ],
     "media_type": "movie",
+    "original_title": "Rose",
     "poster": "/4k3ph6BoeZr7IMiQx8ioEV8d9cJ.jpg",
     "recs": [
       {
@@ -8231,6 +8372,7 @@
       }
     },
     "media_type": "movie",
+    "original_title": "Zootopia 2",
     "poster": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
     "recs": [
       {
@@ -8271,6 +8413,7 @@
       }
     },
     "media_type": "movie",
+    "original_title": "Hoppers",
     "poster": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
     "recs": [
       {
@@ -8301,6 +8444,7 @@
       10765
     ],
     "media_type": "tv",
+    "original_title": "Lanterns",
     "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "recs": [
       {
@@ -8371,6 +8515,7 @@
       878
     ],
     "media_type": "movie",
+    "original_title": "Backrooms",
     "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "recs": [
       {
@@ -8384,43 +8529,13 @@
     "tmdb_id": 1083381,
     "year": 2026
   },
-  "tt26731216": {
-    "age": {
-      "classind": "L",
-      "source": "BR"
-    },
-    "genres": [
-      18,
-      10751
-    ],
-    "kids": {
-      "providers": [
-        "Amazon Prime Video"
-      ],
-      "urls": {
-        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aaa207b5-906b-46e8-87e1-0d77717d804e"
-      }
-    },
-    "media_type": "movie",
-    "poster": "/oranxontIQRmhuyQlkoAwxpeBYz.jpg",
-    "recs": [
-      {
-        "date": "2026-05-11",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/forge-review-1235101662/"
-      }
-    ],
-    "title": "The Forge",
-    "tmdb_id": 1186532,
-    "year": 2024
-  },
   "tt26863553": {
     "age": null,
     "genres": [
       18
     ],
     "media_type": "movie",
+    "original_title": "Characters Disappearing",
     "poster": "/nzEJXSCR1rwM7A71TYdi6Asvhbr.jpg",
     "recs": [
       {
@@ -8440,6 +8555,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Ada: My Mother the Architect",
     "poster": "/1fX4VZ1NNgesG9LivcL4i720hfO.jpg",
     "recs": [
       {
@@ -8463,6 +8579,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Nobody Wants This",
     "poster": "/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg",
     "recs": [
       {
@@ -8491,6 +8608,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Musk",
     "poster": "/fAyZqyN78VYb0usFgsmYjxZIFcN.jpg",
     "recs": [
       {
@@ -8503,26 +8621,6 @@
     "title": "Musk",
     "tmdb_id": 1096228,
     "year": 2026
-  },
-  "tt27054971": {
-    "age": null,
-    "genres": [
-      18,
-      878
-    ],
-    "media_type": "movie",
-    "poster": "/jh8JKeO9VgeeEAfzuUUVi6xpBO4.jpg",
-    "recs": [
-      {
-        "date": "2026-06-25",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jun/25/a-better-tomorrow-review-john-woo"
-      }
-    ],
-    "title": "A Better Tomorrow",
-    "tmdb_id": 1243238,
-    "year": 2024
   },
   "tt27165187": {
     "age": {
@@ -8539,6 +8637,7 @@
       "urls": {}
     },
     "media_type": "movie",
+    "original_title": "The End of Oak Street",
     "poster": "/hkPxuAMEqIqo1HCtIi4sqx0GRuP.jpg",
     "recs": [
       {
@@ -8569,6 +8668,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Mother Mary",
     "poster": "/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
     "recs": [
       {
@@ -8588,6 +8688,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Selten wache ich träumend auf",
     "poster": "/5uQ3m7Qt4rj73ubBylu0lzElbL8.jpg",
     "recs": [
       {
@@ -8607,29 +8708,6 @@
     "tmdb_id": 1522183,
     "year": 2027
   },
-  "tt2734804": {
-    "age": {
-      "classind": "10",
-      "source": "US"
-    },
-    "genres": [
-      80,
-      18
-    ],
-    "media_type": "tv",
-    "poster": "/dPhc4IpzLTV7nu663kAhhQQr0UP.jpg",
-    "recs": [
-      {
-        "date": "2026-09-06",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/06/reckless-review-this-breathless-thriller-about-siblings-in-a-hit-and-run-is-a-masterpiece"
-      }
-    ],
-    "title": "Reckless",
-    "tmdb_id": 58951,
-    "year": 2014
-  },
   "tt27369017": {
     "age": {
       "classind": "16",
@@ -8641,6 +8719,7 @@
       28
     ],
     "media_type": "movie",
+    "original_title": "호프",
     "poster": "/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
     "recs": [
       {
@@ -8671,6 +8750,7 @@
       10759
     ],
     "media_type": "tv",
+    "original_title": "A Knight of the Seven Kingdoms",
     "poster": "/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
     "recs": [
       {
@@ -8700,6 +8780,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Queen at Sea",
     "poster": "/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
     "recs": [
       {
@@ -8729,6 +8810,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "The Shards",
     "poster": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
     "recs": [
       {
@@ -8760,6 +8842,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "The Boroughs",
     "poster": "/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
     "recs": [
       {
@@ -8776,6 +8859,38 @@
         "Netflix"
       ],
       "urls": {}
+    },
+    "year": 2026
+  },
+  "tt27557666": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      18,
+      10759
+    ],
+    "media_type": "tv",
+    "original_title": "Lord of the Flies",
+    "poster": "/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
+    "recs": [
+      {
+        "date": "2026-05-04",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/lord-of-the-flies-tv-review-2026"
+      }
+    ],
+    "title": "Lord of the Flies",
+    "tmdb_id": 270572,
+    "watch": {
+      "providers": [
+        "Globoplay"
+      ],
+      "urls": {
+        "Globoplay": "https://globoplay.globo.com/v/14529583"
+      }
     },
     "year": 2026
   },
@@ -8798,6 +8913,7 @@
       "urls": {}
     },
     "media_type": "movie",
+    "original_title": "In Your Dreams",
     "poster": "/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
     "recs": [
       {
@@ -8829,6 +8945,7 @@
       }
     },
     "media_type": "movie",
+    "original_title": "In the Grey",
     "poster": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
     "recs": [
       {
@@ -8859,6 +8976,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "The Rivals of Amziah King",
     "poster": "/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
     "recs": [
       {
@@ -8878,6 +8996,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "How to Talk Australians: The Movie",
     "poster": "/m9rBxK03AQxm25R75mObA7Uhp63.jpg",
     "recs": [
       {
@@ -8901,6 +9020,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Affeksjonsverdi",
     "poster": "/AcbS8VMysrTpG9r4dgK1oyLsKYn.jpg",
     "recs": [
       {
@@ -8931,6 +9051,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "Virginia Woolf's Night & Day",
     "poster": "/6psNzdIymhnN8KQggL4tiZRNIXg.jpg",
     "recs": [
       {
@@ -8953,6 +9074,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Silent Friend",
     "poster": "/mZjkRpTFfcdsTmtIAzKVM87I94R.jpg",
     "recs": [
       {
@@ -8978,6 +9100,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "Ludwig",
     "poster": "/6xpAG4tJKhRT6y2Uxw2nAJareoQ.jpg",
     "recs": [
       {
@@ -9006,6 +9129,7 @@
       80
     ],
     "media_type": "movie",
+    "original_title": "O Agente Secreto",
     "poster": "/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
     "recs": [
       {
@@ -9036,6 +9160,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "Is This Thing On?",
     "poster": "/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
     "recs": [
       {
@@ -9055,6 +9180,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "We Might Regret This",
     "poster": "/9WP87sFuaXah8KpQ0j0umuNiSVd.jpg",
     "recs": [
       {
@@ -9079,6 +9205,7 @@
       27
     ],
     "media_type": "movie",
+    "original_title": "Whalefall",
     "poster": "/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
     "recs": [
       {
@@ -9098,6 +9225,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "ナギダイアリー",
     "poster": "/jYsIMY0XVZ6CcpfEW2HaUafhtzx.jpg",
     "recs": [
       {
@@ -9124,6 +9252,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
     "poster": "/4ri8KO5i7ldQiS3807KXn6awQEs.jpg",
     "recs": [
       {
@@ -9146,6 +9275,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "In die Sonne schauen",
     "poster": "/5hLiXAqZ3xTHExOIsxYANIswBjZ.jpg",
     "recs": [
       {
@@ -9174,6 +9304,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Kaj ti je deklica",
     "poster": "/etH5TJk18eua1i4xke8E2rYEpqB.jpg",
     "recs": [
       {
@@ -9199,6 +9330,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Skyrybos karo metu",
     "poster": "/naG3eXp5wsq7us6hnNKdaUgwOgk.jpg",
     "recs": [
       {
@@ -9223,6 +9355,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Wasteman",
     "poster": "/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
     "recs": [
       {
@@ -9245,6 +9378,7 @@
       12
     ],
     "media_type": "movie",
+    "original_title": "Carmen, l'oiseau rebelle",
     "poster": "/iQi9sswCkXsaY30eG3eMZj93hqC.jpg",
     "recs": [
       {
@@ -9269,6 +9403,7 @@
       10752
     ],
     "media_type": "movie",
+    "original_title": "Palestine 36",
     "poster": "/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
     "recs": [
       {
@@ -9288,6 +9423,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Nina Roza",
     "poster": "/46qX7uLcu0XcQajVxizR2RYC45H.jpg",
     "recs": [
       {
@@ -9311,6 +9447,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Κότα",
     "poster": "/L0nb2GKLqwHqEuLWpU8D9nDQKJ.jpg",
     "recs": [
       {
@@ -9331,6 +9468,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "साबर बोंडं",
     "poster": "/qCucYfx1K2bDpRXlPczbKCGb5FX.jpg",
     "recs": [
       {
@@ -9359,6 +9497,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "اللي باقي منك",
     "poster": "/fqMHedzcFA9rOnlWPuazaKMzV0H.jpg",
     "recs": [
       {
@@ -9392,6 +9531,7 @@
       }
     },
     "media_type": "movie",
+    "original_title": "Toy Story 5",
     "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
     "recs": [
       {
@@ -9411,6 +9551,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Objet a",
     "poster": "/uSeTBinJZAFb4dbObQPWj7spyk8.jpg",
     "recs": [
       {
@@ -9433,6 +9574,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Rebuilding",
     "poster": "/7cDCGKBA6XANFDw4km9GvDnFBHw.jpg",
     "recs": [
       {
@@ -9459,6 +9601,7 @@
       9648
     ],
     "media_type": "movie",
+    "original_title": "Filipiñana",
     "poster": "/64hnrTmeJEvUYoJyuOM7taE3CqT.jpg",
     "recs": [
       {
@@ -9483,6 +9626,7 @@
       27
     ],
     "media_type": "movie",
+    "original_title": "Obex",
     "poster": "/989voQxc9qAJKuBaoBHngqnpLsD.jpg",
     "recs": [
       {
@@ -9506,6 +9650,7 @@
       37
     ],
     "media_type": "movie",
+    "original_title": "Train Dreams",
     "poster": "/jnaOmD9PmAkNjgVtCn17o7clOYe.jpg",
     "recs": [
       {
@@ -9526,6 +9671,7 @@
       12
     ],
     "media_type": "movie",
+    "original_title": "A Life Illuminated",
     "poster": "/fvwKe8ttwNoJasZHoGIU4Nt0foC.jpg",
     "recs": [
       {
@@ -9539,12 +9685,33 @@
     "tmdb_id": 1220240,
     "year": 2025
   },
+  "tt30321173": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "tv",
+    "original_title": "Conbody vs Everybody",
+    "poster": "/4LlbePEa8XlbL7ema4zj1RXucne.jpg",
+    "recs": [
+      {
+        "date": "2026-05-01",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/conbody-vs-everybody-debra-granik-criterion-documentary-tv-review-2026"
+      }
+    ],
+    "title": "Conbody vs Everybody",
+    "tmdb_id": 241601,
+    "year": 2026
+  },
   "tt30343126": {
     "age": null,
     "genres": [
       18
     ],
     "media_type": "movie",
+    "original_title": "Miss You, Love You",
     "poster": "/aVt8ubqnuBU8R5MVNbuf9OTy8sa.jpg",
     "recs": [
       {
@@ -9564,6 +9731,68 @@
     "tmdb_id": 1232667,
     "year": 2026
   },
+  "tt30450743": {
+    "age": null,
+    "genres": [
+      35
+    ],
+    "media_type": "tv",
+    "original_title": "Daddy Issues",
+    "poster": "/4HzeVlIIpEPSkTyqtkHTLUHTjPp.jpg",
+    "recs": [
+      {
+        "date": "2025-11-24",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/24/daddy-issues-series-two-review-aimee-lou-wood-david-morrissey"
+      }
+    ],
+    "title": "Daddy Issues",
+    "tmdb_id": 241337,
+    "watch": {
+      "providers": [
+        "Filmelier Plus Amazon Channel"
+      ],
+      "urls": {
+        "Filmelier Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.388dcdcc-bee1-436b-ae1d-187ce78778d3"
+      }
+    },
+    "year": 2024
+  },
+  "tt30459041": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      18,
+      80
+    ],
+    "media_type": "tv",
+    "original_title": "Your Friends & Neighbors",
+    "poster": "/lcp63INKEsVHUly9eayx7gEEOcG.jpg",
+    "recs": [
+      {
+        "date": "2026-04-03",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/apr/03/your-friends-and-neighbours-season-two-review-jon-hamm-brilliant-moreish-caper"
+      }
+    ],
+    "title": "Your Friends & Neighbors",
+    "tmdb_id": 241609,
+    "watch": {
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ],
+      "urls": {
+        "Apple TV": "https://tv.apple.com/br/episode/e-isso-que-acontece/umc.cmc.36i6dji213wclhgotvqb214b8?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.4000%3AA0108301001&showId=umc.cmc.74o37kzay0yuuub8iumddjsg",
+        "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69bc550b-8624-49fc-9878-8493a41432d3"
+      }
+    },
+    "year": 2025
+  },
   "tt30460036": {
     "age": null,
     "genres": [
@@ -9571,6 +9800,7 @@
       14
     ],
     "media_type": "movie",
+    "original_title": "At Night",
     "poster": "/i0skd2t9mmixFCFrS2AN9iSVhn2.jpg",
     "recs": [
       {
@@ -9595,6 +9825,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Spider-Noir",
     "poster": "/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
     "recs": [
       {
@@ -9632,6 +9863,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "Ride or Die",
     "poster": "/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg",
     "recs": [
       {
@@ -9660,6 +9892,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Chime",
     "poster": "/s6bBgT11fFHwKrzrFluCoKfcjdU.jpg",
     "recs": [
       {
@@ -9683,6 +9916,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "نسور الجمهورية",
     "poster": "/f9MzpMfbBL4PknhKqoQpIUdskTl.jpg",
     "recs": [
       {
@@ -9696,12 +9930,42 @@
     "tmdb_id": 1220566,
     "year": 2025
   },
+  "tt30826447": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      35
+    ],
+    "media_type": "tv",
+    "original_title": "The Four Seasons",
+    "poster": "/w09XeYl096pwES8riRMZwEA9rnh.jpg",
+    "recs": [
+      {
+        "date": "2026-05-28",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/may/28/the-four-seasons-season-two-review-tina-feys-brilliant-follow-up-is-up-there-with-30-rock"
+      }
+    ],
+    "title": "The Four Seasons",
+    "tmdb_id": 243316,
+    "watch": {
+      "providers": [
+        "Netflix"
+      ],
+      "urls": {}
+    },
+    "year": 2025
+  },
   "tt30829699": {
     "age": null,
     "genres": [
       18
     ],
     "media_type": "movie",
+    "original_title": "Ricky",
     "poster": "/iUmPnPKyW2YEmhZlP91gwtW8O6B.jpg",
     "recs": [
       {
@@ -9725,6 +9989,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "The Audacity",
     "poster": "/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
     "recs": [
       {
@@ -9748,6 +10013,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "Malice",
     "poster": "/fKhHzRk1VIJY1nz1cRhAfAaYfnA.jpg",
     "recs": [
       {
@@ -9779,6 +10045,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "The Hunting Wives",
     "poster": "/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
     "recs": [
       {
@@ -9798,6 +10065,26 @@
     },
     "year": 2025
   },
+  "tt31064044": {
+    "age": null,
+    "genres": [
+      35
+    ],
+    "media_type": "tv",
+    "original_title": "Dinosaur",
+    "poster": "/AmK2pzAJKA1CB6s2TOyLxIT29YB.jpg",
+    "recs": [
+      {
+        "date": "2026-02-07",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/feb/07/dinosaur-season-two-review-this-hilarious-heartwarming-comedy-is-a-classic"
+      }
+    ],
+    "title": "Dinosaur",
+    "tmdb_id": 126766,
+    "year": 2024
+  },
   "tt31079597": {
     "age": {
       "classind": "10",
@@ -9808,6 +10095,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "生息之地",
     "poster": "/4O5NYbAJa0qPJGZ3i49I5wynlZ2.jpg",
     "recs": [
       {
@@ -9831,6 +10119,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Death by Lightning",
     "poster": "/KyUrz3GA1FML3XnKkY795XxDxN.jpg",
     "recs": [
       {
@@ -9844,6 +10133,12 @@
         "outlet": "IndieWire",
         "rating": "A-",
         "url": "https://www.indiewire.com/criticism/shows/death-by-lightning-review-netflix-james-garfield-1235158524/"
+      },
+      {
+        "date": "2025-11-06",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/death-by-lightning-michael-shannon-james-garfield-netflix-tv-review-2025"
       }
     ],
     "title": "Death by Lightning",
@@ -9856,6 +10151,40 @@
     },
     "year": 2025
   },
+  "tt31137273": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      18,
+      35
+    ],
+    "media_type": "tv",
+    "original_title": "Margo's Got Money Troubles",
+    "poster": "/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
+    "recs": [
+      {
+        "date": "2026-04-13",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/margos-got-money-troubles-elle-fanning-apple-tv-review-2026"
+      }
+    ],
+    "title": "Margo's Got Money Troubles",
+    "tmdb_id": 245318,
+    "watch": {
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ],
+      "urls": {
+        "Apple TV": "https://tv.apple.com/br/episode/a-fantasma-faminta/umc.cmc.hdpl5ofs4j8mete5itdofjwu?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.4000%3AA0182501001&showId=umc.cmc.6wgw0u6vuwydp6obbzzccup3w",
+        "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5369ea30-c60b-4f97-b34c-4eeaff66945e"
+      }
+    },
+    "year": 2026
+  },
   "tt31189315": {
     "age": {
       "classind": "14",
@@ -9866,6 +10195,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Father Mother Sister Brother",
     "poster": "/96O3Ol3f2veMxAxYqsML8rOumB9.jpg",
     "recs": [
       {
@@ -9898,6 +10228,7 @@
       }
     },
     "media_type": "movie",
+    "original_title": "Fuze",
     "poster": "/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
     "recs": [
       {
@@ -9922,6 +10253,7 @@
       12
     ],
     "media_type": "movie",
+    "original_title": "Predator: Badlands",
     "poster": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
     "recs": [
       {
@@ -9951,6 +10283,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "The Lowdown",
     "poster": "/jgfHT7oLJtBDlRABiTTEp2AEret.jpg",
     "recs": [
       {
@@ -9982,6 +10315,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "All Her Fault",
     "poster": "/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
     "recs": [
       {
@@ -10003,35 +10337,6 @@
     },
     "year": 2025
   },
-  "tt31407004": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      18,
-      10768
-    ],
-    "media_type": "tv",
-    "poster": "/ghcxxmSLByYyFLAL8TNWmAel1Ym.jpg",
-    "recs": [
-      {
-        "date": "2026-03-04",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/mar/04/hostage-review-this-portrait-of-a-war-reporter-is-jaw-dropping-stuff"
-      }
-    ],
-    "title": "Hostage",
-    "tmdb_id": 248937,
-    "watch": {
-      "providers": [
-        "Netflix"
-      ],
-      "urls": {}
-    },
-    "year": 2025
-  },
   "tt31409061": {
     "age": null,
     "genres": [
@@ -10039,6 +10344,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "The Birthday Trip",
     "poster": "/lWm3ExehCuaC1ZD8p7E7qRzhddS.jpg",
     "recs": [
       {
@@ -10052,6 +10358,37 @@
     "tmdb_id": 1454837,
     "year": 2026
   },
+  "tt31449991": {
+    "age": {
+      "classind": "14",
+      "source": "BR"
+    },
+    "genres": [
+      35
+    ],
+    "media_type": "tv",
+    "original_title": "Chad Powers",
+    "poster": "/aXetUcD4wfalCj90QmT6kSvwO6D.jpg",
+    "recs": [
+      {
+        "date": "2026-09-03",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/03/chad-powers-season-two-review-disney-plus-glen-powell"
+      }
+    ],
+    "title": "Chad Powers",
+    "tmdb_id": 247168,
+    "watch": {
+      "providers": [
+        "Disney Plus"
+      ],
+      "urls": {
+        "Disney Plus": "https://www.disneyplus.com/browse/entity-7117a15d-128c-4c2b-a5b9-98adfa0f4505"
+      }
+    },
+    "year": 2025
+  },
   "tt31514146": {
     "age": {
       "classind": "16",
@@ -10062,6 +10399,7 @@
       36
     ],
     "media_type": "movie",
+    "original_title": "I Swear",
     "poster": "/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
     "recs": [
       {
@@ -10081,6 +10419,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "अंधारातल्या मशाली",
     "poster": "/tESxNpQid0Suwd7ptqDLy029lH0.jpg",
     "recs": [
       {
@@ -10104,6 +10443,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "The Witness",
     "poster": "/6vW1V7qejXv4QI2TvWvYuowfTrU.jpg",
     "recs": [
       {
@@ -10134,6 +10474,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "How to Get to Heaven from Belfast",
     "poster": "/6lFI03QZgXwGZLKtzUw4L8ZnyBv.jpg",
     "recs": [
       {
@@ -10165,6 +10506,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "The Split Up",
     "poster": "/jzuDyQQLpJcNM1l7kKcjgg8QsjE.jpg",
     "recs": [
       {
@@ -10189,6 +10531,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Dreams: Sueños",
     "poster": "/zJCOHBvy4O6nIslbbxJ8tICn53d.jpg",
     "recs": [
       {
@@ -10202,42 +10545,26 @@
     "tmdb_id": 1134463,
     "year": 2025
   },
-  "tt31711040": {
-    "age": {
-      "classind": "12",
-      "source": "BR"
-    },
+  "tt31726535": {
+    "age": null,
     "genres": [
-      16,
-      18
+      99,
+      35
     ],
-    "kids": {
-      "providers": [
-        "Amazon Prime Video"
-      ],
-      "urls": {
-        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff8e068a-bc29-4b2a-bed0-23f65f7d85b1"
-      }
-    },
     "media_type": "movie",
-    "poster": "/4f2EcNkp1Mvp9wE5w7HKxcmACWg.jpg",
+    "original_title": "You Had to Be There: How the Toronto Godspell Ignited the Comedy Revolution...",
+    "poster": "/ww7BKE0TdKYLz0h6Ms8vLpptaiE.jpg",
     "recs": [
       {
-        "date": "2026-10-16",
-        "outlet": "The Guardian",
+        "date": "2026-09-18",
+        "outlet": "RogerEbert.com",
         "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/oct/16/look-back-review-hirokazu-kore-eda"
-      },
-      {
-        "date": "2026-09-07",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/look-back-live-action-movie-review-1235215203/"
+        "url": "https://www.rogerebert.com/reviews/you-had-to-be-there-how-the-toronto-godspell-ignited-the-comedy-revolution-documentary-film-review-2026"
       }
     ],
-    "title": "Look Back",
-    "tmdb_id": 1244492,
-    "year": 2024
+    "title": "You Had to Be There: How the Toronto Godspell Ignited the Comedy Revolution...",
+    "tmdb_id": 1354301,
+    "year": 2026
   },
   "tt31844586": {
     "age": {
@@ -10250,6 +10577,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Sisu 2",
     "poster": "/roCMOuMQ55Z2TxVx1vZZTevlo0n.jpg",
     "recs": [
       {
@@ -10272,6 +10600,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "The Pitt",
     "poster": "/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
     "recs": [
       {
@@ -10305,8 +10634,15 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "The Beast in Me",
     "poster": "/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
     "recs": [
+      {
+        "date": "2025-11-14",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/the-beast-in-me-claire-danes-netflix-tv-review-2025"
+      },
       {
         "date": "2025-11-13",
         "outlet": "The Guardian",
@@ -10331,6 +10667,7 @@
       10768
     ],
     "media_type": "tv",
+    "original_title": "Kaboul",
     "poster": "/1zWFtTus8nUXNcAAgCxaZhAe1oq.jpg",
     "recs": [
       {
@@ -10350,6 +10687,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "La fabulosa máquina de cosechar oro",
     "poster": "/urrqMU88IXK0cgWizBlRPavmoiO.jpg",
     "recs": [
       {
@@ -10363,6 +10701,30 @@
     "tmdb_id": 1266638,
     "year": 2024
   },
+  "tt32061880": {
+    "age": null,
+    "genres": [
+      18
+    ],
+    "media_type": "tv",
+    "original_title": "Amadeus",
+    "poster": "/sS8Q0Qf5GzTI1OcswDN5Vvvmm97.jpg",
+    "recs": [
+      {
+        "date": "2026-05-06",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/amadeus-paul-bettany-will-sharpe-tv-review-2026"
+      }
+    ],
+    "title": "Amadeus",
+    "tmdb_id": 246864,
+    "watch": {
+      "providers": [],
+      "urls": {}
+    },
+    "year": 2025
+  },
   "tt32125946": {
     "age": {
       "classind": "18",
@@ -10373,6 +10735,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Dear Killer Nannies: Criado por sicarios",
     "poster": "/bGRezoCqNtiKwNDB9hszImOs6ut.jpg",
     "recs": [
       {
@@ -10400,6 +10763,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Forastera",
     "poster": "/fl7Bl7KSHjN5IzzhGrvWJBsJ3SS.jpg",
     "recs": [
       {
@@ -10424,6 +10788,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Down Cemetery Road",
     "poster": "/pjmQbrJ3FesJobbqCnUwBCtfcvH.jpg",
     "recs": [
       {
@@ -10458,6 +10823,7 @@
       10768
     ],
     "media_type": "tv",
+    "original_title": "Star City",
     "poster": "/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg",
     "recs": [
       {
@@ -10492,6 +10858,7 @@
       878
     ],
     "media_type": "movie",
+    "original_title": "28 Years Later: The Bone Temple",
     "poster": "/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
     "recs": [
       {
@@ -10505,6 +10872,39 @@
     "tmdb_id": 1272837,
     "year": 2026
   },
+  "tt32159809": {
+    "age": {
+      "classind": "14",
+      "source": "BR"
+    },
+    "genres": [
+      35
+    ],
+    "media_type": "tv",
+    "original_title": "The Paper",
+    "poster": "/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
+    "recs": [
+      {
+        "date": "2026-09-10",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/10/the-paper-season-two-review-one-of-the-best-comedies-on-tv-right-now"
+      }
+    ],
+    "title": "The Paper",
+    "tmdb_id": 253941,
+    "watch": {
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ],
+      "urls": {
+        "HBO Max": "https://play.hbomax.com/video/watch/a7e4589a-9601-48af-b99a-d698fb51dff2",
+        "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.028b5ea4-ec64-4a64-9568-6f93347f9e83"
+      }
+    },
+    "year": 2025
+  },
   "tt32212403": {
     "age": {
       "classind": "12",
@@ -10515,6 +10915,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Sunny Dancer",
     "poster": "/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
     "recs": [
       {
@@ -10534,6 +10935,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "A Fidai Film",
     "poster": "/xUdSaxJx4hnXX9gRq1B9o9eBPAH.jpg",
     "recs": [
       {
@@ -10557,6 +10959,7 @@
       9648
     ],
     "media_type": "movie",
+    "original_title": "Miroirs No. 3",
     "poster": "/fcy6ZmdrwzW8TtiDY4ZxDEDk6yl.jpg",
     "recs": [
       {
@@ -10579,6 +10982,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Blue Heron",
     "poster": "/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
     "recs": [
       {
@@ -10615,6 +11019,7 @@
       10765
     ],
     "media_type": "tv",
+    "original_title": "Bait",
     "poster": "/gX9zWmUnrjCZEPpultvvFtSUb93.jpg",
     "recs": [
       {
@@ -10647,6 +11052,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Power Ballad",
     "poster": "/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
     "recs": [
       {
@@ -10677,6 +11083,7 @@
       28
     ],
     "media_type": "movie",
+    "original_title": "The Death of Robin Hood",
     "poster": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
     "recs": [
       {
@@ -10707,6 +11114,7 @@
       "urls": {}
     },
     "media_type": "movie",
+    "original_title": "Enola Holmes 3",
     "poster": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
     "recs": [
       {
@@ -10726,6 +11134,7 @@
       10764
     ],
     "media_type": "tv",
+    "original_title": "I Kissed a Girl",
     "poster": "/mMgCKbFGpKO766UmmDn5TJwowU3.jpg",
     "recs": [
       {
@@ -10757,6 +11166,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Sirāt",
     "poster": "/bzBtsLi17rK4G6kDvOXfUZfAhca.jpg",
     "recs": [
       {
@@ -10782,6 +11192,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Late Fame",
     "poster": "/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
     "recs": [
       {
@@ -10812,6 +11223,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Josephine",
     "poster": "/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
     "recs": [
       {
@@ -10836,6 +11248,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Pillion",
     "poster": "/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
     "recs": [
       {
@@ -10855,6 +11268,27 @@
     "tmdb_id": 1287141,
     "year": 2025
   },
+  "tt32332334": {
+    "age": null,
+    "genres": [
+      35,
+      80
+    ],
+    "media_type": "movie",
+    "original_title": "Forge",
+    "poster": "/l6NKGZZbVkt2q4YYq0gflvTEJQo.jpg",
+    "recs": [
+      {
+        "date": "2026-05-11",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/forge-review-1235101662/"
+      }
+    ],
+    "title": "Forge",
+    "tmdb_id": 1288229,
+    "year": 2026
+  },
   "tt32367116": {
     "age": null,
     "genres": [
@@ -10862,6 +11296,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Öldürdüğün Şeyler",
     "poster": "/kR8CHANk8KwQLWarMIQsk2mthhW.jpg",
     "recs": [
       {
@@ -10890,6 +11325,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Mockbuster",
     "poster": "/inH9HxbtPFZcUYcTI4AkCNOOxpx.jpg",
     "recs": [
       {
@@ -10912,6 +11348,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Le Mage du Kremlin",
     "poster": "/85EYON4oXVYTPdMuW5q5ELQLU88.jpg",
     "recs": [
       {
@@ -10934,6 +11371,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "Rooster",
     "poster": "/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
     "recs": [
       {
@@ -10967,6 +11405,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Crime 101",
     "poster": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
     "recs": [
       {
@@ -10987,6 +11426,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Den Sorte Svane",
     "poster": "/zngOoIOqg0V5qCSotkOoPW7JQnc.jpg",
     "recs": [
       {
@@ -11011,6 +11451,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "Steal",
     "poster": "/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
     "recs": [
       {
@@ -11038,6 +11479,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Knife: The Attempted Murder of Salman Rushdie",
     "poster": "/zIHezCczCvRFtkuAoCm1tEJGa0W.jpg",
     "recs": [
       {
@@ -11066,6 +11508,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Romería",
     "poster": "/rkCHBDGgc6UW9ETyTWZ0RiEiten.jpg",
     "recs": [
       {
@@ -11090,6 +11533,7 @@
       10752
     ],
     "media_type": "movie",
+    "original_title": "Pressure",
     "poster": "/gFjEggtrejCN79r6SXRjM269OtG.jpg",
     "recs": [
       {
@@ -11118,6 +11562,7 @@
       "urls": {}
     },
     "media_type": "movie",
+    "original_title": "Practical Magic 2",
     "poster": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
     "recs": [
       {
@@ -11141,6 +11586,7 @@
       10402
     ],
     "media_type": "movie",
+    "original_title": "Merrily We Roll Along",
     "poster": "/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
     "recs": [
       {
@@ -11164,6 +11610,7 @@
       12
     ],
     "media_type": "movie",
+    "original_title": "镖人：风起大漠",
     "poster": "/R84km7PJ0frFSNPmvIjG6LV1kg.jpg",
     "recs": [
       {
@@ -11183,6 +11630,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Prisoner 951",
     "poster": "/hY6YPeNc0KoyEUOsgfjV92pN0Hj.jpg",
     "recs": [
       {
@@ -11202,6 +11650,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Dreams in Nightmares",
     "poster": "/j5dxzoXeQB9pmOnO0TjSoMDceSk.jpg",
     "recs": [
       {
@@ -11230,8 +11679,15 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Half Man",
     "poster": "/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
     "recs": [
+      {
+        "date": "2026-04-22",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/half-man-jamie-bell-hbo-max-tv-review-2026"
+      },
       {
         "date": "2026-04-21",
         "outlet": "The Guardian",
@@ -11263,6 +11719,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "The Plague",
     "poster": "/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg",
     "recs": [
       {
@@ -11298,6 +11755,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Diamanti",
     "poster": "/rvtFJBLnDalT61QtguRGOrii0hM.jpg",
     "recs": [
       {
@@ -11319,6 +11777,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Sunny Nights",
     "poster": "/7n91F2320KptcPUXXY3lMtx3k1I.jpg",
     "recs": [
       {
@@ -11349,6 +11808,7 @@
       "urls": {}
     },
     "media_type": "movie",
+    "original_title": "Minions & Monsters",
     "poster": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
     "recs": [
       {
@@ -11368,6 +11828,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Acting",
     "poster": "/6smZ3elE1oM4xzFbs0LBYvw3sk3.jpg",
     "recs": [
       {
@@ -11390,6 +11851,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Jeunes mères",
     "poster": "/okfaa71H1P0WC1uzYliOgYS2gte.jpg",
     "recs": [
       {
@@ -11413,6 +11875,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Marty Supreme",
     "poster": "/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
     "recs": [
       {
@@ -11438,6 +11901,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Familiar Touch",
     "poster": "/zUKpIGBCiUTyFTEPJxc7nJtLU3P.jpg",
     "recs": [
       {
@@ -11461,6 +11925,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "Something Very Bad Is Going to Happen",
     "poster": "/tuj37DlqEqib8sTO4h3nHJeTAJ2.jpg",
     "recs": [
       {
@@ -11474,6 +11939,12 @@
         "outlet": "IndieWire",
         "rating": "B+",
         "url": "https://www.indiewire.com/criticism/shows/something-very-bad-is-going-to-happen-review-netflix-series-1235186005/"
+      },
+      {
+        "date": "2026-03-26",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/something-very-bad-is-going-to-happen-netflix-duffer-brothers-tv-review-2026"
       }
     ],
     "title": "Something Very Bad Is Going to Happen",
@@ -11486,26 +11957,39 @@
     },
     "year": 2026
   },
-  "tt33030072": {
-    "age": null,
+  "tt33035435": {
+    "age": {
+      "classind": "14",
+      "source": "BR"
+    },
     "genres": [
-      35,
-      18,
-      10749
+      99,
+      35
     ],
-    "media_type": "movie",
-    "poster": "/6ZkmsvBjEV4ylGRJjPQC799aiqC.jpg",
+    "media_type": "tv",
+    "original_title": "Mel Brooks: The 99 Year Old Man!",
+    "poster": "/htSwFYOyepCbLUUuyCtvC0uCQ3b.jpg",
     "recs": [
       {
-        "date": "2026-09-21",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping"
+        "date": "2026-01-22",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/mel-brooks-the-99-year-old-man-hbo-documentary-tv-review-2026"
       }
     ],
-    "title": "The Seasons",
-    "tmdb_id": 1207074,
-    "year": 2024
+    "title": "Mel Brooks: The 99 Year Old Man!",
+    "tmdb_id": 308112,
+    "watch": {
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ],
+      "urls": {
+        "HBO Max": "https://play.hbomax.com/video/watch/7362deb0-dfb9-499c-87cb-c082cfaeea97",
+        "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8bc11b2-71f0-434b-b226-a5d26dc71cc9"
+      }
+    },
+    "year": 2026
   },
   "tt33037660": {
     "age": null,
@@ -11513,6 +11997,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "La libertad doble",
     "poster": "/h7wBw4qGv5omsVPA94Yl1QNubSS.jpg",
     "recs": [
       {
@@ -11532,6 +12017,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Ancestral Visions of the Future",
     "poster": "/9o6oj4aVAXjlj3IqrA3t9CA8mch.jpg",
     "recs": [
       {
@@ -11552,6 +12038,7 @@
       10768
     ],
     "media_type": "tv",
+    "original_title": "Trespasses",
     "poster": "/ucwjasSOz2pr4TsRycK7Muegsh2.jpg",
     "recs": [
       {
@@ -11575,6 +12062,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Tony",
     "poster": "/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
     "recs": [
       {
@@ -11597,6 +12085,7 @@
       10764
     ],
     "media_type": "tv",
+    "original_title": "The Celebrity Traitors",
     "poster": "/uziPOqxQotCE9g0wBgDvHCOvRhP.jpg",
     "recs": [
       {
@@ -11617,6 +12106,7 @@
       878
     ],
     "media_type": "movie",
+    "original_title": "Affection",
     "poster": "/3b3wC8JFjURlMsFj9gqbv0SyTJs.jpg",
     "recs": [
       {
@@ -11639,6 +12129,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Cupertino",
     "poster": "/70AhJpOqU2oKyQF2paJA764CSje.jpg",
     "recs": [
       {
@@ -11662,6 +12153,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "PONIES",
     "poster": "/5SFjDV42IMWpZDAcu3fT9LUpFHY.jpg",
     "recs": [
       {
@@ -11686,6 +12178,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Tuner",
     "poster": "/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
     "recs": [
       {
@@ -11710,6 +12203,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Mile End Kicks",
     "poster": "/qq3Q1tsxAxMqP38YTZKl8m5zmA4.jpg",
     "recs": [
       {
@@ -11729,6 +12223,7 @@
       10764
     ],
     "media_type": "tv",
+    "original_title": "Game of Wool: Britain's Best Knitter",
     "poster": "/yrJvwDBHBtnkhjKLWQqyjOY2Ae5.jpg",
     "recs": [
       {
@@ -11742,6 +12237,26 @@
     "tmdb_id": 303753,
     "year": 2025
   },
+  "tt33305711": {
+    "age": null,
+    "genres": [
+      35
+    ],
+    "media_type": "tv",
+    "original_title": "Amandaland",
+    "poster": "/4QDYK4EpwuLb54TmRPZioKJwUtE.jpg",
+    "recs": [
+      {
+        "date": "2026-05-06",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/may/06/amandaland-series-two-review-file-this-mesmerising-comedy-icon-next-to-alan-partridge-and-david-brent"
+      }
+    ],
+    "title": "Amandaland",
+    "tmdb_id": 255355,
+    "year": 2025
+  },
   "tt33311069": {
     "age": {
       "classind": "16",
@@ -11753,14 +12268,9 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "火遮眼",
     "poster": "/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg",
     "recs": [
-      {
-        "date": "2026-07-22",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/furious-hulu-tv-review-2026"
-      },
       {
         "date": "2026-06-25",
         "outlet": "The Guardian",
@@ -11795,6 +12305,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "Widow's Bay",
     "poster": "/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
     "recs": [
       {
@@ -11824,6 +12335,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Clarissa",
     "poster": "/9qS8heXhQdLoyGsqZHHb3HkrK62.jpg",
     "recs": [
       {
@@ -11857,6 +12369,7 @@
       }
     },
     "media_type": "movie",
+    "original_title": "100 Nights of Hero",
     "poster": "/u2lCBD7ZjcBsCLnDgWVDP9TsghG.jpg",
     "recs": [
       {
@@ -11868,6 +12381,39 @@
     ],
     "title": "100 Nights of Hero",
     "tmdb_id": 1354518,
+    "year": 2025
+  },
+  "tt33362589": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      35
+    ],
+    "media_type": "tv",
+    "original_title": "I Love LA",
+    "poster": "/6xrLXEQABvoVwGka9KDDAOt4lFs.jpg",
+    "recs": [
+      {
+        "date": "2025-10-30",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/shows/i-love-la-review-rachel-sennott-hbo-series-1235157967/"
+      }
+    ],
+    "title": "I Love LA",
+    "tmdb_id": 271053,
+    "watch": {
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ],
+      "urls": {
+        "HBO Max": "https://play.hbomax.com/video/watch/e578aff5-32a1-4148-b4cc-94ee18ffda5b",
+        "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ada0ec61-4ad4-4644-ad7f-ef6bcb51896d"
+      }
+    },
     "year": 2025
   },
   "tt33365126": {
@@ -11882,6 +12428,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Carolina Caroline",
     "poster": "/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
     "recs": [
       {
@@ -11902,6 +12449,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "ஜன நாயகன்",
     "poster": "/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
     "recs": [
       {
@@ -11915,29 +12463,6 @@
     "tmdb_id": 1235877,
     "year": 2026
   },
-  "tt33381401": {
-    "age": {
-      "classind": "12",
-      "source": "DE"
-    },
-    "genres": [
-      18,
-      35
-    ],
-    "media_type": "movie",
-    "poster": "/cW1T0oQcyVfcRR0e4cevno9Zc2h.jpg",
-    "recs": [
-      {
-        "date": "2026-01-30",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/the-love-that-remains-film-review-2026"
-      }
-    ],
-    "title": "The Love That Remains",
-    "tmdb_id": 1258509,
-    "year": 2025
-  },
   "tt33397405": {
     "age": null,
     "genres": [
@@ -11945,6 +12470,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Ferine",
     "poster": "/7KnkmoV5bKSI0Cnx34iFrEt4ree.jpg",
     "recs": [
       {
@@ -11964,6 +12490,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "El ser querido",
     "poster": "/whk02IOeEHz8KCYZGm3fF92zg0v.jpg",
     "recs": [
       {
@@ -11987,6 +12514,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Sean Combs: The Reckoning",
     "poster": "/zvozYQ1idmnkF0ugfTud82lpNIJ.jpg",
     "recs": [
       {
@@ -12016,6 +12544,7 @@
       10765
     ],
     "media_type": "tv",
+    "original_title": "The Beauty",
     "poster": "/l6mtso50nTSvhYc3tc7xB7cYHmg.jpg",
     "recs": [
       {
@@ -12045,6 +12574,7 @@
       10402
     ],
     "media_type": "movie",
+    "original_title": "Deux Pianos",
     "poster": "/vdmbyk5iic557hCKs0F7gV6DMNh.jpg",
     "recs": [
       {
@@ -12067,6 +12597,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Off Campus",
     "poster": "/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
     "recs": [
       {
@@ -12094,6 +12625,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
     "poster": "/vgCPDVjN7OTT30uCkQafFXSXNcm.jpg",
     "recs": [
       {
@@ -12113,6 +12645,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Borges and Me",
     "poster": "/cGwP4hS62bAKhi5kEQpDkxDI80L.jpg",
     "recs": [
       {
@@ -12135,6 +12668,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Un hijo propio",
     "poster": "/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
     "recs": [
       {
@@ -12155,6 +12689,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "Under Salt Marsh",
     "poster": "/dZQUJiG2scf8APdnMnMilB8A9GS.jpg",
     "recs": [
       {
@@ -12178,6 +12713,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Passenger",
     "poster": "/svrAzMTif4OmIjGJzC0W92d5O1o.jpg",
     "recs": [
       {
@@ -12206,6 +12742,7 @@
       "urls": {}
     },
     "media_type": "movie",
+    "original_title": "The Odyssey",
     "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "recs": [
       {
@@ -12238,6 +12775,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "The Cage",
     "poster": "/hAcICUwR1wuP4PzGaVWlMVhD50l.jpg",
     "recs": [
       {
@@ -12258,6 +12796,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Dead Souls",
     "poster": "/j6LwYijBpK23UQzRqFMrlLPeFac.jpg",
     "recs": [
       {
@@ -12271,29 +12810,6 @@
     "tmdb_id": 1495629,
     "year": 2025
   },
-  "tt34161421": {
-    "age": {
-      "classind": "12",
-      "source": "DE"
-    },
-    "genres": [
-      10764,
-      35
-    ],
-    "media_type": "tv",
-    "poster": "/fbBmdW8BWcoaQemB1WXUzWw2m7U.jpg",
-    "recs": [
-      {
-        "date": "2026-10-23",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/23/last-one-laughing-halloween-review-still-a-total-treat-despite-the-new-twist"
-      }
-    ],
-    "title": "LOL: Last One Laughing Germany - Halloween Special",
-    "tmdb_id": 274864,
-    "year": 2024
-  },
   "tt34196445": {
     "age": null,
     "genres": [
@@ -12301,6 +12817,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "The Borderline",
     "poster": "/vIkrUPBgQswLuTXQRcXWnf9AeuN.jpg",
     "recs": [
       {
@@ -12324,6 +12841,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Primetime",
     "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
     "recs": [
       {
@@ -12347,6 +12865,7 @@
       36
     ],
     "media_type": "movie",
+    "original_title": "Peter Hujar's Day",
     "poster": "/awq1O9RRi6JW74fDmGXJJGD5le8.jpg",
     "recs": [
       {
@@ -12371,6 +12890,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "By Any Means",
     "poster": "/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
     "recs": [
       {
@@ -12394,6 +12914,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Is God Is",
     "poster": "/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
     "recs": [
       {
@@ -12424,6 +12945,7 @@
       28
     ],
     "media_type": "movie",
+    "original_title": "ゴジラ-0.0",
     "poster": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
     "recs": [
       {
@@ -12454,6 +12976,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "DTF St. Louis",
     "poster": "/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
     "recs": [
       {
@@ -12500,6 +13023,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Paper Tiger",
     "poster": "/zVYm9mNSyr9EYhUUI72DOGgYRZH.jpg",
     "recs": [
       {
@@ -12526,6 +13050,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "The Travel Companion",
     "poster": "/9kgNTjPBpD6eshgvgRIPD0G9wBC.jpg",
     "recs": [
       {
@@ -12549,6 +13074,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "The Artist",
     "poster": "/iThI47g23tzm8SHc1PSxHqF3Utt.jpg",
     "recs": [
       {
@@ -12581,6 +13107,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Cape Fear",
     "poster": "/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
     "recs": [
       {
@@ -12613,6 +13140,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Coutures",
     "poster": "/pie2ouNdXYKEMXtF2Kvj0H4LzOr.jpg",
     "recs": [
       {
@@ -12632,6 +13160,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Extra Geography",
     "poster": "/yhHRpLhtaFXGYMsE5LuaRvZYs77.jpg",
     "recs": [
       {
@@ -12656,6 +13185,7 @@
       10402
     ],
     "media_type": "movie",
+    "original_title": "The Testament of Ann Lee",
     "poster": "/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
     "recs": [
       {
@@ -12675,6 +13205,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Kvinde ukendt",
     "poster": "/ly8Zf4McOMane0caBwnmuft6TTM.jpg",
     "recs": [
       {
@@ -12703,6 +13234,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Blue Film",
     "poster": "/7yqMtaRMPgntGcDtYySv7XfTsDB.jpg",
     "recs": [
       {
@@ -12731,6 +13263,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Meine Frau weint",
     "poster": "/ocVpHJHR1azUcAAOxpkidMc6uza.jpg",
     "recs": [
       {
@@ -12750,6 +13283,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Ultras",
     "poster": "/gOOFnmalnzGY2JWYaknxbBIgD0T.jpg",
     "recs": [
       {
@@ -12769,6 +13303,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "André Is an Idiot",
     "poster": "/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
     "recs": [
       {
@@ -12791,6 +13326,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Coexistence, My Ass!",
     "poster": "/Gu5Rp19LKqj3VUsPRtygw2OPpL.jpg",
     "recs": [
       {
@@ -12812,6 +13348,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Endless Cookie",
     "poster": "/m4QlGRQ8dSXIEPTYvKB54YvMGyE.jpg",
     "recs": [
       {
@@ -12831,6 +13368,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Mr. Nobody mod Putin",
     "poster": "/ss4NEGmPxgm4D73iMFeyjbE1m9b.jpg",
     "recs": [
       {
@@ -12853,6 +13391,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Come See Me in the Good Light",
     "poster": "/5AFbcDGT78cLZTyHTSDBohczjuO.jpg",
     "recs": [
       {
@@ -12877,6 +13416,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "The Christophers",
     "poster": "/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
     "recs": [
       {
@@ -12900,6 +13440,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "EPiC: Elvis Presley in Concert",
     "poster": "/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
     "recs": [
       {
@@ -12919,6 +13460,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "How to Feed a Dictator",
     "poster": "/8XPOzRYXS4VdXoIeiUevLfvJK63.jpg",
     "recs": [
       {
@@ -12941,6 +13483,7 @@
       27
     ],
     "media_type": "movie",
+    "original_title": "Saccharine",
     "poster": "/bCHPB5WZy4T0Rerh1GTuQLzU0rF.jpg",
     "recs": [
       {
@@ -12961,6 +13504,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "LOL: Last One Laughing UK",
     "poster": "/ehddE5xt4kqpSLk5c374h94zfVd.jpg",
     "recs": [
       {
@@ -12993,6 +13537,7 @@
       878
     ],
     "media_type": "movie",
+    "original_title": "The Wrong Girls",
     "poster": "/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
     "recs": [
       {
@@ -13013,6 +13558,7 @@
       10768
     ],
     "media_type": "tv",
+    "original_title": "Free Nelson Mandela",
     "poster": "/mBtIVqG20y3hzkIZ9CWJfuCJZKl.jpg",
     "recs": [
       {
@@ -13037,6 +13583,7 @@
       27
     ],
     "media_type": "movie",
+    "original_title": "８番出口",
     "poster": "/nQXYTvm6AY4WmtcPskroqC7Skh.jpg",
     "recs": [
       {
@@ -13065,6 +13612,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "国宝",
     "poster": "/a15F5KJ4mleusJR1YKP4zUyZaxG.jpg",
     "recs": [
       {
@@ -13084,6 +13632,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Ghost Elephants",
     "poster": "/h2zN5Oo89DjwY9Q4F8zto5MlnNb.jpg",
     "recs": [
       {
@@ -13108,6 +13657,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "Teenage Sex and Death at Camp Miasma",
     "poster": "/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
     "recs": [
       {
@@ -13139,6 +13689,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Life Could Be a Dream",
     "poster": "/sSdY35pJSfOLjhrSMRG1pFEcN4N.jpg",
     "recs": [
       {
@@ -13161,6 +13712,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "The Stringer: The Man Who Took the Photo",
     "poster": "/cnDf5hkhoAa810dWTSkBDYEkbcY.jpg",
     "recs": [
       {
@@ -13180,6 +13732,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "The Life and Deaths of Wilson Shedd",
     "poster": "/slZpS7rDge51LXf2dNEZHscFTtb.jpg",
     "recs": [
       {
@@ -13192,6 +13745,30 @@
     "title": "The Life and Deaths of Wilson Shedd",
     "tmdb_id": 1476832,
     "year": 2026
+  },
+  "tt35328184": {
+    "age": {
+      "classind": "10",
+      "source": "US"
+    },
+    "genres": [
+      99,
+      10768
+    ],
+    "media_type": "tv",
+    "original_title": "The American Revolution",
+    "poster": "/hXDHzOJxbsWZNy5jd5TMBAKIb0w.jpg",
+    "recs": [
+      {
+        "date": "2025-11-14",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/the-american-revolution-ken-burns-pbs-tv-review-2025"
+      }
+    ],
+    "title": "The American Revolution",
+    "tmdb_id": 258023,
+    "year": 2025
   },
   "tt35340614": {
     "age": {
@@ -13210,6 +13787,7 @@
       "urls": {}
     },
     "media_type": "movie",
+    "original_title": "O Último Azul",
     "poster": "/ua8XnJ450rhBTxkY2wpD2ITw7BJ.jpg",
     "recs": [
       {
@@ -13232,6 +13810,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Fjord",
     "poster": "/rhKlzjAJCEKUjxEk1qwr4bgbXlG.jpg",
     "recs": [
       {
@@ -13261,6 +13840,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Malcolm in the Middle: Life's Still Unfair",
     "poster": "/4uXAZRYtcMfoX2XtY1gcUxLHhjj.jpg",
     "recs": [
       {
@@ -13268,6 +13848,12 @@
         "outlet": "The Guardian",
         "rating": "5★",
         "url": "https://www.theguardian.com/tv-and-radio/2026/apr/10/malcolm-in-the-middle-lifes-still-unfair-review-disney-plus"
+      },
+      {
+        "date": "2026-04-09",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/malcolm-in-the-middle-lifes-still-unfair-revival-hulu-tv-review-2026"
       }
     ],
     "title": "Malcolm in the Middle: Life's Still Unfair",
@@ -13292,6 +13878,7 @@
       10752
     ],
     "media_type": "movie",
+    "original_title": "La bola negra",
     "poster": "/l76qrRUs1e1Th4CNeQIQ10TjHOl.jpg",
     "recs": [
       {
@@ -13327,6 +13914,7 @@
       9648
     ],
     "media_type": "movie",
+    "original_title": "It Ends",
     "poster": "/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
     "recs": [
       {
@@ -13358,6 +13946,7 @@
       36
     ],
     "media_type": "movie",
+    "original_title": "Deux procureurs",
     "poster": "/wV8A0YX9bVJ7CGnUAqDJtyYv6C2.jpg",
     "recs": [
       {
@@ -13382,6 +13971,7 @@
       12
     ],
     "media_type": "movie",
+    "original_title": "Nirvanna the Band the Show the Movie",
     "poster": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
     "recs": [
       {
@@ -13389,6 +13979,12 @@
         "outlet": "The Guardian",
         "rating": "4★",
         "url": "https://www.theguardian.com/film/2026/jul/01/nirvanna-the-band-the-show-the-movie-review"
+      },
+      {
+        "date": "2026-02-13",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/nirvanna-the-band-the-show-the-movie-review-2026"
       }
     ],
     "title": "Nirvanna the Band the Show the Movie",
@@ -13406,6 +14002,7 @@
       12
     ],
     "media_type": "movie",
+    "original_title": "Resident Evil",
     "poster": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
     "recs": [
       {
@@ -13435,6 +14032,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Sterling Point",
     "poster": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
     "recs": [
       {
@@ -13466,6 +14064,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Tender Loving Care",
     "poster": "/PdHC9Es0lxxljSLbEjeIJOnvF8.jpg",
     "recs": [
       {
@@ -13494,6 +14093,7 @@
       10764
     ],
     "media_type": "tv",
+    "original_title": "피지컬: 아시아",
     "poster": "/osa3I6CuabnCEpNgFOvFMLLS7yP.jpg",
     "recs": [
       {
@@ -13520,6 +14120,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Bucking Fastard",
     "poster": "/Ae0A2HtLSa0W2xOXvS47HdMz6ri.jpg",
     "recs": [
       {
@@ -13539,6 +14140,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "WTO/99",
     "poster": "/rENBge2T3rn64HTUU8JQbmNkLKn.jpg",
     "recs": [
       {
@@ -13562,6 +14164,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Hokum",
     "poster": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
     "recs": [
       {
@@ -13588,6 +14191,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Rose of Nevada",
     "poster": "/1x34FPfKP8uYO7LlzopbHpJFGAh.jpg",
     "recs": [
       {
@@ -13613,6 +14217,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Maverick: The Epic Adventures of David Lean",
     "poster": "/6I1xlVvS2ejBCnJ4SNpgtFhrAKb.jpg",
     "recs": [
       {
@@ -13626,25 +14231,6 @@
     "tmdb_id": 1351951,
     "year": 2026
   },
-  "tt35677630": {
-    "age": null,
-    "genres": [
-      53
-    ],
-    "media_type": "movie",
-    "poster": "/oA8kxF7L6jIhBcYmhjjiLV4bfkm.jpg",
-    "recs": [
-      {
-        "date": "2026-09-28",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/sep/28/crushed-review-child-kidnap-thriller-steve-oram"
-      }
-    ],
-    "title": "Crushed",
-    "tmdb_id": 1500380,
-    "year": 2025
-  },
   "tt35695538": {
     "age": {
       "classind": "12",
@@ -13654,6 +14240,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "My Father's Shadow",
     "poster": "/pwxgAsfKviP8pt6LHbU97N0UV9l.jpg",
     "recs": [
       {
@@ -13673,6 +14260,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "Funboys",
     "poster": "/bHRWxl5GiQzmDKATHiEhiVnp6ew.jpg",
     "recs": [
       {
@@ -13693,6 +14281,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Ceniza en la Boca",
     "poster": "/5nUniXTDibidAroqNH67PoulEF4.jpg",
     "recs": [
       {
@@ -13712,6 +14301,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Tip Toe",
     "poster": "/nhOm2TM9iarJmsSMBkX0hHqA58j.jpg",
     "recs": [
       {
@@ -13735,6 +14325,26 @@
     },
     "year": 2026
   },
+  "tt35838027": {
+    "age": null,
+    "genres": [
+      18
+    ],
+    "media_type": "tv",
+    "original_title": "Babies",
+    "poster": "/M1UADUxyIcEkiHWiqBmSCDmqLd.jpg",
+    "recs": [
+      {
+        "date": "2026-03-30",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/mar/30/babies-review-a-very-special-gift-indeed"
+      }
+    ],
+    "title": "Babies",
+    "tmdb_id": 278283,
+    "year": 2026
+  },
   "tt35856037": {
     "age": {
       "classind": "16",
@@ -13746,6 +14356,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Your Mother Your Mother Your Mother",
     "poster": "/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
     "recs": [
       {
@@ -13772,6 +14383,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
     "poster": "/tcypmwT43pt5jWiUyy2BomyPD1Y.jpg",
     "recs": [
       {
@@ -13791,6 +14403,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Agon",
     "poster": "/sA9jDFJBJdYGCFFZeOr9vqF693R.jpg",
     "recs": [
       {
@@ -13820,6 +14433,7 @@
       9648
     ],
     "media_type": "movie",
+    "original_title": "undertone",
     "poster": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
     "recs": [
       {
@@ -13839,6 +14453,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "It Gets Worse",
     "poster": "/vdvHHnAzYGt4OEhTmUdErjZIGBG.jpg",
     "recs": [
       {
@@ -13861,6 +14476,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "Maximum Pleasure Guaranteed",
     "poster": "/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg",
     "recs": [
       {
@@ -13894,6 +14510,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Youth",
     "poster": "/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
     "recs": [
       {
@@ -13926,6 +14543,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Vladimir",
     "poster": "/j02VBIGVIk2OTwTUZ1YzyzcONAy.jpg",
     "recs": [
       {
@@ -13956,6 +14574,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Nemesis",
     "poster": "/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
     "recs": [
       {
@@ -13981,6 +14600,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "La Gradiva",
     "poster": "/hiIIvVlOuTpyLbKdeuGg5OmQoA0.jpg",
     "recs": [
       {
@@ -14006,6 +14626,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Two Weeks in August",
     "poster": "/xjkR648bH8FzQVKG9RvQtNCVVDa.jpg",
     "recs": [
       {
@@ -14029,6 +14650,7 @@
       10402
     ],
     "media_type": "movie",
+    "original_title": "Oasis: Don't Look Back in Anger",
     "poster": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
     "recs": [
       {
@@ -14057,6 +14679,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "The Fall and Rise of Reggie Dinkins",
     "poster": "/lrF8Ve4GoazCalfbrSY52tUIXSN.jpg",
     "recs": [
       {
@@ -14070,6 +14693,30 @@
     "tmdb_id": 291334,
     "year": 2026
   },
+  "tt36243564": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      18,
+      80
+    ],
+    "media_type": "movie",
+    "original_title": "L'Étranger",
+    "poster": "/11lx7Isd86SIPeNuWlAPjYTfr57.jpg",
+    "recs": [
+      {
+        "date": "2026-04-02",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/the-stranger-francois-ozon-movie-review-2026"
+      }
+    ],
+    "title": "The Stranger",
+    "tmdb_id": 1429348,
+    "year": 2025
+  },
   "tt36298555": {
     "age": null,
     "genres": [
@@ -14077,6 +14724,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Bird in Hand",
     "poster": "/zzzFU3dyXAwVVMI5BFwGOYP9DfO.jpg",
     "recs": [
       {
@@ -14100,6 +14748,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Furious",
     "poster": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
     "recs": [
       {
@@ -14113,6 +14762,12 @@
         "outlet": "IndieWire",
         "rating": "A-",
         "url": "https://www.indiewire.com/criticism/shows/furious-review-emmy-rossum-hulu-series-1235206884/"
+      },
+      {
+        "date": "2026-07-22",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/furious-hulu-tv-review-2026"
       }
     ],
     "title": "Furious",
@@ -14138,6 +14793,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Esta Isla",
     "poster": "/rh0BBFTBhcJ4rZEKduEZrE1FQal.jpg",
     "recs": [
       {
@@ -14164,6 +14820,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Mint",
     "poster": "/Ae8jSNjUgdD4re3tNvFTcamQk3k.jpg",
     "recs": [
       {
@@ -14183,6 +14840,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Sweet Milk Lake",
     "poster": "/774w8qJrBa92e9a6v3DMPI3oRi7.jpg",
     "recs": [
       {
@@ -14203,6 +14861,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Behemoth!",
     "poster": "/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
     "recs": [
       {
@@ -14227,6 +14886,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Magalhães",
     "poster": "/pmFeUueU7BWLVnHrYI1FD7VnxtH.jpg",
     "recs": [
       {
@@ -14251,6 +14911,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Corporate Retreat",
     "poster": "/sciPl4coQWdsWtRQBUau7xnNYue.jpg",
     "recs": [
       {
@@ -14274,6 +14935,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "The Only Living Pickpocket in New York",
     "poster": "/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg",
     "recs": [
       {
@@ -14293,6 +14955,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Le città di pianura",
     "poster": "/b0oS5FReEJ3rhGzGKY16Qz0Q7w1.jpg",
     "recs": [
       {
@@ -14316,6 +14979,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "Drunken Noodles",
     "poster": "/5uUZ8BT7XhuQDFO5cvnBb56DaUH.jpg",
     "recs": [
       {
@@ -14337,6 +15001,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Bouchra",
     "poster": "/vphG0OWe7kL0P5xzQJiGNwKZ4EU.jpg",
     "recs": [
       {
@@ -14350,29 +15015,6 @@
     "tmdb_id": 1517206,
     "year": 2026
   },
-  "tt36544524": {
-    "age": {
-      "classind": "16",
-      "source": "DE"
-    },
-    "genres": [
-      35,
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/o0MRVa3XMUUIxiSCZYaJ1jGXdk.jpg",
-    "recs": [
-      {
-        "date": "2026-01-30",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/a-poet-film-review-2026"
-      }
-    ],
-    "title": "A Poet",
-    "tmdb_id": 1465563,
-    "year": 2025
-  },
   "tt36580119": {
     "age": {
       "classind": "14",
@@ -14382,6 +15024,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "The President's Cake",
     "poster": "/uSrozVUxIUaer6FIUHHFtOdbqj8.jpg",
     "recs": [
       {
@@ -14412,6 +15055,7 @@
       "urls": {}
     },
     "media_type": "movie",
+    "original_title": "Forgotten Island",
     "poster": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
     "recs": [
       {
@@ -14431,6 +15075,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Natchez",
     "poster": "/5bQFpdYD5XEXeVRehRyHlgpspCU.jpg",
     "recs": [
       {
@@ -14444,27 +15089,6 @@
     "tmdb_id": 1465655,
     "year": 2026
   },
-  "tt36592916": {
-    "age": null,
-    "genres": [
-      16,
-      14,
-      10749
-    ],
-    "media_type": "movie",
-    "poster": "/mhatkIu25HQ4orQTunuFNQZzrFl.jpg",
-    "recs": [
-      {
-        "date": "2026-04-10",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/chao-animated-movie-review-2026"
-      }
-    ],
-    "title": "ChaO",
-    "tmdb_id": 1419053,
-    "year": 2025
-  },
   "tt36598711": {
     "age": {
       "classind": "14",
@@ -14474,6 +15098,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Put your soul on your hand and walk",
     "poster": "/xC6FfKOMCkC1KlT3GCY3H9Ev6FB.jpg",
     "recs": [
       {
@@ -14498,6 +15123,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Her Private Hell",
     "poster": "/pyIDpB5iZMRB5PdV9an146QEXAl.jpg",
     "recs": [
       {
@@ -14519,6 +15145,7 @@
       14
     ],
     "media_type": "movie",
+    "original_title": "Faust",
     "poster": "/woV0fMgYZiqRw5HaWmmEDwHuIyD.jpg",
     "recs": [
       {
@@ -14540,6 +15167,7 @@
       16
     ],
     "media_type": "movie",
+    "original_title": "無名の人生",
     "poster": "/n2PPIUEuDAVFNu0cNQhvxfrcKTJ.jpg",
     "recs": [
       {
@@ -14559,6 +15187,7 @@
       16
     ],
     "media_type": "movie",
+    "original_title": "Le Corset",
     "poster": "/aXNm7mgW22mxCSwSV7i7GHjy6Ga.jpg",
     "recs": [
       {
@@ -14582,6 +15211,7 @@
       10751
     ],
     "media_type": "movie",
+    "original_title": "Soy Frankelda",
     "poster": "/hDzllxB1TQ7uUxVvjnGHirJJovt.jpg",
     "recs": [
       {
@@ -14611,8 +15241,15 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "כן",
     "poster": "/5YCX8gMtto9j45sF8f4hHeEWlLS.jpg",
     "recs": [
+      {
+        "date": "2026-04-03",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/yes-nadav-lapid-movie-review-2026"
+      },
       {
         "date": "2026-03-25",
         "outlet": "IndieWire",
@@ -14630,6 +15267,7 @@
       27
     ],
     "media_type": "movie",
+    "original_title": "Tribe",
     "poster": "/31fuS1ujWbJKiOfTmQJN6kCf7Pe.jpg",
     "recs": [
       {
@@ -14649,6 +15287,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Steal This Story, Please!",
     "poster": "/d7SqbT4URKiw1zmmZBSy0aTzD50.jpg",
     "recs": [
       {
@@ -14662,26 +15301,6 @@
     "tmdb_id": 1492865,
     "year": 2026
   },
-  "tt36789083": {
-    "age": null,
-    "genres": [
-      10752,
-      18
-    ],
-    "media_type": "movie",
-    "poster": "/pOVdATDlYfPimHCDgI42LGHCKf9.jpg",
-    "recs": [
-      {
-        "date": "2026-09-30",
-        "outlet": "IndieWire",
-        "rating": "A-",
-        "url": "https://www.indiewire.com/criticism/movies/atonement-review-2026-true-war-reed-van-dyk-1235194409/"
-      }
-    ],
-    "title": "Atonement",
-    "tmdb_id": 1484085,
-    "year": 2026
-  },
   "tt36789130": {
     "age": null,
     "genres": [
@@ -14689,6 +15308,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Believe Me",
     "poster": "/g8qiv2FzpjAlQ8bWrucVDlpbKSG.jpg",
     "recs": [
       {
@@ -14708,6 +15328,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Waiting for the Out",
     "poster": "/7e10bTKGK1TwHgxEl06lMCTerAI.jpg",
     "recs": [
       {
@@ -14730,6 +15351,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Gail Daughtry and the Celebrity Sex Pass",
     "poster": "/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
     "recs": [
       {
@@ -14752,6 +15374,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "急に具合が悪くなる",
     "poster": "/fgxhBo4elwt89J5k9wzhHSXGQmY.jpg",
     "recs": [
       {
@@ -14778,6 +15401,7 @@
       27
     ],
     "media_type": "movie",
+    "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "poster": "/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
     "recs": [
       {
@@ -14797,6 +15421,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Big Girls Don't Cry",
     "poster": "/u7AAna0FE3d0yIzlLeBbxIcvtp0.jpg",
     "recs": [
       {
@@ -14819,6 +15444,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Sotto le nuvole",
     "poster": "/xbmmOezxwLIOdjq7adujO6RyjTs.jpg",
     "recs": [
       {
@@ -14832,6 +15458,28 @@
     "tmdb_id": 1457188,
     "year": 2025
   },
+  "tt36932951": {
+    "age": null,
+    "genres": [
+      18,
+      10759,
+      9648
+    ],
+    "media_type": "tv",
+    "original_title": "Happiness",
+    "poster": "/srMI72cod1UetnSYzQk9ROt9Vkx.jpg",
+    "recs": [
+      {
+        "date": "2025-11-03",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/04/happiness-review-kiwi-comedy-rebecca-gibney-harry-mcnaughton"
+      }
+    ],
+    "title": "Happiness",
+    "tmdb_id": 292318,
+    "year": 2025
+  },
   "tt36943034": {
     "age": {
       "classind": "14",
@@ -14842,6 +15490,7 @@
       36
     ],
     "media_type": "movie",
+    "original_title": "صوت هند رجب",
     "poster": "/q7M8kQB46T11vmDMD6E239jsqTz.jpg",
     "recs": [
       {
@@ -14855,31 +15504,13 @@
     "tmdb_id": 1480382,
     "year": 2025
   },
-  "tt36943968": {
-    "age": null,
-    "genres": [
-      18
-    ],
-    "media_type": "movie",
-    "poster": null,
-    "recs": [
-      {
-        "date": "2026-10-06",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary"
-      }
-    ],
-    "title": "The Craft",
-    "tmdb_id": 1735981,
-    "year": 2026
-  },
   "tt36966956": {
     "age": null,
     "genres": [
       99
     ],
     "media_type": "movie",
+    "original_title": "Everybody to Kenmure Street",
     "poster": "/m3ZR0dcDwpO7JdAs6sc12ks3Th9.jpg",
     "recs": [
       {
@@ -14899,6 +15530,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Union County",
     "poster": "/1HW5lVwsuLo6CHW3i9Cm240jLL2.jpg",
     "recs": [
       {
@@ -14921,6 +15553,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Gentle Monster",
     "poster": "/v7sbP2qv8ezCfo9FOI6DVUXDSaw.jpg",
     "recs": [
       {
@@ -14941,6 +15574,7 @@
       10767
     ],
     "media_type": "tv",
+    "original_title": "The Marvellous Miniature Workshop",
     "poster": "/sjgRxXLM4fTNwEABcHavghZ89Fb.jpg",
     "recs": [
       {
@@ -14961,6 +15595,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Brunello - Il visionario garbato",
     "poster": "/1PRhmkQoi1DHa38YcM35sB9a9m4.jpg",
     "recs": [
       {
@@ -14985,6 +15620,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Minotaure",
     "poster": "/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
     "recs": [
       {
@@ -15010,23 +15646,6 @@
     "tmdb_id": 848700,
     "year": 2026
   },
-  "tt37179514": {
-    "age": null,
-    "genres": [],
-    "media_type": "tv",
-    "poster": "/2vQdsyOnFNoLK9V5Yc0NavStFmq.jpg",
-    "recs": [
-      {
-        "date": "2026-04-08",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/apr/08/the-assembly-review-tv-has-rarely-seen-anything-like-this-delightful-gem"
-      }
-    ],
-    "title": "The Assembly",
-    "tmdb_id": 305035,
-    "year": 2025
-  },
   "tt37196425": {
     "age": null,
     "genres": [
@@ -15034,6 +15653,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Pierre",
     "poster": "/lj7oMz6fvrGPRuJ2pv5S4Io60kZ.jpg",
     "recs": [
       {
@@ -15053,6 +15673,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Take Me Home",
     "poster": "/jUniqOsIgXcCdgxUbBTKnkFGG9o.jpg",
     "recs": [
       {
@@ -15072,6 +15693,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "The Basics of Philosophy",
     "poster": "/qETQX3ztFtkM5BvOUyVbtEFbXBv.jpg",
     "recs": [
       {
@@ -15096,6 +15718,7 @@
       14
     ],
     "media_type": "movie",
+    "original_title": "Buddy",
     "poster": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
     "recs": [
       {
@@ -15115,29 +15738,6 @@
     "tmdb_id": 1514026,
     "year": 2026
   },
-  "tt37287335": {
-    "age": {
-      "classind": "18",
-      "source": "BR"
-    },
-    "genres": [
-      27,
-      53
-    ],
-    "media_type": "movie",
-    "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "recs": [
-      {
-        "date": "2026-05-13",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/obsession-review-curry-baker-1235149428/"
-      }
-    ],
-    "title": "Obsession",
-    "tmdb_id": 1339713,
-    "year": 2026
-  },
   "tt37304295": {
     "age": {
       "classind": "L",
@@ -15148,6 +15748,7 @@
       36
     ],
     "media_type": "movie",
+    "original_title": "Ojczyzna",
     "poster": "/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
     "recs": [
       {
@@ -15173,6 +15774,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "The Reluctant Vampire",
     "poster": "/2Mit0EiX5dXmKjrXtZemxHCCdn3.jpg",
     "recs": [
       {
@@ -15196,6 +15798,7 @@
       10751
     ],
     "media_type": "tv",
+    "original_title": "My Brilliant Career",
     "poster": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
     "recs": [
       {
@@ -15221,6 +15824,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Elsinore",
     "poster": "/mTd1B0Nq4vwMRilsf7eGNpdGIrv.jpg",
     "recs": [
       {
@@ -15234,12 +15838,35 @@
     "tmdb_id": 1599230,
     "year": 2026
   },
+  "tt37376067": {
+    "age": null,
+    "genres": [
+      18,
+      80,
+      35
+    ],
+    "media_type": "tv",
+    "original_title": "Reckless",
+    "poster": "/vkOe2Z8O82BNifJgInhxd5qyHO.jpg",
+    "recs": [
+      {
+        "date": "2026-09-06",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/06/reckless-review-this-breathless-thriller-about-siblings-in-a-hit-and-run-is-a-masterpiece"
+      }
+    ],
+    "title": "Reckless",
+    "tmdb_id": 305544,
+    "year": 2025
+  },
   "tt37438800": {
     "age": null,
     "genres": [
       99
     ],
     "media_type": "movie",
+    "original_title": "Raději zešílet v divočině",
     "poster": "/hvwRKFN8Gpje9KYmphTG5aUrAmS.jpg",
     "recs": [
       {
@@ -15259,6 +15886,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Goolagong",
     "poster": "/o7OoJty6ac5BcJHzhpQed9GJ3ej.jpg",
     "recs": [
       {
@@ -15278,6 +15906,7 @@
       10764
     ],
     "media_type": "tv",
+    "original_title": "The Hunt: Prey vs Predator",
     "poster": "/g0NHpZBiFCqUN7b3UebeV1PxXR.jpg",
     "recs": [
       {
@@ -15298,6 +15927,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "The Man I Love",
     "poster": "/brOCX24U2v94R6PpnKmzA0opd2e.jpg",
     "recs": [
       {
@@ -15317,6 +15947,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "旅と日々",
     "poster": "/peOymUmbUL3e3x3DJLDNpHbNFNW.jpg",
     "recs": [
       {
@@ -15340,6 +15971,7 @@
       10752
     ],
     "media_type": "movie",
+    "original_title": "Mit Hasan in Gaza",
     "poster": "/yQXvnbzchPPJYSKJqYp8Ecjio68.jpg",
     "recs": [
       {
@@ -15359,6 +15991,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Boorman and the Devil",
     "poster": "/4HJzmhP8iMzkIQ7cjr2zfIcReiK.jpg",
     "recs": [
       {
@@ -15387,6 +16020,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Alphabet Lane",
     "poster": "/1HZUVrAnVx0m9Etv3hI8Jy9MoQI.jpg",
     "recs": [
       {
@@ -15406,6 +16040,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Harà Watan",
     "poster": "/sykR3tfyn33YiwKbmxDoJi9vnlW.jpg",
     "recs": [
       {
@@ -15428,6 +16063,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Приказната за Силјан",
     "poster": "/pr4kRAXsQE97CpHv3s5L0cW9w38.jpg",
     "recs": [
       {
@@ -15450,6 +16086,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Remake",
     "poster": "/zcN0Sv43IKkp5jrr0kNgqSkkpOk.jpg",
     "recs": [
       {
@@ -15482,6 +16119,7 @@
       36
     ],
     "media_type": "movie",
+    "original_title": "The Lost Children of Tuam",
     "poster": "/pRto654suhD1etcNaVI0UzXYtVY.jpg",
     "recs": [
       {
@@ -15502,6 +16140,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "9 วัด สู่สวรรค์",
     "poster": "/6Qb11di83PyJpuJpNlxvJvi1kBd.jpg",
     "recs": [
       {
@@ -15521,6 +16160,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "Ann Droid",
     "poster": "/rgg7vCZ9HIdT4vYGxOvg84L7ngF.jpg",
     "recs": [
       {
@@ -15534,25 +16174,6 @@
     "tmdb_id": 292108,
     "year": 2026
   },
-  "tt37801860": {
-    "age": null,
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/txm24fir8YmUFBlWTd7jdK9FSfp.jpg",
-    "recs": [
-      {
-        "date": "2026-09-07",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/sep/07/imperium-review-sergei-loznitsas-archive-collage-pieces-together-normal-life-in-cold-war-soviet-union"
-      }
-    ],
-    "title": "Imperium",
-    "tmdb_id": 1603920,
-    "year": 2026
-  },
   "tt37803364": {
     "age": {
       "classind": "16",
@@ -15562,6 +16183,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "가능한 사랑",
     "poster": "/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
     "recs": [
       {
@@ -15594,6 +16216,7 @@
       878
     ],
     "media_type": "movie",
+    "original_title": "Moonfish",
     "poster": "/2hrl0qhXJctMZ7Ff9vx2RDdCs2r.jpg",
     "recs": [
       {
@@ -15607,6 +16230,26 @@
     "tmdb_id": 1594889,
     "year": 2026
   },
+  "tt37816123": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "original_title": "True North: Canadian Myths and Black Power",
+    "poster": "/vJGnFvdlPg1QCaPgTrCObfbAmn7.jpg",
+    "recs": [
+      {
+        "date": "2026-05-19",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/may/19/true-north-review-students-take-stand-against-racism-in-highly-charged-account-of-protest-in-60s-canada"
+      }
+    ],
+    "title": "True North: Canadian Myths and Black Power",
+    "tmdb_id": 1526217,
+    "year": 2025
+  },
   "tt37818327": {
     "age": {
       "classind": "16",
@@ -15618,6 +16261,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "The Sun Never Sets",
     "poster": "/hpzzGHyVN4nE0GzqoAu12ko6ER3.jpg",
     "recs": [
       {
@@ -15643,6 +16287,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "De la Comédie-Française",
     "poster": "/1RYOtCOlAV2Xeztv7nUnbFSYGpr.jpg",
     "recs": [
       {
@@ -15662,6 +16307,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Our Land",
     "poster": "/cZRLNNdUahZgs2NccHxfr3ZasrH.jpg",
     "recs": [
       {
@@ -15685,6 +16331,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "One Night Only",
     "poster": "/f1v8IcYcQggeq1N0unoMJMrzTd9.jpg",
     "recs": [
       {
@@ -15704,6 +16351,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Mineshaft: The Cruising Murders",
     "poster": "/zDW3fKL5orJZSnjXYk1Lxv3toKq.jpg",
     "recs": [
       {
@@ -15723,6 +16371,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "The Bend in the River",
     "poster": "/wjdsle7hI2dw0Z7yAump1I19E3i.jpg",
     "recs": [
       {
@@ -15745,6 +16394,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "WAR",
     "poster": "/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
     "recs": [
       {
@@ -15774,6 +16424,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Ask E. Jean",
     "poster": "/yFZ40JJcjJM7u5tfZFFb9lrF6Yt.jpg",
     "recs": [
       {
@@ -15797,6 +16448,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Club Kid",
     "poster": "/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg",
     "recs": [
       {
@@ -15832,6 +16484,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Babies",
     "poster": "/qthjxiZ2cNvyQvVbbJz6rfUCEgk.jpg",
     "recs": [
       {
@@ -15851,6 +16504,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Super Nature",
     "poster": "/4cKhmq8TuSkyhwMJAriszAjvfFp.jpg",
     "recs": [
       {
@@ -15871,6 +16525,7 @@
       27
     ],
     "media_type": "movie",
+    "original_title": "Stuffed",
     "poster": "/wpFv27ylWY6R1LvIQ7UcwvcBXVz.jpg",
     "recs": [
       {
@@ -15894,6 +16549,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Stop! That! Train!",
     "poster": "/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg",
     "recs": [
       {
@@ -15913,6 +16569,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "A Long Winter",
     "poster": "/wj4CICdz6ikL37KzFG3D5MNk4LC.jpg",
     "recs": [
       {
@@ -15933,6 +16590,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "Dog Park",
     "poster": "/pzrbb3gTWj8Qtuxz4tmpkJOrn6B.jpg",
     "recs": [
       {
@@ -15953,6 +16611,7 @@
       27
     ],
     "media_type": "movie",
+    "original_title": "CAMP",
     "poster": "/pQrlFAiakpphxCrR5lmHT3GR7Td.jpg",
     "recs": [
       {
@@ -15976,6 +16635,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Dix Pour Cent ! Le Film",
     "poster": "/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
     "recs": [
       {
@@ -15997,6 +16657,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "The Killings at Parrish Station",
     "poster": "/bhoBX6IddH5ESUKVeZpxKgJBvGH.jpg",
     "recs": [
       {
@@ -16018,6 +16679,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "Small Prophets",
     "poster": "/hbWv5sI8vHGSlw4nGhTc7DK5Kjg.jpg",
     "recs": [
       {
@@ -16046,6 +16708,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Homebodies",
     "poster": "/tUunUHphLBDVuSmOlc8oaD76wIO.jpg",
     "recs": [
       {
@@ -16059,27 +16722,6 @@
     "tmdb_id": 316754,
     "year": 2026
   },
-  "tt38560198": {
-    "age": null,
-    "genres": [
-      99,
-      80,
-      10768
-    ],
-    "media_type": "tv",
-    "poster": "/mbPgvDhSWQiuJuq55M4Jf8g7cYh.jpg",
-    "recs": [
-      {
-        "date": "2026-08-26",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/aug/27/rainbow-warrior-review-spies-bomb-activists-gasp-inducing-tv"
-      }
-    ],
-    "title": "Qui a coulé le Rainbow Warrior ?",
-    "tmdb_id": 301054,
-    "year": 2025
-  },
   "tt38626943": {
     "age": null,
     "genres": [
@@ -16087,6 +16729,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Carousel",
     "poster": "/cu17JPVluk62b60sTLIVo3hwTQN.jpg",
     "recs": [
       {
@@ -16100,24 +16743,26 @@
     "tmdb_id": 1558701,
     "year": 2026
   },
-  "tt38638836": {
+  "tt38629979": {
     "age": null,
     "genres": [
-      99
+      35,
+      53
     ],
     "media_type": "movie",
-    "poster": "/789s6i2QptzOotTJTEm3gkBPecs.jpg",
+    "original_title": "Everybody Wants to F*ck Me",
+    "poster": "/6odKHNxNoEeJrQHDfdLMPnsR4KX.jpg",
     "recs": [
       {
-        "date": "2026-06-22",
+        "date": "2026-09-12",
         "outlet": "The Guardian",
         "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jun/22/benita-review-alan-berliner-puts-new-spin-on-late-film-makers-work-in-entrancing-tribute"
+        "url": "https://www.theguardian.com/film/2026/sep/12/everybody-wants-to-fck-me-review-taron-egerton"
       }
     ],
-    "title": "Benita",
-    "tmdb_id": 1567524,
-    "year": 2025
+    "title": "Everybody Wants to F*ck Me",
+    "tmdb_id": 1559269,
+    "year": 2027
   },
   "tt38639981": {
     "age": {
@@ -16129,6 +16774,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Titanic Sinks Tonight",
     "poster": "/icJbEDVQeJMnQyHr903lg2CFo6q.jpg",
     "recs": [
       {
@@ -16161,6 +16807,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "The End of an Era",
     "poster": "/8qEyRXQMC3L77fjY924qcoxaaVs.jpg",
     "recs": [
       {
@@ -16188,6 +16835,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "La noche está marchándose ya",
     "poster": "/39jzHk0VK2kdt9lRAb8CqNuGcGc.jpg",
     "recs": [
       {
@@ -16210,6 +16858,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Everest: The Other Side",
     "poster": "/2m9ts8LfjG8d4xcUtx66aApngJL.jpg",
     "recs": [
       {
@@ -16232,6 +16881,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "Once Upon a Time in Space",
     "poster": "/3BPvridb5a4wqEmhrhSEVUZRsx2.jpg",
     "recs": [
       {
@@ -16245,32 +16895,13 @@
     "tmdb_id": 246148,
     "year": 2025
   },
-  "tt38772545": {
-    "age": null,
-    "genres": [
-      35,
-      10751
-    ],
-    "media_type": "movie",
-    "poster": "/eMYN7xwMW3y5E4s92Qm6Li0oAlG.jpg",
-    "recs": [
-      {
-        "date": "2026-06-03",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/film/2026/jun/03/the-misfits-review-marilyn-monroe-john-huston-western-arthur-miller"
-      }
-    ],
-    "title": "The Misfits",
-    "tmdb_id": 1536667,
-    "year": 2025
-  },
   "tt38784236": {
     "age": null,
     "genres": [
       99
     ],
     "media_type": "tv",
+    "original_title": "Caroline Flack: Search for the Truth",
     "poster": "/libvyWPKCL1OI0A5LsGIqSXNs3f.jpg",
     "recs": [
       {
@@ -16299,6 +16930,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Le Journal d'une femme de chambre",
     "poster": "/vktQLUEEjg1KZhXfDINqxZNB29x.jpg",
     "recs": [
       {
@@ -16318,6 +16950,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "繁花",
     "poster": "/pcL4VKmit4MI9QEzquRm5h4RrNw.jpg",
     "recs": [
       {
@@ -16348,6 +16981,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Gomorra - Le Origini",
     "poster": "/2OdBZkpWXrjNH2itsvKgTMPD1wP.jpg",
     "recs": [
       {
@@ -16374,6 +17008,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Dalliance",
     "poster": "/oUwy6xIffGNp94bkiqowBDM9W1S.jpg",
     "recs": [
       {
@@ -16404,6 +17039,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "Girlbands Forever",
     "poster": "/o4wo1DQgnByxTOUA1N5bHnsHmfV.jpg",
     "recs": [
       {
@@ -16417,32 +17053,13 @@
     "tmdb_id": 303683,
     "year": 2025
   },
-  "tt38941319": {
-    "age": null,
-    "genres": [
-      18,
-      35
-    ],
-    "media_type": "movie",
-    "poster": "/owOEyYH2OvG4aCXqYPa873pxI31.jpg",
-    "recs": [
-      {
-        "date": "2025-12-19",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/the-elephant-adult-swim-animated-anthology-tv-review-2025"
-      }
-    ],
-    "title": "The Elephant",
-    "tmdb_id": 1581631,
-    "year": 2025
-  },
   "tt38983842": {
     "age": null,
     "genres": [
       99
     ],
     "media_type": "movie",
+    "original_title": "One in a Million",
     "poster": "/qWo7cco1odg9IKob0x1aVtuOCLW.jpg",
     "recs": [
       {
@@ -16464,6 +17081,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Dustfall",
     "poster": "/a7LdXshL4vuCA3LWB2gNNckBIpO.jpg",
     "recs": [
       {
@@ -16486,6 +17104,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Treasure & Dirt",
     "poster": "/v8hb74CKH7R2fUNXqpRiME2UZBQ.jpg",
     "recs": [
       {
@@ -16505,6 +17124,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "I See Buildings Fall Like Lightning",
     "poster": "/lsHuNs9qT8aVhVIxXNdLuVhr5CM.jpg",
     "recs": [
       {
@@ -16534,6 +17154,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
     "poster": "/zfFvltKHntGBupFuubx3r61v48e.jpg",
     "recs": [
       {
@@ -16547,12 +17168,34 @@
     "tmdb_id": 1515899,
     "year": 2026
   },
+  "tt39019156": {
+    "age": null,
+    "genres": [
+      80,
+      18
+    ],
+    "media_type": "tv",
+    "original_title": "Gone",
+    "poster": "/qnxKB5HlkAZZcyIiITIV7dAUX7u.jpg",
+    "recs": [
+      {
+        "date": "2026-03-08",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/mar/08/gone-review-david-morrissey"
+      }
+    ],
+    "title": "Gone",
+    "tmdb_id": 306603,
+    "year": 2026
+  },
   "tt39028241": {
     "age": null,
     "genres": [
       99
     ],
     "media_type": "tv",
+    "original_title": "Chris McCausland: Seeing Into The Future",
     "poster": "/7wuprAuvoE5x749AlsMjLBo0Ie9.jpg",
     "recs": [
       {
@@ -16575,6 +17218,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "Take That",
     "poster": "/6XIjXmnuOWdU0G86ClBtS0uNf8X.jpg",
     "recs": [
       {
@@ -16603,6 +17247,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Bez końca",
     "poster": "/6K19w1M8ga9ur7yHs6PkdSqoPUz.jpg",
     "recs": [
       {
@@ -16616,6 +17261,52 @@
     "tmdb_id": 1596319,
     "year": 2026
   },
+  "tt39094466": {
+    "age": null,
+    "genres": [
+      18
+    ],
+    "media_type": "movie",
+    "original_title": "ルックバック",
+    "poster": "/sxiJhMNTBRvQgMnB9H4VIVdQfW9.jpg",
+    "recs": [
+      {
+        "date": "2026-10-16",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/oct/16/look-back-review-hirokazu-kore-eda"
+      },
+      {
+        "date": "2026-09-07",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/look-back-live-action-movie-review-1235215203/"
+      }
+    ],
+    "title": "Look Back",
+    "tmdb_id": 1591675,
+    "year": 2026
+  },
+  "tt39123226": {
+    "age": null,
+    "genres": [
+      18
+    ],
+    "media_type": "tv",
+    "original_title": "The Party",
+    "poster": "/kzriDfCB8p34TMVq55MgVJk4iFA.jpg",
+    "recs": [
+      {
+        "date": "2026-10-11",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/11/the-party-review-itvx-thriller-elizabeth-day-book-adaptation-sarah-soleman"
+      }
+    ],
+    "title": "The Party",
+    "tmdb_id": 336024,
+    "year": 2026
+  },
   "tt39133077": {
     "age": {
       "classind": "16",
@@ -16626,6 +17317,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Girl Taken",
     "poster": "/upUOfPAMhjWDPu8R31r9YvYDfum.jpg",
     "recs": [
       {
@@ -16660,6 +17352,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "Leviticus",
     "poster": "/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
     "recs": [
       {
@@ -16681,6 +17374,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "Ha-Chan, Shake Your Booty!",
     "poster": "/w98RWv9o05OhXYfTvauDrotRZ13.jpg",
     "recs": [
       {
@@ -16700,6 +17394,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "American Doctor",
     "poster": "/sOSrlaXvItVdwU1P5Qpttcl12sd.jpg",
     "recs": [
       {
@@ -16719,6 +17414,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Barbara Forever",
     "poster": "/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
     "recs": [
       {
@@ -16744,6 +17440,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Ghost in the Machine",
     "poster": "/ahuoVKlDHO61k7HbcbvUGsOPMiq.jpg",
     "recs": [
       {
@@ -16766,6 +17463,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "The AI Doc: Or How I Became an Apocaloptimist",
     "poster": "/A610QT1gWjhJ1dJrXP9qMm4JMLr.jpg",
     "recs": [
       {
@@ -16786,6 +17484,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "The History of Concrete",
     "poster": "/2GWR1g1VdUNnNpLh6XfAQ6LVfyd.jpg",
     "recs": [
       {
@@ -16808,6 +17507,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "The Last First: Winter K2",
     "poster": "/97QpXbNNXj2eQ1MdmhFdGlU0jnW.jpg",
     "recs": [
       {
@@ -16821,6 +17521,26 @@
     "tmdb_id": 1596303,
     "year": 2026
   },
+  "tt39151138": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "tv",
+    "original_title": "See No Evil",
+    "poster": "/qYWg2zS6i1vBekFFGbGUrASJa1T.jpg",
+    "recs": [
+      {
+        "date": "2025-12-10",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2025/dec/10/see-no-evil-review-documentary-channel-4-anglican-church-child-abuse"
+      }
+    ],
+    "title": "See No Evil",
+    "tmdb_id": 308746,
+    "year": 2025
+  },
   "tt39151344": {
     "age": {
       "classind": "16",
@@ -16830,6 +17550,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "If I Go Will They Miss Me",
     "poster": "/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
     "recs": [
       {
@@ -16849,6 +17570,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Paralyzed by Hope: The Maria Bamford Story",
     "poster": "/waH2eiMaEW987JUTWyrj4x4d63k.jpg",
     "recs": [
       {
@@ -16871,6 +17593,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Time and Water",
     "poster": "/1hksIYHtsHCG70nZKbnrYBPk600.jpg",
     "recs": [
       {
@@ -16899,6 +17622,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Once Upon a Time in Harlem",
     "poster": "/9eukk5gby8NZCwraiC7mloZmasP.jpg",
     "recs": [
       {
@@ -16929,6 +17653,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Chronovisor",
     "poster": "/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
     "recs": [
       {
@@ -16948,6 +17673,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "For the Record: An Incomplete History of Music",
     "poster": "/5CyaWpFomjOtd8zJvkMn1fTh1G8.jpg",
     "recs": [
       {
@@ -16967,6 +17693,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Act One",
     "poster": "/85DPtvMYSVlnFvaijTZmS6CF3hR.jpg",
     "recs": [
       {
@@ -16986,6 +17713,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "My Undesirable Friends: Part II - Exile",
     "poster": "/zt2bViOzNGvq4C8al6ub7x87433.jpg",
     "recs": [
       {
@@ -17011,6 +17739,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "그녀가 돌아온 날",
     "poster": "/18Ba4BbB9AgDVBTAPw0DNXSJXTr.jpg",
     "recs": [
       {
@@ -17031,6 +17760,7 @@
       10402
     ],
     "media_type": "movie",
+    "original_title": "Summer 2000: The X-Cetra Story",
     "poster": "/fcQByIYBASIzIgnSm0m9KICOL1K.jpg",
     "recs": [
       {
@@ -17051,6 +17781,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "A Statement",
     "poster": "/6eGKmCHwnwWqaKkoRsrBfCtkHKf.jpg",
     "recs": [
       {
@@ -17071,6 +17802,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Dirty Business",
     "poster": "/fZmwNjzVgSKXX9nfjI1sZBgxXLy.jpg",
     "recs": [
       {
@@ -17088,6 +17820,7 @@
     "age": null,
     "genres": [],
     "media_type": "movie",
+    "original_title": "Tycoon",
     "poster": "/4d3NVEyqTEyxjZ99PIrHFc50lB7.jpg",
     "recs": [
       {
@@ -17101,23 +17834,22 @@
     "tmdb_id": 1599497,
     "year": 2026
   },
-  "tt39378214": {
+  "tt39387371": {
     "age": null,
-    "genres": [
-      18
-    ],
+    "genres": [],
     "media_type": "movie",
-    "poster": "/Agpqn5YurARQJiwZlnLLO29bwQn.jpg",
+    "original_title": "Seeds",
+    "poster": "/enm6mkdU7aGqR62lYKQ7d2yChd9.jpg",
     "recs": [
       {
-        "date": "2026-07-06",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/film/2026/jul/06/the-guest-review-trine-dyrholm-mads-mengel-danish"
+        "date": "2026-01-16",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/seeds-documentary-film-review-2026"
       }
     ],
-    "title": "The Guest",
-    "tmdb_id": 1706729,
+    "title": "Seeds",
+    "tmdb_id": 1614475,
     "year": 2026
   },
   "tt39466118": {
@@ -17127,6 +17859,7 @@
       14
     ],
     "media_type": "movie",
+    "original_title": "Faith",
     "poster": "/2EYG3jgPgDMlL6Gunmwq90UXHUl.jpg",
     "recs": [
       {
@@ -17146,6 +17879,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "The Airport Chaplain",
     "poster": "/kTm44Yv74d1tGiheql3aRP5GDXF.jpg",
     "recs": [
       {
@@ -17173,6 +17907,7 @@
       9648
     ],
     "media_type": "movie",
+    "original_title": "黒牢城",
     "poster": "/1GWVlPM1v6k84LsmDkfDzLlGf0O.jpg",
     "recs": [
       {
@@ -17192,6 +17927,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Manhood",
     "poster": "/promUBwB50H3mIc9jyvLHNTh1HS.jpg",
     "recs": [
       {
@@ -17211,6 +17947,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Mary Oliver: Saved by the Beauty of the World",
     "poster": "/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
     "recs": [
       {
@@ -17224,6 +17961,26 @@
     "tmdb_id": 1631822,
     "year": 2026
   },
+  "tt39744440": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "tv",
+    "original_title": "Hostage",
+    "poster": "/k111nyZ8GNtNrgZdTyKf4EPRQpj.jpg",
+    "recs": [
+      {
+        "date": "2026-03-04",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/mar/04/hostage-review-this-portrait-of-a-war-reporter-is-jaw-dropping-stuff"
+      }
+    ],
+    "title": "Hostage",
+    "tmdb_id": 314339,
+    "year": 2026
+  },
   "tt39842139": {
     "age": {
       "classind": "16",
@@ -17233,6 +17990,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "Twisted Yoga",
     "poster": "/ka3A5KXE5V372POop6yVeCVzJzl.jpg",
     "recs": [
       {
@@ -17263,6 +18021,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Call of My Life",
     "poster": "/A2MU4enYIxeQc9Z1qh3hiqllV0y.jpg",
     "recs": [
       {
@@ -17283,6 +18042,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Michael Jackson: The Trial",
     "poster": "/ci0MKsN4R1QXkfnVm63Wh3dD8P5.jpg",
     "recs": [
       {
@@ -17310,6 +18070,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Derek vs Derek",
     "poster": "/xAMl5jYNuY482LZxgejyUVXjBM0.jpg",
     "recs": [
       {
@@ -17323,6 +18084,37 @@
     "tmdb_id": 1638280,
     "year": 2027
   },
+  "tt40197357": {
+    "age": {
+      "classind": "14",
+      "source": "BR"
+    },
+    "genres": [
+      35
+    ],
+    "media_type": "tv",
+    "original_title": "Scrubs",
+    "poster": "/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+    "recs": [
+      {
+        "date": "2026-02-26",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/feb/26/scrubs-review-daft-gags-volcanic-fury-medical-sitcom"
+      }
+    ],
+    "title": "Scrubs",
+    "tmdb_id": 295778,
+    "watch": {
+      "providers": [
+        "Disney Plus"
+      ],
+      "urls": {
+        "Disney Plus": "https://www.disneyplus.com/browse/entity-6ac12491-8b68-4764-9cbf-91f6f1fec18a"
+      }
+    },
+    "year": 2026
+  },
   "tt40311603": {
     "age": null,
     "genres": [
@@ -17330,6 +18122,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Ghosts: The Possession of Button House",
     "poster": "/vdRbC8masrQDyhFHLOGECEMllPV.jpg",
     "recs": [
       {
@@ -17351,6 +18144,7 @@
       10752
     ],
     "media_type": "movie",
+    "original_title": "Killing Anna",
     "poster": "/8gNaNUfHwDTDA0qzQDic85XPtki.jpg",
     "recs": [
       {
@@ -17370,6 +18164,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "Brexit: A Very British Civil War",
     "poster": "/cZFzTQHxv58HU7LHjs09b5Q6BkL.jpg",
     "recs": [
       {
@@ -17393,6 +18188,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Power to the People: John & Yoko Live in NYC",
     "poster": "/lpq2ezXOSgsB4RncYohs4p1s6gx.jpg",
     "recs": [
       {
@@ -17412,6 +18208,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Union Town",
     "poster": "/wxaSeSZ2BCHxfeJTCZ88zjbs4EX.jpg",
     "recs": [
       {
@@ -17436,6 +18233,7 @@
       10764
     ],
     "media_type": "tv",
+    "original_title": "This Is a Gardening Show",
     "poster": "/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
     "recs": [
       {
@@ -17462,6 +18260,7 @@
       10768
     ],
     "media_type": "tv",
+    "original_title": "Clash of the Super Powers: America v China",
     "poster": "/kHNArcKTA2rWh7a3kHDcV65dT87.jpg",
     "recs": [
       {
@@ -17481,6 +18280,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Proud",
     "poster": "/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
     "recs": [
       {
@@ -17514,6 +18314,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Should I Marry a Murderer?",
     "poster": "/wu8iopmnuCDZ45FMD3Gh7IgQaCI.jpg",
     "recs": [
       {
@@ -17539,6 +18340,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "Inside Britain's National Parks",
     "poster": "/cybymR4iKTzN3pNBxLfMX8Jaicx.jpg",
     "recs": [
       {
@@ -17552,12 +18354,33 @@
     "tmdb_id": 317030,
     "year": 2026
   },
+  "tt41266262": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "tv",
+    "original_title": "Secret Garden",
+    "poster": "/jbb8Yb6xRv3VGlatR0gBUnUjpFt.jpg",
+    "recs": [
+      {
+        "date": "2026-04-05",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/apr/05/secret-garden-review-david-attenborough-bbc"
+      }
+    ],
+    "title": "Secret Garden",
+    "tmdb_id": 274403,
+    "year": 2026
+  },
   "tt41362410": {
     "age": null,
     "genres": [
       99
     ],
     "media_type": "tv",
+    "original_title": "Grayson Perry Has Seen the Future",
     "poster": "/qoZEYvlKN9e1IxMp3VOwWtgCTAr.jpg",
     "recs": [
       {
@@ -17578,6 +18401,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Break Clause",
     "poster": "/9vJyc56PWSciXKWGZuhISmG1QxR.jpg",
     "recs": [
       {
@@ -17600,6 +18424,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Everytime",
     "poster": "/lbZ7ltgw8xiKfCEXme8GO5HcV9z.jpg",
     "recs": [
       {
@@ -17619,6 +18444,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Siempre soy tu animal materno",
     "poster": "/2z1ce203n8qJzR6PFoi5wNs2Shj.jpg",
     "recs": [
       {
@@ -17640,6 +18466,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Notre salut",
     "poster": "/tFzSSetNzvdaxms6RLfr2pyu9sM.jpg",
     "recs": [
       {
@@ -17662,6 +18489,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Avedon",
     "poster": "/8RYuzFSh4ankYCQWPljx89dlFea.jpg",
     "recs": [
       {
@@ -17682,6 +18510,7 @@
       10764
     ],
     "media_type": "tv",
+    "original_title": "Zero Stars",
     "poster": "/cwgOwF5LOcxPKoKXB3kecxWIbBi.jpg",
     "recs": [
       {
@@ -17706,6 +18535,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "给阿嬷的情书",
     "poster": "/rjmhzdVS3Ia535pFawju857e2Na.jpg",
     "recs": [
       {
@@ -17719,23 +18549,6 @@
     "tmdb_id": 1671548,
     "year": 2026
   },
-  "tt41858262": {
-    "age": null,
-    "genres": [],
-    "media_type": "tv",
-    "poster": "/e7m1aZOo3gyqxkp8NhnP47nDN0G.jpg",
-    "recs": [
-      {
-        "date": "2026-09-15",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/15/70-up-review-itv1-itvx"
-      }
-    ],
-    "title": "70 Up",
-    "tmdb_id": 335326,
-    "year": null
-  },
   "tt41877538": {
     "age": {
       "classind": "14",
@@ -17746,6 +18559,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "Boom Box: Beats and Betrayal",
     "poster": "/wqCGwohb7i6mxRporVN7hAJjClK.jpg",
     "recs": [
       {
@@ -17759,29 +18573,6 @@
     "tmdb_id": 317607,
     "year": 2026
   },
-  "tt4189570": {
-    "age": {
-      "classind": "14",
-      "source": "US"
-    },
-    "genres": [
-      80,
-      99
-    ],
-    "media_type": "tv",
-    "poster": "/dwYzpyRwf2rytD3PSLProDMLJ1c.jpg",
-    "recs": [
-      {
-        "date": "2025-12-10",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/dec/10/see-no-evil-review-documentary-channel-4-anglican-church-child-abuse"
-      }
-    ],
-    "title": "See No Evil",
-    "tmdb_id": 65824,
-    "year": 2015
-  },
   "tt41993588": {
     "age": {
       "classind": "12",
@@ -17791,6 +18582,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "Kylie",
     "poster": "/89qQzMmXD5r0UOOxH6ob8U6T8ei.jpg",
     "recs": [
       {
@@ -17819,6 +18611,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Chris & Martina: The Final Set",
     "poster": "/1v259q0lEWNyB2y78WUcvb55VnW.jpg",
     "recs": [
       {
@@ -17838,6 +18631,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Act 3",
     "poster": null,
     "recs": [
       {
@@ -17857,6 +18651,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Chasing Utopia",
     "poster": "/p2kj93SxqtYNapUbQfZDUbMmXmg.jpg",
     "recs": [
       {
@@ -17876,6 +18671,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "La Frappe",
     "poster": "/aAdoRQO0szrDQC6H3nL4nyJHZ7a.jpg",
     "recs": [
       {
@@ -17897,6 +18693,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Abandonados",
     "poster": "/u5it96IIWGZjOFDUGbheeFmLAR9.jpg",
     "recs": [
       {
@@ -17916,6 +18713,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Ladies and Gentlemen, Brian Mulroney",
     "poster": "/7LDyHpTF9gVRcUaARKpQy03zorh.jpg",
     "recs": [
       {
@@ -17936,6 +18734,7 @@
       80
     ],
     "media_type": "tv",
+    "original_title": "Vengeance: Murder on the Heath",
     "poster": "/153hdFfoEYZrri6Ph1CKfxojUsS.jpg",
     "recs": [
       {
@@ -17958,6 +18757,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "The American Experiment",
     "poster": "/xpp6e3uobvlmWrhhXrmhmoXFdb5.jpg",
     "recs": [
       {
@@ -17984,6 +18784,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Sour Minnows",
     "poster": "/c2v8H6Q4nEjfqcbE98NDTLtNOlk.jpg",
     "recs": [
       {
@@ -18004,6 +18805,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "लवर्स इन द ब्लू नाइट",
     "poster": "/vtcWFH0Oi9CgcY0Zg9ejLGS946n.jpg",
     "recs": [
       {
@@ -18023,6 +18825,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "15/18",
     "poster": "/nmIQQG8IDy0WYQy79Z0N7PhRNHg.jpg",
     "recs": [
       {
@@ -18043,6 +18846,7 @@
       10402
     ],
     "media_type": "movie",
+    "original_title": "James: Getting Away with It",
     "poster": "/9upgSVw1dxQv5GQZADsgVfjiQKp.jpg",
     "recs": [
       {
@@ -18062,6 +18866,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "50 Years of Punk",
     "poster": "/pRoT0S7bJgaY3BbJdTXgoWnZO4t.jpg",
     "recs": [
       {
@@ -18081,6 +18886,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "Make That Movie",
     "poster": "/7guFs3oa3vgVl9BvgqtvdqIgZiz.jpg",
     "recs": [
       {
@@ -18101,6 +18907,7 @@
       10751
     ],
     "media_type": "movie",
+    "original_title": "Kiri and Lou Go Raaa!",
     "poster": "/fhYkJ7wzvcpmwItfVFfi8W3cnYc.jpg",
     "recs": [
       {
@@ -18120,6 +18927,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Robert Richardson: The White Devil",
     "poster": "/lZrCSXgyQ0hojglvleQxJFOT801.jpg",
     "recs": [
       {
@@ -18139,6 +18947,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "The Alien Autopsy Scandal",
     "poster": "/lR7SOQqck0IjND0P65J9VCbQss8.jpg",
     "recs": [
       {
@@ -18158,6 +18967,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "Rolf Harris: Primetime Predator",
     "poster": "/ezsIKj94YztMbfa1QCWiBS6beol.jpg",
     "recs": [
       {
@@ -18171,27 +18981,6 @@
     "tmdb_id": 324089,
     "year": 2026
   },
-  "tt43442930": {
-    "age": null,
-    "genres": [
-      35,
-      27,
-      53
-    ],
-    "media_type": "movie",
-    "poster": "/n5wTK3Pkdfo7Z5Tn9Wx5JwDqFYr.jpg",
-    "recs": [
-      {
-        "date": "2026-07-21",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/big-break-review-simple-town-1235206501/"
-      }
-    ],
-    "title": "Big Break",
-    "tmdb_id": 1708253,
-    "year": 2026
-  },
   "tt43492793": {
     "age": {
       "classind": "12",
@@ -18202,6 +18991,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Wham! 10 Days in China",
     "poster": "/l0ButzlJ2amtW8WpPPMI8Jrs5Z0.jpg",
     "recs": [
       {
@@ -18221,6 +19011,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "The Last Picture Shows",
     "poster": "/vDUVpaizLCF7cSch0hj6Qssyrnc.jpg",
     "recs": [
       {
@@ -18240,6 +19031,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "These Violent Delights",
     "poster": "/jNkGb8NiDKKyDgtlITcmYHKFH6i.jpg",
     "recs": [
       {
@@ -18259,6 +19051,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Making Marie Antoinette",
     "poster": "/1vt7dhpq5dYA5H5VDEf7IITMbSg.jpg",
     "recs": [
       {
@@ -18272,12 +19065,33 @@
     "tmdb_id": 1754364,
     "year": 2026
   },
+  "tt43672301": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "tv",
+    "original_title": "Evolution",
+    "poster": "/ioar0bFoR9dgzvuIkCzlON5G2EY.jpg",
+    "recs": [
+      {
+        "date": "2026-07-13",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/13/evolution-review-chris-packham-bbc"
+      }
+    ],
+    "title": "Evolution",
+    "tmdb_id": 258899,
+    "year": 2026
+  },
   "tt43675224": {
     "age": null,
     "genres": [
       99
     ],
     "media_type": "tv",
+    "original_title": "Richard E. Grant's Very Modern Odyssey",
     "poster": "/yrq0Y1tgmvfdla0uhxfHMxF3YIJ.jpg",
     "recs": [
       {
@@ -18301,6 +19115,7 @@
       36
     ],
     "media_type": "movie",
+    "original_title": "14th",
     "poster": "/r40Ez6NORhNfjzcnsbpb1xDycuF.jpg",
     "recs": [
       {
@@ -18321,6 +19136,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "DAU",
     "poster": "/36Wk2KwUqyouSjiRPwqeaElJbcz.jpg",
     "recs": [
       {
@@ -18341,6 +19157,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Makikiraan po",
     "poster": "/hwNCYExtvwC3SAWVSAoCq9yGvXt.jpg",
     "recs": [
       {
@@ -18360,6 +19177,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "مراقب",
     "poster": "/5Aryu5UwuIdoBP3DZsz8L3nRyrb.jpg",
     "recs": [
       {
@@ -18381,6 +19199,7 @@
       10402
     ],
     "media_type": "movie",
+    "original_title": "Too Much Sugar",
     "poster": "/jgiwC1sX09VYjTMtLi2zcePgs5d.jpg",
     "recs": [
       {
@@ -18400,6 +19219,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Mia mera sti zoi tis Tzo: Kefalaio Faidra",
     "poster": "/c8bwi1QIqFCwgbGoIQ7PiVJm2Yo.jpg",
     "recs": [
       {
@@ -18419,6 +19239,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Joie de vivre",
     "poster": "/mnREgC1EASwQ8miggWwK4nZvDd2.jpg",
     "recs": [
       {
@@ -18438,6 +19259,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Queer Edward II",
     "poster": "/lqsJfPTyvMFDnMb9WXA1oT8dqOS.jpg",
     "recs": [
       {
@@ -18463,6 +19285,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "کمی نور",
     "poster": "/8kb96ECYdM6u02BuVDMNJxMY2sK.jpg",
     "recs": [
       {
@@ -18486,6 +19309,7 @@
       10765
     ],
     "media_type": "tv",
+    "original_title": "The Vampire Lestat",
     "poster": "/gZcmNUcDDR1nR7lmroOJTCrhrhK.jpg",
     "recs": [
       {
@@ -18511,6 +19335,7 @@
       10764
     ],
     "media_type": "tv",
+    "original_title": "Secret Lives of Gypsy Wives",
     "poster": "/KlwaO6wnRHNymGnyNdSg2nPVd5.jpg",
     "recs": [
       {
@@ -18530,6 +19355,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "How We Stand",
     "poster": null,
     "recs": [
       {
@@ -18543,28 +19369,6 @@
     "tmdb_id": 1563760,
     "year": 2026
   },
-  "tt44322266": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
-    "recs": [
-      {
-        "date": "2026-09-02",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/turning-point-generation-9-11-netflix-documentary-tv-review-2026"
-      }
-    ],
-    "title": "Turning Point: Generation 9/11",
-    "tmdb_id": 1752159,
-    "year": 2026
-  },
   "tt44766123": {
     "age": {
       "classind": "14",
@@ -18574,6 +19378,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "NAZA",
     "poster": "/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
     "recs": [
       {
@@ -18599,12 +19404,33 @@
     "tmdb_id": 1755291,
     "year": 2026
   },
+  "tt44784282": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "original_title": "Tun & Lassen",
+    "poster": "/mqplZkZf5f4GZ0Dc8kok1bwNEAv.jpg",
+    "recs": [
+      {
+        "date": "2026-10-02",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/oct/02/take-it-or-leave-it-review-vividly-atmospheric-formative-adventures-of-future-pop-princes-madness"
+      }
+    ],
+    "title": "Take It or Leave It",
+    "tmdb_id": 1764309,
+    "year": 2026
+  },
   "tt44822485": {
     "age": null,
     "genres": [
       99
     ],
     "media_type": "movie",
+    "original_title": "Norm: The Tale of Norm Macdonald",
     "poster": "/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
     "recs": [
       {
@@ -18625,6 +19451,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Cameron Winter at Carnegie Hall",
     "poster": "/sQt2KQWkpGb79UKlCJNJ2BKobjo.jpg",
     "recs": [
       {
@@ -18650,6 +19477,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "Rebellion",
     "poster": "/vh6Dqe1M1R1Jxn1ScoHdFGmb4j.jpg",
     "recs": [
       {
@@ -18672,6 +19500,7 @@
       99
     ],
     "media_type": "movie",
+    "original_title": "You Can See Everything",
     "poster": "/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
     "recs": [
       {
@@ -18704,6 +19533,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "The Wargame",
     "poster": "/hQMau6PTLOHBJ70f8J0GK9rGS12.jpg",
     "recs": [
       {
@@ -18717,6 +19547,37 @@
     "tmdb_id": 330800,
     "year": 2026
   },
+  "tt4574334": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      10759,
+      9648,
+      10765
+    ],
+    "media_type": "tv",
+    "original_title": "Stranger Things",
+    "poster": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+    "recs": [
+      {
+        "date": "2025-11-27",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/27/stranger-things-final-season-five-review-netflix"
+      }
+    ],
+    "title": "Stranger Things",
+    "tmdb_id": 66732,
+    "watch": {
+      "providers": [
+        "Netflix"
+      ],
+      "urls": {}
+    },
+    "year": 2016
+  },
   "tt45821808": {
     "age": null,
     "genres": [
@@ -18725,6 +19586,7 @@
       80
     ],
     "media_type": "movie",
+    "original_title": "The Watergate Caper: Richard Nixon and the Death of the American Dream",
     "poster": "/qfAdQpM15m1vT69H7KrseCrY8hv.jpg",
     "recs": [
       {
@@ -18749,6 +19611,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "Last Seen",
     "poster": "/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
     "recs": [
       {
@@ -18782,6 +19645,7 @@
       36
     ],
     "media_type": "movie",
+    "original_title": "Tenzing",
     "poster": "/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
     "recs": [
       {
@@ -18795,70 +19659,6 @@
     "tmdb_id": 1288069,
     "year": 2026
   },
-  "tt6337766": {
-    "age": {
-      "classind": "L",
-      "source": "BR"
-    },
-    "genres": [
-      16,
-      35,
-      10751,
-      10762
-    ],
-    "media_type": "tv",
-    "poster": "/mKO39v4anUjh73s9NIIRp8HKlqm.jpg",
-    "recs": [
-      {
-        "date": "2026-03-30",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/mar/30/babies-review-a-very-special-gift-indeed"
-      }
-    ],
-    "title": "Muppet Babies",
-    "tmdb_id": 77410,
-    "watch": {
-      "providers": [
-        "Disney Plus"
-      ],
-      "urls": {
-        "Disney Plus": "https://www.disneyplus.com/browse/entity-37f02ccf-ad68-4ee1-b5a1-4dc153a39560"
-      }
-    },
-    "year": 2018
-  },
-  "tt6483836": {
-    "age": {
-      "classind": "14",
-      "source": "BR"
-    },
-    "genres": [
-      18,
-      80
-    ],
-    "media_type": "tv",
-    "poster": "/fN3I7ly9XUCXJabIpn9hadJIpca.jpg",
-    "recs": [
-      {
-        "date": "2026-03-08",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/mar/08/gone-review-david-morrissey"
-      }
-    ],
-    "title": "Gone",
-    "tmdb_id": 76284,
-    "watch": {
-      "providers": [
-        "Universal+ Amazon Channel"
-      ],
-      "urls": {
-        "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af2b4ebe-400f-4c82-9b26-15f232ca1a0a"
-      }
-    },
-    "year": 2018
-  },
   "tt7671070": {
     "age": {
       "classind": "16",
@@ -18868,6 +19668,7 @@
       18
     ],
     "media_type": "tv",
+    "original_title": "Industry",
     "poster": "/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg",
     "recs": [
       {
@@ -18875,6 +19676,12 @@
         "outlet": "IndieWire",
         "rating": "A-",
         "url": "https://www.indiewire.com/criticism/shows/industry-season-4-review-hbo-1235171930/"
+      },
+      {
+        "date": "2026-01-06",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jan/06/industry-season-four-review-bbc-one-iplayer-hbo-binge"
       }
     ],
     "title": "Industry",
@@ -18904,6 +19711,7 @@
       "urls": {}
     },
     "media_type": "movie",
+    "original_title": "The Magic Faraway Tree",
     "poster": "/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
     "recs": [
       {
@@ -18928,6 +19736,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Send Help",
     "poster": "/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
     "recs": [
       {
@@ -18947,6 +19756,26 @@
     "tmdb_id": 1198994,
     "year": 2026
   },
+  "tt8064568": {
+    "age": null,
+    "genres": [
+      10767
+    ],
+    "media_type": "tv",
+    "original_title": "The Assembly",
+    "poster": "/lUfnzQCgJvunEVHW5eqpNfyhDZd.jpg",
+    "recs": [
+      {
+        "date": "2026-04-08",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/apr/08/the-assembly-review-tv-has-rarely-seen-anything-like-this-delightful-gem"
+      }
+    ],
+    "title": "The Assembly",
+    "tmdb_id": 290057,
+    "year": 2025
+  },
   "tt8201186": {
     "age": {
       "classind": "14",
@@ -18958,6 +19787,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "The Capture",
     "poster": "/6keUrgntgKt299a39UJCDYldb8b.jpg",
     "recs": [
       {
@@ -18986,6 +19816,7 @@
       35
     ],
     "media_type": "tv",
+    "original_title": "Ellie & Natasia",
     "poster": "/weoiU5nwWc8T5s1BJ99Ufnp6lBr.jpg",
     "recs": [
       {
@@ -19009,6 +19840,7 @@
       9648
     ],
     "media_type": "tv",
+    "original_title": "Gnomes",
     "poster": "/3eZCOLYUXAh8fU5ZA2R5zAvctLg.jpg",
     "recs": [
       {
@@ -19031,6 +19863,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "The Chronology of Water",
     "poster": "/pU3GZI6C9lxzxUnBccIQLThDLVY.jpg",
     "recs": [
       {
@@ -19055,6 +19888,7 @@
       35
     ],
     "media_type": "movie",
+    "original_title": "Cold Storage",
     "poster": "/3HA2iiq982e01EKXJvPFyfMADVM.jpg",
     "recs": [
       {
@@ -19076,6 +19910,7 @@
       53
     ],
     "media_type": "movie",
+    "original_title": "Ghost in the Cell",
     "poster": "/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
     "recs": [
       {
@@ -19098,6 +19933,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "A Killer Story",
     "poster": "/aq9m0ZiiNVquFFrTMeL9dCDstkJ.jpg",
     "recs": [
       {
@@ -19130,6 +19966,7 @@
       18
     ],
     "media_type": "movie",
+    "original_title": "Die My Love",
     "poster": "/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
     "recs": [
       {
@@ -19150,6 +19987,7 @@
       10749
     ],
     "media_type": "movie",
+    "original_title": "The Echo Chamber",
     "poster": "/a2hxeonmr6A5SGD6qwIr18I9mGZ.jpg",
     "recs": [
       {
@@ -19163,55 +20001,14 @@
     "tmdb_id": 1576934,
     "year": 2026
   },
-  "tt9859510": {
-    "age": null,
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "poster": "/7wjGDsUDmUDNIf8lMV7cIxeIiqy.jpg",
-    "recs": [
-      {
-        "date": "2026-05-01",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/our-land-nuestra-tierra-lucrecia-martel-documentary-film-review-2026"
-      },
-      {
-        "date": "2026-04-27",
-        "outlet": "IndieWire",
-        "rating": "A-",
-        "url": "https://www.indiewire.com/criticism/movies/nuestra-tierra-landmarks-review-lucrecia-martel-1235147161/"
-      }
-    ],
-    "title": "Our Land",
-    "tmdb_id": 661603,
-    "year": 2026
-  },
-  "tv:tmdb:208965": {
-    "age": null,
-    "genres": [],
-    "media_type": "tv",
-    "poster": null,
-    "recs": [
-      {
-        "date": "2026-09-10",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/10/the-paper-season-two-review-one-of-the-best-comedies-on-tv-right-now"
-      }
-    ],
-    "title": "Short Paper Season 2",
-    "tmdb_id": 208965,
-    "year": null
-  },
-  "tv:tmdb:221534": {
+  "tt9909248": {
     "age": null,
     "genres": [
       10764
     ],
     "media_type": "tv",
-    "poster": "/qIj1EuBnI0VUbXVvBGchaNClMXP.jpg",
+    "original_title": "Race Across the World",
+    "poster": "/mprxUhhR9tnqLTW451HckEwhLZ2.jpg",
     "recs": [
       {
         "date": "2026-04-02",
@@ -19221,8 +20018,12 @@
       }
     ],
     "title": "Race Across the World",
-    "tmdb_id": 221534,
-    "year": 2023
+    "tmdb_id": 87340,
+    "watch": {
+      "providers": [],
+      "urls": {}
+    },
+    "year": 2019
   },
   "tv:tmdb:306218": {
     "age": null,
@@ -19230,6 +20031,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "What's the Monarchy For?",
     "poster": "/4RQi6AAvjPRYFbJUMpUpISH6WAk.jpg",
     "recs": [
       {
@@ -19249,6 +20051,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "Cancer Detectives: Finding the Cures",
     "poster": "/6KyxbaEoJCQInSarhbZSq29I9lz.jpg",
     "recs": [
       {
@@ -19268,6 +20071,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "Clive Myrie's African Adventure",
     "poster": "/cNeNGBrTDquDFxGmS19U0hN2spQ.jpg",
     "recs": [
       {
@@ -19281,33 +20085,13 @@
     "tmdb_id": 311244,
     "year": 2026
   },
-  "tv:tmdb:325539": {
-    "age": null,
-    "genres": [
-      10759,
-      16,
-      10762
-    ],
-    "media_type": "tv",
-    "poster": null,
-    "recs": [
-      {
-        "date": "2026-07-13",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/13/evolution-review-chris-packham-bbc"
-      }
-    ],
-    "title": "Ghostforce Evolution",
-    "tmdb_id": 325539,
-    "year": null
-  },
   "tv:tmdb:328264": {
     "age": null,
     "genres": [
       99
     ],
     "media_type": "tv",
+    "original_title": "Michael Palin in the Philippines",
     "poster": "/A6eIRYWt0g8iVvq5eNOh7w7erd2.jpg",
     "recs": [
       {
@@ -19327,6 +20111,7 @@
       99
     ],
     "media_type": "tv",
+    "original_title": "Buried with Michael Sheen",
     "poster": "/tHv1vrU8O8o7NOY4Iq3qC2XKNZI.jpg",
     "recs": [
       {
@@ -19340,31 +20125,34 @@
     "tmdb_id": 330941,
     "year": 2026
   },
-  "tv:tmdb:331051": {
-    "age": null,
-    "genres": [],
-    "media_type": "tv",
-    "poster": "/3syt8bDjS4c0J0UCYgHjnVDR65c.jpg",
-    "recs": [
-      {
-        "date": "2025-12-17",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/dec/17/fallout-season-two-review-prime-video"
-      }
-    ],
-    "title": "Fallout - Season 2",
-    "tmdb_id": 331051,
-    "year": null
-  },
-  "tv:tmdb:339716": {
+  "tv:tmdb:334376": {
     "age": null,
     "genres": [
-      99,
-      80
+      10764
     ],
     "media_type": "tv",
-    "poster": "/8ctcpDWitSkZXZ3kwV97RzfwLDY.jpg",
+    "original_title": "ශ්‍රී ලාංකේය MasterChef",
+    "poster": "/qCGLnpjiS4uEcTrXDIiIMrDEKqX.jpg",
+    "recs": [
+      {
+        "date": "2026-04-21",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/apr/21/masterchef-review-bbc-one-iplayer-grace-dent-anna-haugh"
+      }
+    ],
+    "title": "MasterChef Sri Lanka",
+    "tmdb_id": 334376,
+    "year": 2026
+  },
+  "tv:tmdb:337950": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "tv",
+    "original_title": "La Messagerie du Diable",
+    "poster": "/rofGSiiDiEZkTe9W5wPt1T3f41g.jpg",
     "recs": [
       {
         "date": "2026-10-23",
@@ -19374,7 +20162,25 @@
       }
     ],
     "title": "The Narco Hack",
-    "tmdb_id": 339716,
+    "tmdb_id": 337950,
+    "year": 2026
+  },
+  "tv:tmdb:339786": {
+    "age": null,
+    "genres": [],
+    "media_type": "tv",
+    "original_title": "The Experiment",
+    "poster": null,
+    "recs": [
+      {
+        "date": "2026-10-21",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability"
+      }
+    ],
+    "title": "The Experiment",
+    "tmdb_id": 339786,
     "year": 2026
   },
   "tv:tmdb:87012": {
@@ -19383,6 +20189,7 @@
       10764
     ],
     "media_type": "tv",
+    "original_title": "The Great British Bake Off",
     "poster": "/zZBzkM3XXZHOauKlHSv3Vg6e4iZ.jpg",
     "recs": [
       {

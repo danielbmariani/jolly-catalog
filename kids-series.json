@@ -1,20 +1,4 @@
 {
-  "tmdb:285903": {
-    "classind": "L",
-    "first_air_year": 2024,
-    "honors": [
-      {
-        "body": "apca",
-        "prize": "APCA Infantil",
-        "year": 2014
-      }
-    ],
-    "poster": "/8Z1pJKpRDE5BPNKiPNi88O6WkCK.jpg",
-    "providers": [],
-    "status": "returning",
-    "title": "Quintal da Cultura",
-    "tmdb_id": 285903
-  },
   "tmdb:333432": {
     "classind": "L",
     "first_air_year": 1929,
@@ -51,6 +35,22 @@
     "status": "returning",
     "title": "O Show da Luna",
     "tmdb_id": 63301
+  },
+  "tmdb:89767": {
+    "classind": "L",
+    "first_air_year": 2019,
+    "honors": [
+      {
+        "body": "prix-jeunesse",
+        "prize": "11-15 Fiction",
+        "year": 2024
+      }
+    ],
+    "poster": "/7jQdvP92SNL541gooCw0mYeHIsU.jpg",
+    "providers": [],
+    "status": "returning",
+    "title": "Like Me",
+    "tmdb_id": 89767
   },
   "tt0043208": {
     "classind": "L",
@@ -1219,34 +1219,6 @@
     "status": "returning",
     "title": "Conta Comigo",
     "tmdb_id": 125285
-  },
-  "tt12180726": {
-    "classind": "L",
-    "first_air_year": 2017,
-    "honors": [
-      {
-        "body": "apca",
-        "prize": null,
-        "year": 2016
-      }
-    ],
-    "poster": "/qq4E9OZEMCST45IQnrkn0Atv6e.jpg",
-    "providers": [
-      "Amazon Prime Video",
-      "Amazon Prime Video with Ads",
-      "HBO Max",
-      "HBO Max Amazon Channel",
-      "Looke Amazon Channel",
-      "NetMovies",
-      "Netflix",
-      "Netflix Standard with Ads",
-      "Playkids Learning Amazon Channel",
-      "Pluto TV",
-      "Shahid VIP"
-    ],
-    "status": "returning",
-    "title": "Galinha Pintadinha Mini",
-    "tmdb_id": 103048
   },
   "tt12397680": {
     "classind": "L",
@@ -2618,43 +2590,6 @@
     "status": "returning",
     "title": "Ilha das Formas",
     "tmdb_id": 217658
-  },
-  "tt26747306": {
-    "classind": "L",
-    "first_air_year": 2023,
-    "honors": [
-      {
-        "body": "prix-jeunesse",
-        "prize": "11-15 Fiction",
-        "year": 2024
-      }
-    ],
-    "poster": "/n59SWxZeFrPwcYjK3krMHuEfFjh.jpg",
-    "providers": [],
-    "status": "ended",
-    "title": "我的老板为何那样",
-    "tmdb_id": 219713
-  },
-  "tt27052740": {
-    "classind": "12",
-    "first_air_year": 2024,
-    "honors": [
-      {
-        "body": "prix-jeunesse",
-        "prize": "Children's Jury 7-10 Fiction",
-        "year": 2026
-      }
-    ],
-    "poster": "/tfaRjAqNpDj5zngrReu6YbebrzO.jpg",
-    "providers": [
-      "Disney Plus"
-    ],
-    "providers_verified": [
-      "Disney Plus"
-    ],
-    "status": "ended",
-    "title": "Becoming Karl Lagerfeld",
-    "tmdb_id": 132503
   },
   "tt2720144": {
     "classind": "L",

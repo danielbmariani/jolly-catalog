@@ -1,24 +1,10 @@
 {
-  "tt0050051": {
-    "providers": []
-  },
   "tt0072562": {
     "providers": [
       "Universal+ Amazon Channel"
     ],
     "verified": [
       "Universal+ Amazon Channel"
-    ]
-  },
-  "tt0075472": {
-    "providers": []
-  },
-  "tt0094484": {
-    "providers": [
-      "Amazon Prime Video"
-    ],
-    "verified": [
-      "Amazon Prime Video"
     ]
   },
   "tt0098936": {
@@ -124,9 +110,6 @@
       "HBO Max"
     ]
   },
-  "tt0251497": {
-    "providers": []
-  },
   "tt0262150": {
     "providers": []
   },
@@ -190,9 +173,6 @@
     "providers": []
   },
   "tt0330251": {
-    "providers": []
-  },
-  "tt0338616": {
     "providers": []
   },
   "tt0348914": {
@@ -396,6 +376,16 @@
   "tt0826760": {
     "providers": []
   },
+  "tt0835434": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
   "tt0840196": {
     "providers": []
   },
@@ -419,9 +409,6 @@
       "HBO Max Amazon Channel"
     ]
   },
-  "tt0891396": {
-    "providers": []
-  },
   "tt0898266": {
     "providers": [
       "HBO Max",
@@ -438,6 +425,14 @@
     ],
     "verified": [
       "Netflix"
+    ]
+  },
+  "tt0908454": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
     ]
   },
   "tt0944947": {
@@ -535,6 +530,16 @@
       "Netflix"
     ]
   },
+  "tt10380768": {
+    "providers": [
+      "Lionsgate+ Amazon Channel",
+      "Netflix"
+    ],
+    "verified": [
+      "Lionsgate+ Amazon Channel",
+      "Netflix"
+    ]
+  },
   "tt10380896": {
     "providers": [
       "Netflix"
@@ -606,6 +611,9 @@
       "Netflix"
     ]
   },
+  "tt10590066": {
+    "providers": []
+  },
   "tt10638036": {
     "providers": [
       "Netflix"
@@ -647,6 +655,16 @@
     ]
   },
   "tt10802170": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
+  "tt10814438": {
     "providers": [
       "HBO Max",
       "HBO Max Amazon Channel"
@@ -715,6 +733,14 @@
   "tt11058054": {
     "providers": []
   },
+  "tt11126994": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
   "tt11198330": {
     "providers": [
       "HBO Max"
@@ -747,9 +773,6 @@
     "verified": [
       "Amazon Prime Video"
     ]
-  },
-  "tt11227980": {
-    "providers": []
   },
   "tt11269180": {
     "providers": [
@@ -862,6 +885,9 @@
       "Apple TV Amazon Channel"
     ]
   },
+  "tt11646832": {
+    "providers": []
+  },
   "tt11650492": {
     "providers": [
       "Netflix"
@@ -944,6 +970,14 @@
   "tt11899030": {
     "providers": []
   },
+  "tt1190634": {
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "verified": [
+      "Amazon Prime Video"
+    ]
+  },
   "tt11921588": {
     "providers": [
       "Amazon Prime Video"
@@ -958,14 +992,6 @@
     ],
     "verified": [
       "Lionsgate+ Amazon Channel"
-    ]
-  },
-  "tt12162902": {
-    "providers": [
-      "Disney Plus"
-    ],
-    "verified": [
-      "Disney Plus"
     ]
   },
   "tt12190580": {
@@ -1116,14 +1142,6 @@
   "tt12963502": {
     "providers": []
   },
-  "tt12996012": {
-    "providers": [
-      "Amazon Prime Video"
-    ],
-    "verified": [
-      "Amazon Prime Video"
-    ]
-  },
   "tt13016388": {
     "providers": [
       "Netflix"
@@ -1135,20 +1153,22 @@
   "tt13101040": {
     "providers": []
   },
+  "tt13138834": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
   "tt13159924": {
     "providers": [
       "Amazon Prime Video"
     ],
     "verified": [
       "Amazon Prime Video"
-    ]
-  },
-  "tt13282662": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
     ]
   },
   "tt13309742": {
@@ -1159,12 +1179,25 @@
       "Netflix"
     ]
   },
+  "tt13314510": {
+    "providers": []
+  },
   "tt13354972": {
     "providers": [
       "Disney Plus"
     ],
     "verified": [
       "Disney Plus"
+    ]
+  },
+  "tt13366604": {
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "verified": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
     ]
   },
   "tt13406094": {
@@ -1217,14 +1250,6 @@
       "Disney Plus"
     ]
   },
-  "tt13634872": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
-    ]
-  },
   "tt13649112": {
     "providers": [
       "Netflix"
@@ -1249,14 +1274,6 @@
     ],
     "verified": [
       "Amazon Prime Video"
-    ]
-  },
-  "tt13651632": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
     ]
   },
   "tt13656220": {
@@ -1292,14 +1309,6 @@
       "Apple TV Amazon Channel"
     ]
   },
-  "tt13918776": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
-    ]
-  },
   "tt13994572": {
     "providers": []
   },
@@ -1333,11 +1342,6 @@
   },
   "tt14063678": {
     "providers": []
-  },
-  "tt14082716": {
-    "providers": [
-      "Curiosity Stream"
-    ]
   },
   "tt14192504": {
     "providers": [
@@ -1482,6 +1486,14 @@
     ],
     "verified": [
       "Netflix"
+    ]
+  },
+  "tt14531842": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "verified": [
+      "Disney Plus"
     ]
   },
   "tt14540468": {
@@ -1764,6 +1776,14 @@
       "Apple TV Amazon Channel"
     ]
   },
+  "tt15680030": {
+    "providers": [
+      "Sony One Amazon Channel"
+    ],
+    "verified": [
+      "Sony One Amazon Channel"
+    ]
+  },
   "tt15875168": {
     "providers": [
       "Netflix"
@@ -1941,14 +1961,6 @@
   "tt18228732": {
     "providers": []
   },
-  "tt18253682": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
-    ]
-  },
   "tt18265020": {
     "providers": [
       "Apple TV",
@@ -1957,6 +1969,16 @@
     "verified": [
       "Apple TV",
       "Apple TV Amazon Channel"
+    ]
+  },
+  "tt1837576": {
+    "providers": [
+      "Amazon Prime Video",
+      "Disney Plus"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Disney Plus"
     ]
   },
   "tt1856010": {
@@ -2080,6 +2102,16 @@
   "tt2058303": {
     "providers": []
   },
+  "tt2077823": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
   "tt20782190": {
     "providers": [
       "Disney Plus"
@@ -2089,14 +2121,6 @@
     ]
   },
   "tt2085059": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
-    ]
-  },
-  "tt20859920": {
     "providers": [
       "Netflix"
     ],
@@ -2116,9 +2140,6 @@
       "HBO Max",
       "HBO Max Amazon Channel"
     ]
-  },
-  "tt21100682": {
-    "providers": []
   },
   "tt21364468": {
     "providers": [
@@ -2228,6 +2249,9 @@
       "HBO Max Amazon Channel"
     ]
   },
+  "tt2234222": {
+    "providers": []
+  },
   "tt2235759": {
     "providers": [
       "The Great Courses Signature Collection Amazon Channel"
@@ -2290,14 +2314,6 @@
       "Disney Plus"
     ]
   },
-  "tt23488694": {
-    "providers": [
-      "Amazon Prime Video"
-    ],
-    "verified": [
-      "Amazon Prime Video"
-    ]
-  },
   "tt2356777": {
     "providers": [
       "HBO Max",
@@ -2332,6 +2348,14 @@
     ],
     "verified": [
       "Netflix"
+    ]
+  },
+  "tt23743442": {
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
     ]
   },
   "tt2384811": {
@@ -2476,6 +2500,9 @@
       "Globoplay"
     ]
   },
+  "tt2660806": {
+    "providers": []
+  },
   "tt26670955": {
     "providers": [
       "Netflix"
@@ -2555,6 +2582,16 @@
       "Globoplay"
     ]
   },
+  "tt27562193": {
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ]
+  },
   "tt27715627": {
     "providers": [
       "Amazon Prime Video"
@@ -2600,9 +2637,6 @@
     "verified": [
       "Netflix"
     ]
-  },
-  "tt27950663": {
-    "providers": []
   },
   "tt27995114": {
     "providers": [
@@ -3046,14 +3080,6 @@
       "Netflix"
     ]
   },
-  "tt34164659": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
-    ]
-  },
   "tt3428912": {
     "providers": []
   },
@@ -3086,15 +3112,13 @@
       "Disney Plus"
     ]
   },
-  "tt34692112": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
-    ]
-  },
   "tt3487356": {
+    "providers": []
+  },
+  "tt3487382": {
+    "providers": []
+  },
+  "tt3488298": {
     "providers": []
   },
   "tt3501074": {
@@ -3222,26 +3246,13 @@
       "Globoplay"
     ]
   },
-  "tt36347588": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
-    ]
-  },
-  "tt36415832": {
-    "providers": [
-      "Disney Plus"
-    ],
-    "verified": [
-      "Disney Plus"
-    ]
-  },
   "tt3655448": {
     "providers": []
   },
   "tt3673480": {
+    "providers": []
+  },
+  "tt3673794": {
     "providers": []
   },
   "tt36774488": {
@@ -3441,6 +3452,22 @@
       "Netflix"
     ]
   },
+  "tt4577466": {
+    "providers": [
+      "Lionsgate+ Amazon Channel"
+    ],
+    "verified": [
+      "Lionsgate+ Amazon Channel"
+    ]
+  },
+  "tt4592410": {
+    "providers": [
+      "Netflix"
+    ],
+    "verified": [
+      "Netflix"
+    ]
+  },
   "tt4635276": {
     "providers": [
       "Netflix"
@@ -3486,18 +3513,6 @@
   },
   "tt4706558": {
     "providers": []
-  },
-  "tt4718304": {
-    "providers": [
-      "Cartoon Network Amazon Channel",
-      "HBO Max",
-      "HBO Max Amazon Channel"
-    ],
-    "verified": [
-      "Cartoon Network Amazon Channel",
-      "HBO Max",
-      "HBO Max Amazon Channel"
-    ]
   },
   "tt4779762": {
     "providers": []
@@ -3677,6 +3692,14 @@
     "verified": [
       "HBO Max",
       "HBO Max Amazon Channel"
+    ]
+  },
+  "tt5618256": {
+    "providers": [
+      "Lionsgate+ Amazon Channel"
+    ],
+    "verified": [
+      "Lionsgate+ Amazon Channel"
     ]
   },
   "tt5640558": {
@@ -3862,14 +3885,6 @@
   "tt6586318": {
     "providers": []
   },
-  "tt6611916": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
-    ]
-  },
   "tt6704972": {
     "providers": [
       "Amazon Prime Video"
@@ -3977,6 +3992,9 @@
     ]
   },
   "tt7157494": {
+    "providers": []
+  },
+  "tt7181728": {
     "providers": []
   },
   "tt7186126": {
@@ -4106,14 +4124,6 @@
   "tt7569576": {
     "providers": []
   },
-  "tt7570990": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
-    ]
-  },
   "tt7605396": {
     "providers": []
   },
@@ -4172,11 +4182,13 @@
       "HBO Max Amazon Channel"
     ]
   },
-  "tt7741830": {
-    "providers": []
-  },
-  "tt7758552": {
-    "providers": []
+  "tt7725422": {
+    "providers": [
+      "Lionsgate+ Amazon Channel"
+    ],
+    "verified": [
+      "Lionsgate+ Amazon Channel"
+    ]
   },
   "tt7767422": {
     "providers": [
@@ -4620,14 +4632,6 @@
       "Disney Plus"
     ]
   },
-  "tt9140632": {
-    "providers": [
-      "Disney Plus"
-    ],
-    "verified": [
-      "Disney Plus"
-    ]
-  },
   "tt9148598": {
     "providers": []
   },
@@ -4652,9 +4656,6 @@
     "verified": [
       "Netflix"
     ]
-  },
-  "tt9204170": {
-    "providers": []
   },
   "tt9244556": {
     "providers": [
@@ -4702,22 +4703,6 @@
   "tt9612102": {
     "providers": []
   },
-  "tt9660182": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
-    ]
-  },
-  "tt9680524": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
-    ]
-  },
   "tt9698520": {
     "providers": [
       "HBO Max",
@@ -4750,7 +4735,8 @@
   "tt9805708": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "WeTV"
     ],
     "verified": [
       "HBO Max",

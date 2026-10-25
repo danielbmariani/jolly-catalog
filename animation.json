@@ -14,43 +14,63 @@
       "lists": [],
       "title": "Butte aux poulets Chicken of the Mound"
     },
-    "title:Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle::2025": {
+    "title:Complex × Complex::2017": {
       "age": null,
       "awards": [
         {
-          "fest": "golden-globe",
-          "level": "SELECTED",
-          "nomination": true,
-          "prize": null,
-          "section": "Best Animated Feature Film",
-          "year": 2025
-        },
-        {
-          "fest": "japan-academy",
+          "fest": "mainichi",
           "level": "GRAND",
           "nomination": false,
-          "prize": "Animation of the Year",
-          "section": "Animation of the Year",
-          "year": 2025
+          "prize": "Animation Grand Award",
+          "section": "Animation Grand Award",
+          "year": 2017
         }
       ],
       "lists": [],
-      "title": "Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle"
+      "title": "Complex × Complex"
     },
-    "title:Jasmine::2013": {
+    "title:Crayon Shin-chan: The Storm Called: The Battle of the Warring States::2002": {
       "age": null,
       "awards": [
         {
-          "fest": "efa",
-          "level": "SELECTED",
-          "nomination": true,
-          "prize": null,
-          "section": "Best Animated Feature Film",
-          "year": 2013
+          "fest": "mainichi",
+          "level": "GRAND",
+          "nomination": false,
+          "prize": "Animation Grand Award",
+          "section": "Animation Grand Award",
+          "year": 2002
         }
       ],
       "lists": [],
-      "title": "Jasmine"
+      "title": "Crayon Shin-chan: The Storm Called: The Battle of the Warring States"
+    },
+    "title:Homeless::2019": {
+      "age": null,
+      "awards": [
+        {
+          "fest": "annecy",
+          "level": "SELECTED",
+          "prize": null,
+          "section": "Contrechamp",
+          "year": 2019
+        }
+      ],
+      "lists": [],
+      "title": "Homeless"
+    },
+    "title:Johnny & Me : Un voyage dans le temps avec John Heartfield Johnny & Me: Eine Zeitreise mit John Heartfield::2023": {
+      "age": null,
+      "awards": [
+        {
+          "fest": "annecy",
+          "level": "SELECTED",
+          "prize": null,
+          "section": "Contrechamp",
+          "year": 2023
+        }
+      ],
+      "lists": [],
+      "title": "Johnny & Me : Un voyage dans le temps avec John Heartfield Johnny & Me: Eine Zeitreise mit John Heartfield"
     },
     "title:L'Autre Forme La otra forma::2022": {
       "age": null,
@@ -80,20 +100,6 @@
       "lists": [],
       "title": "L'Île The Island"
     },
-    "title:La Légende de Hei ( The Legend of Hei )::2020": {
-      "age": null,
-      "awards": [
-        {
-          "fest": "annecy",
-          "level": "SELECTED",
-          "prize": null,
-          "section": "Contrechamp",
-          "year": 2020
-        }
-      ],
-      "lists": [],
-      "title": "La Légende de Hei ( The Legend of Hei )"
-    },
     "title:Lava::2020": {
       "age": null,
       "awards": [
@@ -107,6 +113,20 @@
       ],
       "lists": [],
       "title": "Lava"
+    },
+    "title:Les Démons d'argile My Grandfather's Demons::2022": {
+      "age": null,
+      "awards": [
+        {
+          "fest": "annecy",
+          "level": "SELECTED",
+          "prize": null,
+          "section": "Contrechamp",
+          "year": 2022
+        }
+      ],
+      "lists": [],
+      "title": "Les Démons d'argile My Grandfather's Demons"
     },
     "title:Little Nemo: Adventures in Slumberland::1993": {
       "age": null,
@@ -122,6 +142,20 @@
       ],
       "lists": [],
       "title": "Little Nemo: Adventures in Slumberland"
+    },
+    "title:Ma mère est un gorille (et alors ?) The Ape Star::2021": {
+      "age": null,
+      "awards": [
+        {
+          "fest": "annecy",
+          "level": "SELECTED",
+          "prize": null,
+          "section": "Official Competition",
+          "year": 2021
+        }
+      ],
+      "lists": [],
+      "title": "Ma mère est un gorille (et alors ?) The Ape Star"
     },
     "title:Petit Moutard Rotzbub::2021": {
       "age": null,
@@ -151,6 +185,20 @@
       "lists": [],
       "title": "Piercing 1"
     },
+    "title:Rose petite fée des fleurs Rosa and the Stone Troll::2023": {
+      "age": null,
+      "awards": [
+        {
+          "fest": "annecy",
+          "level": "SELECTED",
+          "prize": null,
+          "section": "Contrechamp",
+          "year": 2023
+        }
+      ],
+      "lists": [],
+      "title": "Rose petite fée des fleurs Rosa and the Stone Troll"
+    },
     "title:Underdog::2019": {
       "age": null,
       "awards": [
@@ -178,6 +226,20 @@
       ],
       "lists": [],
       "title": "Yaya e Lennie: The Walking Liberty"
+    },
+    "wd:Q11611205": {
+      "age": null,
+      "awards": [
+        {
+          "fest": "annecy",
+          "level": "SELECTED",
+          "prize": null,
+          "section": "Official Competition",
+          "year": 2017
+        }
+      ],
+      "lists": [],
+      "title": "A Silent Voice"
     },
     "wd:Q133691": {
       "age": null,
@@ -222,6 +284,20 @@
       "lists": [],
       "title": "Laurent Boileau"
     },
+    "wd:Q3226700": {
+      "age": null,
+      "awards": [
+        {
+          "fest": "annecy",
+          "level": "SELECTED",
+          "prize": null,
+          "section": "Official Competition",
+          "year": 2023
+        }
+      ],
+      "lists": [],
+      "title": "Le Royaume de Kensuke Kensuke's Kingdom"
+    },
     "wd:Q5894103": {
       "age": null,
       "awards": [
@@ -235,21 +311,6 @@
       ],
       "lists": [],
       "title": "Hong Jun-pyo"
-    },
-    "wd:Q945140": {
-      "age": null,
-      "awards": [
-        {
-          "fest": "japan-academy",
-          "level": "SELECTED",
-          "nomination": true,
-          "prize": null,
-          "section": "Excellent Animation of the Year",
-          "year": 2011
-        }
-      ],
-      "lists": [],
-      "title": "Buddha"
     }
   },
   "tt0015532": {
@@ -630,14 +691,6 @@
       {
         "list": "bfi-100",
         "rank": 14
-      },
-      {
-        "list": "timeout-100",
-        "rank": 25
-      },
-      {
-        "list": "empire-50",
-        "rank": 31
       }
     ],
     "poster": "/kSlYq6FrBUviGSEh8v4L9nrSnBT.jpg",
@@ -2095,6 +2148,27 @@
     "title": "Toy Story",
     "tmdb_id": 862,
     "year": 1995
+  },
+  "tt0115433": {
+    "age": {
+      "classind": "L",
+      "source": "BR"
+    },
+    "awards": [],
+    "lists": [
+      {
+        "list": "timeout-100",
+        "rank": 25
+      },
+      {
+        "list": "empire-50",
+        "rank": 31
+      }
+    ],
+    "poster": "/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg",
+    "title": "101 Dalmatians",
+    "tmdb_id": 11674,
+    "year": 1996
   },
   "tt0116583": {
     "age": {
@@ -4998,24 +5072,6 @@
     "tmdb_id": 39510,
     "year": 2006
   },
-  "tt0831848": {
-    "age": null,
-    "awards": [
-      {
-        "fest": "mainichi",
-        "level": "GRAND",
-        "nomination": false,
-        "prize": "Animation Grand Award",
-        "section": "Animation Grand Award",
-        "year": 2002
-      }
-    ],
-    "lists": [],
-    "poster": "/heJkgOCx4pHqdooYA1h7B65ghvf.jpg",
-    "title": "Crayon Shin-chan: The Storm Called: The Adult Empire Strikes Back",
-    "tmdb_id": 37280,
-    "year": 2001
-  },
   "tt0831888": {
     "age": {
       "classind": "16",
@@ -6197,26 +6253,6 @@
     "tmdb_id": 105444,
     "year": 1998
   },
-  "tt11488024": {
-    "age": {
-      "classind": "12",
-      "source": "DE"
-    },
-    "awards": [
-      {
-        "fest": "annecy",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "Contrechamp",
-        "year": 2022
-      }
-    ],
-    "lists": [],
-    "poster": "/fPoUd6lm011MUCH54aNeMsDJl7z.jpg",
-    "title": "My Grandfather's Demons",
-    "tmdb_id": 588555,
-    "year": 2022
-  },
   "tt1158301": {
     "age": null,
     "awards": [
@@ -7010,13 +7046,6 @@
         "nomination": true,
         "prize": null,
         "section": "Best Animated Feature Film",
-        "year": 2021
-      },
-      {
-        "fest": "annecy",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "Official Competition",
         "year": 2021
       }
     ],
@@ -8448,23 +8477,6 @@
     "tmdb_id": 976573,
     "year": 2023
   },
-  "tt15807040": {
-    "age": null,
-    "awards": [
-      {
-        "fest": "annecy",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "Contrechamp",
-        "year": 2023
-      }
-    ],
-    "lists": [],
-    "poster": "/cgS3rbGImJAMdtJLkjbIts0v4om.jpg",
-    "title": "Johnny & Me - A Journey Through Time with John Heartfield",
-    "tmdb_id": 1104070,
-    "year": 2024
-  },
   "tt16159984": {
     "age": null,
     "awards": [
@@ -8739,6 +8751,24 @@
     "title": "Colorful",
     "tmdb_id": 64246,
     "year": 2010
+  },
+  "tt1686865": {
+    "age": null,
+    "awards": [
+      {
+        "fest": "japan-academy",
+        "level": "SELECTED",
+        "nomination": true,
+        "prize": null,
+        "section": "Excellent Animation of the Year",
+        "year": 2011
+      }
+    ],
+    "lists": [],
+    "poster": "/2hPrb9XuZSwmY6MVtWjUvczPQtG.jpg",
+    "title": "Buddha: The Great Departure",
+    "tmdb_id": 115969,
+    "year": 2011
   },
   "tt1690953": {
     "age": {
@@ -10543,23 +10573,6 @@
     "tmdb_id": 139649,
     "year": 2012
   },
-  "tt24350214": {
-    "age": null,
-    "awards": [
-      {
-        "fest": "annecy",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "Contrechamp",
-        "year": 2023
-      }
-    ],
-    "lists": [],
-    "poster": "/2jp8W1TYUgoxhkT7z07jjEMYKpz.jpg",
-    "title": "Rosa and the Stone Troll",
-    "tmdb_id": 1061858,
-    "year": 2023
-  },
   "tt2452042": {
     "age": {
       "classind": "L",
@@ -11680,6 +11693,24 @@
     "tmdb_id": 748681,
     "year": 2026
   },
+  "tt3043848": {
+    "age": null,
+    "awards": [
+      {
+        "fest": "efa",
+        "level": "SELECTED",
+        "nomination": true,
+        "prize": null,
+        "section": "Best Animated Feature Film",
+        "year": 2013
+      }
+    ],
+    "lists": [],
+    "poster": "/4qpq41RAGdF0dz1rIZJE65ghYuB.jpg",
+    "title": "Jasmine",
+    "tmdb_id": 234446,
+    "year": 2013
+  },
   "tt30476486": {
     "age": {
       "classind": "12",
@@ -12132,6 +12163,35 @@
     "title": "Loving Vincent",
     "tmdb_id": 339877,
     "year": 2017
+  },
+  "tt32820897": {
+    "age": {
+      "classind": "18",
+      "source": "BR"
+    },
+    "awards": [
+      {
+        "fest": "golden-globe",
+        "level": "SELECTED",
+        "nomination": true,
+        "prize": null,
+        "section": "Best Animated Feature Film",
+        "year": 2025
+      },
+      {
+        "fest": "japan-academy",
+        "level": "GRAND",
+        "nomination": false,
+        "prize": "Animation of the Year",
+        "section": "Animation of the Year",
+        "year": 2025
+      }
+    ],
+    "lists": [],
+    "poster": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "tmdb_id": 1311031,
+    "year": 2025
   },
   "tt33311726": {
     "age": null,
@@ -14087,13 +14147,6 @@
         "prize": null,
         "section": "Excellent Animation of the Year",
         "year": 2016
-      },
-      {
-        "fest": "annecy",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "Official Competition",
-        "year": 2017
       }
     ],
     "lists": [
@@ -14181,13 +14234,6 @@
         "prize": null,
         "section": "Best Animated Feature — Independent",
         "year": 2024
-      },
-      {
-        "fest": "annecy",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "Official Competition",
-        "year": 2023
       }
     ],
     "lists": [],
@@ -14420,24 +14466,6 @@
     "title": "The Glassworker",
     "tmdb_id": 629078,
     "year": 2024
-  },
-  "tt6069846": {
-    "age": null,
-    "awards": [
-      {
-        "fest": "mainichi",
-        "level": "GRAND",
-        "nomination": false,
-        "prize": "Animation Grand Award",
-        "section": "Animation Grand Award",
-        "year": 2017
-      }
-    ],
-    "lists": [],
-    "poster": "/p5sqIYK2gsqSug8ENI4YASJiVxT.jpg",
-    "title": "Complex x Complex",
-    "tmdb_id": 519811,
-    "year": 2017
   },
   "tt6105098": {
     "age": {
@@ -15583,23 +15611,6 @@
     "title": "Okko's Inn",
     "tmdb_id": 521296,
     "year": 2018
-  },
-  "tt8340654": {
-    "age": null,
-    "awards": [
-      {
-        "fest": "annecy",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "Contrechamp",
-        "year": 2019
-      }
-    ],
-    "lists": [],
-    "poster": "/7rDzFTOeZndj2bGYTw94wEJgRng.jpg",
-    "title": "Homeless",
-    "tmdb_id": 603320,
-    "year": 2019
   },
   "tt8387918": {
     "age": {

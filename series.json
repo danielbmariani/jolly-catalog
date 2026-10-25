@@ -64,21 +64,6 @@
       ],
       "title": "Antiviral Wipe"
     },
-    "title:Arcane::2024": {
-      "awards": [],
-      "first_air_year": 2024,
-      "lists": [
-        {
-          "edition": 2024,
-          "list": "rogerebert-25",
-          "rank": 21
-        }
-      ],
-      "seasons": 1,
-      "status": "ended",
-      "title": "Arcane Afterglow",
-      "tmdb_id": 307362
-    },
     "title:Belsen: Our Story::2020": {
       "awards": [],
       "lists": [
@@ -135,21 +120,6 @@
       ],
       "title": "Caleb Hearon: Model Comedian"
     },
-    "title:Chad::2024": {
-      "awards": [],
-      "first_air_year": 2024,
-      "lists": [
-        {
-          "edition": 2024,
-          "list": "nyt-lyons",
-          "rank": 2
-        }
-      ],
-      "seasons": 1,
-      "status": "returning",
-      "title": "The Fowl Life with Chad Belding",
-      "tmdb_id": 271540
-    },
     "title:Cheyenne and Lola::2020": {
       "awards": [
         {
@@ -162,25 +132,6 @@
       ],
       "lists": [],
       "title": "Cheyenne and Lola"
-    },
-    "title:Conan::2021": {
-      "awards": [],
-      "first_air_year": 2021,
-      "genres": [
-        10767
-      ],
-      "lists": [
-        {
-          "edition": 2021,
-          "list": "nyt-lyons",
-          "rank": 14
-        }
-      ],
-      "poster": "/ArXiKVTmyZYrxbWLsy2XU1Jkcr9.jpg",
-      "seasons": 1,
-      "status": "ended",
-      "title": "The Game of Thrones Reunion Hosted by Conan O'Brien",
-      "tmdb_id": 206584
     },
     "title:Cunk on Earth::2023": {
       "awards": [],
@@ -246,52 +197,6 @@
       "title": "Dark Horse",
       "tmdb_id": 243997
     },
-    "title:Dave::2021": {
-      "awards": [],
-      "first_air_year": 2021,
-      "lists": [
-        {
-          "edition": 2021,
-          "list": "sepinwall",
-          "rank": 14
-        },
-        {
-          "edition": 2021,
-          "list": "nyt-poniewozik",
-          "rank": 16
-        }
-      ],
-      "poster": "/w0eD3VHYMhmGYvCoFtpOdPvamFI.jpg",
-      "seasons": 1,
-      "status": "returning",
-      "title": "Groundhog Dave",
-      "tmdb_id": 204488
-    },
-    "title:Dave::2023": {
-      "awards": [],
-      "first_air_year": 2023,
-      "genres": [
-        35,
-        18
-      ],
-      "lists": [
-        {
-          "edition": 2023,
-          "list": "guardian-50",
-          "rank": 36
-        },
-        {
-          "edition": 2023,
-          "list": "nyt-poniewozik",
-          "rank": 14
-        }
-      ],
-      "poster": "/7mzIGbBZmzWg6PyRXxpjMYyPVRZ.jpg",
-      "seasons": 1,
-      "status": "returning",
-      "title": "Dave & Neil",
-      "tmdb_id": 231440
-    },
     "title:Deadwood: The Movie::2019": {
       "awards": [
         {
@@ -311,27 +216,6 @@
         }
       ],
       "title": "Deadwood: The Movie"
-    },
-    "title:Dickinson::2021": {
-      "awards": [],
-      "first_air_year": 2021,
-      "lists": [
-        {
-          "edition": 2021,
-          "list": "vulture",
-          "rank": 6
-        },
-        {
-          "edition": 2021,
-          "list": "nyt-poniewozik",
-          "rank": 2
-        }
-      ],
-      "poster": "/lwTQFtWENxL8sd0KBm4C0YlFMUb.jpg",
-      "seasons": 1,
-      "status": "returning",
-      "title": "Dickinson's Biggest and Best Deals",
-      "tmdb_id": 135963
     },
     "title:Dominic Cummings in the Rose Garden::2020": {
       "awards": [],
@@ -356,6 +240,39 @@
       ],
       "lists": [],
       "title": "Dreams of Alice"
+    },
+    "title:Empathy::2025": {
+      "awards": [
+        {
+          "fest": "series-mania",
+          "level": "SELECTED",
+          "prize": null,
+          "section": "International Competition",
+          "year": 2025
+        },
+        {
+          "fest": "series-mania",
+          "level": "PRIZE",
+          "prize": "Audience Award",
+          "section": null,
+          "year": 2025
+        }
+      ],
+      "lists": [],
+      "title": "Empathy"
+    },
+    "title:Empathy::2026": {
+      "awards": [
+        {
+          "fest": "canneseries",
+          "level": "PRIZE",
+          "prize": "Europa 1 Audience Award",
+          "section": "In Competition",
+          "year": 2026
+        }
+      ],
+      "lists": [],
+      "title": "Empathy"
     },
     "title:Ethernal::2026": {
       "awards": [
@@ -392,22 +309,6 @@
       ],
       "title": "Everything Is Well"
     },
-    "title:Foundation::2025": {
-      "awards": [],
-      "first_air_year": 2025,
-      "lists": [
-        {
-          "edition": 2025,
-          "list": "nyt-poniewozik",
-          "rank": 24
-        }
-      ],
-      "poster": "/m6CMtyHnV4TLzAZ1oZPS1oxE4G1.jpg",
-      "seasons": 2,
-      "status": "returning",
-      "title": "Clinical Foundations in Gottman Method Couples Therapy",
-      "tmdb_id": 307573
-    },
     "title:Four Hours at the Capitol::2021": {
       "awards": [],
       "lists": [
@@ -418,16 +319,6 @@
         }
       ],
       "title": "Four Hours at the Capitol"
-    },
-    "title:Gavin and Stacey (2007-10)::all": {
-      "awards": [],
-      "lists": [
-        {
-          "list": "guardian-100",
-          "rank": 81
-        }
-      ],
-      "title": "Gavin and Stacey (2007-10)"
     },
     "title:Gaza: Doctors Under Attack::2025": {
       "awards": [],
@@ -451,53 +342,17 @@
         }
       ],
       "doc": true,
-      "first_air_year": 2025,
+      "first_air_year": 2021,
       "genres": [
         99
       ],
       "lists": [],
-      "poster": "/sEo8FB8ZmlLj5BPtRB21BRXuM6F.jpg",
       "seasons": 1,
-      "status": "returning",
-      "title": "Our Generations",
-      "tmdb_id": 284944
+      "status": "ended",
+      "title": "Generations",
+      "tmdb_id": 212839
     },
-    "title:Hacks::2025": {
-      "awards": [],
-      "doc": true,
-      "first_air_year": 2025,
-      "genres": [
-        99
-      ],
-      "lists": [
-        {
-          "edition": 2025,
-          "list": "guardian-50",
-          "rank": 26
-        },
-        {
-          "edition": 2025,
-          "list": "rogerebert-25",
-          "rank": 13
-        },
-        {
-          "edition": 2025,
-          "list": "new-yorker",
-          "rank": 7
-        },
-        {
-          "edition": 2025,
-          "list": "nyt-poniewozik",
-          "rank": 15
-        }
-      ],
-      "poster": "/3P9dJyBBsnbw7PjuIFmiGPpkGWD.jpg",
-      "seasons": 3,
-      "status": "returning",
-      "title": "Zu Tisch mit Lucie – Kitchen Hacks",
-      "tmdb_id": 285501
-    },
-    "title:Harvest::2026": {
+    "title:Guts::2026": {
       "awards": [
         {
           "fest": "canneseries",
@@ -505,18 +360,53 @@
           "prize": null,
           "section": "In Competition",
           "year": 2026
+        },
+        {
+          "fest": "canneseries",
+          "level": "PRIZE",
+          "prize": "Best Performance",
+          "section": "In Competition",
+          "year": 2026
         }
       ],
-      "first_air_year": 2026,
-      "genres": [
-        18
+      "first_air_year": 2005,
+      "lists": [],
+      "poster": "/y8PrUVFAZtesQmq9B3QGvs5Fh2P.jpg",
+      "seasons": 2,
+      "status": "returning",
+      "title": "The Guts",
+      "tmdb_id": 204191
+    },
+    "title:Hard to Swallow::2024": {
+      "awards": [
+        {
+          "fest": "canneseries",
+          "level": "SELECTED",
+          "prize": null,
+          "section": "Documentary Competition",
+          "year": 2024
+        }
       ],
       "lists": [],
-      "poster": "/jg4ggctGpf3O3xBrYaJwCwxt9ZR.jpg",
+      "title": "Hard to Swallow"
+    },
+    "title:Hidden::2024": {
+      "awards": [
+        {
+          "fest": "canneseries",
+          "level": "SELECTED",
+          "prize": null,
+          "section": "Documentary Competition",
+          "year": 2024
+        }
+      ],
+      "first_air_year": 2024,
+      "lists": [],
+      "poster": "/cwqLbnLsdH7LUJzQEkTM6m6AS6W.jpg",
       "seasons": 1,
       "status": "ended",
-      "title": "Home to Harvest",
-      "tmdb_id": 330364
+      "title": "HIDDEN",
+      "tmdb_id": 277911
     },
     "title:I Always Sometimes::2026": {
       "awards": [
@@ -548,13 +438,18 @@
           "year": 2023
         }
       ],
-      "first_air_year": 2026,
       "lists": [],
-      "poster": "/ms65NSjBUqXfMaNalLf0z8WbMSf.jpg",
-      "seasons": 1,
-      "status": "returning",
-      "title": "心声都泄露了，我还怎么做大反派",
-      "tmdb_id": 326487
+      "title": "Innermost"
+    },
+    "title:I’m a Celebrity ... Get Me Out::all": {
+      "awards": [],
+      "lists": [
+        {
+          "list": "guardian-100",
+          "rank": 100
+        }
+      ],
+      "title": "I’m a Celebrity ... Get Me Out"
     },
     "title:Jerrod Carmichael: Rothaniel::2022": {
       "awards": [],
@@ -582,6 +477,27 @@
         }
       ],
       "title": "Jesus Christ Superstar Live in Concert"
+    },
+    "title:L/over::2025": {
+      "awards": [
+        {
+          "fest": "canneseries",
+          "level": "SELECTED",
+          "prize": null,
+          "section": "In Competition",
+          "year": 2025
+        }
+      ],
+      "first_air_year": 2026,
+      "genres": [
+        18
+      ],
+      "lists": [],
+      "poster": "/y1Ygx85Yb22B5s0Z8BJNVd7PaRE.jpg",
+      "seasons": 1,
+      "status": "returning",
+      "title": "L/over – ikuisesti minun",
+      "tmdb_id": 302365
     },
     "title:Limbo zone::2024": {
       "awards": [
@@ -650,22 +566,6 @@
       ],
       "title": "Marc Munden"
     },
-    "title:Maryland::2022": {
-      "awards": [],
-      "first_air_year": 2022,
-      "lists": [
-        {
-          "edition": 2022,
-          "list": "guardian-50",
-          "rank": 40
-        }
-      ],
-      "poster": "/9yU9Jps9NG803dNz2UTvweM3GSL.jpg",
-      "seasons": 1,
-      "status": "returning",
-      "title": "Catholic Beginnings - Maryland",
-      "tmdb_id": 272453
-    },
     "title:Miracle N°71::2023": {
       "awards": [
         {
@@ -678,25 +578,6 @@
       ],
       "lists": [],
       "title": "Miracle N°71"
-    },
-    "title:Mom::2021": {
-      "awards": [],
-      "first_air_year": 2021,
-      "genres": [
-        10764
-      ],
-      "lists": [
-        {
-          "edition": 2021,
-          "list": "nyt-lyons",
-          "rank": 6
-        }
-      ],
-      "poster": "/xQD4vaV9B1b1YkrdELMLsAL7b0v.jpg",
-      "seasons": 1,
-      "status": "ended",
-      "title": "Wow! Mom",
-      "tmdb_id": 123662
     },
     "title:Navalny::2022": {
       "awards": [],
@@ -739,6 +620,16 @@
       ],
       "title": "Oprah with Meghan and Harry"
     },
+    "title:Orange::all": {
+      "awards": [],
+      "lists": [
+        {
+          "list": "guardian-100",
+          "rank": 58
+        }
+      ],
+      "title": "Orange"
+    },
     "title:Out of Competition::2023": {
       "awards": [
         {
@@ -752,45 +643,6 @@
       "lists": [],
       "title": "Out of Competition"
     },
-    "title:Pati::2025": {
-      "awards": [],
-      "first_air_year": 2025,
-      "genres": [
-        18,
-        10751
-      ],
-      "lists": [
-        {
-          "edition": 2025,
-          "list": "nyt-hale-intl",
-          "rank": 18
-        }
-      ],
-      "poster": "/grDuCReweSusPKPO8WumMkI8UfK.jpg",
-      "seasons": 1,
-      "status": "returning",
-      "title": "Pati Bhramachari",
-      "tmdb_id": 291889
-    },
-    "title:Pose::2019": {
-      "awards": [],
-      "first_air_year": 2019,
-      "genres": [
-        18
-      ],
-      "lists": [
-        {
-          "edition": 2019,
-          "list": "sepinwall",
-          "rank": 9
-        }
-      ],
-      "poster": "/yU5HvGKJWbgwuxDccV0xS1fJAQ7.jpg",
-      "seasons": 1,
-      "status": "ended",
-      "title": "My Poseidon",
-      "tmdb_id": 88322
-    },
     "title:Prince Andrew and the Epstein Scandal: The Newsnight Interview::2019": {
       "awards": [],
       "lists": [
@@ -802,56 +654,16 @@
       ],
       "title": "Prince Andrew and the Epstein Scandal: The Newsnight Interview"
     },
-    "title:Ramy::2020": {
+    "title:Private Life::2018": {
       "awards": [],
-      "first_air_year": 2020,
       "lists": [
         {
-          "edition": 2020,
-          "list": "sepinwall",
-          "rank": 18
-        },
-        {
-          "edition": 2020,
-          "list": "guardian-50",
-          "rank": 23
-        }
-      ],
-      "poster": "/lUO8eT2ssCzFFnCIQ5Z3JXCuYBi.jpg",
-      "seasons": 1,
-      "status": "returning",
-      "title": "Crazy Noodle Recipe",
-      "tmdb_id": 111074
-    },
-    "title:Ramy::2022": {
-      "awards": [],
-      "first_air_year": 2022,
-      "genres": [
-        10764,
-        35
-      ],
-      "lists": [
-        {
-          "edition": 2022,
-          "list": "sepinwall",
-          "rank": 15
-        },
-        {
-          "edition": 2022,
+          "edition": 2018,
           "list": "new-yorker",
-          "rank": 18
-        },
-        {
-          "edition": 2022,
-          "list": "nyt-poniewozik",
-          "rank": 21
+          "rank": 37
         }
       ],
-      "poster": "/sKP8UzzhUuFwc5532jDFzaVXoTb.jpg",
-      "seasons": 1,
-      "status": "returning",
-      "title": "The Idol Ramyeonators",
-      "tmdb_id": 197159
+      "title": "Private Life"
     },
     "title:Russell Brand: In Plain Sight::2023": {
       "awards": [],
@@ -864,21 +676,15 @@
       ],
       "title": "Russell Brand: In Plain Sight"
     },
-    "title:Starstruck::2023": {
+    "title:Show Me::all": {
       "awards": [],
-      "first_air_year": 2023,
       "lists": [
         {
-          "edition": 2023,
-          "list": "guardian-50",
-          "rank": 33
+          "list": "guardian-100",
+          "rank": 63
         }
       ],
-      "poster": "/hpiagaXo95gnNt3tAHQf4XYREBp.jpg",
-      "seasons": 2,
-      "status": "returning",
-      "title": "Starstruck",
-      "tmdb_id": 214608
+      "title": "Show Me"
     },
     "title:Summer of '36::2026": {
       "awards": [
@@ -893,47 +699,6 @@
       "lists": [],
       "title": "Summer of '36"
     },
-    "title:Survivor::2024": {
-      "awards": [],
-      "first_air_year": 2024,
-      "genres": [
-        10764
-      ],
-      "lists": [
-        {
-          "edition": 2024,
-          "list": "new-yorker",
-          "rank": 8
-        }
-      ],
-      "poster": "/4cxJVJaCKc37ceJMXQaH2d62ROZ.jpg",
-      "seasons": 1,
-      "status": "returning",
-      "title": "Survivor All Star 2024",
-      "tmdb_id": 242728
-    },
-    "title:Teenagers::2024": {
-      "awards": [
-        {
-          "fest": "canneseries",
-          "level": "SELECTED",
-          "prize": null,
-          "section": "Documentary Competition",
-          "year": 2024
-        }
-      ],
-      "first_air_year": 2024,
-      "genres": [
-        18,
-        10765
-      ],
-      "lists": [],
-      "poster": "/cfAEfmOXddaEWhjp7JAS01hvWEZ.jpg",
-      "seasons": 1,
-      "status": "ended",
-      "title": "Teenagers in Space",
-      "tmdb_id": 251739
-    },
     "title:The 2024 Summer Olympics::2024": {
       "awards": [],
       "lists": [
@@ -944,27 +709,6 @@
         }
       ],
       "title": "The 2024 Summer Olympics"
-    },
-    "title:The Actor::2023": {
-      "awards": [
-        {
-          "fest": "series-mania",
-          "level": "GRAND",
-          "prize": "Grand Prix",
-          "section": "Compétition internationale",
-          "year": 2023
-        }
-      ],
-      "first_air_year": 2023,
-      "genres": [
-        18
-      ],
-      "lists": [],
-      "poster": "/trheMyuFuZlIXyYpmGTxwxMsZS4.jpg",
-      "seasons": 1,
-      "status": "ended",
-      "title": "The Leading Actor Dare Not Provoke",
-      "tmdb_id": 285217
     },
     "title:The Agent – The Life and Lies of My Father::2025": {
       "awards": [
@@ -990,82 +734,6 @@
       ],
       "title": "The Ballad of Buster Scruggs"
     },
-    "title:The Bear::2023": {
-      "awards": [],
-      "first_air_year": 2023,
-      "genres": [
-        10767,
-        35
-      ],
-      "lists": [
-        {
-          "edition": 2023,
-          "list": "sepinwall",
-          "rank": 2
-        },
-        {
-          "edition": 2023,
-          "list": "guardian-50",
-          "rank": 1
-        },
-        {
-          "edition": 2023,
-          "list": "rogerebert-25",
-          "rank": 5
-        },
-        {
-          "edition": 2023,
-          "list": "nyt-poniewozik",
-          "rank": 1
-        },
-        {
-          "edition": 2023,
-          "list": "vulture",
-          "rank": 2
-        },
-        {
-          "edition": 2023,
-          "list": "vulture",
-          "rank": 6
-        }
-      ],
-      "poster": "/2EQbjsauOk45iTNUacF2w15Dr9P.jpg",
-      "seasons": 1,
-      "status": "returning",
-      "title": "The After Shave with Danny Beard",
-      "tmdb_id": 236647
-    },
-    "title:The Bear::2025": {
-      "awards": [],
-      "first_air_year": 2025,
-      "genres": [
-        16,
-        10762,
-        10759
-      ],
-      "lists": [
-        {
-          "edition": 2025,
-          "list": "guardian-50",
-          "rank": 28
-        },
-        {
-          "edition": 2025,
-          "list": "rogerebert-25",
-          "rank": 14
-        },
-        {
-          "edition": 2025,
-          "list": "nyt-poniewozik",
-          "rank": 23
-        }
-      ],
-      "poster": "/necIfg41N30YMh85OSGeFMzUJRp.jpg",
-      "seasons": 2,
-      "status": "returning",
-      "title": "Boonie Bears: The Lost Treasures",
-      "tmdb_id": 301742
-    },
     "title:The Best Immigrant::2026": {
       "awards": [
         {
@@ -1086,22 +754,6 @@
       "status": "ended",
       "title": "The Best Immigrant",
       "tmdb_id": 279643
-    },
-    "title:The Change::2025": {
-      "awards": [],
-      "first_air_year": 2025,
-      "lists": [
-        {
-          "edition": 2025,
-          "list": "guardian-50",
-          "rank": 33
-        }
-      ],
-      "poster": "/dRFn7QbSkI33Lk6Dkh0x9gklfST.jpg",
-      "seasons": 2,
-      "status": "returning",
-      "title": "Impacts: Climates Change the World",
-      "tmdb_id": 311298
     },
     "title:The Chevaline Killings: Finding the Missing Piece::2023": {
       "awards": [
@@ -1140,6 +792,26 @@
       "lists": [],
       "title": "The Deal with Iran"
     },
+    "title:The Flaws::2026": {
+      "awards": [
+        {
+          "fest": "series-mania",
+          "level": "SELECTED",
+          "prize": null,
+          "section": "International Panorama",
+          "year": 2026
+        },
+        {
+          "fest": "series-mania",
+          "level": "PRIZE",
+          "prize": "Best Directing",
+          "section": "International Competition",
+          "year": 2026
+        }
+      ],
+      "lists": [],
+      "title": "The Flaws"
+    },
     "title:The Great British Baking Show::all": {
       "awards": [],
       "first_air_year": 2017,
@@ -1171,22 +843,21 @@
       "lists": [],
       "title": "The Inside Game, Seeds of Wrath"
     },
-    "title:The Judge::2018": {
-      "awards": [
+    "title:The January 6th hearings::2022": {
+      "awards": [],
+      "lists": [
         {
-          "fest": "peabody",
-          "level": "GRAND",
-          "prize": "Peabody Award",
-          "section": "Documentary",
-          "year": 2018
+          "edition": 2022,
+          "list": "new-yorker",
+          "rank": 15
+        },
+        {
+          "edition": 2022,
+          "list": "nyt-poniewozik",
+          "rank": 10
         }
       ],
-      "first_air_year": 2018,
-      "lists": [],
-      "seasons": 1,
-      "status": "returning",
-      "title": "Judge Jhorts the Show",
-      "tmdb_id": 86231
+      "title": "The January 6th hearings"
     },
     "title:The Last Musician of Auschwitz::2025": {
       "awards": [],
@@ -1198,6 +869,17 @@
         }
       ],
       "title": "The Last Musician of Auschwitz"
+    },
+    "title:The Last Survivors::2019": {
+      "awards": [],
+      "lists": [
+        {
+          "edition": 2019,
+          "list": "guardian-50",
+          "rank": 48
+        }
+      ],
+      "title": "The Last Survivors"
     },
     "title:The Rose Family::2025": {
       "awards": [
@@ -1219,6 +901,17 @@
       "lists": [],
       "title": "The Rose Family"
     },
+    "title:The Tale::2018": {
+      "awards": [],
+      "lists": [
+        {
+          "edition": 2018,
+          "list": "new-yorker",
+          "rank": 35
+        }
+      ],
+      "title": "The Tale"
+    },
     "title:This is England 86, 88 and 90::all": {
       "awards": [],
       "lists": [
@@ -1228,6 +921,16 @@
         }
       ],
       "title": "This is England 86, 88 and 90"
+    },
+    "title:This is England::all": {
+      "awards": [],
+      "lists": [
+        {
+          "list": "guardian-100",
+          "rank": 35
+        }
+      ],
+      "title": "This is England"
     },
     "title:Top Boy::2019": {
       "awards": [],
@@ -1292,17 +995,6 @@
       "title": "Top Boy",
       "tmdb_id": 93544
     },
-    "title:Transparent (Musical Finale)::2019": {
-      "awards": [],
-      "lists": [
-        {
-          "edition": 2019,
-          "list": "guardian-50",
-          "rank": 45
-        }
-      ],
-      "title": "Transparent (Musical Finale)"
-    },
     "title:US Open (women's final)::2021": {
       "awards": [],
       "lists": [
@@ -1314,24 +1006,6 @@
       ],
       "title": "US Open (women's final)"
     },
-    "title:Unchained::2026": {
-      "awards": [
-        {
-          "fest": "series-mania",
-          "level": "SELECTED",
-          "prize": null,
-          "section": "French Competition",
-          "year": 2026
-        }
-      ],
-      "first_air_year": 2026,
-      "lists": [],
-      "poster": "/pEbAgONHGeV8VX18fASCervRK9.jpg",
-      "seasons": 1,
-      "status": "returning",
-      "title": "Thibau Nys: Rufus Unchained",
-      "tmdb_id": 311020
-    },
     "title:Undercover: Exposing the Far Right::2024": {
       "awards": [],
       "lists": [
@@ -1342,22 +1016,6 @@
         }
       ],
       "title": "Undercover: Exposing the Far Right"
-    },
-    "title:Underground::2017": {
-      "awards": [],
-      "first_air_year": 2017,
-      "lists": [
-        {
-          "edition": 2017,
-          "list": "nyt-lyons",
-          "rank": 8
-        }
-      ],
-      "poster": "/yqR9B0g0LrWTgl9y96zkOFdwGkn.jpg",
-      "seasons": 1,
-      "status": "ended",
-      "title": "Ramez Underground",
-      "tmdb_id": 93623
     },
     "title:Vida de colores::2021": {
       "awards": [
@@ -1536,85 +1194,19 @@
       "lists": [],
       "title": "Twin Peaks: The Return"
     },
-    "wd:Q19526": {
+    "wd:Q145": {
       "awards": [
         {
-          "fest": "peabody",
-          "level": "GRAND",
-          "prize": "Peabody Award",
-          "section": "Documentary",
+          "fest": "series-mania",
+          "level": "PRIZE",
+          "prize": "Meilleure interprétation féminine",
+          "section": "Prix du jury de la presse internationale",
           "year": 2017
         }
       ],
-      "doc": true,
-      "first_air_year": 1969,
-      "genres": [
-        99
-      ],
       "lists": [],
-      "seasons": 1,
-      "status": "ended",
-      "title": "Dr. Maya Angelou's Blacks, Blues, Black!",
-      "tmdb_id": 307151
-    },
-    "wd:Q355": {
-      "awards": [
-        {
-          "fest": "peabody",
-          "level": "GRAND",
-          "prize": "Peabody Award",
-          "section": "Documentary",
-          "year": 2018
-        }
-      ],
-      "first_air_year": 2017,
-      "lists": [],
-      "poster": "/hKBQpcLZQRpOONu487ZxvKnbdRH.jpg",
-      "seasons": 1,
-      "status": "ended",
-      "title": "facebook.com",
-      "tmdb_id": 102719
+      "title": "Royaume-Uni )"
     }
-  },
-  "tt0050051": {
-    "awards": [],
-    "first_air_year": 1957,
-    "genres": [
-      9648,
-      18,
-      80
-    ],
-    "lists": [
-      {
-        "edition": 2023,
-        "list": "vulture",
-        "rank": 8
-      }
-    ],
-    "poster": "/sK6JvgNFP1ClT4aF4nPAZiDpAdk.jpg",
-    "seasons": 9,
-    "status": "ended",
-    "title": "Perry Mason",
-    "tmdb_id": 4177
-  },
-  "tt0072554": {
-    "awards": [],
-    "first_air_year": 1975,
-    "genres": [
-      35
-    ],
-    "lists": [
-      {
-        "edition": 2018,
-        "list": "sepinwall",
-        "rank": 18
-      }
-    ],
-    "poster": "/zheJWmmDRUYuApz83ZVrrPUjL2F.jpg",
-    "seasons": 9,
-    "status": "ended",
-    "title": "One Day at a Time",
-    "tmdb_id": 2191
   },
   "tt0072562": {
     "awards": [
@@ -1637,45 +1229,6 @@
     "status": "returning",
     "title": "Saturday Night Live",
     "tmdb_id": 1667
-  },
-  "tt0075472": {
-    "awards": [],
-    "first_air_year": 1978,
-    "genres": [
-      35,
-      18
-    ],
-    "lists": [
-      {
-        "edition": 2021,
-        "list": "vulture",
-        "rank": 5
-      }
-    ],
-    "poster": "/inl6wqdRPoLEDXttC33x9PBoMbN.jpg",
-    "seasons": 7,
-    "status": "ended",
-    "title": "All Creatures Great and Small",
-    "tmdb_id": 7406
-  },
-  "tt0094484": {
-    "awards": [],
-    "first_air_year": 1988,
-    "genres": [
-      80,
-      18
-    ],
-    "lists": [
-      {
-        "list": "nyt-100",
-        "rank": 92
-      }
-    ],
-    "poster": "/tZ1EH5HiMclbP6DWgIl8D7qETv2.jpg",
-    "seasons": 8,
-    "status": "ended",
-    "title": "In the Heat of the Night",
-    "tmdb_id": 862
   },
   "tt0098936": {
     "awards": [],
@@ -1840,6 +1393,29 @@
     "status": "ended",
     "title": "Eldorado",
     "tmdb_id": 4478
+  },
+  "tt0133302": {
+    "awards": [
+      {
+        "fest": "peabody",
+        "level": "GRAND",
+        "prize": "Peabody Award",
+        "section": "Documentary",
+        "year": 2016
+      }
+    ],
+    "doc": true,
+    "first_air_year": 1983,
+    "genres": [
+      99,
+      10763
+    ],
+    "lists": [],
+    "poster": "/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
+    "seasons": 45,
+    "status": "returning",
+    "title": "Frontline",
+    "tmdb_id": 4384
   },
   "tt0137320": {
     "awards": [
@@ -2037,6 +1613,11 @@
       {
         "list": "nyt-100",
         "rank": 31
+      },
+      {
+        "edition": 2024,
+        "list": "new-yorker",
+        "rank": 8
       }
     ],
     "poster": "/Ap0qf8VxF9DW4NXLYvMmpg3WkdF.jpg",
@@ -2071,7 +1652,7 @@
     "title": "Six Feet Under",
     "tmdb_id": 1274
   },
-  "tt0251497": {
+  "tt0257295": {
     "awards": [],
     "first_air_year": 2000,
     "genres": [
@@ -2083,11 +1664,11 @@
         "rank": 33
       }
     ],
-    "poster": "/kvuNuOJSiPSBY1FDQHFGz1PIWUe.jpg",
-    "seasons": 28,
-    "status": "returning",
+    "poster": "/cx0YldpEMh1EBpwwdgY1Awcg6ty.jpg",
+    "seasons": 19,
+    "status": "ended",
     "title": "Big Brother",
-    "tmdb_id": 10160
+    "tmdb_id": 11366
   },
   "tt0262150": {
     "awards": [],
@@ -2147,6 +1728,29 @@
     "status": "ended",
     "title": "Curb Your Enthusiasm",
     "tmdb_id": 4546
+  },
+  "tt0271022": {
+    "awards": [
+      {
+        "fest": "peabody",
+        "level": "GRAND",
+        "prize": "Peabody Award",
+        "section": "Documentary",
+        "year": 2018
+      }
+    ],
+    "first_air_year": 2001,
+    "genres": [
+      18,
+      80,
+      9648
+    ],
+    "lists": [],
+    "poster": "/guqxru6CnZuHtyIsJEJaPGNfg7p.jpg",
+    "seasons": 1,
+    "status": "ended",
+    "title": "The Judge",
+    "tmdb_id": 109307
   },
   "tt0278238": {
     "awards": [],
@@ -2342,25 +1946,6 @@
     "title": "The L Word",
     "tmdb_id": 3475
   },
-  "tt0338616": {
-    "awards": [],
-    "first_air_year": 2002,
-    "genres": [
-      35,
-      10764
-    ],
-    "lists": [
-      {
-        "list": "guardian-100",
-        "rank": 100
-      }
-    ],
-    "poster": "/qR0TzFssByXEeLE6Qtg5bjhwAfq.jpg",
-    "seasons": 25,
-    "status": "returning",
-    "title": "I'm a Celebrity...Get Me Out of Here!",
-    "tmdb_id": 30901
-  },
   "tt0348914": {
     "awards": [],
     "first_air_year": 2004,
@@ -2388,28 +1973,6 @@
     "status": "canceled",
     "title": "Deadwood",
     "tmdb_id": 1406
-  },
-  "tt0350439": {
-    "awards": [
-      {
-        "fest": "series-mania",
-        "level": "PRIZE",
-        "prize": "Coup de cœur des internautes",
-        "section": null,
-        "year": 2017
-      }
-    ],
-    "first_air_year": 2003,
-    "genres": [
-      18,
-      35
-    ],
-    "lists": [],
-    "poster": "/X2VqhomBRyQAV53p5pLgLfpgtO.jpg",
-    "seasons": 2,
-    "status": "ended",
-    "title": "Out There",
-    "tmdb_id": 12300
   },
   "tt0353049": {
     "awards": [],
@@ -3144,6 +2707,11 @@
         "edition": 2023,
         "list": "nyt-poniewozik",
         "rank": 24
+      },
+      {
+        "edition": 2025,
+        "list": "nyt-poniewozik",
+        "rank": 24
       }
     ],
     "poster": "/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg",
@@ -3225,6 +2793,25 @@
     "title": "The Killing",
     "tmdb_id": 32368
   },
+  "tt0835434": {
+    "awards": [],
+    "first_air_year": 2008,
+    "genres": [
+      18
+    ],
+    "lists": [
+      {
+        "edition": 2021,
+        "list": "sepinwall",
+        "rank": 17
+      }
+    ],
+    "poster": "/gytzjthKWMji7olvAnBGohbGmWS.jpg",
+    "seasons": 4,
+    "status": "ended",
+    "title": "In Treatment",
+    "tmdb_id": 14069
+  },
   "tt0840196": {
     "awards": [],
     "first_air_year": 2007,
@@ -3281,26 +2868,26 @@
     "title": "Eastbound & Down",
     "tmdb_id": 8624
   },
-  "tt0891396": {
+  "tt0870060": {
     "awards": [],
-    "first_air_year": 2006,
+    "first_air_year": 2004,
     "genres": [
-      10762,
-      16,
-      35
+      18,
+      35,
+      10751
     ],
     "lists": [
       {
-        "edition": 2018,
-        "list": "new-yorker",
-        "rank": 37
+        "edition": 2025,
+        "list": "nyt-hale-intl",
+        "rank": 20
       }
     ],
-    "poster": "/cH7yCS9NLVqRvOlDUCesGme2Tqy.jpg",
-    "seasons": 2,
+    "poster": "/gfA8qCggI61oLFun7ZjVpwCcuCw.jpg",
+    "seasons": 17,
     "status": "ended",
-    "title": "Minuscule: The Private Life of Insects",
-    "tmdb_id": 15886
+    "title": "Soldiers",
+    "tmdb_id": 69830
   },
   "tt0898266": {
     "awards": [],
@@ -3346,6 +2933,25 @@
     "status": "ended",
     "title": "Breaking Bad",
     "tmdb_id": 1396
+  },
+  "tt0908454": {
+    "awards": [],
+    "first_air_year": 2007,
+    "genres": [
+      35,
+      18
+    ],
+    "lists": [
+      {
+        "list": "guardian-100",
+        "rank": 81
+      }
+    ],
+    "poster": "/jNpySE7Rwq1DlhHadMZnGquralv.jpg",
+    "seasons": 3,
+    "status": "ended",
+    "title": "Gavin & Stacey",
+    "tmdb_id": 3696
   },
   "tt0944947": {
     "awards": [
@@ -3751,15 +3357,7 @@
     "tmdb_id": 122066
   },
   "tt10167012": {
-    "awards": [
-      {
-        "fest": "series-mania",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "French Competition",
-        "year": 2025
-      }
-    ],
+    "awards": [],
     "first_air_year": 2025,
     "genres": [
       35
@@ -3888,6 +3486,11 @@
         "edition": 2021,
         "list": "new-yorker",
         "rank": 14
+      },
+      {
+        "edition": 2024,
+        "list": "nyt-lyons",
+        "rank": 2
       }
     ],
     "poster": "/8i3KBIgdnxpHgzE0eBr0CuKWTF5.jpg",
@@ -3975,6 +3578,26 @@
     "status": "canceled",
     "title": "Alter Ego",
     "tmdb_id": 89674
+  },
+  "tt10380768": {
+    "awards": [],
+    "first_air_year": 2020,
+    "genres": [
+      35,
+      18
+    ],
+    "lists": [
+      {
+        "edition": 2022,
+        "list": "guardian-50",
+        "rank": 44
+      }
+    ],
+    "poster": "/yIlbPxb7KC4k112v8vattKwLsN7.jpg",
+    "seasons": 2,
+    "status": "canceled",
+    "title": "Love Life",
+    "tmdb_id": 102316
   },
   "tt10380896": {
     "awards": [],
@@ -4069,26 +3692,6 @@
     "title": "Work in Progress",
     "tmdb_id": 91814
   },
-  "tt10438052": {
-    "awards": [],
-    "first_air_year": 2020,
-    "genres": [
-      18,
-      9648
-    ],
-    "lists": [
-      {
-        "edition": 2020,
-        "list": "guardian-50",
-        "rank": 10
-      }
-    ],
-    "poster": "/hVCgPUa3erqloRrYdhnWgKGAHsk.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Hungry Ghosts",
-    "tmdb_id": 108159
-  },
   "tt10473150": {
     "awards": [],
     "first_air_year": 2020,
@@ -4152,27 +3755,6 @@
     "status": "ended",
     "title": "Our Boys",
     "tmdb_id": 91752
-  },
-  "tt10519936": {
-    "awards": [],
-    "first_air_year": 2019,
-    "lists": [
-      {
-        "edition": 2019,
-        "list": "guardian-50",
-        "rank": 26
-      },
-      {
-        "edition": 2019,
-        "list": "vulture",
-        "rank": 3
-      }
-    ],
-    "poster": "/gxgi9IkgfGMSyjzydmxDQ63YYLB.jpg",
-    "seasons": 1,
-    "status": "returning",
-    "title": "Doctor Barry",
-    "tmdb_id": 224877
   },
   "tt10541088": {
     "awards": [],
@@ -4327,24 +3909,25 @@
     "title": "Man in Room 301",
     "tmdb_id": 99612
   },
-  "tt10625706": {
+  "tt10590066": {
     "awards": [],
-    "first_air_year": 2018,
+    "first_air_year": 2020,
     "genres": [
+      18,
       35
     ],
     "lists": [
       {
-        "edition": 2018,
-        "list": "new-yorker",
-        "rank": 28
+        "edition": 2021,
+        "list": "vulture",
+        "rank": 5
       }
     ],
-    "poster": "/idcBDhCjCO0cMyFEWtnb4hgpSRa.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Pasado de Copas (Drunk History)",
-    "tmdb_id": 103729
+    "poster": "/hchdfgmviL9qzJ3OVd0LOkh1b5F.jpg",
+    "seasons": 7,
+    "status": "returning",
+    "title": "All Creatures Great & Small",
+    "tmdb_id": 108255
   },
   "tt10638036": {
     "awards": [],
@@ -4609,6 +4192,11 @@
         "edition": 2021,
         "list": "guardian-50",
         "rank": 9
+      },
+      {
+        "edition": 2023,
+        "list": "guardian-50",
+        "rank": 33
       }
     ],
     "poster": "/edwRHGJyn3mcQuOxPJwWVENKqL0.jpg",
@@ -4746,6 +4334,26 @@
     "title": "The Rehearsal",
     "tmdb_id": 204284
   },
+  "tt10814438": {
+    "awards": [],
+    "first_air_year": 2020,
+    "genres": [
+      35,
+      18
+    ],
+    "lists": [
+      {
+        "edition": 2021,
+        "list": "nyt-lyons",
+        "rank": 1
+      }
+    ],
+    "poster": "/ui9Ii7dKaEZBl0N0bSGBY9wH26k.jpg",
+    "seasons": 2,
+    "status": "canceled",
+    "title": "Betty",
+    "tmdb_id": 95170
+  },
   "tt10846104": {
     "awards": [
       {
@@ -4837,6 +4445,42 @@
     "status": "ended",
     "title": "I Hate Suzie",
     "tmdb_id": 92628
+  },
+  "tt10850598": {
+    "awards": [
+      {
+        "fest": "canneseries",
+        "level": "SELECTED",
+        "prize": null,
+        "section": "In Competition",
+        "year": 2022
+      },
+      {
+        "fest": "canneseries",
+        "level": "PRIZE",
+        "prize": "Best Screenplay",
+        "section": "In Competition",
+        "year": 2022
+      },
+      {
+        "fest": "canneseries",
+        "level": "PRIZE",
+        "prize": "Best Music",
+        "section": "In Competition",
+        "year": 2022
+      }
+    ],
+    "first_air_year": 2022,
+    "genres": [
+      9648,
+      18
+    ],
+    "lists": [],
+    "poster": "/dlI2C7dop8m5m0RySWD23rPhhsq.jpg",
+    "seasons": 1,
+    "status": "ended",
+    "title": "Souls",
+    "tmdb_id": 214093
   },
   "tt10919420": {
     "awards": [
@@ -4960,6 +4604,11 @@
         "edition": 2022,
         "list": "new-yorker",
         "rank": 16
+      },
+      {
+        "edition": 2024,
+        "list": "guardian-50",
+        "rank": 49
       }
     ],
     "poster": "/ebXgoq33gsIC3ULeX53gZKN86No.jpg",
@@ -5217,24 +4866,26 @@
     "title": "Rutherford Falls",
     "tmdb_id": 93748
   },
-  "tt11080216": {
+  "tt11126994": {
     "awards": [],
     "first_air_year": 2021,
     "genres": [
-      18
+      16,
+      10759,
+      10765
     ],
     "lists": [
       {
-        "edition": 2021,
-        "list": "sepinwall",
-        "rank": 17
+        "edition": 2024,
+        "list": "rogerebert-25",
+        "rank": 21
       }
     ],
-    "poster": "/n5HvEy7LZ2fOWR0eINluWWu7kuH.jpg",
+    "poster": "/87C0wecB8bHb1PsrKBI4kJiEkgV.jpg",
     "seasons": 2,
     "status": "ended",
-    "title": "In Treatment",
-    "tmdb_id": 95428
+    "title": "Arcane",
+    "tmdb_id": 94605
   },
   "tt11198330": {
     "awards": [],
@@ -5256,6 +4907,27 @@
     "status": "returning",
     "title": "House of the Dragon",
     "tmdb_id": 94997
+  },
+  "tt11202928": {
+    "awards": [
+      {
+        "fest": "series-mania",
+        "level": "SELECTED",
+        "prize": null,
+        "section": "French Competition",
+        "year": 2026
+      }
+    ],
+    "first_air_year": 2019,
+    "genres": [
+      18
+    ],
+    "lists": [],
+    "poster": "/y6IZX8DPq8t6ueC2AX3Jm1B4b4w.jpg",
+    "seasons": 1,
+    "status": "ended",
+    "title": "Unchained",
+    "tmdb_id": 97326
   },
   "tt11204260": {
     "awards": [
@@ -5384,34 +5056,6 @@
     "status": "returning",
     "title": "Sweetpea",
     "tmdb_id": 218347
-  },
-  "tt11227980": {
-    "awards": [
-      {
-        "fest": "series-mania",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "International Panorama",
-        "year": 2026
-      },
-      {
-        "fest": "series-mania",
-        "level": "PRIZE",
-        "prize": "Best Directing",
-        "section": "International Competition",
-        "year": 2026
-      }
-    ],
-    "first_air_year": 2019,
-    "genres": [
-      35
-    ],
-    "lists": [],
-    "poster": "/2YrxoA6HhRaFwtwbrdNMOx1fvh1.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Love with Flaws",
-    "tmdb_id": 95212
   },
   "tt11269180": {
     "awards": [
@@ -5709,6 +5353,11 @@
         "edition": 2021,
         "list": "guardian-50",
         "rank": 34
+      },
+      {
+        "edition": 2023,
+        "list": "guardian-50",
+        "rank": 22
       }
     ],
     "poster": "/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
@@ -5945,6 +5594,27 @@
     "status": "ended",
     "title": "Visible: Out on Television",
     "tmdb_id": 97363
+  },
+  "tt11646832": {
+    "awards": [],
+    "first_air_year": 2021,
+    "genres": [
+      35,
+      80,
+      18
+    ],
+    "lists": [
+      {
+        "edition": 2022,
+        "list": "guardian-50",
+        "rank": 42
+      }
+    ],
+    "poster": "/s8vp0S0iz2nPb7TpOpV0rHbm1er.jpg",
+    "seasons": 3,
+    "status": "ended",
+    "title": "The Outlaws",
+    "tmdb_id": 136044
   },
   "tt11650492": {
     "awards": [
@@ -6295,6 +5965,26 @@
         "edition": 2024,
         "list": "nyt-poniewozik",
         "rank": 15
+      },
+      {
+        "edition": 2025,
+        "list": "guardian-50",
+        "rank": 26
+      },
+      {
+        "edition": 2025,
+        "list": "rogerebert-25",
+        "rank": 13
+      },
+      {
+        "edition": 2025,
+        "list": "new-yorker",
+        "rank": 7
+      },
+      {
+        "edition": 2025,
+        "list": "nyt-poniewozik",
+        "rank": 15
       }
     ],
     "poster": "/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
@@ -6431,6 +6121,31 @@
     "title": "The Responder",
     "tmdb_id": 155346
   },
+  "tt1190634": {
+    "awards": [],
+    "first_air_year": 2019,
+    "genres": [
+      10765,
+      10759
+    ],
+    "lists": [
+      {
+        "edition": 2020,
+        "list": "guardian-50",
+        "rank": 40
+      },
+      {
+        "edition": 2020,
+        "list": "new-yorker",
+        "rank": 12
+      }
+    ],
+    "poster": "/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "seasons": 5,
+    "status": "ended",
+    "title": "The Boys",
+    "tmdb_id": 76479
+  },
   "tt11921588": {
     "awards": [],
     "first_air_year": 2022,
@@ -6519,50 +6234,6 @@
     "status": "ended",
     "title": "Alma's Not Normal",
     "tmdb_id": 106161
-  },
-  "tt12162902": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2020,
-    "genres": [
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2020,
-        "list": "guardian-50",
-        "rank": 35
-      },
-      {
-        "edition": 2020,
-        "list": "vulture",
-        "rank": 6
-      }
-    ],
-    "poster": "/qwc5RFNadL7YYtMfly58AjYUA50.jpg",
-    "seasons": 3,
-    "status": "ended",
-    "title": "Disney Gallery / Star Wars: The Mandalorian",
-    "tmdb_id": 101978
-  },
-  "tt12181864": {
-    "awards": [],
-    "first_air_year": 2019,
-    "genres": [
-      18
-    ],
-    "lists": [
-      {
-        "edition": 2019,
-        "list": "vulture",
-        "rank": 8
-      }
-    ],
-    "poster": "/aY3AtpNv4tFOuhJZD9mWrKcH68x.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "The Good Fight",
-    "tmdb_id": 121813
   },
   "tt12190580": {
     "awards": [],
@@ -6800,6 +6471,27 @@
     "status": "canceled",
     "title": "The Wonder Years",
     "tmdb_id": 126164
+  },
+  "tt12693148": {
+    "awards": [],
+    "first_air_year": 2020,
+    "genres": [
+      80,
+      9648,
+      18
+    ],
+    "lists": [
+      {
+        "edition": 2021,
+        "list": "guardian-50",
+        "rank": 41
+      }
+    ],
+    "poster": "/plLyqHqxcm2pxvLGnQjWXJRib3l.jpg",
+    "seasons": 1,
+    "status": "ended",
+    "title": "The Hunt for a Killer",
+    "tmdb_id": 113370
   },
   "tt12708140": {
     "awards": [],
@@ -7208,30 +6900,6 @@
     "title": "The Cleaner",
     "tmdb_id": 132156
   },
-  "tt12996012": {
-    "awards": [],
-    "first_air_year": 2020,
-    "genres": [
-      10767
-    ],
-    "lists": [
-      {
-        "edition": 2020,
-        "list": "guardian-50",
-        "rank": 40
-      },
-      {
-        "edition": 2020,
-        "list": "new-yorker",
-        "rank": 12
-      }
-    ],
-    "poster": "/h27W52CcRXIaXoao2NWlAAS3wap.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Prime Rewind: Inside The Boys",
-    "tmdb_id": 106418
-  },
   "tt13016388": {
     "awards": [],
     "first_air_year": 2024,
@@ -7361,6 +7029,31 @@
     "title": "The Allegation",
     "tmdb_id": 136155
   },
+  "tt13138834": {
+    "awards": [],
+    "first_air_year": 2021,
+    "genres": [
+      18,
+      80
+    ],
+    "lists": [
+      {
+        "edition": 2021,
+        "list": "guardian-50",
+        "rank": 7
+      },
+      {
+        "edition": 2023,
+        "list": "guardian-50",
+        "rank": 23
+      }
+    ],
+    "poster": "/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
+    "seasons": 3,
+    "status": "ended",
+    "title": "Time",
+    "tmdb_id": 126116
+  },
   "tt13159924": {
     "awards": [],
     "first_air_year": 2023,
@@ -7381,31 +7074,6 @@
     "status": "canceled",
     "title": "Gen V",
     "tmdb_id": 205715
-  },
-  "tt13282662": {
-    "awards": [],
-    "first_air_year": 2021,
-    "genres": [
-      35,
-      18
-    ],
-    "lists": [
-      {
-        "edition": 2021,
-        "list": "guardian-50",
-        "rank": 24
-      },
-      {
-        "edition": 2021,
-        "list": "new-yorker",
-        "rank": 13
-      }
-    ],
-    "poster": "/iaDpI2BBF6KGLSyaBkxt1qMVWq9.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Call My Agent Bollywood",
-    "tmdb_id": 136076
   },
   "tt13309742": {
     "awards": [],
@@ -7431,6 +7099,31 @@
     "status": "returning",
     "title": "BLUE EYE SAMURAI",
     "tmdb_id": 225180
+  },
+  "tt13314510": {
+    "awards": [],
+    "first_air_year": 2022,
+    "genres": [
+      18,
+      35
+    ],
+    "lists": [
+      {
+        "edition": 2022,
+        "list": "sepinwall",
+        "rank": 7
+      },
+      {
+        "edition": 2022,
+        "list": "nyt-poniewozik",
+        "rank": 9
+      }
+    ],
+    "poster": "/cKasVe3wYtZpfQamxZlRCWYeqgX.jpg",
+    "seasons": 1,
+    "status": "canceled",
+    "title": "High School",
+    "tmdb_id": 208061
   },
   "tt13323596": {
     "awards": [],
@@ -7498,6 +7191,30 @@
     "status": "ended",
     "title": "Interior Chinatown",
     "tmdb_id": 212246
+  },
+  "tt13366604": {
+    "awards": [],
+    "first_air_year": 2023,
+    "genres": [
+      35
+    ],
+    "lists": [
+      {
+        "edition": 2025,
+        "list": "guardian-50",
+        "rank": 15
+      },
+      {
+        "edition": 2025,
+        "list": "nyt-poniewozik",
+        "rank": 20
+      }
+    ],
+    "poster": "/7G8wB9CG82nITeFwRFIRSk0sQJs.jpg",
+    "seasons": 3,
+    "status": "returning",
+    "title": "Platonic",
+    "tmdb_id": 112211
   },
   "tt13406094": {
     "awards": [
@@ -7605,6 +7322,36 @@
     "status": "returning",
     "title": "The White Lotus",
     "tmdb_id": 111803
+  },
+  "tt13424004": {
+    "awards": [
+      {
+        "fest": "canneseries",
+        "level": "SELECTED",
+        "prize": null,
+        "section": "In Competition",
+        "year": 2021
+      },
+      {
+        "fest": "canneseries",
+        "level": "PRIZE",
+        "prize": "Best Music",
+        "section": "In Competition",
+        "year": 2021
+      }
+    ],
+    "first_air_year": 2022,
+    "genres": [
+      9648,
+      80,
+      18
+    ],
+    "lists": [],
+    "poster": "/6LsADzNnCQE6IusbRYnNyX0CYaX.jpg",
+    "seasons": 2,
+    "status": "ended",
+    "title": "Christian",
+    "tmdb_id": 155724
   },
   "tt13439500": {
     "awards": [
@@ -7951,32 +7698,6 @@
     "title": "Alien: Earth",
     "tmdb_id": 157239
   },
-  "tt13634872": {
-    "awards": [],
-    "first_air_year": 2021,
-    "genres": [
-      18,
-      80,
-      9648
-    ],
-    "lists": [
-      {
-        "edition": 2021,
-        "list": "vulture",
-        "rank": 6
-      },
-      {
-        "edition": 2021,
-        "list": "new-yorker",
-        "rank": 20
-      }
-    ],
-    "poster": "/qvR2V6BlXrJ7VTuhEfnXc4rTJTR.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Beyond Evil",
-    "tmdb_id": 116612
-  },
   "tt13649112": {
     "awards": [
       {
@@ -8106,28 +7827,6 @@
     "title": "I'm a Virgo",
     "tmdb_id": 105169
   },
-  "tt13651632": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2021,
-    "genres": [
-      99,
-      80,
-      9648
-    ],
-    "lists": [
-      {
-        "edition": 2021,
-        "list": "guardian-50",
-        "rank": 41
-      }
-    ],
-    "poster": "/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Night Stalker: The Hunt for a Serial Killer",
-    "tmdb_id": 114705
-  },
   "tt13656220": {
     "awards": [],
     "doc": true,
@@ -8147,24 +7846,6 @@
     "status": "ended",
     "title": "We Are: The Brooklyn Saints",
     "tmdb_id": 115756
-  },
-  "tt13659724": {
-    "awards": [
-      {
-        "fest": "canneseries",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "Documentary Competition",
-        "year": 2024
-      }
-    ],
-    "first_air_year": 2026,
-    "lists": [],
-    "poster": "/1Mjh2N8TpARIdjj1hIG1HzUjdlM.jpg",
-    "seasons": 1,
-    "status": "returning",
-    "title": "Hard To Swallow",
-    "tmdb_id": 314990
   },
   "tt13670374": {
     "awards": [],
@@ -8302,29 +7983,6 @@
     "status": "ended",
     "title": "Lessons in Chemistry",
     "tmdb_id": 117303
-  },
-  "tt13918776": {
-    "awards": [
-      {
-        "fest": "berlinale-series",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "Berlinale Series Competition",
-        "year": 2023
-      }
-    ],
-    "first_air_year": 2023,
-    "genres": [
-      10759,
-      18,
-      9648
-    ],
-    "lists": [],
-    "poster": "/4c5yUNcaff4W4aPrkXE6zr7papX.jpg",
-    "seasons": 4,
-    "status": "returning",
-    "title": "The Night Agent",
-    "tmdb_id": 129552
   },
   "tt13958942": {
     "awards": [
@@ -8520,41 +8178,6 @@
     "status": "ended",
     "title": "The Gold",
     "tmdb_id": 218351
-  },
-  "tt14082716": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2019,
-    "genres": [
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2019,
-        "list": "sepinwall",
-        "rank": 15
-      },
-      {
-        "edition": 2019,
-        "list": "guardian-50",
-        "rank": 9
-      },
-      {
-        "edition": 2019,
-        "list": "new-yorker",
-        "rank": 18
-      },
-      {
-        "edition": 2019,
-        "list": "nyt-lyons",
-        "rank": 2
-      }
-    ],
-    "poster": "/n9JYm9zOs7I36F2uJDYF9NREXk9.jpg",
-    "seasons": 4,
-    "status": "returning",
-    "title": "What Went Wrong: Countdown To Catastrophe",
-    "tmdb_id": 153541
   },
   "tt14129378": {
     "awards": [],
@@ -8847,6 +8470,27 @@
     "status": "canceled",
     "title": "Poker Face",
     "tmdb_id": 120998
+  },
+  "tt14281314": {
+    "awards": [
+      {
+        "fest": "canneseries",
+        "level": "SELECTED",
+        "prize": null,
+        "section": "In Competition",
+        "year": 2022
+      }
+    ],
+    "first_air_year": 2021,
+    "genres": [
+      18
+    ],
+    "lists": [],
+    "poster": "/oiyK8Jz2mjIPLCD60gHWG3Nth6d.jpg",
+    "seasons": 1,
+    "status": "returning",
+    "title": "Punishment",
+    "tmdb_id": 214016
   },
   "tt14302518": {
     "awards": [
@@ -9266,6 +8910,66 @@
         "edition": 2022,
         "list": "vulture",
         "rank": 10
+      },
+      {
+        "edition": 2023,
+        "list": "sepinwall",
+        "rank": 2
+      },
+      {
+        "edition": 2023,
+        "list": "guardian-50",
+        "rank": 1
+      },
+      {
+        "edition": 2023,
+        "list": "rogerebert-25",
+        "rank": 5
+      },
+      {
+        "edition": 2023,
+        "list": "nyt-poniewozik",
+        "rank": 1
+      },
+      {
+        "edition": 2023,
+        "list": "vulture",
+        "rank": 2
+      },
+      {
+        "edition": 2023,
+        "list": "vulture",
+        "rank": 6
+      },
+      {
+        "edition": 2024,
+        "list": "guardian-50",
+        "rank": 27
+      },
+      {
+        "edition": 2024,
+        "list": "rogerebert-25",
+        "rank": 23
+      },
+      {
+        "edition": 2024,
+        "list": "nyt-poniewozik",
+        "rank": 20
+      },
+      {
+        "edition": 2025,
+        "list": "guardian-50",
+        "rank": 28
+      },
+      {
+        "edition": 2025,
+        "list": "rogerebert-25",
+        "rank": 14
+      },
+      {
+        "edition": 2025,
+        "list": "nyt-poniewozik",
+        "rank": 23
       }
     ],
     "poster": "/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
@@ -9381,26 +9085,26 @@
     "title": "Beckham",
     "tmdb_id": 235345
   },
-  "tt14536022": {
+  "tt14531842": {
     "awards": [],
-    "doc": true,
-    "first_air_year": 2021,
+    "first_air_year": 2023,
     "genres": [
-      99,
-      80
+      35,
+      10759,
+      10765
     ],
     "lists": [
       {
-        "edition": 2021,
-        "list": "guardian-50",
-        "rank": 19
+        "edition": 2024,
+        "list": "vulture",
+        "rank": 7
       }
     ],
-    "poster": "/ezbpKag6l0KX7isCzr4L1VnW9Ps.jpg",
-    "seasons": 1,
-    "status": "returning",
-    "title": "Bent Coppers: Crossing the Line of Duty",
-    "tmdb_id": 123343
+    "poster": "/uyDIWMAwfLqiIz0QQm0MPDE0085.jpg",
+    "seasons": 2,
+    "status": "canceled",
+    "title": "Extraordinary",
+    "tmdb_id": 47907
   },
   "tt14540468": {
     "awards": [
@@ -9538,6 +9242,28 @@
     "title": "Silo",
     "tmdb_id": 125988
   },
+  "tt14690552": {
+    "awards": [
+      {
+        "fest": "series-mania",
+        "level": "GRAND",
+        "prize": "Grand Prix",
+        "section": "Compétition internationale",
+        "year": 2023
+      }
+    ],
+    "first_air_year": 2023,
+    "genres": [
+      18,
+      10751
+    ],
+    "lists": [],
+    "poster": "/eMiIALhCGY8eNMI7zJijGQZdsK8.jpg",
+    "seasons": 1,
+    "status": "ended",
+    "title": "Actor",
+    "tmdb_id": 219102
+  },
   "tt14733462": {
     "awards": [],
     "doc": true,
@@ -9670,26 +9396,6 @@
     "title": "The Big Door Prize",
     "tmdb_id": 194704
   },
-  "tt14782352": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2018,
-    "genres": [
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2018,
-        "list": "vulture",
-        "rank": 6
-      }
-    ],
-    "poster": "/b1xui3vz65D7rp4aaTnZX1YXv9q.jpg",
-    "seasons": 10,
-    "status": "returning",
-    "title": "Casualty 24/7: Every Second Counts",
-    "tmdb_id": 99939
-  },
   "tt14825858": {
     "awards": [],
     "first_air_year": 2021,
@@ -9770,6 +9476,28 @@
     "status": "ended",
     "title": "Justified",
     "tmdb_id": 1436
+  },
+  "tt14909772": {
+    "awards": [
+      {
+        "fest": "canneseries",
+        "level": "SELECTED",
+        "prize": null,
+        "section": "In Competition",
+        "year": 2022
+      }
+    ],
+    "first_air_year": 2023,
+    "genres": [
+      18,
+      80
+    ],
+    "lists": [],
+    "poster": "/5uifVE4rG4SCPShxXxY6KQLZTUV.jpg",
+    "seasons": 1,
+    "status": "ended",
+    "title": "1985",
+    "tmdb_id": 104649
   },
   "tt1492966": {
     "awards": [],
@@ -10024,11 +9752,6 @@
     "lists": [
       {
         "edition": 2023,
-        "list": "guardian-50",
-        "rank": 23
-      },
-      {
-        "edition": 2023,
         "list": "rogerebert-25",
         "rank": 16
       }
@@ -10246,25 +9969,6 @@
     "status": "ended",
     "title": "Fellow Travelers",
     "tmdb_id": 216089
-  },
-  "tt15385850": {
-    "awards": [],
-    "first_air_year": 2021,
-    "genres": [
-      35
-    ],
-    "lists": [
-      {
-        "edition": 2021,
-        "list": "guardian-50",
-        "rank": 43
-      }
-    ],
-    "poster": "/tKgRf8hYoIYHG4luesxNpahY9Iw.jpg",
-    "seasons": 12,
-    "status": "returning",
-    "title": "The Flight Attendants",
-    "tmdb_id": 133346
   },
   "tt15424742": {
     "awards": [
@@ -10672,6 +10376,26 @@
     "title": "Shrinking",
     "tmdb_id": 136311
   },
+  "tt15680030": {
+    "awards": [],
+    "first_air_year": 2022,
+    "genres": [
+      80,
+      18
+    ],
+    "lists": [
+      {
+        "edition": 2024,
+        "list": "nyt-hale-intl",
+        "rank": 10
+      }
+    ],
+    "poster": "/hgmerjnEDxSZIhQFnjSkWa9ATSc.jpg",
+    "seasons": 1,
+    "status": "ended",
+    "title": "Without Sin",
+    "tmdb_id": 156946
+  },
   "tt15750902": {
     "awards": [
       {
@@ -10803,6 +10527,11 @@
         "edition": 2022,
         "list": "new-yorker",
         "rank": 3
+      },
+      {
+        "edition": 2025,
+        "list": "guardian-50",
+        "rank": 21
       }
     ],
     "poster": "/x3ojdK36AKestQaL2nAE6A7JYWO.jpg",
@@ -10887,51 +10616,6 @@
     "status": "ended",
     "title": "Downton Abbey",
     "tmdb_id": 33907
-  },
-  "tt16103046": {
-    "awards": [],
-    "first_air_year": 2021,
-    "genres": [
-      10764
-    ],
-    "lists": [
-      {
-        "edition": 2021,
-        "list": "vulture",
-        "rank": 9
-      },
-      {
-        "edition": 2021,
-        "list": "new-yorker",
-        "rank": 10
-      }
-    ],
-    "poster": "/a8Nlv1jjsk7iozJMwgeYwrioRiM.jpg",
-    "seasons": 5,
-    "status": "returning",
-    "title": "See You Again",
-    "tmdb_id": 130099
-  },
-  "tt16252490": {
-    "awards": [],
-    "first_air_year": 2021,
-    "genres": [
-      80,
-      9648,
-      18
-    ],
-    "lists": [
-      {
-        "edition": 2021,
-        "list": "guardian-50",
-        "rank": 29
-      }
-    ],
-    "poster": "/ogIu6ZF0CutbWPRD21igUIOkv6N.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Guilty Flag",
-    "tmdb_id": 135933
   },
   "tt16283466": {
     "awards": [
@@ -11072,6 +10756,27 @@
     "title": "Complètement lycée",
     "tmdb_id": 131206
   },
+  "tt1637574": {
+    "awards": [],
+    "first_air_year": 2010,
+    "genres": [
+      10767,
+      35,
+      10763
+    ],
+    "lists": [
+      {
+        "edition": 2021,
+        "list": "nyt-lyons",
+        "rank": 14
+      }
+    ],
+    "poster": "/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+    "seasons": 11,
+    "status": "ended",
+    "title": "Conan",
+    "tmdb_id": 32415
+  },
   "tt16378210": {
     "awards": [
       {
@@ -11125,47 +10830,6 @@
     "title": "Under the Bridge",
     "tmdb_id": 211358
   },
-  "tt16452690": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2022,
-    "genres": [
-      80,
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2022,
-        "list": "guardian-50",
-        "rank": 14
-      },
-      {
-        "edition": 2022,
-        "list": "sepinwall",
-        "rank": 3
-      },
-      {
-        "edition": 2022,
-        "list": "new-yorker",
-        "rank": 12
-      },
-      {
-        "edition": 2022,
-        "list": "nyt-poniewozik",
-        "rank": 3
-      },
-      {
-        "edition": 2022,
-        "list": "nyt-lyons",
-        "rank": 2
-      }
-    ],
-    "poster": "/49rZQUSPfAitjYUISYqWbakpusL.jpg",
-    "seasons": 4,
-    "status": "returning",
-    "title": "The Real Murders of Atlanta",
-    "tmdb_id": 155757
-  },
   "tt16493232": {
     "awards": [],
     "first_air_year": 2024,
@@ -11184,63 +10848,6 @@
     "status": "ended",
     "title": "Mr Loverman",
     "tmdb_id": 252133
-  },
-  "tt16607886": {
-    "awards": [],
-    "first_air_year": 2021,
-    "genres": [
-      35
-    ],
-    "lists": [
-      {
-        "edition": 2021,
-        "list": "guardian-50",
-        "rank": 46
-      }
-    ],
-    "poster": "/7ekINltaEeTrkWDcXpJru428Zr.jpg",
-    "seasons": 3,
-    "status": "ended",
-    "title": "Happy ToGetHer",
-    "tmdb_id": 218266
-  },
-  "tt16729514": {
-    "awards": [],
-    "first_air_year": 2022,
-    "genres": [
-      80,
-      9648
-    ],
-    "lists": [
-      {
-        "edition": 2022,
-        "list": "guardian-50",
-        "rank": 32
-      }
-    ],
-    "poster": "/ou4Dal2mFUwcHYC6lmf8SW00NzZ.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "The Great Indian Murder",
-    "tmdb_id": 155846
-  },
-  "tt1685471": {
-    "awards": [],
-    "first_air_year": 2010,
-    "genres": [
-      18
-    ],
-    "lists": [
-      {
-        "list": "guardian-100",
-        "rank": 35
-      }
-    ],
-    "poster": "/hUwvcDAZG0nbVQokqZh1oQt8Cpm.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "This Is England '86",
-    "tmdb_id": 33933
   },
   "tt16969708": {
     "awards": [],
@@ -11336,7 +10943,13 @@
       18,
       10768
     ],
-    "lists": [],
+    "lists": [
+      {
+        "edition": 2024,
+        "list": "nyt-hale-intl",
+        "rank": 7
+      }
+    ],
     "poster": "/Arbgu9JZXuuDfua9MLFF1IdpIzt.jpg",
     "seasons": 1,
     "status": "ended",
@@ -11383,6 +10996,21 @@
       {
         "list": "guardian-100",
         "rank": 18
+      },
+      {
+        "edition": 2016,
+        "list": "sepinwall",
+        "rank": 16
+      },
+      {
+        "edition": 2017,
+        "list": "sepinwall",
+        "rank": 14
+      },
+      {
+        "edition": 2017,
+        "list": "nyt-lyons",
+        "rank": 5
       }
     ],
     "poster": "/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg",
@@ -11776,48 +11404,6 @@
     "title": "Colin from Accounts",
     "tmdb_id": 203614
   },
-  "tt18235300": {
-    "awards": [
-      {
-        "fest": "canneseries",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "In Competition",
-        "year": 2022
-      }
-    ],
-    "first_air_year": 2022,
-    "genres": [
-      18,
-      35
-    ],
-    "lists": [],
-    "poster": "/9LE3MQ4xs09b3wdZ5vZwBeIw7dU.jpg",
-    "seasons": 2,
-    "status": "ended",
-    "title": "Correction and Punishment",
-    "tmdb_id": 154403
-  },
-  "tt18253682": {
-    "awards": [],
-    "first_air_year": 2022,
-    "genres": [
-      18,
-      35
-    ],
-    "lists": [
-      {
-        "edition": 2022,
-        "list": "guardian-50",
-        "rank": 44
-      }
-    ],
-    "poster": "/f6Ee832SCyupCSZ4gp9iTAT0rI3.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Love, Life & Everything in Between",
-    "tmdb_id": 158763
-  },
   "tt18265020": {
     "awards": [],
     "doc": true,
@@ -11900,6 +11486,43 @@
     "status": "ended",
     "title": "Bad Behaviour",
     "tmdb_id": 207368
+  },
+  "tt1837576": {
+    "awards": [],
+    "first_air_year": 2012,
+    "genres": [
+      18
+    ],
+    "lists": [
+      {
+        "list": "nyt-100",
+        "rank": 100
+      }
+    ],
+    "poster": "/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg",
+    "seasons": 7,
+    "status": "ended",
+    "title": "Scandal",
+    "tmdb_id": 39269
+  },
+  "tt18556180": {
+    "awards": [],
+    "first_air_year": 2023,
+    "genres": [
+      18
+    ],
+    "lists": [
+      {
+        "edition": 2022,
+        "list": "guardian-50",
+        "rank": 40
+      }
+    ],
+    "poster": "/3At9gHOu5SGqg7hIISR29x9QrDQ.jpg",
+    "seasons": 1,
+    "status": "ended",
+    "title": "Maryland",
+    "tmdb_id": 212802
   },
   "tt1856010": {
     "awards": [],
@@ -12057,26 +11680,6 @@
     "title": "Rain Dogs",
     "tmdb_id": 216795
   },
-  "tt19120296": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2021,
-    "genres": [
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2021,
-        "list": "nyt-lyons",
-        "rank": 10
-      }
-    ],
-    "poster": "/jcBmBvx7YEo30QwEdtiCOZUpeQ9.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "How to Live Younger",
-    "tmdb_id": 133366
-  },
   "tt19386538": {
     "awards": [
       {
@@ -12188,6 +11791,28 @@
     "status": "ended",
     "title": "FEUD",
     "tmdb_id": 69851
+  },
+  "tt19851608": {
+    "awards": [
+      {
+        "fest": "berlinale-series",
+        "level": "SELECTED",
+        "prize": null,
+        "section": "Berlinale Series Competition",
+        "year": 2023
+      }
+    ],
+    "first_air_year": 2023,
+    "genres": [
+      18,
+      35
+    ],
+    "lists": [],
+    "poster": "/eiGImb9POyLUP8pFjBec4CKzDNt.jpg",
+    "seasons": 1,
+    "status": "returning",
+    "title": "Agent",
+    "tmdb_id": 219590
   },
   "tt19854762": {
     "awards": [],
@@ -12402,46 +12027,6 @@
     "title": "Gomorrah",
     "tmdb_id": 61068
   },
-  "tt20516438": {
-    "awards": [],
-    "first_air_year": 2022,
-    "genres": [
-      16,
-      35
-    ],
-    "lists": [
-      {
-        "edition": 2022,
-        "list": "guardian-50",
-        "rank": 7
-      },
-      {
-        "edition": 2022,
-        "list": "sepinwall",
-        "rank": 2
-      },
-      {
-        "edition": 2022,
-        "list": "nyt-poniewozik",
-        "rank": 4
-      },
-      {
-        "edition": 2022,
-        "list": "vulture",
-        "rank": 2
-      },
-      {
-        "edition": 2022,
-        "list": "nyt-lyons",
-        "rank": 3
-      }
-    ],
-    "poster": "/wSeVvdVWUMnANCyhn963T99HPhF.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Better Call Saul Presents: Slippin' Jimmy",
-    "tmdb_id": 158704
-  },
   "tt2058303": {
     "awards": [],
     "first_air_year": 2011,
@@ -12461,25 +12046,26 @@
     "title": "Fresh Meat",
     "tmdb_id": 40632
   },
-  "tt20758270": {
+  "tt2077823": {
     "awards": [],
-    "first_air_year": 2025,
+    "first_air_year": 2020,
     "genres": [
       18,
-      10768
+      9648,
+      80
     ],
     "lists": [
       {
-        "edition": 2025,
-        "list": "nyt-hale-intl",
-        "rank": 20
+        "edition": 2023,
+        "list": "vulture",
+        "rank": 8
       }
     ],
-    "poster": "/15zEtXZgHLBQKrPo6zPxeXKDPGu.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Soldier's Mother",
-    "tmdb_id": 308111
+    "poster": "/5QcaEyfSbJEmiaxf7ch8nBl0GO4.jpg",
+    "seasons": 2,
+    "status": "canceled",
+    "title": "Perry Mason",
+    "tmdb_id": 85853
   },
   "tt20782190": {
     "awards": [
@@ -12521,27 +12107,6 @@
     "status": "canceled",
     "title": "English Teacher",
     "tmdb_id": 258902
-  },
-  "tt20835678": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2022,
-    "genres": [
-      99,
-      80
-    ],
-    "lists": [
-      {
-        "edition": 2022,
-        "list": "nyt-lyons",
-        "rank": 9
-      }
-    ],
-    "poster": "/qjCbUNycpBO2ARz0592cpR42YC2.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "The Real Peaky Blinders",
-    "tmdb_id": 194690
   },
   "tt2085059": {
     "awards": [],
@@ -12596,69 +12161,6 @@
     "title": "Children of the Underground",
     "tmdb_id": 206319
   },
-  "tt20859920": {
-    "awards": [
-      {
-        "fest": "canneseries",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "In Competition",
-        "year": 2022
-      },
-      {
-        "fest": "canneseries",
-        "level": "PRIZE",
-        "prize": "Best Screenplay",
-        "section": "In Competition",
-        "year": 2022
-      },
-      {
-        "fest": "canneseries",
-        "level": "PRIZE",
-        "prize": "Best Music",
-        "section": "In Competition",
-        "year": 2022
-      }
-    ],
-    "first_air_year": 2022,
-    "genres": [
-      18,
-      10765,
-      10759,
-      9648
-    ],
-    "lists": [],
-    "poster": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
-    "seasons": 2,
-    "status": "ended",
-    "title": "Alchemy of Souls",
-    "tmdb_id": 135157
-  },
-  "tt20860338": {
-    "awards": [],
-    "first_air_year": 2022,
-    "genres": [
-      35,
-      18
-    ],
-    "lists": [
-      {
-        "edition": 2022,
-        "list": "sepinwall",
-        "rank": 7
-      },
-      {
-        "edition": 2022,
-        "list": "nyt-poniewozik",
-        "rank": 9
-      }
-    ],
-    "poster": "/tBOQVr2XfNKjUnB7O4tOM3olomr.jpg",
-    "seasons": 2,
-    "status": "returning",
-    "title": "High (School) On Sex",
-    "tmdb_id": 203906
-  },
   "tt20916306": {
     "awards": [],
     "first_air_year": 2023,
@@ -12711,33 +12213,6 @@
     "title": "Scavengers Reign",
     "tmdb_id": 204154
   },
-  "tt21077460": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2022,
-    "genres": [
-      10763,
-      99,
-      10768
-    ],
-    "lists": [
-      {
-        "edition": 2022,
-        "list": "new-yorker",
-        "rank": 15
-      },
-      {
-        "edition": 2022,
-        "list": "nyt-poniewozik",
-        "rank": 10
-      }
-    ],
-    "poster": "/uTneFpVkhl2E61oB3Mlw0TI55Ll.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Select Committee to Investigate the January 6th Attack on the United States Capitol",
-    "tmdb_id": 205350
-  },
   "tt21084712": {
     "awards": [],
     "first_air_year": 2024,
@@ -12756,25 +12231,6 @@
     "status": "ended",
     "title": "Lost Boys and Fairies",
     "tmdb_id": 255117
-  },
-  "tt21100682": {
-    "awards": [],
-    "first_air_year": 2023,
-    "genres": [
-      18
-    ],
-    "lists": [
-      {
-        "edition": 2023,
-        "list": "guardian-50",
-        "rank": 22
-      }
-    ],
-    "poster": "/w40j5uqjJIUvRSP5zJ7Q5qRdNRs.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Ghosts of Beirut",
-    "tmdb_id": 224009
   },
   "tt21111596": {
     "awards": [
@@ -12817,27 +12273,6 @@
     "status": "ended",
     "title": "Freddie Flintoff's Field of Dreams",
     "tmdb_id": 205461
-  },
-  "tt21358924": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2019,
-    "genres": [
-      80,
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2019,
-        "list": "guardian-50",
-        "rank": 20
-      }
-    ],
-    "poster": "/3OKSBiyevgC8WEjokAilQLsxsNc.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Why Dad Killed Mum: My Family's Secret",
-    "tmdb_id": 206611
   },
   "tt21364468": {
     "awards": [],
@@ -13219,49 +12654,6 @@
     "title": "The Vince Staples Show",
     "tmdb_id": 243861
   },
-  "tt22046348": {
-    "awards": [],
-    "first_air_year": 2021,
-    "genres": [
-      16,
-      18
-    ],
-    "lists": [
-      {
-        "edition": 2021,
-        "list": "guardian-50",
-        "rank": 7
-      }
-    ],
-    "poster": "/7S86pkMfatspJmXENcPZfgaKB33.jpg",
-    "seasons": 2,
-    "status": "ended",
-    "title": "Show Time!",
-    "tmdb_id": 131660
-  },
-  "tt22059224": {
-    "awards": [
-      {
-        "fest": "canneseries",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "In Competition",
-        "year": 2022
-      }
-    ],
-    "doc": true,
-    "first_air_year": 2022,
-    "genres": [
-      99,
-      10768
-    ],
-    "lists": [],
-    "poster": "/mW0lSHk0TW4eiLgzQpiSvR9kS78.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Russia 1985-1999: TraumaZone",
-    "tmdb_id": 210992
-  },
   "tt22074164": {
     "awards": [
       {
@@ -13450,6 +12842,26 @@
     "title": "Spy/Master",
     "tmdb_id": 219600
   },
+  "tt2234222": {
+    "awards": [],
+    "first_air_year": 2013,
+    "genres": [
+      18,
+      10765
+    ],
+    "lists": [
+      {
+        "edition": 2017,
+        "list": "nyt-lyons",
+        "rank": 7
+      }
+    ],
+    "poster": "/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
+    "seasons": 5,
+    "status": "ended",
+    "title": "Orphan Black",
+    "tmdb_id": 56296
+  },
   "tt2235759": {
     "awards": [
       {
@@ -13476,6 +12888,31 @@
         "edition": 2020,
         "list": "vulture",
         "rank": 10
+      },
+      {
+        "edition": 2021,
+        "list": "vulture",
+        "rank": 5
+      },
+      {
+        "edition": 2021,
+        "list": "sepinwall",
+        "rank": 12
+      },
+      {
+        "edition": 2021,
+        "list": "nyt-poniewozik",
+        "rank": 18
+      },
+      {
+        "edition": 2022,
+        "list": "guardian-50",
+        "rank": 32
+      },
+      {
+        "edition": 2023,
+        "list": "nyt-lyons",
+        "rank": 3
       }
     ],
     "poster": "/tpz9UQ3hUwYufNcKWVW00FCjWyc.jpg",
@@ -13655,6 +13092,11 @@
         "edition": 2019,
         "list": "guardian-50",
         "rank": 41
+      },
+      {
+        "edition": 2021,
+        "list": "guardian-50",
+        "rank": 19
       }
     ],
     "poster": "/pBAp7VfKVQKQIiLRJHZSMGtyXAB.jpg",
@@ -13760,27 +13202,6 @@
     "status": "ended",
     "title": "Stolen Youth: Inside the Cult at Sarah Lawrence",
     "tmdb_id": 216315
-  },
-  "tt23488694": {
-    "awards": [
-      {
-        "fest": "canneseries",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "In Competition",
-        "year": 2025
-      }
-    ],
-    "first_air_year": 2025,
-    "genres": [
-      35
-    ],
-    "lists": [],
-    "poster": "/9g5QRUSPBK4ABLzhO9D8ooir6tS.jpg",
-    "seasons": 1,
-    "status": "returning",
-    "title": "Overcompensating",
-    "tmdb_id": 247619
   },
   "tt2356777": {
     "awards": [
@@ -13939,10 +13360,6 @@
         "rank": 65
       },
       {
-        "list": "guardian-100",
-        "rank": 58
-      },
-      {
         "edition": 2016,
         "list": "sepinwall",
         "rank": 13
@@ -13988,6 +13405,53 @@
     "status": "ended",
     "title": "Boat Story",
     "tmdb_id": 234377
+  },
+  "tt23743442": {
+    "awards": [],
+    "first_air_year": 2022,
+    "genres": [
+      10764
+    ],
+    "lists": [
+      {
+        "edition": 2024,
+        "list": "guardian-50",
+        "rank": 11
+      },
+      {
+        "edition": 2025,
+        "list": "guardian-50",
+        "rank": 41
+      }
+    ],
+    "poster": "/6KeLm8fSqBgK0lRNXorwlmcf6j2.jpg",
+    "seasons": 4,
+    "status": "returning",
+    "title": "The Traitors",
+    "tmdb_id": 215307
+  },
+  "tt2377271": {
+    "awards": [
+      {
+        "fest": "series-mania",
+        "level": "PRIZE",
+        "prize": "Coup de cœur des internautes",
+        "section": null,
+        "year": 2017
+      }
+    ],
+    "first_air_year": 2013,
+    "genres": [
+      16,
+      35,
+      18
+    ],
+    "lists": [],
+    "poster": "/jZCDG8SaEJwuFuRpM2dk5cvy5td.jpg",
+    "seasons": 1,
+    "status": "ended",
+    "title": "Out There",
+    "tmdb_id": 46433
   },
   "tt23845296": {
     "awards": [
@@ -14063,26 +13527,6 @@
     "title": "A Body That Works",
     "tmdb_id": 220158
   },
-  "tt23905242": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2022,
-    "genres": [
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2022,
-        "list": "guardian-50",
-        "rank": 42
-      }
-    ],
-    "poster": "/xTefL3IA3fqU0DZMubcW5KnBRaD.jpg",
-    "seasons": 2,
-    "status": "returning",
-    "title": "Street Outlaws: No Prep Kings: The Great Eight",
-    "tmdb_id": 210688
-  },
   "tt2401256": {
     "awards": [
       {
@@ -14104,6 +13548,10 @@
       {
         "edition": 2016,
         "list": "afi-10"
+      },
+      {
+        "list": "nyt-100",
+        "rank": 92
       }
     ],
     "poster": "/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
@@ -14185,6 +13633,11 @@
       {
         "list": "nyt-100",
         "rank": 43
+      },
+      {
+        "edition": 2022,
+        "list": "nyt-lyons",
+        "rank": 9
       }
     ],
     "poster": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
@@ -14254,10 +13707,6 @@
       {
         "list": "bbc-100",
         "rank": 92
-      },
-      {
-        "list": "guardian-100",
-        "rank": 63
       }
     ],
     "poster": "/dDxqWY5Qpcy6Smf7SGvGRlf7u6e.jpg",
@@ -14461,6 +13910,11 @@
         "edition": 2023,
         "list": "guardian-50",
         "rank": 46
+      },
+      {
+        "edition": 2025,
+        "list": "guardian-50",
+        "rank": 33
       }
     ],
     "poster": "/1rd6kXozxwfBN6pJ2L5AD00Ag4c.jpg",
@@ -14669,6 +14123,26 @@
     "status": "returning",
     "title": "Matlock",
     "tmdb_id": 226174
+  },
+  "tt2660806": {
+    "awards": [],
+    "first_air_year": 2013,
+    "genres": [
+      35,
+      18
+    ],
+    "lists": [
+      {
+        "edition": 2021,
+        "list": "nyt-lyons",
+        "rank": 6
+      }
+    ],
+    "poster": "/kIi3T7X0kmiV9vGDme146P2d979.jpg",
+    "seasons": 8,
+    "status": "ended",
+    "title": "Mom",
+    "tmdb_id": 49011
   },
   "tt26670955": {
     "awards": [],
@@ -15006,35 +14480,25 @@
     "title": "Narcos",
     "tmdb_id": 63351
   },
-  "tt27156464": {
-    "awards": [
+  "tt2712612": {
+    "awards": [],
+    "first_air_year": 2013,
+    "genres": [
+      35,
+      10767
+    ],
+    "lists": [
       {
-        "fest": "canneseries",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "In Competition",
-        "year": 2021
-      },
-      {
-        "fest": "canneseries",
-        "level": "PRIZE",
-        "prize": "Best Music",
-        "section": "In Competition",
-        "year": 2021
+        "edition": 2018,
+        "list": "new-yorker",
+        "rank": 28
       }
     ],
-    "doc": true,
-    "first_air_year": 2021,
-    "genres": [
-      99,
-      18
-    ],
-    "lists": [],
-    "poster": "/vPU8JNNb5XrfPGNvk7cC9M1yvLL.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Madeleine McCann: The Case Against Christian B",
-    "tmdb_id": 261349
+    "poster": "/6zTclFjUEm6aTodjYciYtwzh5tY.jpg",
+    "seasons": 6,
+    "status": "canceled",
+    "title": "Drunk History",
+    "tmdb_id": 56219
   },
   "tt27329210": {
     "awards": [
@@ -15239,26 +14703,6 @@
     "title": "Juan Carlos: Downfall of the King",
     "tmdb_id": 225888
   },
-  "tt27497198": {
-    "awards": [],
-    "first_air_year": 2023,
-    "genres": [
-      16,
-      10759
-    ],
-    "lists": [
-      {
-        "edition": 2023,
-        "list": "nyt-lyons",
-        "rank": 3
-      }
-    ],
-    "poster": "/6eI62O2pqkvwqjhLGd7EOHIPjq7.jpg",
-    "seasons": 1,
-    "status": "returning",
-    "title": "The Great Ruler",
-    "tmdb_id": 226045
-  },
   "tt27497448": {
     "awards": [
       {
@@ -15352,6 +14796,26 @@
     "status": "ended",
     "title": "Lord of the Flies",
     "tmdb_id": 270572
+  },
+  "tt27562193": {
+    "awards": [],
+    "first_air_year": 2023,
+    "genres": [
+      80,
+      18
+    ],
+    "lists": [
+      {
+        "edition": 2025,
+        "list": "nyt-hale-intl",
+        "rank": 18
+      }
+    ],
+    "poster": "/qaQXYNRnXIR38pBMhq0Eklb3fow.jpg",
+    "seasons": 2,
+    "status": "returning",
+    "title": "Pati",
+    "tmdb_id": 225412
   },
   "tt2762330": {
     "awards": [],
@@ -15694,11 +15158,6 @@
       {
         "list": "bbc-100",
         "rank": 77
-      },
-      {
-        "edition": 2016,
-        "list": "sepinwall",
-        "rank": 17
       }
     ],
     "poster": "/dtIS3Qk8ny1FWQLiuJ77MTDX5bZ.jpg",
@@ -15749,28 +15208,6 @@
     "status": "ended",
     "title": "To the Wonder",
     "tmdb_id": 253747
-  },
-  "tt27950663": {
-    "awards": [
-      {
-        "fest": "series-mania",
-        "level": "PRIZE",
-        "prize": "Meilleure actrice",
-        "section": "Compétition française",
-        "year": 2024
-      }
-    ],
-    "first_air_year": 2024,
-    "genres": [
-      9648,
-      18
-    ],
-    "lists": [],
-    "poster": "/1ViwT4iIsQpxvrVgIoAidOp5J33.jpg",
-    "seasons": 3,
-    "status": "returning",
-    "title": "The Marlow Murder Club",
-    "tmdb_id": 228079
   },
   "tt27995114": {
     "awards": [],
@@ -16069,6 +15506,28 @@
     "title": "Videoland",
     "tmdb_id": 249277
   },
+  "tt28279261": {
+    "awards": [
+      {
+        "fest": "series-mania",
+        "level": "PRIZE",
+        "prize": "Meilleure actrice",
+        "section": "Compétition française",
+        "year": 2024
+      }
+    ],
+    "first_air_year": 2024,
+    "genres": [
+      80,
+      9648
+    ],
+    "lists": [],
+    "poster": "/y9QtmpMTcbC1Vjsebbh7LDebgUG.jpg",
+    "seasons": 1,
+    "status": "returning",
+    "title": "Murder Club",
+    "tmdb_id": 228677
+  },
   "tt28436068": {
     "awards": [
       {
@@ -16097,26 +15556,6 @@
     "title": "Putain",
     "tmdb_id": 211655
   },
-  "tt28449878": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2023,
-    "genres": [
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2023,
-        "list": "nyt-lyons",
-        "rank": 14
-      }
-    ],
-    "poster": "/tWbtUzahcGoRcplzqe4MTcoJkZo.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Let's talk about sex: 100 Jahre Aufklärung",
-    "tmdb_id": 230996
-  },
   "tt2845786": {
     "awards": [],
     "doc": true,
@@ -16135,51 +15574,6 @@
     "status": "ended",
     "title": "Anthony Bourdain: Parts Unknown",
     "tmdb_id": 56305
-  },
-  "tt28603817": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2023,
-    "genres": [
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2023,
-        "list": "guardian-50",
-        "rank": 13
-      },
-      {
-        "edition": 2023,
-        "list": "new-yorker",
-        "rank": 1
-      },
-      {
-        "edition": 2023,
-        "list": "rogerebert-25",
-        "rank": 6
-      },
-      {
-        "edition": 2023,
-        "list": "nyt-poniewozik",
-        "rank": 12
-      },
-      {
-        "edition": 2023,
-        "list": "vulture",
-        "rank": 8
-      },
-      {
-        "edition": 2023,
-        "list": "nyt-lyons",
-        "rank": 1
-      }
-    ],
-    "poster": "/dkT7HqJuL7H5ET04hUMHpEkFiwe.jpg",
-    "seasons": 1,
-    "status": "returning",
-    "title": "Alison & Larry: Billericay To Barry",
-    "tmdb_id": 232599
   },
   "tt2861424": {
     "awards": [],
@@ -16583,6 +15977,16 @@
         "rank": 10
       },
       {
+        "edition": 2017,
+        "list": "sepinwall",
+        "rank": 5
+      },
+      {
+        "edition": 2017,
+        "list": "vulture",
+        "rank": 7
+      },
+      {
         "edition": 2018,
         "list": "sepinwall",
         "rank": 6
@@ -16616,6 +16020,31 @@
         "edition": 2020,
         "list": "nyt-poniewozik",
         "rank": 1
+      },
+      {
+        "edition": 2022,
+        "list": "guardian-50",
+        "rank": 7
+      },
+      {
+        "edition": 2022,
+        "list": "sepinwall",
+        "rank": 2
+      },
+      {
+        "edition": 2022,
+        "list": "nyt-poniewozik",
+        "rank": 4
+      },
+      {
+        "edition": 2022,
+        "list": "vulture",
+        "rank": 2
+      },
+      {
+        "edition": 2022,
+        "list": "nyt-lyons",
+        "rank": 3
       }
     ],
     "poster": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
@@ -17219,46 +16648,6 @@
     "title": "This City Is Ours",
     "tmdb_id": 255570
   },
-  "tt31451257": {
-    "awards": [],
-    "first_air_year": 2024,
-    "genres": [
-      80,
-      9648
-    ],
-    "lists": [
-      {
-        "edition": 2024,
-        "list": "rogerebert-25",
-        "rank": 5
-      },
-      {
-        "edition": 2024,
-        "list": "nyt-poniewozik",
-        "rank": 14
-      },
-      {
-        "edition": 2024,
-        "list": "vulture",
-        "rank": 3
-      },
-      {
-        "edition": 2024,
-        "list": "vulture",
-        "rank": 8
-      },
-      {
-        "edition": 2024,
-        "list": "nyt-lyons",
-        "rank": 4
-      }
-    ],
-    "poster": "/i1NAnPtWUBFFl43G8YC5OW43aYU.jpg",
-    "seasons": 1,
-    "status": "returning",
-    "title": "Evil",
-    "tmdb_id": 248521
-  },
   "tt31510539": {
     "awards": [
       {
@@ -17784,36 +17173,6 @@
     "title": "A Better Man",
     "tmdb_id": 296276
   },
-  "tt32149314": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2024,
-    "genres": [
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2024,
-        "list": "guardian-50",
-        "rank": 27
-      },
-      {
-        "edition": 2024,
-        "list": "rogerebert-25",
-        "rank": 23
-      },
-      {
-        "edition": 2024,
-        "list": "nyt-poniewozik",
-        "rank": 20
-      }
-    ],
-    "poster": "/8aH9MZDITygx4qPC322xBJuAYns.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "The Hungry Games: Alaska's Big Bear Challenge",
-    "tmdb_id": 252179
-  },
   "tt32245065": {
     "awards": [],
     "first_air_year": 2024,
@@ -17903,24 +17262,26 @@
     "title": "How Are You? It's Alan (Partridge)",
     "tmdb_id": 246111
   },
-  "tt32459974": {
-    "awards": [],
-    "first_air_year": 2024,
-    "genres": [
-      10764
-    ],
-    "lists": [
+  "tt3257766": {
+    "awards": [
       {
-        "edition": 2024,
-        "list": "guardian-50",
-        "rank": 49
+        "fest": "canneseries",
+        "level": "SELECTED",
+        "prize": null,
+        "section": "Documentary Competition",
+        "year": 2024
       }
     ],
-    "poster": "/knF1vP7raxvZcLqa2IrgfYKrqyR.jpg",
-    "seasons": 2,
-    "status": "returning",
-    "title": "Julia vs Joey",
-    "tmdb_id": 290037
+    "first_air_year": 2014,
+    "genres": [
+      18
+    ],
+    "lists": [],
+    "poster": "/3zrGBcxYxqkQoTJx7R9SopSGeeY.jpg",
+    "seasons": 3,
+    "status": "ended",
+    "title": "Teenagers",
+    "tmdb_id": 65633
   },
   "tt32583026": {
     "awards": [
@@ -17943,41 +17304,6 @@
     "status": "ended",
     "title": "Dead End",
     "tmdb_id": 263151
-  },
-  "tt32614039": {
-    "awards": [],
-    "first_air_year": 2024,
-    "genres": [
-      18,
-      35
-    ],
-    "lists": [
-      {
-        "edition": 2024,
-        "list": "guardian-50",
-        "rank": 5
-      },
-      {
-        "edition": 2024,
-        "list": "new-yorker",
-        "rank": 1
-      },
-      {
-        "edition": 2024,
-        "list": "rogerebert-25",
-        "rank": 22
-      },
-      {
-        "edition": 2024,
-        "list": "vulture",
-        "rank": 4
-      }
-    ],
-    "poster": "/fZSEhxpG5kzjaNoPM0m4cfjuIhm.jpg",
-    "seasons": 1,
-    "status": "returning",
-    "title": "Industry",
-    "tmdb_id": 257081
   },
   "tt32621968": {
     "awards": [
@@ -18107,6 +17433,11 @@
         "edition": 2019,
         "list": "new-yorker",
         "rank": 27
+      },
+      {
+        "edition": 2021,
+        "list": "nyt-lyons",
+        "rank": 10
       }
     ],
     "poster": "/feWw6i09zaX2apzRqd7QbKEAsx9.jpg",
@@ -18184,26 +17515,6 @@
     "status": "ended",
     "title": "Trespasses",
     "tmdb_id": 260650
-  },
-  "tt33087244": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2024,
-    "genres": [
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2024,
-        "list": "vulture",
-        "rank": 7
-      }
-    ],
-    "poster": "/voBXtArDQIW2KOR7nBVZ6OSLIoT.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Extraordinary Australia",
-    "tmdb_id": 261269
   },
   "tt3314218": {
     "awards": [
@@ -18329,11 +17640,6 @@
         "edition": 2025,
         "list": "guardian-50",
         "rank": 3
-      },
-      {
-        "edition": 2025,
-        "list": "guardian-50",
-        "rank": 41
       }
     ],
     "poster": "/uziPOqxQotCE9g0wBgDvHCOvRhP.jpg",
@@ -18423,6 +17729,27 @@
     "title": "Widow's Bay",
     "tmdb_id": 270476
   },
+  "tt33354958": {
+    "awards": [
+      {
+        "fest": "series-mania",
+        "level": "SELECTED",
+        "prize": null,
+        "section": "French Competition",
+        "year": 2025
+      }
+    ],
+    "first_air_year": 2025,
+    "genres": [
+      18
+    ],
+    "lists": [],
+    "poster": "/211pONnBVohR1SntEgmAlntpOF8.jpg",
+    "seasons": 1,
+    "status": "returning",
+    "title": "Clean",
+    "tmdb_id": 255249
+  },
   "tt33362589": {
     "awards": [],
     "first_air_year": 2025,
@@ -18499,32 +17826,6 @@
     "status": "ended",
     "title": "Unbreakable Kimmy Schmidt",
     "tmdb_id": 61671
-  },
-  "tt33481255": {
-    "awards": [],
-    "first_air_year": 2018,
-    "lists": [
-      {
-        "edition": 2018,
-        "list": "new-yorker",
-        "rank": 17
-      },
-      {
-        "edition": 2018,
-        "list": "vulture",
-        "rank": 7
-      },
-      {
-        "edition": 2018,
-        "list": "sepinwall",
-        "rank": 33
-      }
-    ],
-    "poster": "/jcOvt1xIgefRfDLTAlVttBbSChF.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Love Your Korea Glow",
-    "tmdb_id": 272309
   },
   "tt3398228": {
     "awards": [],
@@ -18634,26 +17935,6 @@
     "status": "ended",
     "title": "BoJack Horseman",
     "tmdb_id": 61222
-  },
-  "tt34164659": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2024,
-    "genres": [
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2024,
-        "list": "nyt-hale-intl",
-        "rank": 10
-      }
-    ],
-    "poster": "/wQEfSeIf2459lEoLmXkgjlRyI22.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "900 Days Without Anabel",
-    "tmdb_id": 274905
   },
   "tt3428912": {
     "awards": [
@@ -18785,27 +18066,6 @@
     "title": "Nepobaby",
     "tmdb_id": 292189
   },
-  "tt34618137": {
-    "awards": [
-      {
-        "fest": "canneseries",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "Documentary Competition",
-        "year": 2024
-      }
-    ],
-    "first_air_year": 2024,
-    "genres": [
-      18
-    ],
-    "lists": [],
-    "poster": "/5hy803SVfX3Wbig6xwnADJl50lU.jpg",
-    "seasons": 2,
-    "status": "ended",
-    "title": "Hidden Destiny",
-    "tmdb_id": 278693
-  },
   "tt3464896": {
     "awards": [
       {
@@ -18837,25 +18097,6 @@
     "title": "Small Axe",
     "tmdb_id": 90705
   },
-  "tt34651911": {
-    "awards": [],
-    "first_air_year": 2024,
-    "genres": [
-      10764
-    ],
-    "lists": [
-      {
-        "edition": 2024,
-        "list": "guardian-50",
-        "rank": 11
-      }
-    ],
-    "poster": "/3EyVpLAPfo2uyMWx4FfOw2PYIAh.jpg",
-    "seasons": 3,
-    "status": "returning",
-    "title": "The Traitors - Unfamiliar Territory (DK)",
-    "tmdb_id": 274040
-  },
   "tt3468798": {
     "awards": [],
     "first_air_year": 2016,
@@ -18874,54 +18115,6 @@
     "status": "ended",
     "title": "Baskets",
     "tmdb_id": 64551
-  },
-  "tt34692112": {
-    "awards": [],
-    "first_air_year": 2025,
-    "genres": [
-      35
-    ],
-    "lists": [
-      {
-        "edition": 2025,
-        "list": "guardian-50",
-        "rank": 15
-      },
-      {
-        "edition": 2025,
-        "list": "nyt-poniewozik",
-        "rank": 20
-      }
-    ],
-    "poster": "/dj8A4dX6oC7DFD2RWLqvMLMPVQ3.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Platonic",
-    "tmdb_id": 278011
-  },
-  "tt34821695": {
-    "awards": [],
-    "first_air_year": 2024,
-    "genres": [
-      18
-    ],
-    "lists": [
-      {
-        "edition": 2019,
-        "list": "guardian-50",
-        "rank": 48
-      },
-      {
-        "edition": 2024,
-        "list": "nyt-hale-intl",
-        "rank": 7
-      }
-    ],
-    "poster": "/dBd7QwzittrIMgobXyesrwaASgp.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "The Final Lesson -Only Survivors Graduate",
-    "tmdb_id": 276091
   },
   "tt3487356": {
     "awards": [
@@ -18958,6 +18151,54 @@
     "status": "ended",
     "title": "black-ish",
     "tmdb_id": 61381
+  },
+  "tt3487382": {
+    "awards": [],
+    "first_air_year": 2014,
+    "genres": [
+      18,
+      80,
+      9648,
+      10765
+    ],
+    "lists": [
+      {
+        "edition": 2018,
+        "list": "vulture",
+        "rank": 8
+      }
+    ],
+    "poster": "/4OnnU4j2tQEOnsPnRZswW91v9vr.jpg",
+    "seasons": 1,
+    "status": "canceled",
+    "title": "Forever",
+    "tmdb_id": 60726
+  },
+  "tt3488298": {
+    "awards": [],
+    "first_air_year": 2015,
+    "genres": [
+      18,
+      80,
+      9648
+    ],
+    "lists": [
+      {
+        "edition": 2016,
+        "list": "sepinwall",
+        "rank": 17
+      },
+      {
+        "edition": 2017,
+        "list": "nyt-lyons",
+        "rank": 3
+      }
+    ],
+    "poster": "/7L0DPc1HB4rPA2ZidnE2la7Pqt0.jpg",
+    "seasons": 3,
+    "status": "canceled",
+    "title": "American Crime",
+    "tmdb_id": 60791
   },
   "tt3501074": {
     "awards": [],
@@ -19000,6 +18241,11 @@
         "edition": 2016,
         "list": "nyt-poniewozik",
         "rank": 10
+      },
+      {
+        "edition": 2019,
+        "list": "guardian-50",
+        "rank": 45
       }
     ],
     "poster": "/mrLzehvZpm5osA4MlMR41gYayWZ.jpg",
@@ -19049,25 +18295,6 @@
     "status": "ended",
     "title": "The Anatomy of a Moment",
     "tmdb_id": 282606
-  },
-  "tt35228151": {
-    "awards": [],
-    "first_air_year": 2025,
-    "genres": [
-      35
-    ],
-    "lists": [
-      {
-        "edition": 2025,
-        "list": "guardian-50",
-        "rank": 21
-      }
-    ],
-    "poster": "/jnplohdWIEztnwNavmZzfMUI2u7.jpg",
-    "seasons": 1,
-    "status": "returning",
-    "title": "Mo' Waffles",
-    "tmdb_id": 306697
   },
   "tt3526078": {
     "awards": [
@@ -19426,34 +18653,6 @@
     "title": "Alice and Steve",
     "tmdb_id": 318203
   },
-  "tt35786909": {
-    "awards": [
-      {
-        "fest": "canneseries",
-        "level": "SELECTED",
-        "prize": null,
-        "section": "In Competition",
-        "year": 2026
-      },
-      {
-        "fest": "canneseries",
-        "level": "PRIZE",
-        "prize": "Best Performance",
-        "section": "In Competition",
-        "year": 2026
-      }
-    ],
-    "first_air_year": 2026,
-    "genres": [
-      18
-    ],
-    "lists": [],
-    "poster": "/lvuFGUPmvFlnxhsPMdVigxP3qsP.jpg",
-    "seasons": 1,
-    "status": "returning",
-    "title": "Kylmä kausi",
-    "tmdb_id": 309745
-  },
   "tt3581920": {
     "awards": [
       {
@@ -19567,27 +18766,6 @@
     "status": "ended",
     "title": "Babies",
     "tmdb_id": 278283
-  },
-  "tt35853579": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2025,
-    "genres": [
-      99,
-      80
-    ],
-    "lists": [
-      {
-        "edition": 2025,
-        "list": "nyt-hale-intl",
-        "rank": 10
-      }
-    ],
-    "poster": "/tRzVIbzjQDseyBf1MeTPgguN4rL.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "The Real Unforgotten",
-    "tmdb_id": 284053
   },
   "tt36056620": {
     "awards": [
@@ -19729,24 +18907,6 @@
     "title": "Raul Seixas: Let Me Sing",
     "tmdb_id": 224390
   },
-  "tt36347588": {
-    "awards": [],
-    "first_air_year": 2026,
-    "genres": [
-      18
-    ],
-    "lists": [
-      {
-        "list": "nyt-100",
-        "rank": 100
-      }
-    ],
-    "poster": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "The Scandal",
-    "tmdb_id": 275102
-  },
   "tt36413441": {
     "awards": [
       {
@@ -19768,28 +18928,6 @@
     "status": "returning",
     "title": "Breendonk",
     "tmdb_id": 254969
-  },
-  "tt36415832": {
-    "awards": [
-      {
-        "fest": "peabody",
-        "level": "GRAND",
-        "prize": "Peabody Award",
-        "section": "Documentary",
-        "year": 2017
-      }
-    ],
-    "doc": true,
-    "first_air_year": 2025,
-    "genres": [
-      99
-    ],
-    "lists": [],
-    "poster": "/1MKgkrUYVeLnJbPbIZNqrf8L71k.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Oklahoma City Bombing: One Day in America",
-    "tmdb_id": 286671
   },
   "tt36458982": {
     "awards": [
@@ -19922,6 +19060,30 @@
     "title": "The Good Lord Bird",
     "tmdb_id": 87523
   },
+  "tt3673794": {
+    "awards": [],
+    "first_air_year": 2014,
+    "genres": [
+      18
+    ],
+    "lists": [
+      {
+        "edition": 2019,
+        "list": "vulture",
+        "rank": 7
+      },
+      {
+        "edition": 2019,
+        "list": "nyt-hale-intl",
+        "rank": 4
+      }
+    ],
+    "poster": "/xkRyopANOnO60KWm6DjozXlq9w4.jpg",
+    "seasons": 3,
+    "status": "ended",
+    "title": "Kingdom",
+    "tmdb_id": 61427
+  },
   "tt36774488": {
     "awards": [
       {
@@ -20022,22 +19184,6 @@
     "status": "returning",
     "title": "Se tiene que morir mucha gente",
     "tmdb_id": 292557
-  },
-  "tt37179514": {
-    "awards": [],
-    "first_air_year": 2025,
-    "lists": [
-      {
-        "edition": 2025,
-        "list": "guardian-50",
-        "rank": 24
-      }
-    ],
-    "poster": "/2vQdsyOnFNoLK9V5Yc0NavStFmq.jpg",
-    "seasons": 2,
-    "status": "returning",
-    "title": "The Assembly",
-    "tmdb_id": 305035
   },
   "tt37303446": {
     "awards": [],
@@ -20578,6 +19724,13 @@
   "tt4158110": {
     "awards": [
       {
+        "fest": "series-mania",
+        "level": "PRIZE",
+        "prize": "Prix de l' Association des critiques de séries (A.C.S)",
+        "section": null,
+        "year": 2016
+      },
+      {
         "fest": "tca",
         "level": "SELECTED",
         "nomination": true,
@@ -20638,6 +19791,11 @@
         "edition": 2021,
         "list": "guardian-50",
         "rank": 31
+      },
+      {
+        "edition": 2025,
+        "list": "nyt-hale-intl",
+        "rank": 10
       }
     ],
     "poster": "/bfysfq7JDBWKLpkKPaOU2FpfmB.jpg",
@@ -20718,6 +19876,16 @@
       {
         "list": "bbc-100",
         "rank": 53
+      },
+      {
+        "edition": 2021,
+        "list": "guardian-50",
+        "rank": 24
+      },
+      {
+        "edition": 2021,
+        "list": "new-yorker",
+        "rank": 13
       }
     ],
     "poster": "/3whFzxzeKuTIgPzm2c0pm5xAhEL.jpg",
@@ -20831,6 +19999,56 @@
         "edition": 2016,
         "list": "vulture",
         "rank": 1
+      },
+      {
+        "edition": 2018,
+        "list": "new-yorker",
+        "rank": 10
+      },
+      {
+        "edition": 2018,
+        "list": "sepinwall",
+        "rank": 1
+      },
+      {
+        "edition": 2018,
+        "list": "nyt-poniewozik",
+        "rank": 3
+      },
+      {
+        "edition": 2018,
+        "list": "vulture",
+        "rank": 5
+      },
+      {
+        "edition": 2018,
+        "list": "vulture",
+        "rank": 1
+      },
+      {
+        "edition": 2022,
+        "list": "guardian-50",
+        "rank": 14
+      },
+      {
+        "edition": 2022,
+        "list": "sepinwall",
+        "rank": 3
+      },
+      {
+        "edition": 2022,
+        "list": "new-yorker",
+        "rank": 12
+      },
+      {
+        "edition": 2022,
+        "list": "nyt-poniewozik",
+        "rank": 3
+      },
+      {
+        "edition": 2022,
+        "list": "nyt-lyons",
+        "rank": 2
       }
     ],
     "poster": "/8HZyGMnPLVVb00rmrh6A2SbK9NX.jpg",
@@ -20927,42 +20145,26 @@
     "title": "F is for Family",
     "tmdb_id": 63522
   },
-  "tt43440117": {
+  "tt43688849": {
     "awards": [
       {
         "fest": "canneseries",
-        "level": "PRIZE",
-        "prize": "Europa 1 Audience Award",
-        "section": "In Competition",
-        "year": 2026
-      },
-      {
-        "fest": "series-mania",
         "level": "SELECTED",
         "prize": null,
-        "section": "International Competition",
-        "year": 2025
-      },
-      {
-        "fest": "series-mania",
-        "level": "PRIZE",
-        "prize": "Audience Award",
-        "section": null,
-        "year": 2025
+        "section": "In Competition",
+        "year": 2026
       }
     ],
     "first_air_year": 2026,
     "genres": [
-      18,
-      35,
-      10765
+      18
     ],
     "lists": [],
-    "poster": "/iLf17aFCx2ESajFp1oyb03fmzNp.jpg",
+    "poster": "/wghyXXrub7oAkfdd7ew4W5ECIfF.jpg",
     "seasons": 1,
-    "status": "ended",
-    "title": "Love in Sync",
-    "tmdb_id": 315007
+    "status": "returning",
+    "title": "Harvest",
+    "tmdb_id": 337680
   },
   "tt4370596": {
     "awards": [
@@ -21085,6 +20287,26 @@
         "edition": 2016,
         "list": "sepinwall",
         "rank": 19
+      },
+      {
+        "edition": 2019,
+        "list": "sepinwall",
+        "rank": 15
+      },
+      {
+        "edition": 2019,
+        "list": "guardian-50",
+        "rank": 9
+      },
+      {
+        "edition": 2019,
+        "list": "new-yorker",
+        "rank": 18
+      },
+      {
+        "edition": 2019,
+        "list": "nyt-lyons",
+        "rank": 2
       }
     ],
     "poster": "/2saxUzvXv2b0FgjuzAqItH5bH0x.jpg",
@@ -21212,7 +20434,13 @@
     "genres": [
       18
     ],
-    "lists": [],
+    "lists": [
+      {
+        "edition": 2017,
+        "list": "nyt-lyons",
+        "rank": 8
+      }
+    ],
     "poster": "/hBgYiAHqZBY0ypGKMd8NzYbEwnq.jpg",
     "seasons": 2,
     "status": "canceled",
@@ -21282,6 +20510,11 @@
         "rank": 8
       },
       {
+        "edition": 2017,
+        "list": "vulture",
+        "rank": 6
+      },
+      {
         "edition": 2019,
         "list": "guardian-50",
         "rank": 42
@@ -21297,6 +20530,44 @@
     "status": "ended",
     "title": "Stranger Things",
     "tmdb_id": 66732
+  },
+  "tt4577466": {
+    "awards": [],
+    "first_air_year": 2015,
+    "genres": [
+      35
+    ],
+    "lists": [
+      {
+        "edition": 2018,
+        "list": "vulture",
+        "rank": 6
+      }
+    ],
+    "poster": "/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg",
+    "seasons": 4,
+    "status": "ended",
+    "title": "Casual",
+    "tmdb_id": 64043
+  },
+  "tt4592410": {
+    "awards": [],
+    "first_air_year": 2016,
+    "genres": [
+      18
+    ],
+    "lists": [
+      {
+        "edition": 2017,
+        "list": "vulture",
+        "rank": 4
+      }
+    ],
+    "poster": "/zeEeNDklukfG1Y6jKgfCm0cgI97.jpg",
+    "seasons": 1,
+    "status": "canceled",
+    "title": "The Get Down",
+    "tmdb_id": 65345
   },
   "tt4635276": {
     "awards": [
@@ -21501,29 +20772,6 @@
     "title": "Public Enemy",
     "tmdb_id": 66384
   },
-  "tt4718304": {
-    "awards": [],
-    "first_air_year": 2016,
-    "genres": [
-      35,
-      16,
-      10759,
-      10762,
-      10751
-    ],
-    "lists": [
-      {
-        "edition": 2016,
-        "list": "sepinwall",
-        "rank": 16
-      }
-    ],
-    "poster": "/qY1BRZ0ign3wRLX1Q526viC9UYl.jpg",
-    "seasons": 3,
-    "status": "ended",
-    "title": "The Powerpuff Girls",
-    "tmdb_id": 66149
-  },
   "tt4779762": {
     "awards": [],
     "first_air_year": 2017,
@@ -21618,6 +20866,26 @@
       {
         "list": "guardian-100",
         "rank": 44
+      },
+      {
+        "edition": 2019,
+        "list": "guardian-50",
+        "rank": 25
+      },
+      {
+        "edition": 2020,
+        "list": "guardian-50",
+        "rank": 13
+      },
+      {
+        "edition": 2020,
+        "list": "new-yorker",
+        "rank": 5
+      },
+      {
+        "edition": 2020,
+        "list": "vulture",
+        "rank": 8
       }
     ],
     "poster": "/1M876KPjulVwppEpldhdc8V4o68.jpg",
@@ -22045,6 +21313,25 @@
     "title": "Ozark",
     "tmdb_id": 69740
   },
+  "tt5091820": {
+    "awards": [],
+    "first_air_year": 2015,
+    "genres": [
+      35
+    ],
+    "lists": [
+      {
+        "edition": 2021,
+        "list": "guardian-50",
+        "rank": 46
+      }
+    ],
+    "poster": "/ixXva3Q94P9AIDP67v7MavnfVLE.jpg",
+    "seasons": 1,
+    "status": "ended",
+    "title": "Together",
+    "tmdb_id": 64157
+  },
   "tt5114356": {
     "awards": [],
     "first_air_year": 2017,
@@ -22258,6 +21545,11 @@
         "edition": 2017,
         "list": "nyt-poniewozik",
         "rank": 9
+      },
+      {
+        "edition": 2018,
+        "list": "sepinwall",
+        "rank": 18
       }
     ],
     "poster": "/yiQcmPm6pTYyAAp3Q9Ge2xMkf8b.jpg",
@@ -22347,6 +21639,16 @@
         "rank": 1
       },
       {
+        "edition": 2019,
+        "list": "guardian-50",
+        "rank": 26
+      },
+      {
+        "edition": 2019,
+        "list": "vulture",
+        "rank": 3
+      },
+      {
         "edition": 2022,
         "list": "guardian-50",
         "rank": 41
@@ -22365,6 +21667,36 @@
         "edition": 2022,
         "list": "vulture",
         "rank": 4
+      },
+      {
+        "edition": 2023,
+        "list": "guardian-50",
+        "rank": 13
+      },
+      {
+        "edition": 2023,
+        "list": "new-yorker",
+        "rank": 1
+      },
+      {
+        "edition": 2023,
+        "list": "rogerebert-25",
+        "rank": 6
+      },
+      {
+        "edition": 2023,
+        "list": "nyt-poniewozik",
+        "rank": 12
+      },
+      {
+        "edition": 2023,
+        "list": "vulture",
+        "rank": 8
+      },
+      {
+        "edition": 2023,
+        "list": "nyt-lyons",
+        "rank": 1
       }
     ],
     "poster": "/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
@@ -22655,6 +21987,26 @@
     "title": "His Dark Materials",
     "tmdb_id": 68507
   },
+  "tt5618256": {
+    "awards": [],
+    "first_air_year": 2017,
+    "genres": [
+      80,
+      9648
+    ],
+    "lists": [
+      {
+        "edition": 2019,
+        "list": "nyt-hale-intl",
+        "rank": 5
+      }
+    ],
+    "poster": "/9ukZcwaqcObmmxxfcIXTgVMvalJ.jpg",
+    "seasons": 2,
+    "status": "ended",
+    "title": "Manhunt",
+    "tmdb_id": 72597
+  },
   "tt5640558": {
     "awards": [],
     "first_air_year": 2017,
@@ -22709,27 +22061,24 @@
     "title": "Corporate",
     "tmdb_id": 75967
   },
-  "tt5674272": {
-    "awards": [
-      {
-        "fest": "peabody",
-        "level": "GRAND",
-        "prize": "Peabody Award",
-        "section": "Documentary",
-        "year": 2018
-      }
-    ],
-    "doc": true,
+  "tt5687446": {
+    "awards": [],
     "first_air_year": 2016,
     "genres": [
-      99
+      35
     ],
-    "lists": [],
-    "poster": "/dH9jZ2HWpkPDIXEKk5gMptWnkw0.jpg",
-    "seasons": 1,
+    "lists": [
+      {
+        "edition": 2019,
+        "list": "guardian-50",
+        "rank": 20
+      }
+    ],
+    "poster": "/vRaRhHi7pwPJkiNkVhwRK7RKA9n.jpg",
+    "seasons": 3,
     "status": "ended",
-    "title": "72 Dangerous Places to Live",
-    "tmdb_id": 70169
+    "title": "Mum",
+    "tmdb_id": 66372
   },
   "tt5687612": {
     "awards": [
@@ -22984,6 +22333,26 @@
         "edition": 2017,
         "list": "new-yorker",
         "rank": 10
+      },
+      {
+        "edition": 2018,
+        "list": "new-yorker",
+        "rank": 17
+      },
+      {
+        "edition": 2018,
+        "list": "vulture",
+        "rank": 7
+      },
+      {
+        "edition": 2018,
+        "list": "sepinwall",
+        "rank": 33
+      },
+      {
+        "edition": 2019,
+        "list": "new-yorker",
+        "rank": 24
       }
     ],
     "poster": "/aqQlgRgUwVTfbdxe33vfDEMiCa2.jpg",
@@ -23175,27 +22544,6 @@
     "title": "The Handmaid's Tale",
     "tmdb_id": 69478
   },
-  "tt5842572": {
-    "awards": [
-      {
-        "fest": "peabody",
-        "level": "GRAND",
-        "prize": "Peabody Award",
-        "section": "Documentary",
-        "year": 2016
-      }
-    ],
-    "first_air_year": 2016,
-    "genres": [
-      18
-    ],
-    "lists": [],
-    "poster": "/nlSxJ8RLxWtMP8mwhCcYvZexCgm.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Women's Special Investigation Unit Frontline",
-    "tmdb_id": 88758
-  },
   "tt5853176": {
     "awards": [
       {
@@ -23270,6 +22618,11 @@
         "rank": 7
       },
       {
+        "edition": 2019,
+        "list": "vulture",
+        "rank": 8
+      },
+      {
         "edition": 2020,
         "list": "new-yorker",
         "rank": 15
@@ -23320,27 +22673,6 @@
     "status": "ended",
     "title": "Last Chance U",
     "tmdb_id": 67027
-  },
-  "tt5867464": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2017,
-    "genres": [
-      35,
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2017,
-        "list": "vulture",
-        "rank": 4
-      }
-    ],
-    "poster": "/nW4MjiTrU4fQ4EIUlU2d7nmK2jj.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "The Comedy Get Down",
-    "tmdb_id": 74444
   },
   "tt5869202": {
     "awards": [],
@@ -23573,27 +22905,6 @@
     "title": "Time: The Kalief Browder Story",
     "tmdb_id": 70490
   },
-  "tt6137444": {
-    "awards": [
-      {
-        "fest": "series-mania",
-        "level": "PRIZE",
-        "prize": "Prix de l' Association des critiques de séries (A.C.S)",
-        "section": null,
-        "year": 2016
-      }
-    ],
-    "first_air_year": 2016,
-    "genres": [
-      10767
-    ],
-    "lists": [],
-    "poster": "/1BS8oN0AbWnOWOPLv49gfwrrpO2.jpg",
-    "seasons": 1,
-    "status": "returning",
-    "title": "Mr. Robot Digital After Show",
-    "tmdb_id": 67088
-  },
   "tt6257970": {
     "awards": [
       {
@@ -23632,29 +22943,6 @@
     "status": "ended",
     "title": "The End of the F***ing World",
     "tmdb_id": 74577
-  },
-  "tt6394320": {
-    "awards": [
-      {
-        "fest": "series-mania",
-        "level": "PRIZE",
-        "prize": "Meilleure interprétation féminine",
-        "section": "Prix du jury de la presse internationale",
-        "year": 2017
-      }
-    ],
-    "first_air_year": 2017,
-    "genres": [
-      10764,
-      10762,
-      10751
-    ],
-    "lists": [],
-    "poster": "/azrvY3RNyN3xhsAVJdVC6zjVmRh.jpg",
-    "seasons": 7,
-    "status": "canceled",
-    "title": "The Voice Kids",
-    "tmdb_id": 72235
   },
   "tt6445112": {
     "awards": [
@@ -23855,31 +23143,6 @@
     "title": "Félix",
     "tmdb_id": 78627
   },
-  "tt6611916": {
-    "awards": [],
-    "first_air_year": 2019,
-    "genres": [
-      18,
-      9648
-    ],
-    "lists": [
-      {
-        "edition": 2019,
-        "list": "vulture",
-        "rank": 7
-      },
-      {
-        "edition": 2019,
-        "list": "nyt-hale-intl",
-        "rank": 4
-      }
-    ],
-    "poster": "/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
-    "seasons": 2,
-    "status": "ended",
-    "title": "Kingdom",
-    "tmdb_id": 70593
-  },
   "tt6704972": {
     "awards": [
       {
@@ -23982,31 +23245,6 @@
     "status": "ended",
     "title": "Family Business",
     "tmdb_id": 75397
-  },
-  "tt6835252": {
-    "awards": [],
-    "first_air_year": 2017,
-    "genres": [
-      18,
-      80
-    ],
-    "lists": [
-      {
-        "edition": 2017,
-        "list": "sepinwall",
-        "rank": 14
-      },
-      {
-        "edition": 2017,
-        "list": "nyt-lyons",
-        "rank": 5
-      }
-    ],
-    "poster": "/5qqXN4XGwJXESUlRvqaYiy17rMy.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Three Girls",
-    "tmdb_id": 71754
   },
   "tt6860634": {
     "awards": [
@@ -24947,27 +24185,6 @@
     "title": "My Brilliant Friend",
     "tmdb_id": 78154
   },
-  "tt7293240": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2017,
-    "genres": [
-      99,
-      80
-    ],
-    "lists": [
-      {
-        "edition": 2017,
-        "list": "nyt-lyons",
-        "rank": 3
-      }
-    ],
-    "poster": "/yj7Z3GUW7W7RofmYHyj8gwPSrBP.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Chandra Levy: An American Murder Mystery",
-    "tmdb_id": 82399
-  },
   "tt7319038": {
     "awards": [],
     "first_air_year": 2019,
@@ -25005,6 +24222,16 @@
         "edition": 2018,
         "list": "nyt-lyons",
         "rank": 6
+      },
+      {
+        "edition": 2021,
+        "list": "vulture",
+        "rank": 9
+      },
+      {
+        "edition": 2021,
+        "list": "new-yorker",
+        "rank": 10
       }
     ],
     "poster": "/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
@@ -25137,30 +24364,6 @@
     "status": "canceled",
     "title": "Sherman's Showcase",
     "tmdb_id": 88932
-  },
-  "tt7435402": {
-    "awards": [],
-    "first_air_year": 2017,
-    "genres": [
-      35
-    ],
-    "lists": [
-      {
-        "edition": 2017,
-        "list": "sepinwall",
-        "rank": 5
-      },
-      {
-        "edition": 2017,
-        "list": "vulture",
-        "rank": 7
-      }
-    ],
-    "poster": "/r4XJEZlMpzPOeFtdF58T8gRvOJC.jpg",
-    "seasons": 4,
-    "status": "ended",
-    "title": "Better Call Saul Employee Training",
-    "tmdb_id": 90746
   },
   "tt7462410": {
     "awards": [],
@@ -25407,6 +24610,11 @@
         "rank": 2
       },
       {
+        "edition": 2019,
+        "list": "sepinwall",
+        "rank": 9
+      },
+      {
         "edition": 2021,
         "list": "guardian-50",
         "rank": 39
@@ -25448,33 +24656,18 @@
       9648,
       35
     ],
-    "lists": [],
+    "lists": [
+      {
+        "edition": 2021,
+        "list": "guardian-50",
+        "rank": 43
+      }
+    ],
     "poster": "/oCK0o8CWV46Z0PUdh7CKXnjD2Po.jpg",
     "seasons": 2,
     "status": "canceled",
     "title": "The Flight Attendant",
     "tmdb_id": 93287
-  },
-  "tt7570990": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2017,
-    "genres": [
-      10767,
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2017,
-        "list": "vulture",
-        "rank": 6
-      }
-    ],
-    "poster": "/rHCFO8RJ3Hg6a8KjWAsvAsa38hp.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "Beyond Stranger Things",
-    "tmdb_id": 74851
   },
   "tt7605396": {
     "awards": [
@@ -25543,6 +24736,31 @@
         "edition": 2019,
         "list": "sepinwall",
         "rank": 8
+      },
+      {
+        "edition": 2020,
+        "list": "sepinwall",
+        "rank": 18
+      },
+      {
+        "edition": 2020,
+        "list": "guardian-50",
+        "rank": 23
+      },
+      {
+        "edition": 2022,
+        "list": "sepinwall",
+        "rank": 15
+      },
+      {
+        "edition": 2022,
+        "list": "new-yorker",
+        "rank": 18
+      },
+      {
+        "edition": 2022,
+        "list": "nyt-poniewozik",
+        "rank": 21
       }
     ],
     "poster": "/1BWoA3zIfTameIGFZNFZYSyFB5e.jpg",
@@ -25885,6 +25103,26 @@
         "edition": 2022,
         "list": "vulture",
         "rank": 6
+      },
+      {
+        "edition": 2024,
+        "list": "guardian-50",
+        "rank": 5
+      },
+      {
+        "edition": 2024,
+        "list": "new-yorker",
+        "rank": 1
+      },
+      {
+        "edition": 2024,
+        "list": "rogerebert-25",
+        "rank": 22
+      },
+      {
+        "edition": 2024,
+        "list": "vulture",
+        "rank": 4
       }
     ],
     "poster": "/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg",
@@ -25959,71 +25197,24 @@
     "title": "Los Espookys",
     "tmdb_id": 87107
   },
-  "tt7724320": {
-    "awards": [],
-    "first_air_year": 2017,
-    "genres": [
-      18,
-      9648
-    ],
-    "lists": [
-      {
-        "edition": 2017,
-        "list": "nyt-lyons",
-        "rank": 7
-      }
-    ],
-    "poster": "/uqb7t799zOcR7EPGaORgvw2W96u.jpg",
-    "seasons": 1,
-    "status": "canceled",
-    "title": "Orphan Black – 7 GENES",
-    "tmdb_id": 92598
-  },
-  "tt7741830": {
+  "tt7725422": {
     "awards": [],
     "first_air_year": 2018,
     "genres": [
-      35,
-      16,
-      10765,
-      10759,
-      10762
+      18
     ],
     "lists": [
       {
-        "edition": 2018,
-        "list": "new-yorker",
-        "rank": 35
+        "edition": 2020,
+        "list": "nyt-lyons",
+        "rank": 10
       }
     ],
-    "poster": "/hLaK7YPB4VofyDyBcztee8CbnHH.jpg",
+    "poster": "/9Ml7oytvsNekgaZiUvopV7oQeZg.jpg",
     "seasons": 3,
     "status": "ended",
-    "title": "The Epic Tales of Captain Underpants",
-    "tmdb_id": 80805
-  },
-  "tt7758552": {
-    "awards": [],
-    "first_air_year": 2018,
-    "genres": [
-      16,
-      10759,
-      35,
-      10751,
-      10762
-    ],
-    "lists": [
-      {
-        "edition": 2018,
-        "list": "vulture",
-        "rank": 8
-      }
-    ],
-    "poster": "/5v94bS5jqPbg85Byu3owgFjoK1N.jpg",
-    "seasons": 4,
-    "status": "ended",
-    "title": "Harvey Girls Forever!",
-    "tmdb_id": 80592
+    "title": "Vida",
+    "tmdb_id": 77031
   },
   "tt7767422": {
     "awards": [],
@@ -26047,6 +25238,11 @@
         "edition": 2020,
         "list": "guardian-50",
         "rank": 36
+      },
+      {
+        "edition": 2023,
+        "list": "nyt-lyons",
+        "rank": 14
       }
     ],
     "poster": "/bc3bmTdnoKcRuO9xdQKgAbB7Y9Z.jpg",
@@ -26146,26 +25342,6 @@
     "title": "Mother",
     "tmdb_id": 76092
   },
-  "tt7801964": {
-    "awards": [],
-    "first_air_year": 2019,
-    "genres": [
-      18,
-      80
-    ],
-    "lists": [
-      {
-        "edition": 2019,
-        "list": "nyt-hale-intl",
-        "rank": 5
-      }
-    ],
-    "poster": "/nLjUC3ze3WxCFhg4GDbcwLRSgvJ.jpg",
-    "seasons": 2,
-    "status": "ended",
-    "title": "Manhunt",
-    "tmdb_id": 85052
-  },
   "tt7806456": {
     "awards": [
       {
@@ -26220,46 +25396,6 @@
     "status": "canceled",
     "title": "Made for Love",
     "tmdb_id": 90970
-  },
-  "tt7808608": {
-    "awards": [],
-    "first_air_year": 2018,
-    "genres": [
-      10764,
-      18
-    ],
-    "lists": [
-      {
-        "edition": 2018,
-        "list": "new-yorker",
-        "rank": 10
-      },
-      {
-        "edition": 2018,
-        "list": "sepinwall",
-        "rank": 1
-      },
-      {
-        "edition": 2018,
-        "list": "nyt-poniewozik",
-        "rank": 3
-      },
-      {
-        "edition": 2018,
-        "list": "vulture",
-        "rank": 5
-      },
-      {
-        "edition": 2018,
-        "list": "vulture",
-        "rank": 1
-      }
-    ],
-    "poster": "/v0c4SoKE1q9lraW8aauBPC2qCBc.jpg",
-    "seasons": 1,
-    "status": "canceled",
-    "title": "WAGS Atlanta",
-    "tmdb_id": 76275
   },
   "tt7820906": {
     "awards": [],
@@ -26725,6 +25861,25 @@
     "title": "Dead to Me",
     "tmdb_id": 81357
   },
+  "tt8064568": {
+    "awards": [],
+    "first_air_year": 2025,
+    "genres": [
+      10767
+    ],
+    "lists": [
+      {
+        "edition": 2025,
+        "list": "guardian-50",
+        "rank": 24
+      }
+    ],
+    "poster": "/lUfnzQCgJvunEVHW5eqpNfyhDZd.jpg",
+    "seasons": 2,
+    "status": "returning",
+    "title": "The Assembly",
+    "tmdb_id": 290057
+  },
   "tt8089592": {
     "awards": [
       {
@@ -26796,6 +25951,16 @@
       {
         "edition": 2020,
         "list": "afi-10"
+      },
+      {
+        "edition": 2020,
+        "list": "guardian-50",
+        "rank": 35
+      },
+      {
+        "edition": 2020,
+        "list": "vulture",
+        "rank": 6
       }
     ],
     "poster": "/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
@@ -27487,6 +26652,16 @@
         "edition": 2019,
         "list": "vulture",
         "rank": 7
+      },
+      {
+        "edition": 2021,
+        "list": "vulture",
+        "rank": 6
+      },
+      {
+        "edition": 2021,
+        "list": "nyt-poniewozik",
+        "rank": 2
       }
     ],
     "poster": "/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg",
@@ -27510,6 +26685,26 @@
       {
         "edition": 2020,
         "list": "new-yorker",
+        "rank": 14
+      },
+      {
+        "edition": 2021,
+        "list": "sepinwall",
+        "rank": 14
+      },
+      {
+        "edition": 2021,
+        "list": "nyt-poniewozik",
+        "rank": 16
+      },
+      {
+        "edition": 2023,
+        "list": "guardian-50",
+        "rank": 36
+      },
+      {
+        "edition": 2023,
+        "list": "nyt-poniewozik",
         "rank": 14
       }
     ],
@@ -27621,6 +26816,11 @@
         "edition": 2019,
         "list": "guardian-50",
         "rank": 19
+      },
+      {
+        "edition": 2020,
+        "list": "guardian-50",
+        "rank": 10
       }
     ],
     "poster": "/3Xz4JtqISyVCKct96O94k4Mz5sU.jpg",
@@ -28024,21 +27224,6 @@
     "title": "Euphoria",
     "tmdb_id": 85552
   },
-  "tt8838112": {
-    "awards": [],
-    "first_air_year": 2021,
-    "lists": [
-      {
-        "edition": 2021,
-        "list": "nyt-lyons",
-        "rank": 1
-      }
-    ],
-    "seasons": 1,
-    "status": "returning",
-    "title": "Black Betty",
-    "tmdb_id": 126467
-  },
   "tt8879940": {
     "awards": [
       {
@@ -28239,6 +27424,46 @@
         "edition": 2019,
         "list": "new-yorker",
         "rank": 17
+      },
+      {
+        "edition": 2021,
+        "list": "vulture",
+        "rank": 6
+      },
+      {
+        "edition": 2021,
+        "list": "new-yorker",
+        "rank": 20
+      },
+      {
+        "edition": 2022,
+        "list": "new-yorker",
+        "rank": 14
+      },
+      {
+        "edition": 2024,
+        "list": "rogerebert-25",
+        "rank": 5
+      },
+      {
+        "edition": 2024,
+        "list": "nyt-poniewozik",
+        "rank": 14
+      },
+      {
+        "edition": 2024,
+        "list": "vulture",
+        "rank": 3
+      },
+      {
+        "edition": 2024,
+        "list": "vulture",
+        "rank": 8
+      },
+      {
+        "edition": 2024,
+        "list": "nyt-lyons",
+        "rank": 4
       }
     ],
     "poster": "/auRAAVxlyT6YACql96UdtnpFHy3.jpg",
@@ -28452,36 +27677,6 @@
     "title": "WandaVision",
     "tmdb_id": 85271
   },
-  "tt9140632": {
-    "awards": [],
-    "first_air_year": 2021,
-    "genres": [
-      16,
-      35
-    ],
-    "lists": [
-      {
-        "edition": 2021,
-        "list": "vulture",
-        "rank": 5
-      },
-      {
-        "edition": 2021,
-        "list": "sepinwall",
-        "rank": 12
-      },
-      {
-        "edition": 2021,
-        "list": "nyt-poniewozik",
-        "rank": 18
-      }
-    ],
-    "poster": "/7Ww56dPIuXn4NZGrJJPdoafLHGu.jpg",
-    "seasons": 5,
-    "status": "canceled",
-    "title": "The Great North",
-    "tmdb_id": 93221
-  },
   "tt9148598": {
     "awards": [],
     "doc": true,
@@ -28621,25 +27816,6 @@
     "status": "ended",
     "title": "How to Sell Drugs Online (Fast)",
     "tmdb_id": 88236
-  },
-  "tt9204170": {
-    "awards": [],
-    "first_air_year": 2020,
-    "genres": [
-      18
-    ],
-    "lists": [
-      {
-        "edition": 2020,
-        "list": "nyt-lyons",
-        "rank": 10
-      }
-    ],
-    "poster": "/te26INRvdvWfh2HBj0gUpl8IBno.jpg",
-    "seasons": 4,
-    "status": "canceled",
-    "title": "Madres: amor y vida",
-    "tmdb_id": 103156
   },
   "tt9244556": {
     "awards": [
@@ -28979,36 +28155,6 @@
     "title": "P-Valley",
     "tmdb_id": 87017
   },
-  "tt9343720": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2020,
-    "genres": [
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2020,
-        "list": "guardian-50",
-        "rank": 13
-      },
-      {
-        "edition": 2020,
-        "list": "new-yorker",
-        "rank": 5
-      },
-      {
-        "edition": 2020,
-        "list": "vulture",
-        "rank": 8
-      }
-    ],
-    "poster": "/4EfKeGSMTI2VTN5IKMVAkGmj6W5.jpg",
-    "seasons": 1,
-    "status": "returning",
-    "title": "Inside the Crown: Secrets of the Royals",
-    "tmdb_id": 98864
-  },
   "tt9348700": {
     "awards": [
       {
@@ -29105,6 +28251,11 @@
         "edition": 2019,
         "list": "guardian-50",
         "rank": 46
+      },
+      {
+        "edition": 2021,
+        "list": "guardian-50",
+        "rank": 29
       }
     ],
     "poster": "/kEIt96VqK8nHtzUUday3hVv1fN5.jpg",
@@ -29112,45 +28263,6 @@
     "status": "ended",
     "title": "Guilt",
     "tmdb_id": 94853
-  },
-  "tt9660182": {
-    "awards": [],
-    "first_air_year": 2022,
-    "genres": [
-      18,
-      10765
-    ],
-    "lists": [
-      {
-        "edition": 2022,
-        "list": "new-yorker",
-        "rank": 14
-      }
-    ],
-    "poster": "/rmLvn4w4HMdxobPkjmIqrhJiXDO.jpg",
-    "seasons": 1,
-    "status": "canceled",
-    "title": "Resident Evil",
-    "tmdb_id": 108296
-  },
-  "tt9680524": {
-    "awards": [],
-    "first_air_year": 2019,
-    "genres": [
-      10764
-    ],
-    "lists": [
-      {
-        "edition": 2019,
-        "list": "new-yorker",
-        "rank": 24
-      }
-    ],
-    "poster": "/tzGWOT9h3p1Km38rUTndS4B1Lii.jpg",
-    "seasons": 7,
-    "status": "returning",
-    "title": "Glow Up: Britain's Next Make-Up Star",
-    "tmdb_id": 87387
   },
   "tt9698520": {
     "awards": [],
@@ -29195,26 +28307,6 @@
     "status": "ended",
     "title": "The Beatles: Get Back",
     "tmdb_id": 128876
-  },
-  "tt9772698": {
-    "awards": [],
-    "doc": true,
-    "first_air_year": 2019,
-    "genres": [
-      99
-    ],
-    "lists": [
-      {
-        "edition": 2019,
-        "list": "guardian-50",
-        "rank": 25
-      }
-    ],
-    "poster": "/9VyaUJw9huuLnpr8Xs2V1MzjCqq.jpg",
-    "seasons": 1,
-    "status": "ended",
-    "title": "The Crown and Us: The Story of The Royals in Australia",
-    "tmdb_id": 87573
   },
   "tt9789272": {
     "awards": [],
