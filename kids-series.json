@@ -777,20 +777,12 @@
     "poster": "/1fmaC3t96Napg7TR9SsfOX8q11X.jpg",
     "providers": [
       "Amazon Prime Video",
-      "Cartoon Network Amazon Channel",
+      "Amazon Prime Video with Ads",
       "Globoplay",
-      "Gloob Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
-      "Playkids Learning Amazon Channel"
-    ],
-    "providers_verified": [
-      "Amazon Prime Video",
-      "Cartoon Network Amazon Channel",
-      "Globoplay",
-      "Gloob Amazon Channel",
-      "HBO Max",
-      "HBO Max Amazon Channel",
+      "Netflix",
+      "Netflix Standard with Ads",
       "Playkids Learning Amazon Channel"
     ],
     "status": "returning",
@@ -1626,10 +1618,12 @@
     ],
     "poster": "/9EuDaqFRui2nVqE4CixB7Umx9AO.jpg",
     "providers": [
-      "Amazon Prime Video"
+      "Apple TV",
+      "Apple TV Amazon Channel"
     ],
     "providers_verified": [
-      "Amazon Prime Video"
+      "Apple TV",
+      "Apple TV Amazon Channel"
     ],
     "status": "ended",
     "title": "Jane",
@@ -2553,7 +2547,13 @@
     "poster": "/gFhBIF8oXjpdVk1NbI4kP4l8LAe.jpg",
     "providers": [
       "Amazon Prime Video",
-      "Amazon Prime Video with Ads"
+      "Globoplay",
+      "Gloob Amazon Channel"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video",
+      "Globoplay",
+      "Gloob Amazon Channel"
     ],
     "status": "ended",
     "title": "Dragões: A Série",
@@ -2630,12 +2630,7 @@
       }
     ],
     "poster": "/n59SWxZeFrPwcYjK3krMHuEfFjh.jpg",
-    "providers": [
-      "Netflix"
-    ],
-    "providers_verified": [
-      "Netflix"
-    ],
+    "providers": [],
     "status": "ended",
     "title": "我的老板为何那样",
     "tmdb_id": 219713
@@ -3626,12 +3621,7 @@
       }
     ],
     "poster": "/7EHM9vaAWBBWgBJnQapYKjGIVHt.jpg",
-    "providers": [
-      "Plex",
-      "Plex Channel",
-      "Plex Player",
-      "Pluto TV"
-    ],
+    "providers": [],
     "status": "canceled",
     "title": "Speechless",
     "tmdb_id": 67040
@@ -4218,9 +4208,7 @@
       }
     ],
     "poster": "/qirUu5aem4B4KJtqThIjFqGlbrT.jpg",
-    "providers": [
-      "Oldflix"
-    ],
+    "providers": [],
     "status": "returning",
     "title": "Hardball",
     "tmdb_id": 120936

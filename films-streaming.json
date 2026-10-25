@@ -1542,6 +1542,9 @@
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
     }
   },
+  "1182861": {
+    "providers": []
+  },
   "11830": {
     "providers": []
   },
@@ -1823,16 +1826,6 @@
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.78af2b00-2dd2-49e7-c77f-7048723519d7",
       "Runtime": "https://runtime.tv/node/27536"
-    }
-  },
-  "1218925": {
-    "providers": [
-      "Crunchyroll",
-      "Crunchyroll Amazon Channel"
-    ],
-    "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351495DEDE",
-      "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0a6a0715-eb48-403f-b942-f7d6fbb8414b"
     }
   },
   "1219620": {
@@ -2164,11 +2157,6 @@
     "providers": []
   },
   "129": {
-    "providers": [
-      "Netflix"
-    ]
-  },
-  "1290159": {
     "providers": [
       "Netflix"
     ]
@@ -2665,6 +2653,9 @@
       "Crunchyroll": "https://www.crunchyroll.com/watch/GJKF27X8M",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.914f7130-e430-44e5-8e84-c1bdc05b0e79"
     }
+  },
+  "1400731": {
+    "providers": []
   },
   "1400780": {
     "providers": [
@@ -3342,6 +3333,9 @@
   "15383": {
     "providers": []
   },
+  "1539299": {
+    "providers": []
+  },
   "154": {
     "providers": [
       "Netflix"
@@ -3744,6 +3738,11 @@
     "urls": {
       "Arte Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57ff2623-99e4-4352-8c63-596aaf366122"
     }
+  },
+  "1675177": {
+    "providers": [
+      "Netflix"
+    ]
   },
   "16804": {
     "providers": []
