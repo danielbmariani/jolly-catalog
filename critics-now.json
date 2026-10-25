@@ -8936,6 +8936,30 @@
     "tmdb_id": 1124566,
     "year": 2025
   },
+  "tt27802226": {
+    "age": {
+      "classind": "10",
+      "source": "DE"
+    },
+    "genres": [
+      35,
+      18,
+      10749
+    ],
+    "media_type": "movie",
+    "poster": "/6psNzdIymhnN8KQggL4tiZRNIXg.jpg",
+    "recs": [
+      {
+        "date": "2026-06-02",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/jun/02/virginia-woolfs-night-and-day-review-tina-gharavi-timothy-spall-jennifer-saunders"
+      }
+    ],
+    "title": "Virginia Woolf's Night & Day",
+    "tmdb_id": 1291375,
+    "year": 2026
+  },
   "tt27811632": {
     "age": {
       "classind": "10",
@@ -12377,6 +12401,29 @@
     "tmdb_id": 1375441,
     "year": 2026
   },
+  "tt34250044": {
+    "age": {
+      "classind": "12",
+      "source": "DE"
+    },
+    "genres": [
+      18,
+      36
+    ],
+    "media_type": "movie",
+    "poster": "/awq1O9RRi6JW74fDmGXJJGD5le8.jpg",
+    "recs": [
+      {
+        "date": "2025-11-06",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/peter-hujars-day-ben-whishaw-rebecca-hall-film-review-2025"
+      }
+    ],
+    "title": "Peter Hujar's Day",
+    "tmdb_id": 1159539,
+    "year": 2025
+  },
   "tt34379051": {
     "age": {
       "classind": "16",
@@ -14053,6 +14100,12 @@
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/oasis-dont-look-back-in-anger-concert-film-review"
+      },
+      {
+        "date": "2026-09-05",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review"
       }
     ],
     "title": "Oasis: Don't Look Back in Anger",
@@ -14800,6 +14853,25 @@
     ],
     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "tmdb_id": 1477104,
+    "year": 2026
+  },
+  "tt36867663": {
+    "age": null,
+    "genres": [
+      18
+    ],
+    "media_type": "movie",
+    "poster": "/u7AAna0FE3d0yIzlLeBbxIcvtp0.jpg",
+    "recs": [
+      {
+        "date": "2026-10-08",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/oct/08/new-zealand-movie-teenager-chat-room-big-girls-dont-cry-review"
+      }
+    ],
+    "title": "Big Girls Don't Cry",
+    "tmdb_id": 1477963,
     "year": 2026
   },
   "tt36874833": {
