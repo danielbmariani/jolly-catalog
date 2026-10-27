@@ -747,17 +747,14 @@
   "11836": {
     "providers": [
       "Paramount Plus",
-      "Paramount+ Amazon Channel",
-      "Universal+ Amazon Channel"
+      "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/spongebob-squarepants-movie/xIib0RQzhlochSQUGRYGnTQtYjoA6h0N?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98270b81-28e9-426e-a56f-af23bf8ec32d",
-      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.24bf3dde-bb0e-4c28-9b2e-10e9f14a3d9f"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98270b81-28e9-426e-a56f-af23bf8ec32d"
     },
     "verified": [
-      "Paramount+ Amazon Channel",
-      "Universal+ Amazon Channel"
+      "Paramount+ Amazon Channel"
     ]
   },
   "11837": {
@@ -845,20 +842,19 @@
   },
   "120": {
     "providers": [
+      "Amazon Prime Video",
       "Disney Plus",
       "HBO Max",
-      "HBO Max Amazon Channel",
       "Netflix"
     ],
     "urls": {
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84a9f6d5-bc3f-73a3-e41f-a82b4ff83e67",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-06beb913-447a-48c1-b098-22c31358a5d4",
-      "HBO Max": "https://play.hbomax.com/show/fb9f961f-6302-4776-91d7-f1b7a69fb61d",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84a9f6d5-bc3f-73a3-e41f-a82b4ff83e67"
+      "HBO Max": "https://play.hbomax.com/show/fb9f961f-6302-4776-91d7-f1b7a69fb61d"
     },
     "verified": [
+      "Amazon Prime Video",
       "Disney Plus",
-      "HBO Max",
-      "HBO Max Amazon Channel",
       "Netflix"
     ]
   },
@@ -875,19 +871,18 @@
   },
   "121": {
     "providers": [
+      "Amazon Prime Video",
       "Disney Plus",
-      "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max"
     ],
     "urls": {
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2a9f6ce-d700-f70b-88bf-54f0968a48d5",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-a536f4a1-d45d-4b3a-b0ae-839c41d3ab90",
-      "HBO Max": "https://play.hbomax.com/show/1b73bd19-1229-4e5f-986a-ae38ac0f5476",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2a9f6ce-d700-f70b-88bf-54f0968a48d5"
+      "HBO Max": "https://play.hbomax.com/show/1b73bd19-1229-4e5f-986a-ae38ac0f5476"
     },
     "verified": [
-      "Disney Plus",
-      "HBO Max",
-      "HBO Max Amazon Channel"
+      "Amazon Prime Video",
+      "Disney Plus"
     ]
   },
   "12105": {
@@ -898,16 +893,19 @@
   },
   "122": {
     "providers": [
+      "Amazon Prime Video",
       "Disney Plus",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "urls": {
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.096a714d-6da9-4205-a118-3fb77fbaa003",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-ecf6cb2a-5ff2-41ec-8ea2-6b4d6f04335d",
       "HBO Max": "https://play.hbomax.com/show/ad704585-6774-4d37-8c61-1bd41154173f",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.91d91081-a2e1-4004-af7d-4efb31e99e27"
     },
     "verified": [
+      "Amazon Prime Video",
       "Disney Plus",
       "HBO Max",
       "HBO Max Amazon Channel"
@@ -2725,7 +2723,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ESES",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886DEDE",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     },
     "verified": [
@@ -3753,7 +3751,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-92243dd0-bcfe-4365-ae76-1fa3cf1a2ab9"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-4153fd1c-1653-4678-8006-9cdd0d35154f"
     },
     "verified": [
       "Disney Plus"
@@ -4260,7 +4258,7 @@
       "HBO Max Amazon Channel"
     ],
     "urls": {
-      "HBO Max": "https://play.hbomax.com/show/e22cdcd3-49d1-4e28-8846-d8feec300d77",
+      "HBO Max": "https://play.hbomax.com/show/4b990c5d-38ab-4daf-8092-2617cbc6d062",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88ae477d-8574-3fc1-b27b-e2b723d68d7b"
     },
     "verified": [
@@ -4551,7 +4549,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-e6ef640e-787e-4477-aba4-9e05925ebac2"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-154b2e5c-fbe7-49b7-b6be-fd0e6c75651f"
     },
     "verified": [
       "Disney Plus"
@@ -4941,7 +4939,7 @@
     "urls": {
       "Oldflix": "https://www.oldflix.com.br/title/play/61e57db80a1ac4b9047befa2",
       "Paramount Plus": "https://www.paramountplus.com/movies/raiders-of-the-lost-ark/vGJ_ofTKXN5haxFlcOzehFPYtIvxSLyn?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b90a5388-7ab4-44b4-a92d-c533d9039a88"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.036b28e6-8fb2-44fc-838c-eee8881bcc07"
     },
     "verified": [
       "Paramount+ Amazon Channel"
@@ -5117,7 +5115,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29952",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G50UZXXWP",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506"
     },

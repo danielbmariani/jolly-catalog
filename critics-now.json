@@ -1,7 +1,7 @@
 {
   "_raw": [
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -9,7 +9,7 @@
       "url": "https://www.rogerebert.com/reviews/rose-sandra-huller-film-review-2026"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -17,7 +17,7 @@
       "url": "https://www.rogerebert.com/reviews/la-bola-negra-netflix-penelope-cruz-glenn-close-film-review-2026"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -25,7 +25,7 @@
       "url": "https://www.rogerebert.com/reviews/possible-love-lee-chang-dong-netflix-movie-review-2026"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -33,7 +33,7 @@
       "url": "https://www.rogerebert.com/reviews/fatherland-film-review-2026"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -41,7 +41,7 @@
       "url": "https://www.rogerebert.com/reviews/making-marie-antoinette-eleanor-coppola-documentary-film-review-2026"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -49,7 +49,7 @@
       "url": "https://www.rogerebert.com/reviews/ray-gunn-brad-bird-netflx-movie-review"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -57,7 +57,7 @@
       "url": "https://www.rogerebert.com/reviews/once-upon-a-time-in-harlem-william-graves-documentary-film-review-2026"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -65,7 +65,7 @@
       "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -73,12 +73,36 @@
       "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
       "title": "Paralyzed by Hope: The Maria Bamford Story",
       "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
+    },
+    {
+      "date": "2026-10-27",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "The One About Matthew Perry",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/27/the-one-about-matthew-perry-review-netflix-documentary-friends"
+    },
+    {
+      "date": "2026-10-26",
+      "media_type": "movie",
+      "outlet": "IndieWire",
+      "rating": "B+",
+      "title": "Queen at Sea",
+      "url": "https://www.indiewire.com/criticism/movies/queen-at-sea-review-juliette-binoche-1235178993/"
+    },
+    {
+      "date": "2026-10-26",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "5★",
+      "title": "Escaping Idi Amin",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/escaping-idi-amin-review-bbc-two-iplayer"
     },
     {
       "date": "2026-10-25",
@@ -4861,14 +4885,6 @@
       "media_type": "movie",
       "outlet": "IndieWire",
       "rating": "B+",
-      "title": "Queen at Sea",
-      "url": "https://www.indiewire.com/criticism/movies/queen-at-sea-review-juliette-binoche-1235178993/"
-    },
-    {
-      "date": "2026-02-17",
-      "media_type": "movie",
-      "outlet": "IndieWire",
-      "rating": "B+",
       "title": "Nina Roza",
       "url": "https://www.indiewire.com/criticism/movies/nina-roza-movie-review-1235179199/"
     },
@@ -6878,7 +6894,7 @@
     "poster": "/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
     "recs": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
@@ -7588,7 +7604,7 @@
     "poster": "/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
     "recs": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/ray-gunn-brad-bird-netflx-movie-review"
@@ -7734,7 +7750,7 @@
     "poster": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "recs": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
@@ -8343,7 +8359,7 @@
     "poster": "/4k3ph6BoeZr7IMiQx8ioEV8d9cJ.jpg",
     "recs": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/rose-sandra-huller-film-review-2026"
@@ -8792,16 +8808,16 @@
     "poster": "/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
     "recs": [
       {
+        "date": "2026-10-26",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/queen-at-sea-review-juliette-binoche-1235178993/"
+      },
+      {
         "date": "2026-09-17",
         "outlet": "The Guardian",
         "rating": "5★",
         "url": "https://www.theguardian.com/film/2026/feb/18/queen-at-sea-review-crushingly-sad-dementia-drama-offers-a-startling-portrait-of-intimacy"
-      },
-      {
-        "date": "2026-02-17",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/queen-at-sea-review-juliette-binoche-1235178993/"
       }
     ],
     "title": "Queen at Sea",
@@ -13915,7 +13931,7 @@
     "poster": "/l76qrRUs1e1Th4CNeQIQ10TjHOl.jpg",
     "recs": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/la-bola-negra-netflix-penelope-cruz-glenn-close-film-review-2026"
@@ -15785,7 +15801,7 @@
     "poster": "/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
     "recs": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/fatherland-film-review-2026"
@@ -16220,7 +16236,7 @@
     "poster": "/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
     "recs": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/possible-love-lee-chang-dong-netflix-movie-review-2026"
@@ -17607,7 +17623,7 @@
     "poster": "/waH2eiMaEW987JUTWyrj4x4d63k.jpg",
     "recs": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
@@ -17659,7 +17675,7 @@
     "poster": "/9eukk5gby8NZCwraiC7mloZmasP.jpg",
     "recs": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/once-upon-a-time-in-harlem-william-graves-documentary-film-review-2026"
@@ -19088,7 +19104,7 @@
     "poster": "/1vt7dhpq5dYA5H5VDEf7IITMbSg.jpg",
     "recs": [
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/making-marie-antoinette-eleanor-coppola-documentary-film-review-2026"
@@ -19522,6 +19538,35 @@
     ],
     "title": "Rebellion",
     "tmdb_id": 1760619,
+    "year": 2026
+  },
+  "tt44941753": {
+    "age": {
+      "classind": "18",
+      "source": "US"
+    },
+    "genres": [
+      99
+    ],
+    "media_type": "tv",
+    "original_title": "The One About Matthew Perry",
+    "poster": "/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
+    "recs": [
+      {
+        "date": "2026-10-27",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/27/the-one-about-matthew-perry-review-netflix-documentary-friends"
+      }
+    ],
+    "title": "The One About Matthew Perry",
+    "tmdb_id": 333533,
+    "watch": {
+      "providers": [
+        "Netflix"
+      ],
+      "urls": {}
+    },
     "year": 2026
   },
   "tt45368240": {

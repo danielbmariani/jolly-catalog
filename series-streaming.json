@@ -155,9 +155,7 @@
     ]
   },
   "tt0296310": {
-    "providers": [
-      "WeTV"
-    ]
+    "providers": []
   },
   "tt0306414": {
     "providers": [
@@ -346,9 +344,7 @@
     ]
   },
   "tt0795176": {
-    "providers": [
-      "WeTV"
-    ]
+    "providers": []
   },
   "tt0804484": {
     "providers": [
@@ -2084,9 +2080,7 @@
     ]
   },
   "tt20242042": {
-    "providers": [
-      "WeTV"
-    ]
+    "providers": []
   },
   "tt20418088": {
     "providers": [
@@ -2273,12 +2267,10 @@
   "tt2297757": {
     "providers": [
       "Paramount Plus",
-      "Paramount Plus Apple TV channel",
-      "Paramount+ Amazon Channel"
+      "Paramount Plus Apple TV channel"
     ],
     "verified": [
-      "Paramount Plus Apple TV channel",
-      "Paramount+ Amazon Channel"
+      "Paramount Plus Apple TV channel"
     ]
   },
   "tt2303687": {
@@ -2570,9 +2562,7 @@
     ]
   },
   "tt2750182": {
-    "providers": [
-      "WeTV"
-    ]
+    "providers": []
   },
   "tt27557666": {
     "providers": [
@@ -4735,8 +4725,7 @@
   "tt9805708": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel",
-      "WeTV"
+      "HBO Max Amazon Channel"
     ],
     "verified": [
       "HBO Max",
