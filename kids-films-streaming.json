@@ -747,14 +747,17 @@
   "11836": {
     "providers": [
       "Paramount Plus",
-      "Paramount+ Amazon Channel"
+      "Paramount+ Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/spongebob-squarepants-movie/xIib0RQzhlochSQUGRYGnTQtYjoA6h0N?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98270b81-28e9-426e-a56f-af23bf8ec32d"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98270b81-28e9-426e-a56f-af23bf8ec32d",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a92cef51-c719-448d-85d5-ce1a930745a3"
     },
     "verified": [
-      "Paramount+ Amazon Channel"
+      "Paramount+ Amazon Channel",
+      "Universal+ Amazon Channel"
     ]
   },
   "11837": {
@@ -1207,13 +1210,27 @@
   "139649": {
     "providers": []
   },
+  "13980": {
+    "providers": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ],
+    "urls": {
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G14U4DXQ2",
+      "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3583b831-3ad5-4bf2-9be1-fda81ca8f0e9"
+    },
+    "verified": [
+      "Crunchyroll",
+      "Crunchyroll Amazon Channel"
+    ]
+  },
   "14003": {
     "providers": [
       "Crunchyroll",
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GJKF27X8M",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G65VQD2D6",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.914f7130-e430-44e5-8e84-c1bdc05b0e79"
     },
     "verified": [
@@ -2723,7 +2740,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886DEDE",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ITIT",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     },
     "verified": [
@@ -4549,7 +4566,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-154b2e5c-fbe7-49b7-b6be-fd0e6c75651f"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-e6ef640e-787e-4477-aba4-9e05925ebac2"
     },
     "verified": [
       "Disney Plus"

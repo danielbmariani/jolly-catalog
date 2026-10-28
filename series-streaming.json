@@ -1669,12 +1669,10 @@
   "tt15384586": {
     "providers": [
       "Paramount Plus",
-      "Paramount Plus Apple TV channel",
-      "Paramount+ Amazon Channel"
+      "Paramount Plus Apple TV channel"
     ],
     "verified": [
-      "Paramount Plus Apple TV channel",
-      "Paramount+ Amazon Channel"
+      "Paramount Plus Apple TV channel"
     ]
   },
   "tt15424742": {
@@ -3284,16 +3282,6 @@
     "verified": [
       "HBO Max",
       "HBO Max Amazon Channel"
-    ]
-  },
-  "tt3960394": {
-    "providers": [
-      "Amazon Prime Video",
-      "Netflix"
-    ],
-    "verified": [
-      "Amazon Prime Video",
-      "Netflix"
     ]
   },
   "tt40407840": {
