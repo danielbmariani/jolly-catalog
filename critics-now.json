@@ -1,6 +1,62 @@
 {
   "_raw": [
     {
+      "date": "2026-10-29",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Possible Love",
+      "url": "https://www.rogerebert.com/reviews/possible-love-lee-chang-dong-netflix-movie-review-2026"
+    },
+    {
+      "date": "2026-10-29",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Fatherland",
+      "url": "https://www.rogerebert.com/reviews/fatherland-film-review-2026"
+    },
+    {
+      "date": "2026-10-29",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Mouse (2026)",
+      "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
+    },
+    {
+      "date": "2026-10-29",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Wildwood",
+      "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
+    },
+    {
+      "date": "2026-10-29",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Paralyzed by Hope: The Maria Bamford Story",
+      "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
+    },
+    {
+      "date": "2026-10-29",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "Nocturne",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/29/nocturne-review-stephen-graham-rory-culkin-apple-tv"
+    },
+    {
+      "date": "2026-10-29",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Manhood (2026)",
+      "url": "https://www.rogerebert.com/reviews/manhood-penis-enlargement-documentary-film-review-2026"
+    },
+    {
       "date": "2026-10-28",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
@@ -15,22 +71,6 @@
       "rating": "4★",
       "title": "La bola negra",
       "url": "https://www.rogerebert.com/reviews/la-bola-negra-netflix-penelope-cruz-glenn-close-film-review-2026"
-    },
-    {
-      "date": "2026-10-28",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "Possible Love",
-      "url": "https://www.rogerebert.com/reviews/possible-love-lee-chang-dong-netflix-movie-review-2026"
-    },
-    {
-      "date": "2026-10-28",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Fatherland",
-      "url": "https://www.rogerebert.com/reviews/fatherland-film-review-2026"
     },
     {
       "date": "2026-10-28",
@@ -59,34 +99,26 @@
     {
       "date": "2026-10-28",
       "media_type": "movie",
-      "outlet": "RogerEbert.com",
+      "outlet": "The Guardian",
       "rating": "4★",
-      "title": "Mouse (2026)",
-      "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
-    },
-    {
-      "date": "2026-10-28",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Wildwood",
-      "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
-    },
-    {
-      "date": "2026-10-28",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Paralyzed by Hope: The Maria Bamford Story",
-      "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
+      "title": "Peter Asher: Everywhere Man",
+      "url": "https://www.theguardian.com/film/2026/oct/28/peter-asher-everywhere-man-review-from-singer-of-beatles-cast-offs-to-super-star-producer"
     },
     {
       "date": "2026-10-28",
       "media_type": "movie",
       "outlet": "The Guardian",
+      "rating": "5★",
+      "title": "The Devils",
+      "url": "https://www.theguardian.com/film/2026/oct/28/the-devils-review-ken-russell-oliver-reed-vanessa-redgrave"
+    },
+    {
+      "date": "2026-10-28",
+      "media_type": "tv",
+      "outlet": "The Guardian",
       "rating": "4★",
-      "title": "Peter Asher: Everywhere Man",
-      "url": "https://www.theguardian.com/film/2026/oct/28/peter-asher-everywhere-man-review-from-singer-of-beatles-cast-offs-to-super-star-producer"
+      "title": "Murder in Belfast: Sisters Seeking Justice",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/28/murder-in-belfast-sisters-seeking-justice-review-bbc"
     },
     {
       "date": "2026-10-27",
@@ -6215,14 +6247,6 @@
       "rating": "3.5★",
       "title": "Coexistence, My Ass!",
       "url": "https://www.rogerebert.com/reviews/coexistence-my-ass-film-review-2025"
-    },
-    {
-      "date": "2025-10-28",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "4★",
-      "title": "Physical: Asia",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/oct/28/physical-asia-review-super-strong-contestants-barrels-wrapped-in-muscles-and-hair"
     }
   ],
   "movie:tmdb:1434103": {
@@ -6894,7 +6918,7 @@
     "poster": "/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
     "recs": [
       {
-        "date": "2026-10-28",
+        "date": "2026-10-29",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
@@ -7750,7 +7774,7 @@
     "poster": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "recs": [
       {
-        "date": "2026-10-28",
+        "date": "2026-10-29",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
@@ -8525,6 +8549,35 @@
         "HBO Max": "https://play.hbomax.com/video/watch/bb988e99-2948-4cfe-b9e0-3d41f95380bf",
         "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38bce32c-8377-4467-b4bf-0545d2aa759c"
       }
+    },
+    "year": 2026
+  },
+  "tt26598805": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "media_type": "tv",
+    "original_title": "Nocturne",
+    "poster": "/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+    "recs": [
+      {
+        "date": "2026-10-29",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/29/nocturne-review-stephen-graham-rory-culkin-apple-tv"
+      }
+    ],
+    "title": "Nocturne",
+    "tmdb_id": 292741,
+    "watch": {
+      "providers": [],
+      "urls": {}
     },
     "year": 2026
   },
@@ -14133,35 +14186,6 @@
     "tmdb_id": 1370191,
     "year": 2026
   },
-  "tt35664835": {
-    "age": {
-      "classind": "12",
-      "source": "BR"
-    },
-    "genres": [
-      10764
-    ],
-    "media_type": "tv",
-    "original_title": "피지컬: 아시아",
-    "poster": "/osa3I6CuabnCEpNgFOvFMLLS7yP.jpg",
-    "recs": [
-      {
-        "date": "2025-10-28",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/oct/28/physical-asia-review-super-strong-contestants-barrels-wrapped-in-muscles-and-hair"
-      }
-    ],
-    "title": "Physical: Asia",
-    "tmdb_id": 293613,
-    "watch": {
-      "providers": [
-        "Netflix"
-      ],
-      "urls": {}
-    },
-    "year": 2025
-  },
   "tt35670577": {
     "age": null,
     "genres": [
@@ -15801,7 +15825,7 @@
     "poster": "/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
     "recs": [
       {
-        "date": "2026-10-28",
+        "date": "2026-10-29",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/fatherland-film-review-2026"
@@ -16236,7 +16260,7 @@
     "poster": "/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
     "recs": [
       {
-        "date": "2026-10-28",
+        "date": "2026-10-29",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/possible-love-lee-chang-dong-netflix-movie-review-2026"
@@ -17621,7 +17645,7 @@
     "poster": "/waH2eiMaEW987JUTWyrj4x4d63k.jpg",
     "recs": [
       {
-        "date": "2026-10-28",
+        "date": "2026-10-29",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
@@ -17977,6 +18001,12 @@
     "original_title": "Manhood",
     "poster": "/promUBwB50H3mIc9jyvLHNTh1HS.jpg",
     "recs": [
+      {
+        "date": "2026-10-29",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/manhood-penis-enlargement-documentary-film-review-2026"
+      },
       {
         "date": "2026-10-27",
         "outlet": "IndieWire",
@@ -19375,13 +19405,8 @@
     "title": "The Vampire Lestat",
     "tmdb_id": 323411,
     "watch": {
-      "providers": [
-        "Amazon Prime Video",
-        "Netflix"
-      ],
-      "urls": {
-        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3fdec0b3-e445-4136-adb1-cdfd88fd3348"
-      }
+      "providers": [],
+      "urls": {}
     },
     "year": 2026
   },
@@ -20248,6 +20273,16 @@
     ],
     "title": "The Narco Hack",
     "tmdb_id": 337950,
+    "watch": {
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ],
+      "urls": {
+        "HBO Max": "https://play.hbomax.com/video/watch/62342483-ae07-477b-a99f-085c8a8d90d1",
+        "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c91a34fb-f371-48f6-916c-602dce33d4d7"
+      }
+    },
     "year": 2026
   },
   "tv:tmdb:339786": {
@@ -20266,6 +20301,26 @@
     ],
     "title": "The Experiment",
     "tmdb_id": 339786,
+    "year": 2026
+  },
+  "tv:tmdb:340095": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "tv",
+    "original_title": "Murder in Belfast: Sisters Seeking Justice",
+    "poster": "/AmTUDLDo57sIACKrs1EfoSjD5Io.jpg",
+    "recs": [
+      {
+        "date": "2026-10-28",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/28/murder-in-belfast-sisters-seeking-justice-review-bbc"
+      }
+    ],
+    "title": "Murder in Belfast: Sisters Seeking Justice",
+    "tmdb_id": 340095,
     "year": 2026
   },
   "tv:tmdb:87012": {

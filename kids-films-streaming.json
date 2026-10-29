@@ -984,16 +984,15 @@
   },
   "12445": {
     "providers": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
+      "Amazon Prime Video",
+      "HBO Max"
     ],
     "urls": {
-      "HBO Max": "https://play.hbomax.com/show/1890c8c5-2f40-4140-a363-064428201826",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.534a160f-f33c-43c3-81a7-14925fb031bb"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.534a160f-f33c-43c3-81a7-14925fb031bb",
+      "HBO Max": "https://play.hbomax.com/show/1890c8c5-2f40-4140-a363-064428201826"
     },
     "verified": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
+      "Amazon Prime Video"
     ]
   },
   "12477": {
@@ -1005,9 +1004,6 @@
     ]
   },
   "12610": {
-    "providers": []
-  },
-  "126319": {
     "providers": []
   },
   "127380": {
@@ -2013,16 +2009,15 @@
   },
   "259316": {
     "providers": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
+      "Amazon Prime Video",
+      "HBO Max"
     ],
     "urls": {
-      "HBO Max": "https://play.hbomax.com/show/d627b35d-31a0-4e62-af14-6ec2fd8fdaef",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d97677f3-dc40-4984-a7fc-75100d4b36a0"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d97677f3-dc40-4984-a7fc-75100d4b36a0",
+      "HBO Max": "https://play.hbomax.com/show/d627b35d-31a0-4e62-af14-6ec2fd8fdaef"
     },
     "verified": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
+      "Amazon Prime Video"
     ]
   },
   "260513": {
@@ -2480,13 +2475,13 @@
   },
   "324857": {
     "providers": [
-      "Amazon Prime Video"
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb3d0d2-8276-69ba-e66b-f200871aacf7"
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb3d0d2-8276-69ba-e66b-f200871aacf7"
     },
     "verified": [
-      "Amazon Prime Video"
+      "Universal+ Amazon Channel"
     ]
   },
   "329": {
@@ -2740,7 +2735,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ITIT",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886DEDE",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     },
     "verified": [
@@ -3768,7 +3763,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-4153fd1c-1653-4678-8006-9cdd0d35154f"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-92243dd0-bcfe-4365-ae76-1fa3cf1a2ab9"
     },
     "verified": [
       "Disney Plus"
@@ -4271,30 +4266,32 @@
   },
   "671": {
     "providers": [
+      "Amazon Prime Video",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "urls": {
-      "HBO Max": "https://play.hbomax.com/show/4b990c5d-38ab-4daf-8092-2617cbc6d062",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88ae477d-8574-3fc1-b27b-e2b723d68d7b"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88ae477d-8574-3fc1-b27b-e2b723d68d7b",
+      "HBO Max": "https://play.hbomax.com/show/e22cdcd3-49d1-4e28-8846-d8feec300d77",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b23aabe8-9ba6-4d44-b3de-71f88cfbfd73"
     },
     "verified": [
+      "Amazon Prime Video",
       "HBO Max",
       "HBO Max Amazon Channel"
     ]
   },
   "673": {
     "providers": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
+      "Amazon Prime Video",
+      "HBO Max"
     ],
     "urls": {
-      "HBO Max": "https://play.hbomax.com/show/73553a76-1658-45f6-9e26-1b9c4443b0d6",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98c1b69a-4e7d-47cd-a79c-bf9dd59f5410"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98c1b69a-4e7d-47cd-a79c-bf9dd59f5410",
+      "HBO Max": "https://play.hbomax.com/show/73553a76-1658-45f6-9e26-1b9c4443b0d6"
     },
     "verified": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
+      "Amazon Prime Video"
     ]
   },
   "676710": {
@@ -4481,7 +4478,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     },
     "verified": [
@@ -4574,16 +4571,15 @@
   },
   "767": {
     "providers": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
+      "Amazon Prime Video",
+      "HBO Max"
     ],
     "urls": {
-      "HBO Max": "https://play.hbomax.com/show/cba1d85a-5ef4-4ba3-b537-1d24554fe85c",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e629f1db-f32d-4e2c-b7dd-bf440af2802b"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e629f1db-f32d-4e2c-b7dd-bf440af2802b",
+      "HBO Max": "https://play.hbomax.com/show/cba1d85a-5ef4-4ba3-b537-1d24554fe85c"
     },
     "verified": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
+      "Amazon Prime Video"
     ]
   },
   "771": {
@@ -5132,7 +5128,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G50UZXXWP",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GVWU0WWQ3",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506"
     },
@@ -5383,20 +5379,17 @@
       "Disney Plus",
       "Netflix",
       "Paramount Plus",
-      "Paramount+ Amazon Channel",
-      "Universal+ Amazon Channel"
+      "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Disney Plus": "https://www.disneyplus.com/browse/entity-fc306151-7cbc-4237-b64a-3b2635c87369",
       "Paramount Plus": "https://www.paramountplus.com/movies/mission-impossible/KKCfDcK2Tv6lZ6NtJCF_S_oSs_5YUBbz?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66244fcc-ad8b-411f-8386-ea353000b341",
-      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.89beee01-ed33-4e7f-89ef-3177520807a1"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66244fcc-ad8b-411f-8386-ea353000b341"
     },
     "verified": [
       "Disney Plus",
       "Netflix",
-      "Paramount+ Amazon Channel",
-      "Universal+ Amazon Channel"
+      "Paramount+ Amazon Channel"
     ]
   },
   "9555": {

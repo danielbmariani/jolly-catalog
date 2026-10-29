@@ -1381,9 +1381,6 @@
       "Netflix"
     ]
   },
-  "tt14371926": {
-    "providers": []
-  },
   "tt1439629": {
     "providers": [
       "Netflix",
@@ -3282,6 +3279,16 @@
     "verified": [
       "HBO Max",
       "HBO Max Amazon Channel"
+    ]
+  },
+  "tt3960394": {
+    "providers": [
+      "Amazon Prime Video",
+      "Netflix"
+    ],
+    "verified": [
+      "Amazon Prime Video",
+      "Netflix"
     ]
   },
   "tt40407840": {
