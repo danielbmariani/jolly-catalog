@@ -2254,13 +2254,16 @@
   },
   "295693": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Globoplay"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.06b0a9c9-a247-4a3e-82ed-e3263ade9162"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.06b0a9c9-a247-4a3e-82ed-e3263ade9162",
+      "Globoplay": "https://globoplay.globo.com/o-poderoso-chefinho/t/jGgKwRzKfn/"
     },
     "verified": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Globoplay"
     ]
   },
   "297": {
@@ -2735,7 +2738,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886DEDE",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ESES",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     },
     "verified": [
@@ -3763,7 +3766,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-92243dd0-bcfe-4365-ae76-1fa3cf1a2ab9"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-4153fd1c-1653-4678-8006-9cdd0d35154f"
     },
     "verified": [
       "Disney Plus"
@@ -4478,7 +4481,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     },
     "verified": [
@@ -5128,7 +5131,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GVWU0WWQ3",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29988",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506"
     },

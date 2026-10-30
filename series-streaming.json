@@ -2359,13 +2359,10 @@
   "tt2401256": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max"
     ],
     "verified": [
-      "Amazon Prime Video",
-      "HBO Max",
-      "HBO Max Amazon Channel"
+      "Amazon Prime Video"
     ]
   },
   "tt24053860": {
@@ -3476,9 +3473,6 @@
     "verified": [
       "Sony One Amazon Channel"
     ]
-  },
-  "tt4677934": {
-    "providers": []
   },
   "tt4687880": {
     "providers": [

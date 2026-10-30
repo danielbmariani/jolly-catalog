@@ -1119,14 +1119,6 @@
   "11257": {
     "providers": []
   },
-  "1126336": {
-    "providers": [
-      "Amazon Prime Video"
-    ],
-    "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e413a1ee-3d89-48d7-84e4-802a5a3c5fb0"
-    }
-  },
   "11287": {
     "providers": []
   },
@@ -2224,7 +2216,7 @@
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144TAIN",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144ITIT",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-b8b65a37-0205-4771-bd07-24b5c4406034",
       "HBO Max": "https://play.hbomax.com/show/291804e2-d281-4934-97f5-5d305fd845fc"
     }
@@ -2713,9 +2705,6 @@
       "Disney Plus": "https://www.disneyplus.com/browse/entity-a7fe8b37-3304-4eeb-a87b-74de9c7b3f03"
     }
   },
-  "14022": {
-    "providers": []
-  },
   "140300": {
     "providers": [
       "Amazon Prime Video"
@@ -2772,7 +2761,7 @@
       "Paramount+ Amazon Channel"
     ],
     "urls": {
-      "Paramount Plus": "https://www.paramountplus.com/movies/exit-8/ALVE01M3QJ3HWWERE8G890Q9910TRS?amp%3Butm_source=publisher",
+      "Paramount Plus": "https://www.paramountplus.com/movies/exit-8/ALVE01M5XNAEG2EMMAR2JQPYKJS7MZ?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e8201cb-9842-46ac-9323-977d6f7ac262"
     }
   },
@@ -2974,7 +2963,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-7534d4ac-d936-41cc-a2fb-37af15694964"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-09aa241f-b771-4323-a7ac-e2dae4f3782e"
     }
   },
   "145": {
@@ -4968,6 +4957,7 @@
     "providers": [
       "Artiflix",
       "Belas Artes à La Carte",
+      "Globoplay",
       "Looke",
       "NetMovies",
       "Oldflix",
@@ -4977,6 +4967,7 @@
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
+      "Globoplay": "https://globoplay.globo.com/o-diabo-riu-por-ultimo/t/YHyV9sfwtr/",
       "Looke": "https://www.looke.com.br/detalhes/126306",
       "NetMovies": "https://www.netmovies.com.br/filmes/126306",
       "Oldflix": "https://www.oldflix.com.br/title/play/609e8cc4d06a989d53619db4",
@@ -6350,10 +6341,12 @@
   },
   "295693": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Globoplay"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.06b0a9c9-a247-4a3e-82ed-e3263ade9162"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.06b0a9c9-a247-4a3e-82ed-e3263ade9162",
+      "Globoplay": "https://globoplay.globo.com/o-poderoso-chefinho/t/jGgKwRzKfn/"
     }
   },
   "297": {
@@ -7531,7 +7524,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886DEDE",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ESES",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     }
   },
@@ -9247,7 +9240,12 @@
     }
   },
   "524635": {
-    "providers": []
+    "providers": [
+      "MUBI Amazon Channel"
+    ],
+    "urls": {
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.226fd1ff-8aa7-41e4-922a-866e2d79def2"
+    }
   },
   "525": {
     "providers": []
@@ -9604,7 +9602,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-92243dd0-bcfe-4365-ae76-1fa3cf1a2ab9"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-4153fd1c-1653-4678-8006-9cdd0d35154f"
     }
   },
   "567": {
@@ -10847,7 +10845,7 @@
       "NetMovies"
     ],
     "urls": {
-      "Looke": "https://www.looke.com.br/detalhes/252381",
+      "Looke": "https://www.looke.com.br/detalhes/129202",
       "NetMovies": "https://www.netmovies.com.br/filmes/252381"
     }
   },
@@ -11283,7 +11281,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     }
   },
@@ -11399,9 +11397,6 @@
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-f08e9233-5325-45ac-a070-134f9725f1fd"
     }
-  },
-  "75629": {
-    "providers": []
   },
   "758866": {
     "providers": [
@@ -12972,7 +12967,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GVWU0WWQ3",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29988",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506"
     }
@@ -13009,7 +13004,7 @@
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/do-the-right-thing",
-      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.93fd85c6-2159-470f-a6df-fba1ac9c69b6"
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cebb1452-ee60-4809-432b-57019ae34bf0"
     }
   },
   "926": {

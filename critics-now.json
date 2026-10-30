@@ -1,7 +1,7 @@
 {
   "_raw": [
     {
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -9,7 +9,7 @@
       "url": "https://www.rogerebert.com/reviews/possible-love-lee-chang-dong-netflix-movie-review-2026"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -17,7 +17,7 @@
       "url": "https://www.rogerebert.com/reviews/fatherland-film-review-2026"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -25,7 +25,7 @@
       "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -33,12 +33,20 @@
       "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
       "title": "Paralyzed by Hope: The Maria Bamford Story",
       "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
+    },
+    {
+      "date": "2026-10-30",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Manhood (2026)",
+      "url": "https://www.rogerebert.com/reviews/manhood-penis-enlargement-documentary-film-review-2026"
     },
     {
       "date": "2026-10-29",
@@ -47,14 +55,6 @@
       "rating": "4★",
       "title": "Nocturne",
       "url": "https://www.theguardian.com/tv-and-radio/2026/oct/29/nocturne-review-stephen-graham-rory-culkin-apple-tv"
-    },
-    {
-      "date": "2026-10-29",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Manhood (2026)",
-      "url": "https://www.rogerebert.com/reviews/manhood-penis-enlargement-documentary-film-review-2026"
     },
     {
       "date": "2026-10-28",
@@ -6223,30 +6223,6 @@
       "rating": "B+",
       "title": "I Love L.A.",
       "url": "https://www.indiewire.com/criticism/shows/i-love-la-review-rachel-sennott-hbo-series-1235157967/"
-    },
-    {
-      "date": "2025-10-29",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "5★",
-      "title": "Down Cemetery Road",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/oct/29/down-cemetery-road-review-emma-thompson-thriller-apple-tv"
-    },
-    {
-      "date": "2025-10-29",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Anniversary",
-      "url": "https://www.rogerebert.com/reviews/anniversary-film-review-2025"
-    },
-    {
-      "date": "2025-10-29",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Coexistence, My Ass!",
-      "url": "https://www.rogerebert.com/reviews/coexistence-my-ass-film-review-2025"
     }
   ],
   "movie:tmdb:1434103": {
@@ -6761,30 +6737,6 @@
     "tmdb_id": 687163,
     "year": 2026
   },
-  "tt12583926": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      53,
-      18
-    ],
-    "media_type": "movie",
-    "original_title": "Anniversary",
-    "poster": "/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg",
-    "recs": [
-      {
-        "date": "2025-10-29",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/anniversary-film-review-2025"
-      }
-    ],
-    "title": "Anniversary",
-    "tmdb_id": 1126336,
-    "year": 2025
-  },
   "tt12637874": {
     "age": {
       "classind": "18",
@@ -6918,7 +6870,7 @@
     "poster": "/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
     "recs": [
       {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
@@ -7774,7 +7726,7 @@
     "poster": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "recs": [
       {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
@@ -8364,7 +8316,9 @@
       "providers": [
         "Netflix"
       ],
-      "urls": {}
+      "urls": {
+        "Netflix": "https://www.netflix.com/title/80994082"
+      }
     },
     "year": 2021
   },
@@ -8576,8 +8530,14 @@
     "title": "Nocturne",
     "tmdb_id": 292741,
     "watch": {
-      "providers": [],
-      "urls": {}
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ],
+      "urls": {
+        "Apple TV": "https://tv.apple.com/br/episode/lazaro-vem-para-fora/umc.cmc.1satwmkrp3g3mrytncw1u9qay?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.4000%3AA0175401001&showId=umc.cmc.4cfsq1juke72zutv5xp0pw3rj",
+        "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e5ef7cce-7a5f-4c5f-ad4b-805d4dccd25f"
+      }
     },
     "year": 2026
   },
@@ -10878,41 +10838,6 @@
     "title": "Forastera",
     "tmdb_id": 1274757,
     "year": 2026
-  },
-  "tt32132630": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      18,
-      9648,
-      80
-    ],
-    "media_type": "tv",
-    "original_title": "Down Cemetery Road",
-    "poster": "/pjmQbrJ3FesJobbqCnUwBCtfcvH.jpg",
-    "recs": [
-      {
-        "date": "2025-10-29",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/oct/29/down-cemetery-road-review-emma-thompson-thriller-apple-tv"
-      }
-    ],
-    "title": "Down Cemetery Road",
-    "tmdb_id": 252000,
-    "watch": {
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ],
-      "urls": {
-        "Apple TV": "https://tv.apple.com/br/episode/quase-verdade/umc.cmc.22jfpg57pdgfkvsbwuxnhk136?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.4000%3AA0170901001&showId=umc.cmc.3i55uxosnfpzw7rw1q525iksh",
-        "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.11f40404-ab73-44d4-90f7-93a572021cf8"
-      }
-    },
-    "year": 2025
   },
   "tt32140872": {
     "age": {
@@ -13419,29 +13344,6 @@
     "tmdb_id": 1400731,
     "year": 2026
   },
-  "tt34964219": {
-    "age": {
-      "classind": "12",
-      "source": "DE"
-    },
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "original_title": "Coexistence, My Ass!",
-    "poster": "/Gu5Rp19LKqj3VUsPRtygw2OPpL.jpg",
-    "recs": [
-      {
-        "date": "2025-10-29",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/coexistence-my-ass-film-review-2025"
-      }
-    ],
-    "title": "Coexistence, My Ass!",
-    "tmdb_id": 1400791,
-    "year": 2026
-  },
   "tt34965172": {
     "age": null,
     "genres": [
@@ -15825,7 +15727,7 @@
     "poster": "/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
     "recs": [
       {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/fatherland-film-review-2026"
@@ -16260,7 +16162,7 @@
     "poster": "/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
     "recs": [
       {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/possible-love-lee-chang-dong-netflix-movie-review-2026"
@@ -17645,7 +17547,7 @@
     "poster": "/waH2eiMaEW987JUTWyrj4x4d63k.jpg",
     "recs": [
       {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
@@ -18002,7 +17904,7 @@
     "poster": "/promUBwB50H3mIc9jyvLHNTh1HS.jpg",
     "recs": [
       {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/manhood-penis-enlargement-documentary-film-review-2026"
@@ -19684,7 +19586,9 @@
       "providers": [
         "Netflix"
       ],
-      "urls": {}
+      "urls": {
+        "Netflix": "https://www.netflix.com/title/80057281"
+      }
     },
     "year": 2016
   },
