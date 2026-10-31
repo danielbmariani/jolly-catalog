@@ -2216,7 +2216,7 @@
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144ITIT",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144ENUS",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-b8b65a37-0205-4771-bd07-24b5c4406034",
       "HBO Max": "https://play.hbomax.com/show/291804e2-d281-4934-97f5-5d305fd845fc"
     }
@@ -2342,8 +2342,9 @@
       "Paramount+ Amazon Channel"
     ],
     "urls": {
+      "Netflix": "https://www.netflix.com/title/70101276",
       "Paramount Plus": "https://www.paramountplus.com/movies/star-trek/sAGyRO0VWcwjb4VEZ9MZSpQ43Dq4x2_U?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.39c27a42-2564-4f82-948a-4873f37bb8b0"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4e3c748-4e10-469e-9ca7-495e0a68d105"
     }
   },
   "135": {
@@ -2649,7 +2650,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G14U4DXQ2",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G31UXJW8E",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3583b831-3ad5-4bf2-9be1-fda81ca8f0e9"
     }
   },
@@ -2963,7 +2964,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-09aa241f-b771-4323-a7ac-e2dae4f3782e"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-7534d4ac-d936-41cc-a2fb-37af15694964"
     }
   },
   "145": {
@@ -6746,6 +6747,20 @@
       "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8b87d59-4400-59c8-8586-86cd2bcb73c6"
     }
   },
+  "3114": {
+    "providers": [
+      "HBO Max",
+      "Looke",
+      "Looke Amazon Channel",
+      "NetMovies"
+    ],
+    "urls": {
+      "HBO Max": "https://play.hbomax.com/show/80fb355e-c63f-4f04-aee7-64d664ba45c5",
+      "Looke": "https://www.looke.com.br/detalhes/276247",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6a9f719-0977-ed0c-24d4-dcd88f375dea",
+      "NetMovies": "https://www.netmovies.com.br/filmes/276247"
+    }
+  },
   "3116": {
     "providers": [
       "MGM Plus Amazon Channel",
@@ -7374,7 +7389,12 @@
     }
   },
   "372058": {
-    "providers": []
+    "providers": [
+      "Crunchyroll"
+    ],
+    "urls": {
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G4VUQJ94D"
+    }
   },
   "37247": {
     "providers": [
@@ -7582,12 +7602,10 @@
   },
   "38055": {
     "providers": [
-      "Amazon Prime Video",
-      "HBO Max"
+      "Amazon Prime Video"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6b0a844-77ee-4d10-c817-aef0ac8c5d6e",
-      "HBO Max": "https://play.hbomax.com/show/61c6865b-575c-4ff9-a879-e0c31ab36930"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6b0a844-77ee-4d10-c817-aef0ac8c5d6e"
     }
   },
   "38360": {
@@ -7600,9 +7618,11 @@
   },
   "38368": {
     "providers": [
+      "MUBI",
       "Reserva Imovision Amazon Channel"
     ],
     "urls": {
+      "MUBI": "https://mubi.com/films/uncle-boonmee-who-can-recall-his-past-lives",
       "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72fc821c-5c8a-472f-8a3c-6537d718ba51"
     }
   },
@@ -8023,7 +8043,7 @@
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/scream/W53olFcpfJPcz4lDyjncpAFTxhUdeCZR?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1d5657f4-1b50-41d5-85b4-67c574a56b39"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.32ae270c-416d-44e9-979b-e69b6aa746f6"
     }
   },
   "424": {
@@ -9241,9 +9261,11 @@
   },
   "524635": {
     "providers": [
+      "MUBI",
       "MUBI Amazon Channel"
     ],
     "urls": {
+      "MUBI": "https://mubi.com/films/the-chronology-of-water",
       "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.226fd1ff-8aa7-41e4-922a-866e2d79def2"
     }
   },
@@ -9864,18 +9886,6 @@
     "providers": [
       "Netflix"
     ]
-  },
-  "586945": {
-    "providers": [
-      "Looke",
-      "Looke Amazon Channel",
-      "NetMovies"
-    ],
-    "urls": {
-      "Looke": "https://www.looke.com.br/detalhes/339372",
-      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.35463d1c-0e54-4d7a-929c-4dfe1f6a0edc",
-      "NetMovies": "https://www.netmovies.com.br/filmes/339372"
-    }
   },
   "587092": {
     "providers": []
@@ -10592,40 +10602,6 @@
   "652837": {
     "providers": []
   },
-  "653": {
-    "providers": [
-      "Artiflix",
-      "Belas Artes à La Carte",
-      "Bloodstream",
-      "Cindie Amazon Channel",
-      "Cultpix",
-      "Libreflix",
-      "Looke",
-      "MUBI",
-      "NetMovies",
-      "Plex",
-      "Plex Channel",
-      "Plex Player",
-      "Pluto TV",
-      "Telecine Amazon Channel"
-    ],
-    "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
-      "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "Bloodstream": "https://bloodstreamtv.com/show-details/noseferatu?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
-      "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3f00d61e-5f54-4e20-9a0c-3259b9a52891",
-      "Cultpix": "https://www.cultpix.com/movie/nosferatu-eine-symphonie-des-grauens/2346",
-      "Libreflix": "https://libreflix.org/i/nosferatu-1922",
-      "Looke": "https://www.looke.com.br/detalhes/126873",
-      "MUBI": "https://mubi.com/films/nosferatu",
-      "NetMovies": "https://www.netmovies.com.br/filmes/126873",
-      "Plex": "https://watch.plex.tv/movie/nosferatu?autoplay=1",
-      "Plex Channel": "https://www.justwatch.com/br/filme/nosferatu?package=plc",
-      "Plex Player": "https://watch.plex.tv/embed/movie/nosferatu?referrer=JustWatch",
-      "Pluto TV": "https://pluto.tv/on-demand/movies/nosferatu-br-1921-1-1",
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3a428415-b2c9-4339-8191-6370950a6d94"
-    }
-  },
   "653346": {
     "providers": [
       "Disney Plus"
@@ -10845,7 +10821,7 @@
       "NetMovies"
     ],
     "urls": {
-      "Looke": "https://www.looke.com.br/detalhes/129202",
+      "Looke": "https://www.looke.com.br/detalhes/252381",
       "NetMovies": "https://www.netmovies.com.br/filmes/252381"
     }
   },
@@ -10996,16 +10972,14 @@
   "6949": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/4f8d95a5-07ac-498b-b5ce-433b2e75b9a4",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.daa9f772-2150-fc39-7fac-9a4c3e7cf040",
       "Looke": "https://www.looke.com.br/detalhes/278924",
-      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cb5d231-c8e3-b089-8a14-0b0505d7076e",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.daa9f772-2150-fc39-7fac-9a4c3e7cf040",
       "NetMovies": "https://www.netmovies.com.br/filmes/278924"
     }
   },
@@ -11281,7 +11255,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     }
   },
@@ -11397,6 +11371,9 @@
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-f08e9233-5325-45ac-a070-134f9725f1fd"
     }
+  },
+  "75629": {
+    "providers": []
   },
   "758866": {
     "providers": [
@@ -11613,14 +11590,6 @@
     "providers": [
       "Disney Plus"
     ]
-  },
-  "777": {
-    "providers": [
-      "Belas Artes à La Carte"
-    ],
-    "urls": {
-      "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
-    }
   },
   "77771": {
     "providers": [
@@ -12764,18 +12733,6 @@
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb5c1dd-9a50-670d-ec4d-89a8afd846f9"
     }
   },
-  "897": {
-    "providers": [
-      "Plex",
-      "Plex Channel",
-      "Plex Player"
-    ],
-    "urls": {
-      "Plex": "https://watch.plex.tv/movie/aparajito?autoplay=1",
-      "Plex Channel": "https://www.justwatch.com/br/filme/o-invencivel?package=plc",
-      "Plex Player": "https://watch.plex.tv/embed/movie/aparajito?referrer=JustWatch"
-    }
-  },
   "8974": {
     "providers": []
   },
@@ -12967,7 +12924,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29988",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GG1U2440G",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506"
     }
@@ -12999,11 +12956,9 @@
   },
   "925": {
     "providers": [
-      "MUBI",
       "MUBI Amazon Channel"
     ],
     "urls": {
-      "MUBI": "https://mubi.com/films/do-the-right-thing",
       "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cebb1452-ee60-4809-432b-57019ae34bf0"
     }
   },
@@ -13305,7 +13260,6 @@
   },
   "948": {
     "providers": [
-      "Cultpix",
       "Looke",
       "NetMovies",
       "Plex",
@@ -13313,7 +13267,6 @@
       "Plex Player"
     ],
     "urls": {
-      "Cultpix": "https://www.cultpix.com/movie/halloween/1185",
       "Looke": "https://www.looke.com.br/detalhes/43090",
       "NetMovies": "https://www.netmovies.com.br/filmes/43090",
       "Plex": "https://watch.plex.tv/movie/halloween?autoplay=1",
@@ -13413,9 +13366,6 @@
       "HBO Max": "https://play.hbomax.com/show/d7b0be9a-fc06-4144-a50c-51450c41370b",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4abbef0-8713-2bff-1113-1afbf133cf8d"
     }
-  },
-  "9555": {
-    "providers": []
   },
   "9558": {
     "providers": []
@@ -13640,7 +13590,7 @@
     ],
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/357985",
-      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b75da679-e549-4c3e-8ebb-7f989eaba11b",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.81d508bc-dfe0-4313-a1a2-b7ae97f5c202",
       "NetMovies": "https://www.netmovies.com.br/filmes/357985"
     }
   },
@@ -13856,14 +13806,14 @@
   },
   "99": {
     "providers": [
-      "Amazon Prime Video",
       "MUBI",
-      "Pluto TV"
+      "Pluto TV",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54a9f710-367f-72f2-404d-998eedec7908",
       "MUBI": "https://mubi.com/films/all-about-my-mother",
-      "Pluto TV": "https://pluto.tv/on-demand/movies/todo-sobre-mi-madre-br-1999-1-1"
+      "Pluto TV": "https://pluto.tv/on-demand/movies/todo-sobre-mi-madre-br-1999-1-1",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54a9f710-367f-72f2-404d-998eedec7908"
     }
   },
   "990": {

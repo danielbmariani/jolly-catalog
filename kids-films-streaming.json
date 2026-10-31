@@ -1098,7 +1098,7 @@
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/star-trek/sAGyRO0VWcwjb4VEZ9MZSpQ43Dq4x2_U?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.39c27a42-2564-4f82-948a-4873f37bb8b0"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4e3c748-4e10-469e-9ca7-495e0a68d105"
     },
     "verified": [
       "Netflix",
@@ -1212,7 +1212,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G14U4DXQ2",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G31UXJW8E",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3583b831-3ad5-4bf2-9be1-fda81ca8f0e9"
     },
     "verified": [
@@ -2722,7 +2722,12 @@
     ]
   },
   "372058": {
-    "providers": []
+    "providers": [
+      "Crunchyroll"
+    ],
+    "urls": {
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G4VUQJ94D"
+    }
   },
   "37797": {
     "providers": [
@@ -2786,12 +2791,10 @@
   },
   "38055": {
     "providers": [
-      "Amazon Prime Video",
-      "HBO Max"
+      "Amazon Prime Video"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6b0a844-77ee-4d10-c817-aef0ac8c5d6e",
-      "HBO Max": "https://play.hbomax.com/show/61c6865b-575c-4ff9-a879-e0c31ab36930"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6b0a844-77ee-4d10-c817-aef0ac8c5d6e"
     },
     "verified": [
       "Amazon Prime Video"
@@ -3895,22 +3898,6 @@
   "585077": {
     "providers": []
   },
-  "586945": {
-    "providers": [
-      "Looke",
-      "Looke Amazon Channel",
-      "NetMovies"
-    ],
-    "urls": {
-      "Looke": "https://www.looke.com.br/detalhes/339372",
-      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.35463d1c-0e54-4d7a-929c-4dfe1f6a0edc",
-      "NetMovies": "https://www.netmovies.com.br/filmes/339372"
-    },
-    "verified": [
-      "Looke",
-      "Looke Amazon Channel"
-    ]
-  },
   "587311": {
     "providers": []
   },
@@ -4481,7 +4468,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     },
     "verified": [
@@ -5131,7 +5118,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29988",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GG1U2440G",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506"
     },
@@ -5394,9 +5381,6 @@
       "Netflix",
       "Paramount+ Amazon Channel"
     ]
-  },
-  "9555": {
-    "providers": []
   },
   "9598": {
     "providers": [

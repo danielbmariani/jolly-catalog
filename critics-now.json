@@ -1,6 +1,46 @@
 {
   "_raw": [
     {
+      "date": "2026-10-31",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Wildwood",
+      "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
+    },
+    {
+      "date": "2026-10-31",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Paralyzed by Hope: The Maria Bamford Story",
+      "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
+    },
+    {
+      "date": "2026-10-31",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Manhood (2026)",
+      "url": "https://www.rogerebert.com/reviews/manhood-penis-enlargement-documentary-film-review-2026"
+    },
+    {
+      "date": "2026-10-31",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Queen at Sea",
+      "url": "https://www.rogerebert.com/reviews/queen-at-sea-juliette-binohe-film-review-2026"
+    },
+    {
+      "date": "2026-10-31",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "SCTV: The Greatest Show You&#8217;ve Never Heard Of",
+      "url": "https://www.rogerebert.com/reviews/sctv-the-greatest-show-youve-never-heard-of-netflix-documentary-film-review-2026"
+    },
+    {
       "date": "2026-10-30",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
@@ -27,26 +67,26 @@
     {
       "date": "2026-10-30",
       "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Wildwood",
-      "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
+      "outlet": "IndieWire",
+      "rating": "B+",
+      "title": "Everest: The Other Side",
+      "url": "https://www.indiewire.com/criticism/movies/everest-the-other-side-review-everest-climbing-doc-1235214536/"
     },
     {
       "date": "2026-10-30",
       "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Paralyzed by Hope: The Maria Bamford Story",
-      "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
+      "outlet": "The Guardian",
+      "rating": "5★",
+      "title": "Oh to Believe in Another World",
+      "url": "https://www.theguardian.com/film/2026/oct/30/oh-to-believe-in-another-world-review-william-kentridges-amazing-animated-ballet-of-black-comic-pain"
     },
     {
       "date": "2026-10-30",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Manhood (2026)",
-      "url": "https://www.rogerebert.com/reviews/manhood-penis-enlargement-documentary-film-review-2026"
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "The Celebrity Traitors final",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/30/the-celebrity-traitors-final-review-more-muted-but-still-thrilling-to-the-last"
     },
     {
       "date": "2026-10-29",
@@ -1623,14 +1663,6 @@
       "rating": "B+",
       "title": "Bucking Fastard",
       "url": "https://www.indiewire.com/criticism/movies/bucking-fastard-review-werner-herzog-mara-sisters-twins-1235214547/"
-    },
-    {
-      "date": "2026-09-03",
-      "media_type": "movie",
-      "outlet": "IndieWire",
-      "rating": "B+",
-      "title": "Everest: The Other Side",
-      "url": "https://www.indiewire.com/criticism/movies/everest-the-other-side-review-everest-climbing-doc-1235214536/"
     },
     {
       "date": "2026-09-02",
@@ -6215,14 +6247,6 @@
       "rating": "4★",
       "title": "Girlbands Forever",
       "url": "https://www.theguardian.com/tv-and-radio/2025/nov/01/girlbands-forever-review-bbc-all-saints-sugababes-eternal"
-    },
-    {
-      "date": "2025-10-30",
-      "media_type": "tv",
-      "outlet": "IndieWire",
-      "rating": "B+",
-      "title": "I Love L.A.",
-      "url": "https://www.indiewire.com/criticism/shows/i-love-la-review-rachel-sennott-hbo-series-1235157967/"
     }
   ],
   "movie:tmdb:1434103": {
@@ -7726,7 +7750,7 @@
     "poster": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "recs": [
       {
-        "date": "2026-10-30",
+        "date": "2026-10-31",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
@@ -8820,6 +8844,12 @@
     "original_title": "Queen at Sea",
     "poster": "/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
     "recs": [
+      {
+        "date": "2026-10-31",
+        "outlet": "RogerEbert.com",
+        "rating": "3.5★",
+        "url": "https://www.rogerebert.com/reviews/queen-at-sea-juliette-binohe-film-review-2026"
+      },
       {
         "date": "2026-10-26",
         "outlet": "IndieWire",
@@ -12408,39 +12438,6 @@
     ],
     "title": "100 Nights of Hero",
     "tmdb_id": 1354518,
-    "year": 2025
-  },
-  "tt33362589": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      35
-    ],
-    "media_type": "tv",
-    "original_title": "I Love LA",
-    "poster": "/6xrLXEQABvoVwGka9KDDAOt4lFs.jpg",
-    "recs": [
-      {
-        "date": "2025-10-30",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/shows/i-love-la-review-rachel-sennott-hbo-series-1235157967/"
-      }
-    ],
-    "title": "I Love LA",
-    "tmdb_id": 271053,
-    "watch": {
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
-      ],
-      "urls": {
-        "HBO Max": "https://play.hbomax.com/video/watch/e578aff5-32a1-4148-b4cc-94ee18ffda5b",
-        "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ada0ec61-4ad4-4644-ad7f-ef6bcb51896d"
-      }
-    },
     "year": 2025
   },
   "tt33365126": {
@@ -16858,7 +16855,7 @@
     "poster": "/2m9ts8LfjG8d4xcUtx66aApngJL.jpg",
     "recs": [
       {
-        "date": "2026-09-03",
+        "date": "2026-10-30",
         "outlet": "IndieWire",
         "rating": "B+",
         "url": "https://www.indiewire.com/criticism/movies/everest-the-other-side-review-everest-climbing-doc-1235214536/"
@@ -17547,7 +17544,7 @@
     "poster": "/waH2eiMaEW987JUTWyrj4x4d63k.jpg",
     "recs": [
       {
-        "date": "2026-10-30",
+        "date": "2026-10-31",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
@@ -17904,7 +17901,7 @@
     "poster": "/promUBwB50H3mIc9jyvLHNTh1HS.jpg",
     "recs": [
       {
-        "date": "2026-10-30",
+        "date": "2026-10-31",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/manhood-penis-enlargement-documentary-film-review-2026"
@@ -18035,10 +18032,10 @@
     "tmdb_id": 312626,
     "watch": {
       "providers": [
-        "Amazon Prime Video"
+        "Universal+ Amazon Channel"
       ],
       "urls": {
-        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.75df2945-f796-4e62-9230-8278e9fe07bd"
+        "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.75df2945-f796-4e62-9230-8278e9fe07bd"
       }
     },
     "year": 2026
