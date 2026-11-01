@@ -575,6 +575,9 @@
       "HBO Max Amazon Channel"
     ]
   },
+  "tt10517426": {
+    "providers": []
+  },
   "tt10541088": {
     "providers": [
       "Amazon Prime Video"
@@ -3809,7 +3812,12 @@
   },
   "tt6078096": {
     "providers": [
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
     ]
   },
   "tt6078644": {
