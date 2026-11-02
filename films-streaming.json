@@ -624,10 +624,12 @@
   },
   "10719": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Disney Plus"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.712a5b64-2b9b-4a4f-a965-ceae2917dfe4"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.712a5b64-2b9b-4a4f-a965-ceae2917dfe4",
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-05f65cbb-d0ac-4bd3-8b51-ed61707b1c4b"
     }
   },
   "10728": {
@@ -2062,7 +2064,7 @@
       "True Story"
     ],
     "urls": {
-      "True Story": "https://www.truestory.film/marching-in-the-dark"
+      "True Story": "https://www.truestory.film/marching-in-the-dark/videos/marching-in-the-dark"
     }
   },
   "12477": {
@@ -2275,9 +2277,10 @@
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144RURU",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144ITIT",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-b8b65a37-0205-4771-bd07-24b5c4406034",
-      "HBO Max": "https://play.hbomax.com/show/291804e2-d281-4934-97f5-5d305fd845fc"
+      "HBO Max": "https://play.hbomax.com/show/291804e2-d281-4934-97f5-5d305fd845fc",
+      "Netflix": "https://www.netflix.com/title/82723106"
     }
   },
   "1315772": {
@@ -3030,7 +3033,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-7534d4ac-d936-41cc-a2fb-37af15694964"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-09aa241f-b771-4323-a7ac-e2dae4f3782e"
     }
   },
   "145": {
@@ -4153,7 +4156,12 @@
     "providers": []
   },
   "180": {
-    "providers": []
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "urls": {
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cab96ec2-d16f-62b5-f6e6-aa10a07333a9"
+    }
   },
   "1802": {
     "providers": [
@@ -7242,10 +7250,12 @@
   },
   "335797": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Netflix"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02ac577a-2d2f-5258-32c6-77748549e3c3"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02ac577a-2d2f-5258-32c6-77748549e3c3",
+      "Netflix": "https://www.netflix.com/title/80117526"
     }
   },
   "335984": {
@@ -7384,13 +7394,15 @@
       "Disney Plus",
       "Netflix",
       "Paramount Plus",
-      "Paramount+ Amazon Channel"
+      "Paramount+ Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Disney Plus": "https://www.disneyplus.com/browse/entity-ce251951-1503-4eee-8149-621c66e2b8c8",
       "Netflix": "https://www.netflix.com/title/80236314",
       "Paramount Plus": "https://www.paramountplus.com/movies/mission-impossible-fallout/4_fidVBLydX2A6XccwhB4_zk0JACgvQi?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.32c813e8-168f-41ea-ace6-971cf407bec7"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.32c813e8-168f-41ea-ace6-971cf407bec7",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b41cd88f-2b57-42a0-97b1-b125a497aad4"
     }
   },
   "35454": {
@@ -7672,7 +7684,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ESES",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886DEDE",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     }
   },
@@ -8429,10 +8441,12 @@
   },
   "438695": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Netflix"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c800672a-6c35-4746-a086-8918c480c7af"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c800672a-6c35-4746-a086-8918c480c7af",
+      "Netflix": "https://www.netflix.com/title/81475311"
     }
   },
   "43874": {
@@ -8548,7 +8562,12 @@
     "providers": []
   },
   "44826": {
-    "providers": []
+    "providers": [
+      "Universal+ Amazon Channel"
+    ],
+    "urls": {
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7a081d70-1997-406a-8247-eda0165d3fcf"
+    }
   },
   "4485": {
     "providers": [
@@ -9117,9 +9136,6 @@
     "urls": {
       "Disney Plus": "https://www.disneyplus.com/browse/entity-d9cd6bd1-bcf8-4a3b-8f92-0fdd4f79ac08"
     }
-  },
-  "4977": {
-    "providers": []
   },
   "499": {
     "providers": [
@@ -10997,11 +11013,13 @@
     "providers": [
       "Globoplay",
       "Netflix",
+      "Paramount Plus",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Globoplay": "https://globoplay.globo.com/resistencia/t/ZDwCJYLrWw/",
       "Netflix": "https://www.netflix.com/title/81674655",
+      "Paramount Plus": "https://www.paramountplus.com/movies/creator/ALVE01M5N5HCJWE2CA4ZSWMMSBBRR3?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c1c8e64f-bcc9-4f17-81f7-39159828f649"
     }
   },
@@ -11039,7 +11057,10 @@
   "676710": {
     "providers": [
       "Netflix"
-    ]
+    ],
+    "urls": {
+      "Netflix": "https://www.netflix.com/title/82160767"
+    }
   },
   "676727": {
     "providers": []
@@ -11669,10 +11690,12 @@
   "76341": {
     "providers": [
       "Amazon Prime Video",
+      "Apple TV",
       "HBO Max"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c9da1a1-af0f-41d7-be82-0bb2fd6e7f32",
+      "Apple TV": "https://tv.apple.com/br/movie/mad-max-estrada-da-furia/umc.cmc.6xerenwn1999cjd2y6421r2ex?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv",
       "HBO Max": "https://play.hbomax.com/show/8cde025a-223d-4879-9336-3d5f6c9d0c55"
     }
   },
@@ -11836,14 +11859,6 @@
     "providers": [
       "Disney Plus"
     ]
-  },
-  "777": {
-    "providers": [
-      "Belas Artes à La Carte"
-    ],
-    "urls": {
-      "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
-    }
   },
   "77771": {
     "providers": [
@@ -13218,7 +13233,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GG1U2440G",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29988",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
@@ -13559,14 +13574,12 @@
     "providers": [
       "Looke",
       "NetMovies",
-      "Plex",
       "Plex Channel",
       "Plex Player"
     ],
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/43090",
       "NetMovies": "https://www.netmovies.com.br/filmes/43090",
-      "Plex": "https://watch.plex.tv/movie/halloween?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/halloween-a-noite-do-terror?package=plc",
       "Plex Player": "https://watch.plex.tv/embed/movie/halloween?referrer=JustWatch"
     }

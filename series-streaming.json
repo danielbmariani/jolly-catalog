@@ -1156,10 +1156,6 @@
     "providers": [
       "HBO Max",
       "HBO Max Amazon Channel"
-    ],
-    "verified": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
     ]
   },
   "tt13159924": {
@@ -1773,9 +1769,6 @@
   "tt15680030": {
     "providers": [
       "Sony One Amazon Channel"
-    ],
-    "verified": [
-      "Sony One Amazon Channel"
     ]
   },
   "tt15875168": {
@@ -1971,7 +1964,6 @@
       "Disney Plus"
     ],
     "verified": [
-      "Amazon Prime Video",
       "Disney Plus"
     ]
   },
@@ -2096,10 +2088,6 @@
   },
   "tt2077823": {
     "providers": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
-    ],
-    "verified": [
       "HBO Max",
       "HBO Max Amazon Channel"
     ]
@@ -2246,9 +2234,6 @@
   },
   "tt2235759": {
     "providers": [
-      "The Great Courses Signature Collection Amazon Channel"
-    ],
-    "verified": [
       "The Great Courses Signature Collection Amazon Channel"
     ]
   },
@@ -3253,6 +3238,9 @@
   "tt3697842": {
     "providers": []
   },
+  "tt3846642": {
+    "providers": []
+  },
   "tt38504111": {
     "providers": [
       "Apple TV",
@@ -3323,7 +3311,9 @@
     ]
   },
   "tt4158110": {
-    "providers": []
+    "providers": [
+      "Universal+ Amazon Channel"
+    ]
   },
   "tt4192812": {
     "providers": []
@@ -3436,9 +3426,6 @@
   },
   "tt4577466": {
     "providers": [
-      "Lionsgate+ Amazon Channel"
-    ],
-    "verified": [
       "Lionsgate+ Amazon Channel"
     ]
   },

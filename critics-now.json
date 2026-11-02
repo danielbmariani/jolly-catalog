@@ -1,7 +1,7 @@
 {
   "_raw": [
     {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -9,7 +9,7 @@
       "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
     },
     {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -17,7 +17,7 @@
       "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
     },
     {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -25,7 +25,7 @@
       "url": "https://www.rogerebert.com/reviews/manhood-penis-enlargement-documentary-film-review-2026"
     },
     {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -33,12 +33,20 @@
       "url": "https://www.rogerebert.com/reviews/queen-at-sea-juliette-binohe-film-review-2026"
     },
     {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
       "title": "SCTV: The Greatest Show You&#8217;ve Never Heard Of",
       "url": "https://www.rogerebert.com/reviews/sctv-the-greatest-show-youve-never-heard-of-netflix-documentary-film-review-2026"
+    },
+    {
+      "date": "2026-11-01",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "Blue Planet III",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/01/blue-planet-iii-review-david-attenborough-bbc-iplayer"
     },
     {
       "date": "2026-10-31",
@@ -6247,14 +6255,6 @@
       "rating": "4★",
       "title": "Game of Wool: Britain’s Best Knitter",
       "url": "https://www.theguardian.com/tv-and-radio/2025/nov/02/game-of-wool-britains-best-knitter-tom-daley-review-channel-4"
-    },
-    {
-      "date": "2025-11-01",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "4★",
-      "title": "Girlbands Forever",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/nov/01/girlbands-forever-review-bbc-all-saints-sugababes-eternal"
     }
   ],
   "movie:tmdb:1434103": {
@@ -7760,7 +7760,7 @@
     "poster": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "recs": [
       {
-        "date": "2026-11-01",
+        "date": "2026-11-02",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
@@ -8296,7 +8296,9 @@
       "providers": [
         "Netflix"
       ],
-      "urls": {}
+      "urls": {
+        "Netflix": "https://www.netflix.com/title/81748089"
+      }
     },
     "year": 2026
   },
@@ -8859,7 +8861,7 @@
     "poster": "/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
     "recs": [
       {
-        "date": "2026-11-01",
+        "date": "2026-11-02",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/queen-at-sea-juliette-binohe-film-review-2026"
@@ -10040,7 +10042,9 @@
       "providers": [
         "Netflix"
       ],
-      "urls": {}
+      "urls": {
+        "Netflix": "https://www.netflix.com/title/81750702"
+      }
     },
     "year": 2025
   },
@@ -17043,26 +17047,6 @@
     },
     "year": 2026
   },
-  "tt38908988": {
-    "age": null,
-    "genres": [
-      99
-    ],
-    "media_type": "tv",
-    "original_title": "Girlbands Forever",
-    "poster": "/o4wo1DQgnByxTOUA1N5bHnsHmfV.jpg",
-    "recs": [
-      {
-        "date": "2025-11-01",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/01/girlbands-forever-review-bbc-all-saints-sugababes-eternal"
-      }
-    ],
-    "title": "Girlbands Forever",
-    "tmdb_id": 303683,
-    "year": 2025
-  },
   "tt38983842": {
     "age": null,
     "genres": [
@@ -17586,7 +17570,7 @@
     "poster": "/waH2eiMaEW987JUTWyrj4x4d63k.jpg",
     "recs": [
       {
-        "date": "2026-11-01",
+        "date": "2026-11-02",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
@@ -17945,7 +17929,7 @@
     "poster": "/promUBwB50H3mIc9jyvLHNTh1HS.jpg",
     "recs": [
       {
-        "date": "2026-11-01",
+        "date": "2026-11-02",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/manhood-penis-enlargement-documentary-film-review-2026"
@@ -18107,6 +18091,26 @@
     ],
     "title": "YAGA",
     "tmdb_id": 314360,
+    "year": 2026
+  },
+  "tt40002142": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "tv",
+    "original_title": "Blue Planet III",
+    "poster": "/3K7dHJvcGy8RJNh46xZJcLmwfSJ.jpg",
+    "recs": [
+      {
+        "date": "2026-11-01",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/01/blue-planet-iii-review-david-attenborough-bbc-iplayer"
+      }
+    ],
+    "title": "Blue Planet III",
+    "tmdb_id": 208929,
     "year": 2026
   },
   "tt40150384": {
@@ -19661,7 +19665,7 @@
         "Netflix"
       ],
       "urls": {
-        "Netflix": "https://www.netflix.com/title/80057281"
+        "Netflix": "https://www.netflix.com/title/82939566"
       }
     },
     "year": 2016
