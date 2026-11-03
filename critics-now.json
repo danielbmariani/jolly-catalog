@@ -1,7 +1,7 @@
 {
   "_raw": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -9,7 +9,7 @@
       "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -17,7 +17,7 @@
       "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -25,7 +25,7 @@
       "url": "https://www.rogerebert.com/reviews/manhood-penis-enlargement-documentary-film-review-2026"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -33,12 +33,60 @@
       "url": "https://www.rogerebert.com/reviews/queen-at-sea-juliette-binohe-film-review-2026"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
       "title": "SCTV: The Greatest Show You&#8217;ve Never Heard Of",
       "url": "https://www.rogerebert.com/reviews/sctv-the-greatest-show-youve-never-heard-of-netflix-documentary-film-review-2026"
+    },
+    {
+      "date": "2026-11-03",
+      "media_type": "movie",
+      "outlet": "IndieWire",
+      "rating": "B+",
+      "title": "Okinawa Saudade",
+      "url": "https://www.indiewire.com/criticism/movies/okinawa-saudade-documentary-review-1235225173/"
+    },
+    {
+      "date": "2026-11-03",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Trauma or, Monsters All",
+      "url": "https://www.rogerebert.com/reviews/trauma-or-monsters-all-larry-fessenden-film-review-2026"
+    },
+    {
+      "date": "2026-11-02",
+      "media_type": "movie",
+      "outlet": "IndieWire",
+      "rating": "B+",
+      "title": "Godzilla Minus Zero",
+      "url": "https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/"
+    },
+    {
+      "date": "2026-11-02",
+      "media_type": "movie",
+      "outlet": "IndieWire",
+      "rating": "A-",
+      "title": "Mouse",
+      "url": "https://www.indiewire.com/criticism/movies/mouse-review-kelly-osullivan-alex-thompson-1235178567/"
+    },
+    {
+      "date": "2026-11-02",
+      "media_type": "movie",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "One in a Million",
+      "url": "https://www.theguardian.com/film/2026/nov/02/one-in-a-million-review-itab-azzam-jack-macinnes"
+    },
+    {
+      "date": "2026-11-02",
+      "media_type": "movie",
+      "outlet": "IndieWire",
+      "rating": "B+",
+      "title": "Earthlings in Love",
+      "url": "https://www.indiewire.com/criticism/movies/earthlings-in-love-movie-review-microdrama-1235225000/"
     },
     {
       "date": "2026-11-01",
@@ -855,14 +903,6 @@
       "rating": "4★",
       "title": "Godzilla Minus Zero",
       "url": "https://www.theguardian.com/film/2026/sep/26/godzilla-minus-zero-review-new-york-film-festival"
-    },
-    {
-      "date": "2026-09-27",
-      "media_type": "movie",
-      "outlet": "IndieWire",
-      "rating": "B+",
-      "title": "Godzilla Minus Zero",
-      "url": "https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/"
     },
     {
       "date": "2026-09-27",
@@ -5003,14 +5043,6 @@
     {
       "date": "2026-02-13",
       "media_type": "movie",
-      "outlet": "IndieWire",
-      "rating": "A-",
-      "title": "Mouse",
-      "url": "https://www.indiewire.com/criticism/movies/mouse-review-kelly-osullivan-alex-thompson-1235178567/"
-    },
-    {
-      "date": "2026-02-13",
-      "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
       "title": "Nirvanna the Band the Show the",
@@ -6247,14 +6279,6 @@
       "rating": "B+",
       "title": "Lost Land",
       "url": "https://www.indiewire.com/criticism/movies/lost-land-movie-review-rohingya-language-1235158505/"
-    },
-    {
-      "date": "2025-11-02",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "4★",
-      "title": "Game of Wool: Britain’s Best Knitter",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/nov/02/game-of-wool-britains-best-knitter-tom-daley-review-channel-4"
     }
   ],
   "movie:tmdb:1434103": {
@@ -6902,16 +6926,16 @@
     "poster": "/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
     "recs": [
       {
+        "date": "2026-11-02",
+        "outlet": "IndieWire",
+        "rating": "A-",
+        "url": "https://www.indiewire.com/criticism/movies/mouse-review-kelly-osullivan-alex-thompson-1235178567/"
+      },
+      {
         "date": "2026-10-30",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
-      },
-      {
-        "date": "2026-02-13",
-        "outlet": "IndieWire",
-        "rating": "A-",
-        "url": "https://www.indiewire.com/criticism/movies/mouse-review-kelly-osullivan-alex-thompson-1235178567/"
       }
     ],
     "title": "Mouse",
@@ -7760,7 +7784,7 @@
     "poster": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "recs": [
       {
-        "date": "2026-11-02",
+        "date": "2026-11-03",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026"
@@ -8861,7 +8885,7 @@
     "poster": "/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
     "recs": [
       {
-        "date": "2026-11-02",
+        "date": "2026-11-03",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/queen-at-sea-juliette-binohe-film-review-2026"
@@ -12308,26 +12332,6 @@
     "tmdb_id": 1177767,
     "year": 2026
   },
-  "tt33305620": {
-    "age": null,
-    "genres": [
-      10764
-    ],
-    "media_type": "tv",
-    "original_title": "Game of Wool: Britain's Best Knitter",
-    "poster": "/yrJvwDBHBtnkhjKLWQqyjOY2Ae5.jpg",
-    "recs": [
-      {
-        "date": "2025-11-02",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/02/game-of-wool-britains-best-knitter-tom-daley-review-channel-4"
-      }
-    ],
-    "title": "Game of Wool: Britain's Best Knitter",
-    "tmdb_id": 303753,
-    "year": 2025
-  },
   "tt33305711": {
     "age": null,
     "genres": [
@@ -13009,16 +13013,16 @@
     "poster": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
     "recs": [
       {
+        "date": "2026-11-02",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/"
+      },
+      {
         "date": "2026-09-27",
         "outlet": "The Guardian",
         "rating": "4★",
         "url": "https://www.theguardian.com/film/2026/sep/26/godzilla-minus-zero-review-new-york-film-festival"
-      },
-      {
-        "date": "2026-09-27",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/"
       }
     ],
     "title": "Godzilla Minus Zero",
@@ -16225,6 +16229,26 @@
     "tmdb_id": 1483525,
     "year": 2026
   },
+  "tt37808582": {
+    "age": null,
+    "genres": [
+      27
+    ],
+    "media_type": "movie",
+    "original_title": "Trauma or, Monsters All",
+    "poster": "/31hZFL1SbYqwHn4bDNOGabxnekI.jpg",
+    "recs": [
+      {
+        "date": "2026-11-03",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/trauma-or-monsters-all-larry-fessenden-film-review-2026"
+      }
+    ],
+    "title": "Trauma or, Monsters All",
+    "tmdb_id": 1525810,
+    "year": 2026
+  },
   "tt37809103": {
     "age": null,
     "genres": [
@@ -17057,6 +17081,12 @@
     "poster": "/qWo7cco1odg9IKob0x1aVtuOCLW.jpg",
     "recs": [
       {
+        "date": "2026-11-02",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/nov/02/one-in-a-million-review-itab-azzam-jack-macinnes"
+      },
+      {
         "date": "2026-01-27",
         "outlet": "IndieWire",
         "rating": "B+",
@@ -17570,7 +17600,7 @@
     "poster": "/waH2eiMaEW987JUTWyrj4x4d63k.jpg",
     "recs": [
       {
-        "date": "2026-11-02",
+        "date": "2026-11-03",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/paralyzed-by-hope-the-maria-bamford-story-netflix-documentary-review-2026"
@@ -17929,7 +17959,7 @@
     "poster": "/promUBwB50H3mIc9jyvLHNTh1HS.jpg",
     "recs": [
       {
-        "date": "2026-11-02",
+        "date": "2026-11-03",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/manhood-penis-enlargement-documentary-film-review-2026"
@@ -19660,14 +19690,6 @@
     ],
     "title": "Stranger Things",
     "tmdb_id": 66732,
-    "watch": {
-      "providers": [
-        "Netflix"
-      ],
-      "urls": {
-        "Netflix": "https://www.netflix.com/title/82939566"
-      }
-    },
     "year": 2016
   },
   "tt45821808": {
@@ -19690,6 +19712,46 @@
     ],
     "title": "The Watergate Caper: Richard Nixon and the Death of the American Dream",
     "tmdb_id": 1773855,
+    "year": 2026
+  },
+  "tt48440113": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "original_title": "オキナワ・サウダージ",
+    "poster": "/cbToC7ZwDIGhcqziBJfWKnnTt2e.jpg",
+    "recs": [
+      {
+        "date": "2026-11-03",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/okinawa-saudade-documentary-review-1235225173/"
+      }
+    ],
+    "title": "Okinawa Saudade",
+    "tmdb_id": 1785703,
+    "year": 2026
+  },
+  "tt48440160": {
+    "age": null,
+    "genres": [
+      18
+    ],
+    "media_type": "movie",
+    "original_title": "恋する地球人 -劇場特別版-",
+    "poster": "/lC4YEgGjMy8PMS3z2zYI5JYIDRD.jpg",
+    "recs": [
+      {
+        "date": "2026-11-02",
+        "outlet": "IndieWire",
+        "rating": "B+",
+        "url": "https://www.indiewire.com/criticism/movies/earthlings-in-love-movie-review-microdrama-1235225000/"
+      }
+    ],
+    "title": "Earthlings in Love",
+    "tmdb_id": 1785714,
     "year": 2026
   },
   "tt6037988": {

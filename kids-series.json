@@ -208,8 +208,7 @@
     "poster": "/whb9VJJdDlRjJLrRrQl1NkyD3Dc.jpg",
     "providers": [
       "Plex",
-      "Plex Channel",
-      "Plex Player"
+      "Plex Channel"
     ],
     "status": "ended",
     "title": "Pee-wee's Playhouse",
@@ -1673,10 +1672,12 @@
     ],
     "poster": "/36O35c7L3fPKD1FQiQm5EmLzU4y.jpg",
     "providers": [
-      "Box Brazil Play Amazon Channel"
+      "Box Brazil Play Amazon Channel",
+      "Globoplay"
     ],
     "providers_verified": [
-      "Box Brazil Play Amazon Channel"
+      "Box Brazil Play Amazon Channel",
+      "Globoplay"
     ],
     "status": "ended",
     "title": "Meu AmigãoZão",

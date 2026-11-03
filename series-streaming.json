@@ -201,8 +201,7 @@
   "tt0377260": {
     "providers": [
       "Plex",
-      "Plex Channel",
-      "Plex Player"
+      "Plex Channel"
     ]
   },
   "tt0386676": {
@@ -220,7 +219,6 @@
     "providers": [
       "Plex",
       "Plex Channel",
-      "Plex Player",
       "Pluto TV"
     ]
   },
@@ -1961,10 +1959,13 @@
   "tt1837576": {
     "providers": [
       "Amazon Prime Video",
-      "Disney Plus"
+      "Disney Plus",
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel"
     ],
     "verified": [
-      "Disney Plus"
+      "Disney Plus",
+      "Paramount Plus Apple TV channel"
     ]
   },
   "tt1856010": {
@@ -2234,6 +2235,9 @@
   },
   "tt2235759": {
     "providers": [
+      "The Great Courses Signature Collection Amazon Channel"
+    ],
+    "verified": [
       "The Great Courses Signature Collection Amazon Channel"
     ]
   },

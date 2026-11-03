@@ -236,14 +236,12 @@
     "providers": [
       "Disney Plus",
       "Plex",
-      "Plex Channel",
-      "Plex Player"
+      "Plex Channel"
     ],
     "urls": {
       "Disney Plus": "https://www.disneyplus.com/browse/entity-f8a68a49-f7c3-417d-baed-1ff7c7b862de",
       "Plex": "https://watch.plex.tv/movie/lady-and-the-tramp?autoplay=1",
-      "Plex Channel": "https://www.justwatch.com/br/filme/a-dama-e-o-vagabundo?package=plc",
-      "Plex Player": "https://watch.plex.tv/embed/movie/lady-and-the-tramp?referrer=JustWatch"
+      "Plex Channel": "https://www.justwatch.com/br/filme/a-dama-e-o-vagabundo?package=plc"
     },
     "verified": [
       "Disney Plus"
@@ -1095,13 +1093,11 @@
   "13225": {
     "providers": [
       "Plex",
-      "Plex Channel",
-      "Plex Player"
+      "Plex Channel"
     ],
     "urls": {
       "Plex": "https://watch.plex.tv/movie/ferngully-the-last-rainforest?autoplay=1",
-      "Plex Channel": "https://www.justwatch.com/br/filme/ferngully-a-floresta-magica?package=plc",
-      "Plex Player": "https://watch.plex.tv/embed/movie/ferngully-the-last-rainforest?referrer=JustWatch"
+      "Plex Channel": "https://www.justwatch.com/br/filme/ferngully-a-floresta-magica?package=plc"
     }
   },
   "13384": {
@@ -1134,14 +1130,12 @@
       "Oldflix",
       "Plex",
       "Plex Channel",
-      "Plex Player",
       "Universal+ Amazon Channel"
     ],
     "urls": {
       "Oldflix": "https://www.oldflix.com.br/title/play/58ee51cad5a0d11a848c2580",
       "Plex": "https://watch.plex.tv/movie/labyrinth-1986?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/labirinto-a-magia-do-tempo?package=plc",
-      "Plex Player": "https://watch.plex.tv/embed/movie/labyrinth-1986?referrer=JustWatch",
       "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.76a9f742-9562-69cc-0eca-569b042089c5"
     },
     "verified": [
@@ -1786,14 +1780,12 @@
     "providers": [
       "Libreflix",
       "Plex",
-      "Plex Channel",
-      "Plex Player"
+      "Plex Channel"
     ],
     "urls": {
       "Libreflix": "https://libreflix.org/i/sita-sings-the-blue",
       "Plex": "https://watch.plex.tv/movie/sita-sings-the-blues?autoplay=1",
-      "Plex Channel": "https://www.justwatch.com/br/filme/sita-sings-the-blues?package=plc",
-      "Plex Player": "https://watch.plex.tv/embed/movie/sita-sings-the-blues?referrer=JustWatch"
+      "Plex Channel": "https://www.justwatch.com/br/filme/sita-sings-the-blues?package=plc"
     }
   },
   "2062": {
@@ -2046,13 +2038,11 @@
     "providers": [
       "Lionsgate+ Amazon Channel",
       "Plex",
-      "Plex Channel",
-      "Plex Player"
+      "Plex Channel"
     ],
     "urls": {
       "Plex": "https://watch.plex.tv/movie/the-flight-before-christmas-2008?autoplay=1",
-      "Plex Channel": "https://www.justwatch.com/br/filme/um-voo-encantado-em-noite-de-natal?package=plc",
-      "Plex Player": "https://watch.plex.tv/embed/movie/the-flight-before-christmas-2008?referrer=JustWatch"
+      "Plex Channel": "https://www.justwatch.com/br/filme/um-voo-encantado-em-noite-de-natal?package=plc"
     },
     "verified": [
       "Lionsgate+ Amazon Channel"
@@ -2676,20 +2666,17 @@
       "Disney Plus",
       "Netflix",
       "Paramount Plus",
-      "Paramount+ Amazon Channel",
-      "Universal+ Amazon Channel"
+      "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Disney Plus": "https://www.disneyplus.com/browse/entity-ce251951-1503-4eee-8149-621c66e2b8c8",
       "Netflix": "https://www.netflix.com/title/80236314",
       "Paramount Plus": "https://www.paramountplus.com/movies/mission-impossible-fallout/4_fidVBLydX2A6XccwhB4_zk0JACgvQi?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.32c813e8-168f-41ea-ace6-971cf407bec7",
-      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b41cd88f-2b57-42a0-97b1-b125a497aad4"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b41cd88f-2b57-42a0-97b1-b125a497aad4"
     },
     "verified": [
       "Disney Plus",
-      "Netflix",
-      "Paramount+ Amazon Channel"
+      "Netflix"
     ]
   },
   "354912": {
@@ -3059,16 +3046,14 @@
       "Looke Amazon Channel",
       "NetMovies",
       "Plex",
-      "Plex Channel",
-      "Plex Player"
+      "Plex Channel"
     ],
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/43275",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1601f5a0-62ef-4510-9a9d-3cb1ffe1843b",
       "NetMovies": "https://www.netmovies.com.br/filmes/43275",
       "Plex": "https://watch.plex.tv/movie/gullivers-travels?autoplay=1",
-      "Plex Channel": "https://www.justwatch.com/br/filme/gullivers-travels?package=plc",
-      "Plex Player": "https://watch.plex.tv/embed/movie/gullivers-travels?referrer=JustWatch"
+      "Plex Channel": "https://www.justwatch.com/br/filme/gullivers-travels?package=plc"
     },
     "verified": [
       "Looke",
@@ -4014,13 +3999,11 @@
   "5801": {
     "providers": [
       "Plex",
-      "Plex Channel",
-      "Plex Player"
+      "Plex Channel"
     ],
     "urls": {
       "Plex": "https://watch.plex.tv/movie/pather-panchali?autoplay=1",
-      "Plex Channel": "https://www.justwatch.com/br/filme/a-cancao-da-estrada?package=plc",
-      "Plex Player": "https://watch.plex.tv/embed/movie/pather-panchali?referrer=JustWatch"
+      "Plex Channel": "https://www.justwatch.com/br/filme/a-cancao-da-estrada?package=plc"
     }
   },
   "585": {
@@ -4619,7 +4602,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     },
     "verified": [
@@ -4707,7 +4690,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-154b2e5c-fbe7-49b7-b6be-fd0e6c75651f"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-e6ef640e-787e-4477-aba4-9e05925ebac2"
     },
     "verified": [
       "Disney Plus"
@@ -5300,7 +5283,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29988",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUE5537",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
@@ -5594,7 +5577,6 @@
       "NetMovies",
       "Plex",
       "Plex Channel",
-      "Plex Player",
       "Telecine Amazon Channel"
     ],
     "urls": {
@@ -5604,7 +5586,6 @@
       "NetMovies": "https://www.netmovies.com.br/filmes/43312",
       "Plex": "https://watch.plex.tv/movie/the-general?autoplay=1",
       "Plex Channel": "https://www.justwatch.com/br/filme/general?package=plc",
-      "Plex Player": "https://watch.plex.tv/embed/movie/the-general?referrer=JustWatch",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d05e097e-991a-4b83-9189-4f6c2015f6b0"
     },
     "verified": [
