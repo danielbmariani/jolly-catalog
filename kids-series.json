@@ -207,8 +207,7 @@
     ],
     "poster": "/whb9VJJdDlRjJLrRrQl1NkyD3Dc.jpg",
     "providers": [
-      "Plex",
-      "Plex Channel"
+      "Plex"
     ],
     "status": "ended",
     "title": "Pee-wee's Playhouse",
@@ -2937,15 +2936,12 @@
     "poster": "/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
     "providers": [
       "Netflix",
+      "Netflix Standard with Ads",
       "Paramount Plus",
       "Paramount Plus Apple TV channel",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel",
       "Pluto TV"
-    ],
-    "providers_verified": [
-      "Netflix",
-      "Paramount Plus Apple TV channel",
-      "Paramount+ Amazon Channel"
     ],
     "status": "returning",
     "title": "Patrulha Canina",
@@ -3332,9 +3328,6 @@
     ],
     "poster": "/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
     "providers": [
-      "Disney Plus"
-    ],
-    "providers_verified": [
       "Disney Plus"
     ],
     "status": "ended",

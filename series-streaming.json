@@ -200,8 +200,7 @@
   },
   "tt0377260": {
     "providers": [
-      "Plex",
-      "Plex Channel"
+      "Plex"
     ]
   },
   "tt0386676": {
@@ -218,7 +217,6 @@
   "tt0387764": {
     "providers": [
       "Plex",
-      "Plex Channel",
       "Pluto TV"
     ]
   },
@@ -1378,6 +1376,9 @@
       "Netflix"
     ]
   },
+  "tt14371926": {
+    "providers": []
+  },
   "tt1439629": {
     "providers": [
       "Netflix",
@@ -1661,13 +1662,7 @@
     "providers": []
   },
   "tt15384586": {
-    "providers": [
-      "Paramount Plus",
-      "Paramount Plus Apple TV channel"
-    ],
-    "verified": [
-      "Paramount Plus Apple TV channel"
-    ]
+    "providers": []
   },
   "tt15424742": {
     "providers": [
@@ -2236,9 +2231,6 @@
   "tt2235759": {
     "providers": [
       "The Great Courses Signature Collection Amazon Channel"
-    ],
-    "verified": [
-      "The Great Courses Signature Collection Amazon Channel"
     ]
   },
   "tt2243973": {
@@ -2252,13 +2244,7 @@
     ]
   },
   "tt2297757": {
-    "providers": [
-      "Paramount Plus",
-      "Paramount Plus Apple TV channel"
-    ],
-    "verified": [
-      "Paramount Plus Apple TV channel"
-    ]
+    "providers": []
   },
   "tt2303687": {
     "providers": []
@@ -3828,12 +3814,7 @@
     ]
   },
   "tt6257970": {
-    "providers": [
-      "Netflix"
-    ],
-    "verified": [
-      "Netflix"
-    ]
+    "providers": []
   },
   "tt6445112": {
     "providers": []
@@ -4571,7 +4552,15 @@
     ]
   },
   "tt9059760": {
-    "providers": []
+    "providers": [
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ],
+    "verified": [
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
+    ]
   },
   "tt9139220": {
     "providers": [
