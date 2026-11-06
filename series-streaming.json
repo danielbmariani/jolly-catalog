@@ -830,7 +830,8 @@
       "Netflix",
       "Paramount Plus",
       "Paramount Plus Apple TV channel",
-      "Paramount+ Amazon Channel"
+      "Paramount+ Amazon Channel",
+      "Plex"
     ],
     "verified": [
       "Netflix",
@@ -2230,6 +2231,9 @@
   },
   "tt2235759": {
     "providers": [
+      "The Great Courses Signature Collection Amazon Channel"
+    ],
+    "verified": [
       "The Great Courses Signature Collection Amazon Channel"
     ]
   },
