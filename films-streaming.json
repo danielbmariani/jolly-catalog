@@ -296,18 +296,8 @@
       "Libreflix": "https://libreflix.org/i/night-of-the-living-dead",
       "Looke": "https://www.looke.com.br/detalhes/127009",
       "NetMovies": "https://www.netmovies.com.br/filmes/127009",
-      "Plex": "https://watch.plex.tv/movie/night-of-the-living-dead?autoplay=1",
+      "Plex": "https://watch.plex.tv/movie/night-of-the-living-dead-1968?autoplay=1",
       "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84a9f78e-2fe9-7bcf-a33b-d5c22dd702f3"
-    }
-  },
-  "1033148": {
-    "providers": [
-      "MUBI",
-      "MUBI Amazon Channel"
-    ],
-    "urls": {
-      "MUBI": "https://mubi.com/films/die-my-love",
-      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fbd31bb4-3071-4b9d-ad53-4255b91c9621"
     }
   },
   "103328": {
@@ -322,7 +312,7 @@
     ],
     "urls": {
       "Disney Plus": "https://www.disneyplus.com/browse/entity-f8a68a49-f7c3-417d-baed-1ff7c7b862de",
-      "Plex": "https://watch.plex.tv/movie/lady-and-the-tramp?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/lady-and-the-tramp-1955?autoplay=1"
     }
   },
   "10386": {
@@ -512,14 +502,6 @@
   "10625": {
     "providers": []
   },
-  "1062722": {
-    "providers": [
-      "Netflix"
-    ],
-    "urls": {
-      "Netflix": "https://www.netflix.com/title/81507921"
-    }
-  },
   "10633": {
     "providers": [
       "MGM Plus Amazon Channel",
@@ -553,12 +535,14 @@
   "10669": {
     "providers": [
       "HBO Max",
+      "HBO Max Amazon Channel",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/83bf9783-0b32-4f5e-9dc6-86b31112c278",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96a9f773-5a0a-0c71-389d-61e3cfb0559b",
       "Looke": "https://www.looke.com.br/detalhes/284701",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cde90757-a689-4fcc-8979-7abd6fd85b26",
       "NetMovies": "https://www.netmovies.com.br/filmes/284701"
@@ -715,7 +699,7 @@
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/43266",
       "NetMovies": "https://www.netmovies.com.br/filmes/43266",
-      "Plex": "https://watch.plex.tv/movie/the-killer?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/the-killer-1989?autoplay=1"
     }
   },
   "1084242": {
@@ -831,7 +815,7 @@
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/127393",
       "NetMovies": "https://www.netmovies.com.br/filmes/127393",
-      "Plex": "https://watch.plex.tv/movie/the-third-man?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/the-third-man-1949?autoplay=1"
     }
   },
   "109445": {
@@ -1116,16 +1100,6 @@
   },
   "1124": {
     "providers": []
-  },
-  "1124566": {
-    "providers": [
-      "MUBI",
-      "MUBI Amazon Channel"
-    ],
-    "urls": {
-      "MUBI": "https://mubi.com/films/sentimental-value",
-      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab0b19d-46a9-4ffc-9596-7210731be3eb"
-    }
   },
   "11257": {
     "providers": []
@@ -1860,12 +1834,10 @@
   },
   "122": {
     "providers": [
-      "Amazon Prime Video",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.096a714d-6da9-4205-a118-3fb77fbaa003",
       "HBO Max": "https://play.hbomax.com/show/ad704585-6774-4d37-8c61-1bd41154173f",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.91d91081-a2e1-4004-af7d-4efb31e99e27"
     }
@@ -2093,9 +2065,6 @@
   "1263012": {
     "providers": []
   },
-  "126319": {
-    "providers": []
-  },
   "1265717": {
     "providers": [
       "Reserva Imovision Amazon Channel"
@@ -2264,7 +2233,7 @@
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144CAES",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144FRFR",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-b8b65a37-0205-4771-bd07-24b5c4406034",
       "HBO Max": "https://play.hbomax.com/show/291804e2-d281-4934-97f5-5d305fd845fc",
       "Netflix": "https://www.netflix.com/title/82723106"
@@ -2320,7 +2289,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/ferngully-the-last-rainforest?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/ferngully-the-last-rainforest-1992?autoplay=1"
     }
   },
   "1327819": {
@@ -2408,7 +2377,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/gaslight?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/gaslight-1944?autoplay=1"
     }
   },
   "1354518": {
@@ -2436,19 +2405,11 @@
     ],
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
-      "Plex": "https://watch.plex.tv/movie/my-man-godfrey?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/my-man-godfrey-1936?autoplay=1"
     }
   },
   "135624": {
     "providers": []
-  },
-  "13581": {
-    "providers": [
-      "Belas Artes à La Carte"
-    ],
-    "urls": {
-      "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
-    }
   },
   "13597": {
     "providers": [
@@ -2838,7 +2799,7 @@
     "urls": {
       "Bloodstream": "https://bloodstreamtv.com/show-details/dark-star?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Cultpix": "https://www.cultpix.com/movie/dark-star/825",
-      "Plex": "https://watch.plex.tv/movie/dark-star?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/dark-star-1974?autoplay=1"
     }
   },
   "1412": {
@@ -2915,7 +2876,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/all-quiet-on-the-western-front?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/all-quiet-on-the-western-front-1930?autoplay=1"
     }
   },
   "1430": {
@@ -3010,7 +2971,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-24ff6801-575d-45d4-a157-e95f4499e161"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-7534d4ac-d936-41cc-a2fb-37af15694964"
     }
   },
   "145": {
@@ -3140,7 +3101,7 @@
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fa3a9b32-d196-4cb0-b406-01141dc87220",
-      "Plex": "https://watch.plex.tv/movie/man-of-the-west?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/man-of-the-west-1958?autoplay=1"
     }
   },
   "14675": {
@@ -3166,7 +3127,7 @@
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Oldflix": "https://www.oldflix.com.br/title/play/59ee440b433c4c0bcc04e905",
-      "Plex": "https://watch.plex.tv/movie/ugetsu?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/ugetsu-1953?autoplay=1"
     }
   },
   "147": {
@@ -3202,7 +3163,7 @@
       "Looke": "https://www.looke.com.br/detalhes/357571",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.87db4387-165d-40cd-8c0a-c6dde0aae5b7",
       "NetMovies": "https://www.netmovies.com.br/filmes/357571",
-      "Plex": "https://watch.plex.tv/movie/touch-of-evil?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/touch-of-evil-1958?autoplay=1"
     }
   },
   "1480382": {
@@ -3279,7 +3240,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/mockbuster?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/mockbuster-2026?autoplay=1"
     }
   },
   "149870": {
@@ -3668,7 +3629,7 @@
       "Bloodstream": "https://bloodstreamtv.com/show-details/carnivalofsouls?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8f5a0c2-7eee-4c25-af61-116a42343383",
       "Cultpix": "https://www.cultpix.com/movie/carnival-of-souls/2350",
-      "Plex": "https://watch.plex.tv/movie/carnival-of-souls?autoplay=1",
+      "Plex": "https://watch.plex.tv/movie/carnival-of-souls-1962?autoplay=1",
       "Pluto TV": "https://pluto.tv/on-demand/movies/carnival-of-souls-br-1961-1-1"
     }
   },
@@ -4171,7 +4132,7 @@
     "urls": {
       "Arte Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.62ea623d-a4c2-48a3-a3d6-77eea1d2128e",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "Plex": "https://watch.plex.tv/movie/tokyo-story?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/tokyo-story-1953?autoplay=1"
     }
   },
   "181619": {
@@ -4560,7 +4521,7 @@
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Oldflix": "https://www.oldflix.com.br/title/play/5a16e23ea9d3610c74720fc3",
-      "Plex": "https://watch.plex.tv/movie/deep-red?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/deep-red-1975?autoplay=1"
     }
   },
   "2013": {
@@ -4662,7 +4623,7 @@
     ],
     "urls": {
       "Libreflix": "https://libreflix.org/i/sita-sings-the-blue",
-      "Plex": "https://watch.plex.tv/movie/sita-sings-the-blues?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/sita-sings-the-blues-2008?autoplay=1"
     }
   },
   "20530": {
@@ -4686,7 +4647,7 @@
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "Plex": "https://watch.plex.tv/movie/sansho-the-bailiff?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/sansho-the-bailiff-1954?autoplay=1"
     }
   },
   "20537": {
@@ -5040,7 +5001,6 @@
     "providers": [
       "Artiflix",
       "Belas Artes à La Carte",
-      "Globoplay",
       "Looke",
       "NetMovies",
       "Oldflix",
@@ -5050,7 +5010,6 @@
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "Globoplay": "https://globoplay.globo.com/o-diabo-riu-por-ultimo/t/YHyV9sfwtr/",
       "Looke": "https://www.looke.com.br/detalhes/126306",
       "NetMovies": "https://www.netmovies.com.br/filmes/126306",
       "Oldflix": "https://www.oldflix.com.br/title/play/609e8cc4d06a989d53619db4",
@@ -5200,7 +5159,7 @@
     ],
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
-      "Plex": "https://watch.plex.tv/movie/salt-of-the-earth?autoplay=1",
+      "Plex": "https://watch.plex.tv/movie/salt-of-the-earth-1954?autoplay=1",
       "Reserva Imovision": "https://reservaimovision.com.br/programs/o-sal-da-terra"
     }
   },
@@ -5388,12 +5347,10 @@
   },
   "2501": {
     "providers": [
-      "Amazon Prime Video",
-      "Apple TV"
+      "Amazon Prime Video"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8a9f682-6eee-ebba-2ed8-6f520068c709",
-      "Apple TV": "https://tv.apple.com/br/movie/a-identidade-bourne/umc.cmc.6zfr90m4ghv0pt4l4nsfrm40d?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8a9f682-6eee-ebba-2ed8-6f520068c709"
     }
   },
   "25037": {
@@ -5478,7 +5435,7 @@
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "Plex": "https://watch.plex.tv/movie/ace-in-the-hole?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/ace-in-the-hole-1951?autoplay=1"
     }
   },
   "25376": {
@@ -5515,7 +5472,7 @@
     ],
     "urls": {
       "Cultpix": "https://www.cultpix.com/movie/shock-corridor/1662",
-      "Plex": "https://watch.plex.tv/movie/shock-corridor?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/shock-corridor-1963?autoplay=1"
     }
   },
   "25508": {
@@ -5608,7 +5565,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/pickup-on-south-street?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/pickup-on-south-street-1953?autoplay=1"
     }
   },
   "260": {
@@ -5623,7 +5580,7 @@
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/126874",
-      "Plex": "https://watch.plex.tv/movie/the-39-steps?autoplay=1",
+      "Plex": "https://watch.plex.tv/movie/the-39-steps-1935?autoplay=1",
       "Pluto TV": "https://pluto.tv/on-demand/movies/39-degraus-br-1934-1-1"
     }
   },
@@ -5676,7 +5633,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/come-drink-with-me?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/come-drink-with-me-1966?autoplay=1"
     }
   },
   "26302": {
@@ -5783,12 +5740,14 @@
   "2671": {
     "providers": [
       "Amazon Prime Video",
+      "Bloodstream",
       "Looke",
       "NetMovies",
       "Runtime"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13157434-a624-4026-9d7c-a2f3cc57e937",
+      "Bloodstream": "https://bloodstreamtv.com/show-details/ring?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Looke": "https://www.looke.com.br/detalhes/354126",
       "NetMovies": "https://www.netmovies.com.br/filmes/354126",
       "Runtime": "https://runtime.tv/node/1507"
@@ -5926,7 +5885,7 @@
       "Looke": "https://www.looke.com.br/detalhes/252259",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.76a9f67c-a025-462e-5b11-c25fbf8d634e",
       "NetMovies": "https://www.netmovies.com.br/filmes/252259",
-      "Plex": "https://watch.plex.tv/movie/mrs-miniver?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/mrs-miniver-1942?autoplay=1"
     }
   },
   "27374": {
@@ -5949,7 +5908,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/silver-lode?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/silver-lode-1954?autoplay=1"
     }
   },
   "2748": {
@@ -5976,7 +5935,7 @@
     ],
     "urls": {
       "Bloodstream": "https://bloodstreamtv.com/show-details/the-unknown?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
-      "Plex": "https://watch.plex.tv/movie/the-unknown?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/the-unknown-1927?autoplay=1"
     }
   },
   "27517": {
@@ -6079,7 +6038,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/little-caesar?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/little-caesar-1931?autoplay=1"
     }
   },
   "279": {
@@ -6126,7 +6085,7 @@
     ],
     "urls": {
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
-      "Plex": "https://watch.plex.tv/movie/kill-baby-kill?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/kill-baby-kill-1966?autoplay=1"
     }
   },
   "28162": {
@@ -6391,12 +6350,10 @@
   },
   "295693": {
     "providers": [
-      "Amazon Prime Video",
-      "Globoplay"
+      "Amazon Prime Video"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.06b0a9c9-a247-4a3e-82ed-e3263ade9162",
-      "Globoplay": "https://globoplay.globo.com/o-poderoso-chefinho/t/jGgKwRzKfn/"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.06b0a9c9-a247-4a3e-82ed-e3263ade9162"
     }
   },
   "297": {
@@ -6483,7 +6440,7 @@
       "Looke": "https://www.looke.com.br/detalhes/252440",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a5d7169f-7c75-455e-b9b8-f27e7b0f9047",
       "NetMovies": "https://www.netmovies.com.br/filmes/252440",
-      "Plex": "https://watch.plex.tv/movie/notorious?autoplay=1",
+      "Plex": "https://watch.plex.tv/movie/notorious-1946?autoplay=1",
       "Pluto TV": "https://pluto.tv/on-demand/movies/interludio-br-1945-1-1"
     }
   },
@@ -6505,7 +6462,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/a-chinese-ghost-story?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/a-chinese-ghost-story-1987?autoplay=1"
     }
   },
   "30497": {
@@ -6861,7 +6818,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/a-nous-la-liberte?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/a-nous-la-liberte-1931?autoplay=1"
     }
   },
   "31516": {
@@ -7039,12 +6996,10 @@
   "329": {
     "providers": [
       "Amazon Prime Video",
-      "Apple TV",
       "HBO Max"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ea9f6d9-bdc8-9b2e-97a9-c341306e36ef",
-      "Apple TV": "https://tv.apple.com/br/movie/o-parque-dos-dinossauros/umc.cmc.3bp8rj8ab9otj4ug279xhib2f?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv",
       "HBO Max": "https://play.hbomax.com/show/f24a4ece-2f3d-4919-a934-700d1ef8f7a2"
     }
   },
@@ -7572,7 +7527,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ITIT",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ESES",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     }
   },
@@ -7785,7 +7740,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/peking-opera-blues?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/peking-opera-blues-1986?autoplay=1"
     }
   },
   "398818": {
@@ -8124,7 +8079,7 @@
       "Looke": "https://www.looke.com.br/detalhes/43275",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1601f5a0-62ef-4510-9a9d-3cb1ffe1843b",
       "NetMovies": "https://www.netmovies.com.br/filmes/43275",
-      "Plex": "https://watch.plex.tv/movie/gullivers-travels?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/gullivers-travels-1939?autoplay=1"
     }
   },
   "42522": {
@@ -8266,7 +8221,7 @@
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "Plex": "https://watch.plex.tv/movie/the-life-of-oharu?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/the-life-of-oharu-1952?autoplay=1"
     }
   },
   "43376": {
@@ -8587,7 +8542,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/the-story-of-the-last-chrysanthemum?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/the-story-of-the-last-chrysanthemum-1939?autoplay=1"
     }
   },
   "461615": {
@@ -8678,7 +8633,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/floating-weeds?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/floating-weeds-1959?autoplay=1"
     }
   },
   "46919": {
@@ -9115,7 +9070,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/an-autumn-afternoon?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/an-autumn-afternoon-1962?autoplay=1"
     }
   },
   "508422": {
@@ -9420,7 +9375,7 @@
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/7705",
       "NetMovies": "https://www.netmovies.com.br/filmes/7705",
-      "Plex": "https://watch.plex.tv/movie/the-man-with-the-golden-arm?autoplay=1",
+      "Plex": "https://watch.plex.tv/movie/the-man-with-the-golden-arm-1955?autoplay=1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.27bdbc39-51f0-46bc-b0c3-3a61a10a5510"
     }
   },
@@ -9435,7 +9390,7 @@
       "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Looke": "https://www.looke.com.br/detalhes/7960",
       "NetMovies": "https://www.netmovies.com.br/filmes/7960",
-      "Plex": "https://watch.plex.tv/movie/blackmail?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/blackmail-1929?autoplay=1"
     }
   },
   "543033": {
@@ -9468,7 +9423,7 @@
     "urls": {
       "Arte Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2415615b-f82c-4120-a82f-7f06db815cd9",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "Plex": "https://watch.plex.tv/movie/rashomon?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/rashomon-1950?autoplay=1"
     }
   },
   "550": {
@@ -9758,7 +9713,7 @@
     "urls": {
       "Bloodstream": "https://bloodstreamtv.com/show-details/haxan-witchcraft-through-the-ages?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Cultpix": "https://www.cultpix.com/movie/haxan/2348",
-      "Plex": "https://watch.plex.tv/movie/haxan?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/haxan-1922?autoplay=1"
     }
   },
   "5729": {
@@ -9766,7 +9721,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/lage-dor?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/lage-dor-1930?autoplay=1"
     }
   },
   "573": {
@@ -9867,7 +9822,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/pather-panchali?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/pather-panchali-1955?autoplay=1"
     }
   },
   "581": {
@@ -10141,7 +10096,7 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.18020ca2-6414-4515-a842-b5c68ba79e51"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3504672f-1070-400f-a088-26c496b02b3b"
     }
   },
   "59990": {
@@ -10486,9 +10441,11 @@
   },
   "634649": {
     "providers": [
+      "Disney Plus",
       "Universal+ Amazon Channel"
     ],
     "urls": {
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-295fb45a-c8bb-477e-816f-b0706b4d9984",
       "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53065791-4335-46ce-bc1b-5c5ebbb21073"
     }
   },
@@ -10692,7 +10649,7 @@
       "Looke": "https://www.looke.com.br/detalhes/126873",
       "MUBI": "https://mubi.com/films/nosferatu",
       "NetMovies": "https://www.netmovies.com.br/filmes/126873",
-      "Plex": "https://watch.plex.tv/movie/nosferatu?autoplay=1",
+      "Plex": "https://watch.plex.tv/movie/nosferatu-1922?autoplay=1",
       "Pluto TV": "https://pluto.tv/on-demand/movies/nosferatu-br-1921-1-1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3a428415-b2c9-4339-8191-6370950a6d94"
     }
@@ -10794,7 +10751,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/kill-it-and-leave-this-town?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/kill-it-and-leave-this-town-2020?autoplay=1"
     }
   },
   "664996": {
@@ -10850,7 +10807,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/nanook-of-the-north?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/nanook-of-the-north-1922?autoplay=1"
     }
   },
   "670": {
@@ -11150,7 +11107,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/our-hospitality?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/our-hospitality-1923?autoplay=1"
     }
   },
   "70160": {
@@ -11219,7 +11176,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/accidental-luxuriance-of-the-translucent-watery-rebus?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/accidental-luxuriance-of-the-translucent-watery-rebus-2020?autoplay=1"
     }
   },
   "706712": {
@@ -11361,7 +11318,7 @@
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Filmzie": "https://filmzie.com/content/the-bigamist-1953",
       "Oldflix": "https://www.oldflix.com.br/title/play/6047be18882bf74cb99c382d",
-      "Plex": "https://watch.plex.tv/movie/the-bigamist?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/the-bigamist-1953?autoplay=1"
     }
   },
   "741335": {
@@ -11370,7 +11327,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     }
   },
@@ -11527,14 +11484,12 @@
     "providers": [
       "Amazon Prime Video",
       "MUBI",
-      "MUBI Amazon Channel",
-      "Paramount Plus"
+      "MUBI Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff2a6d91-ad00-4db8-9cfa-f3a70993476a",
       "MUBI": "https://mubi.com/films/12-years-a-slave",
-      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1f88191-7b89-4fd5-8923-9705e4f9ace7",
-      "Paramount Plus": "https://www.paramountplus.com/movies/12-years-a-slave/cbA9zjyxRnptUpczG6J03jZKtoLfLAMn?amp%3Butm_source=publisher"
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1f88191-7b89-4fd5-8923-9705e4f9ace7"
     }
   },
   "763": {
@@ -11736,7 +11691,7 @@
     ],
     "urls": {
       "Bloodstream": "https://bloodstreamtv.com/show-details/vampyr?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
-      "Plex": "https://watch.plex.tv/movie/vampyr?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/vampyr-1932?autoplay=1"
     }
   },
   "78": {
@@ -12265,7 +12220,7 @@
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/43255",
       "NetMovies": "https://www.netmovies.com.br/filmes/43255",
-      "Plex": "https://watch.plex.tv/movie/m?autoplay=1",
+      "Plex": "https://watch.plex.tv/movie/m-1931?autoplay=1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e4e85f21-2dd3-4da7-95df-1718057bdc87"
     }
   },
@@ -12396,6 +12351,7 @@
   "8408": {
     "providers": [
       "Amazon Prime Video",
+      "Bloodstream",
       "Looke",
       "MUBI",
       "NetMovies",
@@ -12403,6 +12359,7 @@
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86b4ff38-700e-83da-fe02-2fb5551783f8",
+      "Bloodstream": "https://bloodstreamtv.com/show-details/day-of-the-dead?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Looke": "https://www.looke.com.br/detalhes/389593",
       "MUBI": "https://mubi.com/films/day-of-the-dead",
       "NetMovies": "https://www.netmovies.com.br/filmes/389593",
@@ -12512,7 +12469,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/san-pietro?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/san-pietro-1945?autoplay=1"
     }
   },
   "848700": {
@@ -12887,7 +12844,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/aparajito?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/aparajito-1956?autoplay=1"
     }
   },
   "8974": {
@@ -12898,7 +12855,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/broken-blossoms-or-the-yellow-man-and-the-girl?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/broken-blossoms-or-the-yellow-man-and-the-girl-1919?autoplay=1"
     }
   },
   "8996": {
@@ -13069,7 +13026,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUE5537",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GN7UD22PN",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
@@ -13293,7 +13250,7 @@
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/7667",
       "NetMovies": "https://www.netmovies.com.br/filmes/7667",
-      "Plex": "https://watch.plex.tv/movie/the-lady-vanishes?autoplay=1",
+      "Plex": "https://watch.plex.tv/movie/the-lady-vanishes-1938?autoplay=1",
       "Pluto TV": "https://pluto.tv/on-demand/movies/a-dama-oculta-br-1937-1-1"
     }
   },
@@ -13569,7 +13526,7 @@
       "Filmzie": "https://filmzie.com/content/the-general-1926",
       "Looke": "https://www.looke.com.br/detalhes/43312",
       "NetMovies": "https://www.netmovies.com.br/filmes/43312",
-      "Plex": "https://watch.plex.tv/movie/the-general?autoplay=1",
+      "Plex": "https://watch.plex.tv/movie/the-general-1926?autoplay=1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d05e097e-991a-4b83-9189-4f6c2015f6b0"
     }
   },
@@ -13639,7 +13596,7 @@
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf234d5a-1b85-4095-ac3f-9260c4fa24ed",
       "Looke": "https://www.looke.com.br/detalhes/8555",
       "NetMovies": "https://www.netmovies.com.br/filmes/8555",
-      "Plex": "https://watch.plex.tv/movie/the-magnificent-ambersons?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/the-magnificent-ambersons-1942?autoplay=1"
     }
   },
   "965150": {
@@ -13984,7 +13941,7 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/sherlock-jr?autoplay=1",
+      "Plex": "https://watch.plex.tv/movie/sherlock-jr-1924?autoplay=1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f6bb5547-218d-4f69-92bc-b1e51653833d"
     }
   },
@@ -14013,7 +13970,7 @@
       "Looke": "https://www.looke.com.br/detalhes/212330",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf1fab94-f318-41b8-b47a-65e03599c1a9",
       "NetMovies": "https://www.netmovies.com.br/filmes/212330",
-      "Plex": "https://watch.plex.tv/movie/stagecoach?autoplay=1",
+      "Plex": "https://watch.plex.tv/movie/stagecoach-1939?autoplay=1",
       "Pluto TV": "https://pluto.tv/on-demand/movies/stagecoah-br-1939-1-1"
     }
   },

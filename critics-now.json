@@ -1,7 +1,7 @@
 {
   "_raw": [
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -9,7 +9,7 @@
       "url": "https://www.rogerebert.com/reviews/queen-at-sea-juliette-binohe-film-review-2026"
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -17,7 +17,7 @@
       "url": "https://www.rogerebert.com/reviews/sctv-the-greatest-show-youve-never-heard-of-netflix-documentary-film-review-2026"
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -25,7 +25,7 @@
       "url": "https://www.rogerebert.com/reviews/trauma-or-monsters-all-larry-fessenden-film-review-2026"
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -33,7 +33,7 @@
       "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -41,7 +41,7 @@
       "url": "https://www.rogerebert.com/reviews/club-kid-jordan-firstman-a24-film-review-2026"
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -49,7 +49,7 @@
       "url": "https://www.rogerebert.com/reviews/wild-horse-nine-martin-mcdonagh-sam-rockwell-john-malkovich-film-review-2026"
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -57,7 +57,7 @@
       "url": "https://www.rogerebert.com/reviews/everytime-film-review-2026"
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -65,7 +65,7 @@
       "url": "https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026"
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -6215,54 +6215,6 @@
       "rating": "4★",
       "title": "Trespasses",
       "url": "https://www.theguardian.com/tv-and-radio/2025/nov/09/trespasses-review-an-intoxicating-rousing-and-heartbreaking-love-story"
-    },
-    {
-      "date": "2025-11-07",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "5★",
-      "title": "All Her Fault",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/nov/07/all-her-fault-review-sarah-snook-andrea-mara"
-    },
-    {
-      "date": "2025-11-07",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "4★",
-      "title": "Pluribus",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/nov/07/pluribus-review-breaking-bad-creators-tv-show-apple-tv"
-    },
-    {
-      "date": "2025-11-07",
-      "media_type": "movie",
-      "outlet": "IndieWire",
-      "rating": "A",
-      "title": "Sentimental Value",
-      "url": "https://www.indiewire.com/criticism/movies/sentimental-value-movie-review-joachim-trier-1235125511/"
-    },
-    {
-      "date": "2025-11-07",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "I Wish You All the Best",
-      "url": "https://www.rogerebert.com/reviews/i-wish-you-all-the-best-alexandra-daddario-movie-review-2025"
-    },
-    {
-      "date": "2025-11-07",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Die My Love",
-      "url": "https://www.rogerebert.com/reviews/die-my-love-jennifer-lawrence-robert-pattinson-film-review-2025"
-    },
-    {
-      "date": "2025-11-07",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "Frankenstein",
-      "url": "https://www.rogerebert.com/reviews/frankenstein-film-review-2025"
     }
   ],
   "movie:tmdb:1434103": {
@@ -6834,31 +6786,6 @@
     },
     "year": 2024
   },
-  "tt1312221": {
-    "age": {
-      "classind": "18",
-      "source": "BR"
-    },
-    "genres": [
-      18,
-      14,
-      27
-    ],
-    "media_type": "movie",
-    "original_title": "Frankenstein",
-    "poster": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-    "recs": [
-      {
-        "date": "2025-11-07",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/frankenstein-film-review-2025"
-      }
-    ],
-    "title": "Frankenstein",
-    "tmdb_id": 1062722,
-    "year": 2025
-  },
   "tt13138834": {
     "age": {
       "classind": "16",
@@ -6934,7 +6861,7 @@
     "poster": "/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
     "recs": [
       {
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
@@ -7508,7 +7435,7 @@
     "poster": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
     "recs": [
       {
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/wild-horse-nine-martin-mcdonagh-sam-rockwell-john-malkovich-film-review-2026"
@@ -8063,40 +7990,6 @@
     "tmdb_id": 1711792,
     "year": 2026
   },
-  "tt22202452": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      18,
-      10765
-    ],
-    "media_type": "tv",
-    "original_title": "Pluribus",
-    "poster": "/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
-    "recs": [
-      {
-        "date": "2025-11-07",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/07/pluribus-review-breaking-bad-creators-tv-show-apple-tv"
-      }
-    ],
-    "title": "Pluribus",
-    "tmdb_id": 225171,
-    "watch": {
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ],
-      "urls": {
-        "Apple TV": "https://tv.apple.com/br/episode/nos-somos-nos/umc.cmc.3qfbkp7tcby9ylcjpx2km05p7?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.4000%3AA0152501001&showId=umc.cmc.37axgovs2yozlyh3c2cmwzlza",
-        "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e4ed8e28-5afd-4318-bc40-3b3f4db06fbd"
-      }
-    },
-    "year": 2025
-  },
   "tt22237964": {
     "age": {
       "classind": "16",
@@ -8118,30 +8011,6 @@
     ],
     "title": "The Mysterious Gaze of the Flamingo",
     "tmdb_id": 896096,
-    "year": 2025
-  },
-  "tt22525442": {
-    "age": {
-      "classind": "16",
-      "source": "US"
-    },
-    "genres": [
-      18,
-      10749
-    ],
-    "media_type": "movie",
-    "original_title": "I Wish You All the Best",
-    "poster": "/zJAxxNoyzwFC9Q8OLMj1r2zlcDc.jpg",
-    "recs": [
-      {
-        "date": "2025-11-07",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/i-wish-you-all-the-best-alexandra-daddario-movie-review-2025"
-      }
-    ],
-    "title": "I Wish You All the Best",
-    "tmdb_id": 1022888,
     "year": 2025
   },
   "tt22530226": {
@@ -8910,7 +8779,7 @@
     "poster": "/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
     "recs": [
       {
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/queen-at-sea-juliette-binohe-film-review-2026"
@@ -9145,30 +9014,6 @@
     "title": "How to Talk Australians: The Movie",
     "tmdb_id": 1643111,
     "year": 2026
-  },
-  "tt27714581": {
-    "age": {
-      "classind": "14",
-      "source": "BR"
-    },
-    "genres": [
-      18,
-      35
-    ],
-    "media_type": "movie",
-    "original_title": "Affeksjonsverdi",
-    "poster": "/AcbS8VMysrTpG9r4dgK1oyLsKYn.jpg",
-    "recs": [
-      {
-        "date": "2025-11-07",
-        "outlet": "IndieWire",
-        "rating": "A",
-        "url": "https://www.indiewire.com/criticism/movies/sentimental-value-movie-review-joachim-trier-1235125511/"
-      }
-    ],
-    "title": "Sentimental Value",
-    "tmdb_id": 1124566,
-    "year": 2025
   },
   "tt27802226": {
     "age": {
@@ -9643,7 +9488,7 @@
     "poster": "/L0nb2GKLqwHqEuLWpU8D9nDQKJ.jpg",
     "recs": [
       {
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/hen-georgia-movie-review-2026"
@@ -10404,38 +10249,6 @@
       ],
       "urls": {
         "Disney Plus": "https://www.disneyplus.com/browse/entity-9ae53bdf-9248-41ac-83df-f5e93a1f04b0"
-      }
-    },
-    "year": 2025
-  },
-  "tt31314751": {
-    "age": {
-      "classind": "18",
-      "source": "US"
-    },
-    "genres": [
-      9648,
-      80
-    ],
-    "media_type": "tv",
-    "original_title": "All Her Fault",
-    "poster": "/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
-    "recs": [
-      {
-        "date": "2025-11-07",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/07/all-her-fault-review-sarah-snook-andrea-mara"
-      }
-    ],
-    "title": "All Her Fault",
-    "tmdb_id": 246386,
-    "watch": {
-      "providers": [
-        "Amazon Prime Video"
-      ],
-      "urls": {
-        "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88adbe94-51ad-4bd2-9840-2053b4535987"
       }
     },
     "year": 2025
@@ -16177,7 +15990,7 @@
     "poster": "/31hZFL1SbYqwHn4bDNOGabxnekI.jpg",
     "recs": [
       {
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/trauma-or-monsters-all-larry-fessenden-film-review-2026"
@@ -16430,7 +16243,7 @@
     "poster": "/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg",
     "recs": [
       {
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/club-kid-jordan-firstman-a24-film-review-2026"
@@ -17019,7 +16832,7 @@
     "poster": "/sav8yadAjfykfFlZuFsclmrN9st.jpg",
     "recs": [
       {
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026"
@@ -18469,7 +18282,7 @@
     "poster": "/lbZ7ltgw8xiKfCEXme8GO5HcV9z.jpg",
     "recs": [
       {
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/everytime-film-review-2026"
@@ -19398,10 +19211,6 @@
     ],
     "title": "The Vampire Lestat",
     "tmdb_id": 323411,
-    "watch": {
-      "providers": [],
-      "urls": {}
-    },
     "year": 2026
   },
   "tt43735158": {
@@ -20117,29 +19926,6 @@
     },
     "year": 2026
   },
-  "tt9362736": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      18
-    ],
-    "media_type": "movie",
-    "original_title": "Die My Love",
-    "poster": "/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
-    "recs": [
-      {
-        "date": "2025-11-07",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/die-my-love-jennifer-lawrence-robert-pattinson-film-review-2025"
-      }
-    ],
-    "title": "Die My Love",
-    "tmdb_id": 1033148,
-    "year": 2025
-  },
   "tt9395802": {
     "age": null,
     "genres": [
@@ -20323,6 +20109,16 @@
     ],
     "title": "The Narco Hack",
     "tmdb_id": 337950,
+    "watch": {
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ],
+      "urls": {
+        "HBO Max": "https://play.hbomax.com/video/watch/62342483-ae07-477b-a99f-085c8a8d90d1",
+        "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c91a34fb-f371-48f6-916c-602dce33d4d7"
+      }
+    },
     "year": 2026
   },
   "tv:tmdb:339786": {

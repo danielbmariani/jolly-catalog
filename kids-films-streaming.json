@@ -239,7 +239,7 @@
     ],
     "urls": {
       "Disney Plus": "https://www.disneyplus.com/browse/entity-f8a68a49-f7c3-417d-baed-1ff7c7b862de",
-      "Plex": "https://watch.plex.tv/movie/lady-and-the-tramp?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/lady-and-the-tramp-1955?autoplay=1"
     },
     "verified": [
       "Disney Plus"
@@ -900,17 +900,14 @@
   },
   "122": {
     "providers": [
-      "Amazon Prime Video",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.096a714d-6da9-4205-a118-3fb77fbaa003",
       "HBO Max": "https://play.hbomax.com/show/ad704585-6774-4d37-8c61-1bd41154173f",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.91d91081-a2e1-4004-af7d-4efb31e99e27"
     },
     "verified": [
-      "Amazon Prime Video",
       "HBO Max",
       "HBO Max Amazon Channel"
     ]
@@ -1013,9 +1010,6 @@
   "12610": {
     "providers": []
   },
-  "126319": {
-    "providers": []
-  },
   "127380": {
     "providers": [
       "Disney Plus"
@@ -1093,7 +1087,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/ferngully-the-last-rainforest?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/ferngully-the-last-rainforest-1992?autoplay=1"
     }
   },
   "13384": {
@@ -1780,7 +1774,7 @@
     ],
     "urls": {
       "Libreflix": "https://libreflix.org/i/sita-sings-the-blue",
-      "Plex": "https://watch.plex.tv/movie/sita-sings-the-blues?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/sita-sings-the-blues-2008?autoplay=1"
     }
   },
   "2062": {
@@ -1998,16 +1992,13 @@
   },
   "2501": {
     "providers": [
-      "Amazon Prime Video",
-      "Apple TV"
+      "Amazon Prime Video"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8a9f682-6eee-ebba-2ed8-6f520068c709",
-      "Apple TV": "https://tv.apple.com/br/movie/a-identidade-bourne/umc.cmc.6zfr90m4ghv0pt4l4nsfrm40d?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8a9f682-6eee-ebba-2ed8-6f520068c709"
     },
     "verified": [
-      "Amazon Prime Video",
-      "Apple TV"
+      "Amazon Prime Video"
     ]
   },
   "250480": {
@@ -2291,16 +2282,13 @@
   },
   "295693": {
     "providers": [
-      "Amazon Prime Video",
-      "Globoplay"
+      "Amazon Prime Video"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.06b0a9c9-a247-4a3e-82ed-e3263ade9162",
-      "Globoplay": "https://globoplay.globo.com/o-poderoso-chefinho/t/jGgKwRzKfn/"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.06b0a9c9-a247-4a3e-82ed-e3263ade9162"
     },
     "verified": [
-      "Amazon Prime Video",
-      "Globoplay"
+      "Amazon Prime Video"
     ]
   },
   "297": {
@@ -2534,17 +2522,14 @@
   "329": {
     "providers": [
       "Amazon Prime Video",
-      "Apple TV",
       "HBO Max"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ea9f6d9-bdc8-9b2e-97a9-c341306e36ef",
-      "Apple TV": "https://tv.apple.com/br/movie/o-parque-dos-dinossauros/umc.cmc.3bp8rj8ab9otj4ug279xhib2f?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv",
       "HBO Max": "https://play.hbomax.com/show/f24a4ece-2f3d-4919-a934-700d1ef8f7a2"
     },
     "verified": [
-      "Amazon Prime Video",
-      "Apple TV"
+      "Amazon Prime Video"
     ]
   },
   "330457": {
@@ -2785,7 +2770,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ITIT",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ESES",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     },
     "verified": [
@@ -3039,7 +3024,7 @@
       "Looke": "https://www.looke.com.br/detalhes/43275",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1601f5a0-62ef-4510-9a9d-3cb1ffe1843b",
       "NetMovies": "https://www.netmovies.com.br/filmes/43275",
-      "Plex": "https://watch.plex.tv/movie/gullivers-travels?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/gullivers-travels-1939?autoplay=1"
     },
     "verified": [
       "Looke",
@@ -3987,7 +3972,7 @@
       "Plex"
     ],
     "urls": {
-      "Plex": "https://watch.plex.tv/movie/pather-panchali?autoplay=1"
+      "Plex": "https://watch.plex.tv/movie/pather-panchali-1955?autoplay=1"
     }
   },
   "585": {
@@ -4233,12 +4218,15 @@
   },
   "634649": {
     "providers": [
+      "Disney Plus",
       "Universal+ Amazon Channel"
     ],
     "urls": {
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-295fb45a-c8bb-477e-816f-b0706b4d9984",
       "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53065791-4335-46ce-bc1b-5c5ebbb21073"
     },
     "verified": [
+      "Disney Plus",
       "Universal+ Amazon Channel"
     ]
   },
@@ -4624,7 +4612,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     },
     "verified": [
@@ -5294,7 +5282,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUE5537",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GN7UD22PN",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
@@ -5594,7 +5582,7 @@
       "Filmzie": "https://filmzie.com/content/the-general-1926",
       "Looke": "https://www.looke.com.br/detalhes/43312",
       "NetMovies": "https://www.netmovies.com.br/filmes/43312",
-      "Plex": "https://watch.plex.tv/movie/the-general?autoplay=1",
+      "Plex": "https://watch.plex.tv/movie/the-general-1926?autoplay=1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d05e097e-991a-4b83-9189-4f6c2015f6b0"
     },
     "verified": [
