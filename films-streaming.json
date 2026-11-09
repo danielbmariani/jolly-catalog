@@ -535,16 +535,14 @@
   "10669": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/83bf9783-0b32-4f5e-9dc6-86b31112c278",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96a9f773-5a0a-0c71-389d-61e3cfb0559b",
       "Looke": "https://www.looke.com.br/detalhes/284701",
-      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cde90757-a689-4fcc-8979-7abd6fd85b26",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96a9f773-5a0a-0c71-389d-61e3cfb0559b",
       "NetMovies": "https://www.netmovies.com.br/filmes/284701"
     }
   },
@@ -2233,7 +2231,7 @@
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144FRFR",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144ENUS",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-b8b65a37-0205-4771-bd07-24b5c4406034",
       "HBO Max": "https://play.hbomax.com/show/291804e2-d281-4934-97f5-5d305fd845fc",
       "Netflix": "https://www.netflix.com/title/82723106"
@@ -2536,13 +2534,11 @@
   "137113": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max",
-      "Netflix"
+      "HBO Max"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9cba5c02-910e-368c-0c9b-8505ea0c7b09",
-      "HBO Max": "https://play.hbomax.com/show/8d4640d7-fb4c-4ea8-bdc5-2c63a8b5ffe0",
-      "Netflix": "https://www.netflix.com/title/70298735"
+      "HBO Max": "https://play.hbomax.com/show/8d4640d7-fb4c-4ea8-bdc5-2c63a8b5ffe0"
     }
   },
   "13751": {
@@ -2661,7 +2657,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G31UXJW8E",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G14U4DXQ2",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3583b831-3ad5-4bf2-9be1-fda81ca8f0e9"
     }
   },
@@ -2931,9 +2927,6 @@
   "1437396": {
     "providers": []
   },
-  "1437696": {
-    "providers": []
-  },
   "144": {
     "providers": [
       "Looke Amazon Channel"
@@ -2971,7 +2964,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-7534d4ac-d936-41cc-a2fb-37af15694964"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-09aa241f-b771-4323-a7ac-e2dae4f3782e"
     }
   },
   "145": {
@@ -7527,7 +7520,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ESES",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ES419",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     }
   },
@@ -9623,7 +9616,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-4153fd1c-1653-4678-8006-9cdd0d35154f"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-92243dd0-bcfe-4365-ae76-1fa3cf1a2ab9"
     }
   },
   "567": {
@@ -10096,7 +10089,7 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3504672f-1070-400f-a088-26c496b02b3b"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.18020ca2-6414-4515-a842-b5c68ba79e51"
     }
   },
   "59990": {
@@ -10567,14 +10560,12 @@
     "providers": [
       "Amazon Prime Video",
       "Globoplay",
-      "HBO Max",
-      "Netflix"
+      "HBO Max"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90a9f697-c89f-5246-cd34-886803553c6f",
       "Globoplay": "https://globoplay.globo.com/eu-sou-a-lenda/t/gJBXjYZdLC/",
-      "HBO Max": "https://play.hbomax.com/show/489fcfaa-d5f3-4edf-8034-1549790a5b55",
-      "Netflix": "https://www.netflix.com/title/70060015"
+      "HBO Max": "https://play.hbomax.com/show/489fcfaa-d5f3-4edf-8034-1549790a5b55"
     }
   },
   "648": {
@@ -11535,7 +11526,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-154b2e5c-fbe7-49b7-b6be-fd0e6c75651f"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-e6ef640e-787e-4477-aba4-9e05925ebac2"
     }
   },
   "767": {
@@ -12591,7 +12582,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-f6174ebf-cb92-453c-a52b-62bb3576e402"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-ebb15e6c-3f6c-4980-bf76-202b9fb2f2f7"
     }
   },
   "863": {
@@ -13026,7 +13017,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GN7UD22PN",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GEVUZXXKX",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
@@ -13969,7 +13960,7 @@
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/212330",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf1fab94-f318-41b8-b47a-65e03599c1a9",
-      "NetMovies": "https://www.netmovies.com.br/filmes/212330",
+      "NetMovies": "https://www.netmovies.com.br/filmes/43290",
       "Plex": "https://watch.plex.tv/movie/stagecoach-1939?autoplay=1",
       "Pluto TV": "https://pluto.tv/on-demand/movies/stagecoah-br-1939-1-1"
     }

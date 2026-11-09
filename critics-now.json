@@ -1,7 +1,7 @@
 {
   "_raw": [
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -9,7 +9,7 @@
       "url": "https://www.rogerebert.com/reviews/queen-at-sea-juliette-binohe-film-review-2026"
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -17,7 +17,7 @@
       "url": "https://www.rogerebert.com/reviews/sctv-the-greatest-show-youve-never-heard-of-netflix-documentary-film-review-2026"
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -25,7 +25,7 @@
       "url": "https://www.rogerebert.com/reviews/trauma-or-monsters-all-larry-fessenden-film-review-2026"
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -33,7 +33,7 @@
       "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -41,7 +41,7 @@
       "url": "https://www.rogerebert.com/reviews/club-kid-jordan-firstman-a24-film-review-2026"
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -49,7 +49,7 @@
       "url": "https://www.rogerebert.com/reviews/wild-horse-nine-martin-mcdonagh-sam-rockwell-john-malkovich-film-review-2026"
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -57,7 +57,7 @@
       "url": "https://www.rogerebert.com/reviews/everytime-film-review-2026"
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -65,12 +65,20 @@
       "url": "https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026"
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
       "title": "Hen",
       "url": "https://www.rogerebert.com/reviews/hen-georgia-movie-review-2026"
+    },
+    {
+      "date": "2026-11-08",
+      "media_type": "movie",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "Pickpockets",
+      "url": "https://www.theguardian.com/film/2026/nov/09/pickpockets-film-review-small-budget-australian-movie-steals-audiences-heart"
     },
     {
       "date": "2026-11-06",
@@ -6861,7 +6869,7 @@
     "poster": "/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
     "recs": [
       {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
@@ -7435,7 +7443,7 @@
     "poster": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
     "recs": [
       {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/wild-horse-nine-martin-mcdonagh-sam-rockwell-john-malkovich-film-review-2026"
@@ -8779,7 +8787,7 @@
     "poster": "/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
     "recs": [
       {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/queen-at-sea-juliette-binohe-film-review-2026"
@@ -9488,7 +9496,7 @@
     "poster": "/L0nb2GKLqwHqEuLWpU8D9nDQKJ.jpg",
     "recs": [
       {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/hen-georgia-movie-review-2026"
@@ -13029,6 +13037,28 @@
     "tmdb_id": 1390382,
     "year": 2026
   },
+  "tt34725296": {
+    "age": null,
+    "genres": [
+      35,
+      80,
+      10749
+    ],
+    "media_type": "movie",
+    "original_title": "Pickpockets",
+    "poster": "/9l7uDTAgE3Aaijt53vvtUMpVdPU.jpg",
+    "recs": [
+      {
+        "date": "2026-11-08",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/nov/09/pickpockets-film-review-small-budget-australian-movie-steals-audiences-heart"
+      }
+    ],
+    "title": "Pickpockets",
+    "tmdb_id": 1775236,
+    "year": 2026
+  },
   "tt34798706": {
     "age": null,
     "genres": [
@@ -15990,7 +16020,7 @@
     "poster": "/31hZFL1SbYqwHn4bDNOGabxnekI.jpg",
     "recs": [
       {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/trauma-or-monsters-all-larry-fessenden-film-review-2026"
@@ -16243,7 +16273,7 @@
     "poster": "/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg",
     "recs": [
       {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/club-kid-jordan-firstman-a24-film-review-2026"
@@ -16832,7 +16862,7 @@
     "poster": "/sav8yadAjfykfFlZuFsclmrN9st.jpg",
     "recs": [
       {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026"
@@ -18282,7 +18312,7 @@
     "poster": "/lbZ7ltgw8xiKfCEXme8GO5HcV9z.jpg",
     "recs": [
       {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/everytime-film-review-2026"
@@ -19485,6 +19515,14 @@
     ],
     "title": "Stranger Things",
     "tmdb_id": 66732,
+    "watch": {
+      "providers": [
+        "Netflix"
+      ],
+      "urls": {
+        "Netflix": "https://www.netflix.com/title/82939566"
+      }
+    },
     "year": 2016
   },
   "tt45821808": {

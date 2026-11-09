@@ -752,14 +752,7 @@
     ]
   },
   "tt11212198": {
-    "providers": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
-    ],
-    "verified": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
-    ]
+    "providers": []
   },
   "tt11218290": {
     "providers": [
@@ -3952,9 +3945,6 @@
     ]
   },
   "tt7157494": {
-    "providers": []
-  },
-  "tt7181728": {
     "providers": []
   },
   "tt7186126": {
