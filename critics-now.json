@@ -1,12 +1,76 @@
 {
   "_raw": [
     {
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
       "title": "Queen at Sea",
       "url": "https://www.rogerebert.com/reviews/queen-at-sea-juliette-binohe-film-review-2026"
+    },
+    {
+      "date": "2026-11-10",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Trauma or, Monsters All",
+      "url": "https://www.rogerebert.com/reviews/trauma-or-monsters-all-larry-fessenden-film-review-2026"
+    },
+    {
+      "date": "2026-11-10",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Mouse (2026)",
+      "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
+    },
+    {
+      "date": "2026-11-10",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Club Kid",
+      "url": "https://www.rogerebert.com/reviews/club-kid-jordan-firstman-a24-film-review-2026"
+    },
+    {
+      "date": "2026-11-10",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Wild Horse Nine",
+      "url": "https://www.rogerebert.com/reviews/wild-horse-nine-martin-mcdonagh-sam-rockwell-john-malkovich-film-review-2026"
+    },
+    {
+      "date": "2026-11-10",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Everytime",
+      "url": "https://www.rogerebert.com/reviews/everytime-film-review-2026"
+    },
+    {
+      "date": "2026-11-10",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Soul Patrol",
+      "url": "https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026"
+    },
+    {
+      "date": "2026-11-10",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Hen",
+      "url": "https://www.rogerebert.com/reviews/hen-georgia-movie-review-2026"
+    },
+    {
+      "date": "2026-11-10",
+      "media_type": "movie",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "Soul Patrol",
+      "url": "https://www.theguardian.com/film/2026/nov/10/soul-patrol-review-heart-stopping-story-of-vietnams-first-black-special-ops-team"
     },
     {
       "date": "2026-11-09",
@@ -19,58 +83,26 @@
     {
       "date": "2026-11-09",
       "media_type": "movie",
-      "outlet": "RogerEbert.com",
+      "outlet": "The Guardian",
       "rating": "4★",
-      "title": "Trauma or, Monsters All",
-      "url": "https://www.rogerebert.com/reviews/trauma-or-monsters-all-larry-fessenden-film-review-2026"
+      "title": "1 in 2",
+      "url": "https://www.theguardian.com/film/2026/nov/09/1-in-2-review-bowel-cancer-david-wilkinson"
     },
     {
       "date": "2026-11-09",
       "media_type": "movie",
-      "outlet": "RogerEbert.com",
+      "outlet": "The Guardian",
       "rating": "4★",
-      "title": "Mouse (2026)",
-      "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
+      "title": "A Fox Under a Pink Moon",
+      "url": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee"
     },
     {
       "date": "2026-11-09",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Club Kid",
-      "url": "https://www.rogerebert.com/reviews/club-kid-jordan-firstman-a24-film-review-2026"
-    },
-    {
-      "date": "2026-11-09",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Wild Horse Nine",
-      "url": "https://www.rogerebert.com/reviews/wild-horse-nine-martin-mcdonagh-sam-rockwell-john-malkovich-film-review-2026"
-    },
-    {
-      "date": "2026-11-09",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Everytime",
-      "url": "https://www.rogerebert.com/reviews/everytime-film-review-2026"
-    },
-    {
-      "date": "2026-11-09",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Soul Patrol",
-      "url": "https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026"
-    },
-    {
-      "date": "2026-11-09",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
+      "media_type": "tv",
+      "outlet": "The Guardian",
       "rating": "4★",
-      "title": "Hen",
-      "url": "https://www.rogerebert.com/reviews/hen-georgia-movie-review-2026"
+      "title": "Mums v Big Pharma",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/mums-v-big-pharma-review-the-bored-hysterical-housewives-who-exposed-a-horrifying-scandal"
     },
     {
       "date": "2026-11-08",
@@ -6215,14 +6247,6 @@
       "rating": "A-",
       "title": "Sirât",
       "url": "https://www.indiewire.com/criticism/movies/sirat-review-oliver-laxe-1235123917/"
-    },
-    {
-      "date": "2025-11-09",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "4★",
-      "title": "Trespasses",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/nov/09/trespasses-review-an-intoxicating-rousing-and-heartbreaking-love-story"
     }
   ],
   "movie:tmdb:1434103": {
@@ -6869,7 +6893,7 @@
     "poster": "/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
     "recs": [
       {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
@@ -7443,7 +7467,7 @@
     "poster": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
     "recs": [
       {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/wild-horse-nine-martin-mcdonagh-sam-rockwell-john-malkovich-film-review-2026"
@@ -7558,6 +7582,26 @@
         "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98497f3c-055f-4974-8a38-a5c19e9d5663"
       }
     },
+    "year": 2026
+  },
+  "tt18163224": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "original_title": "روباه و ماه صورتی",
+    "poster": "/67hNnsOQmC6DDYf7SuZc3ReldsB.jpg",
+    "recs": [
+      {
+        "date": "2026-11-09",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee"
+      }
+    ],
+    "title": "A Fox Under a Pink Moon",
+    "tmdb_id": 951018,
     "year": 2026
   },
   "tt18228732": {
@@ -8787,7 +8831,7 @@
     "poster": "/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
     "recs": [
       {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/queen-at-sea-juliette-binohe-film-review-2026"
@@ -9496,7 +9540,7 @@
     "poster": "/L0nb2GKLqwHqEuLWpU8D9nDQKJ.jpg",
     "recs": [
       {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/hen-georgia-movie-review-2026"
@@ -11989,27 +12033,6 @@
     "tmdb_id": 1405458,
     "year": 2025
   },
-  "tt33059458": {
-    "age": null,
-    "genres": [
-      18,
-      10768
-    ],
-    "media_type": "tv",
-    "original_title": "Trespasses",
-    "poster": "/ucwjasSOz2pr4TsRycK7Muegsh2.jpg",
-    "recs": [
-      {
-        "date": "2025-11-09",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/09/trespasses-review-an-intoxicating-rousing-and-heartbreaking-love-story"
-      }
-    ],
-    "title": "Trespasses",
-    "tmdb_id": 260650,
-    "year": 2025
-  },
   "tt33095251": {
     "age": {
       "classind": "16",
@@ -12440,6 +12463,26 @@
       }
     },
     "year": 2025
+  },
+  "tt33506764": {
+    "age": null,
+    "genres": [
+      99
+    ],
+    "media_type": "movie",
+    "original_title": "1 in 2",
+    "poster": "/7hudlkH1rGKVaMR4phOKYPCfJX7.jpg",
+    "recs": [
+      {
+        "date": "2026-11-09",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/nov/09/1-in-2-review-bowel-cancer-david-wilkinson"
+      }
+    ],
+    "title": "1 in 2",
+    "tmdb_id": 1771402,
+    "year": 2026
   },
   "tt33517752": {
     "age": {
@@ -16020,7 +16063,7 @@
     "poster": "/31hZFL1SbYqwHn4bDNOGabxnekI.jpg",
     "recs": [
       {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/trauma-or-monsters-all-larry-fessenden-film-review-2026"
@@ -16273,7 +16316,7 @@
     "poster": "/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg",
     "recs": [
       {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/club-kid-jordan-firstman-a24-film-review-2026"
@@ -16862,10 +16905,16 @@
     "poster": "/sav8yadAjfykfFlZuFsclmrN9st.jpg",
     "recs": [
       {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026"
+      },
+      {
+        "date": "2026-11-10",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/nov/10/soul-patrol-review-heart-stopping-story-of-vietnams-first-black-special-ops-team"
       }
     ],
     "title": "Soul Patrol",
@@ -18312,7 +18361,7 @@
     "poster": "/lbZ7ltgw8xiKfCEXme8GO5HcV9z.jpg",
     "recs": [
       {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/everytime-film-review-2026"
@@ -19520,7 +19569,7 @@
         "Netflix"
       ],
       "urls": {
-        "Netflix": "https://www.netflix.com/title/82939566"
+        "Netflix": "https://www.netflix.com/title/80057281"
       }
     },
     "year": 2016

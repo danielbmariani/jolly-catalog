@@ -2219,13 +2219,11 @@
     "poster": "/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel",
-      "Netflix"
+      "HBO Max Amazon Channel"
     ],
     "providers_verified": [
       "HBO Max",
-      "HBO Max Amazon Channel",
-      "Netflix"
+      "HBO Max Amazon Channel"
     ],
     "status": "ended",
     "title": "O Incrível Mundo de Gumball",
@@ -2373,9 +2371,6 @@
     ],
     "poster": "/eZHmUO1OQRpVkAOdj9VwYCCyQew.jpg",
     "providers": [
-      "Disney Plus"
-    ],
-    "providers_verified": [
       "Disney Plus"
     ],
     "status": "ended",

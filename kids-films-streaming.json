@@ -1097,7 +1097,12 @@
     "providers": []
   },
   "13466": {
-    "providers": []
+    "providers": [
+      "Univer Video"
+    ],
+    "urls": {
+      "Univer Video": "https://www.univervideo.com/movie/october-sky"
+    }
   },
   "13475": {
     "providers": [
@@ -1180,17 +1185,14 @@
   "137113": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max",
-      "Netflix"
+      "HBO Max"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9cba5c02-910e-368c-0c9b-8505ea0c7b09",
-      "HBO Max": "https://play.hbomax.com/show/8d4640d7-fb4c-4ea8-bdc5-2c63a8b5ffe0",
-      "Netflix": "https://www.netflix.com/title/70298735"
+      "HBO Max": "https://play.hbomax.com/show/8d4640d7-fb4c-4ea8-bdc5-2c63a8b5ffe0"
     },
     "verified": [
-      "Amazon Prime Video",
-      "Netflix"
+      "Amazon Prime Video"
     ]
   },
   "13751": {
@@ -1213,7 +1215,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G14U4DXQ2",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G31UXJW8E",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3583b831-3ad5-4bf2-9be1-fda81ca8f0e9"
     },
     "verified": [
@@ -1309,10 +1311,12 @@
   },
   "1495": {
     "providers": [
-      "Disney Plus"
+      "Disney Plus",
+      "Univer Video"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-8766334b-2f52-44c4-aa6c-89879be1fe8b"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-8766334b-2f52-44c4-aa6c-89879be1fe8b",
+      "Univer Video": "https://www.univervideo.com/movie/kingdom-of-heaven"
     },
     "verified": [
       "Disney Plus"
@@ -2465,10 +2469,12 @@
   },
   "317557": {
     "providers": [
-      "Disney Plus"
+      "Disney Plus",
+      "Univer Video"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-f76d0075-f83a-4279-aebc-d2f5c447aefb"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-f76d0075-f83a-4279-aebc-d2f5c447aefb",
+      "Univer Video": "https://www.univervideo.com/movie/queen-of-katwe"
     },
     "verified": [
       "Disney Plus"
@@ -2654,7 +2660,8 @@
     },
     "verified": [
       "Disney Plus",
-      "Netflix"
+      "Netflix",
+      "Paramount+ Amazon Channel"
     ]
   },
   "354912": {
@@ -2770,7 +2777,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ES419",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886DEDE",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     },
     "verified": [
@@ -4273,19 +4280,16 @@
     "providers": [
       "Amazon Prime Video",
       "Globoplay",
-      "HBO Max",
-      "Netflix"
+      "HBO Max"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90a9f697-c89f-5246-cd34-886803553c6f",
       "Globoplay": "https://globoplay.globo.com/eu-sou-a-lenda/t/gJBXjYZdLC/",
-      "HBO Max": "https://play.hbomax.com/show/489fcfaa-d5f3-4edf-8034-1549790a5b55",
-      "Netflix": "https://www.netflix.com/title/70060015"
+      "HBO Max": "https://play.hbomax.com/show/489fcfaa-d5f3-4edf-8034-1549790a5b55"
     },
     "verified": [
       "Amazon Prime Video",
-      "Globoplay",
-      "Netflix"
+      "Globoplay"
     ]
   },
   "652": {
@@ -4612,7 +4616,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     },
     "verified": [
@@ -5282,7 +5286,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GEVUZXXKX",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUE5537",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
@@ -5551,6 +5555,9 @@
       "Paramount+ Amazon Channel"
     ]
   },
+  "9555": {
+    "providers": []
+  },
   "9598": {
     "providers": [
       "Netflix",
@@ -5712,7 +5719,7 @@
     ],
     "urls": {
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44b4ce8e-4093-a196-ad1d-24ecf26178a1",
-      "Univer Video": "https://www.univervideo.com/"
+      "Univer Video": "https://www.univervideo.com/movie/the-prince-of-egypt"
     },
     "verified": [
       "Telecine Amazon Channel"

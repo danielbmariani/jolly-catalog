@@ -1146,6 +1146,10 @@
     "providers": [
       "HBO Max",
       "HBO Max Amazon Channel"
+    ],
+    "verified": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
     ]
   },
   "tt13159924": {
@@ -1756,6 +1760,9 @@
   "tt15680030": {
     "providers": [
       "Sony One Amazon Channel"
+    ],
+    "verified": [
+      "Sony One Amazon Channel"
     ]
   },
   "tt15875168": {
@@ -1953,6 +1960,7 @@
       "Paramount Plus Apple TV channel"
     ],
     "verified": [
+      "Amazon Prime Video",
       "Disney Plus",
       "Paramount Plus Apple TV channel"
     ]
@@ -2078,6 +2086,10 @@
   },
   "tt2077823": {
     "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "verified": [
       "HBO Max",
       "HBO Max Amazon Channel"
     ]
@@ -3300,6 +3312,9 @@
   "tt4158110": {
     "providers": [
       "Universal+ Amazon Channel"
+    ],
+    "verified": [
+      "Universal+ Amazon Channel"
     ]
   },
   "tt4192812": {
@@ -3413,6 +3428,9 @@
   },
   "tt4577466": {
     "providers": [
+      "Lionsgate+ Amazon Channel"
+    ],
+    "verified": [
       "Lionsgate+ Amazon Channel"
     ]
   },
@@ -3619,11 +3637,16 @@
   "tt5555260": {
     "providers": [
       "Disney Plus",
-      "Globoplay"
+      "Globoplay",
+      "Paramount Plus",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
     ],
     "verified": [
       "Disney Plus",
-      "Globoplay"
+      "Globoplay",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
     ]
   },
   "tt5571524": {

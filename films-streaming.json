@@ -2231,7 +2231,7 @@
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144ENUS",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144ESES",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-b8b65a37-0205-4771-bd07-24b5c4406034",
       "HBO Max": "https://play.hbomax.com/show/291804e2-d281-4934-97f5-5d305fd845fc",
       "Netflix": "https://www.netflix.com/title/82723106"
@@ -2353,7 +2353,12 @@
     "providers": []
   },
   "13466": {
-    "providers": []
+    "providers": [
+      "Univer Video"
+    ],
+    "urls": {
+      "Univer Video": "https://www.univervideo.com/movie/october-sky"
+    }
   },
   "13475": {
     "providers": [
@@ -2369,14 +2374,6 @@
   },
   "135": {
     "providers": []
-  },
-  "13528": {
-    "providers": [
-      "Plex"
-    ],
-    "urls": {
-      "Plex": "https://watch.plex.tv/movie/gaslight-1944?autoplay=1"
-    }
   },
   "1354518": {
     "providers": [
@@ -2657,7 +2654,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G14U4DXQ2",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G31UXJW8E",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3583b831-3ad5-4bf2-9be1-fda81ca8f0e9"
     }
   },
@@ -3219,10 +3216,12 @@
   },
   "1495": {
     "providers": [
-      "Disney Plus"
+      "Disney Plus",
+      "Univer Video"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-8766334b-2f52-44c4-aa6c-89879be1fe8b"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-8766334b-2f52-44c4-aa6c-89879be1fe8b",
+      "Univer Video": "https://www.univervideo.com/movie/kingdom-of-heaven"
     }
   },
   "1496491": {
@@ -4437,10 +4436,12 @@
   },
   "197": {
     "providers": [
-      "Disney Plus"
+      "Disney Plus",
+      "Univer Video"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-cc282e22-c01d-4c58-b4a3-bcaf59249345"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-cc282e22-c01d-4c58-b4a3-bcaf59249345",
+      "Univer Video": "https://www.univervideo.com/movie/braveheart-1"
     }
   },
   "1976": {
@@ -5155,9 +5156,6 @@
       "Plex": "https://watch.plex.tv/movie/salt-of-the-earth-1954?autoplay=1",
       "Reserva Imovision": "https://reservaimovision.com.br/programs/o-sal-da-terra"
     }
-  },
-  "236310": {
-    "providers": []
   },
   "238": {
     "providers": [
@@ -6904,10 +6902,12 @@
   },
   "317557": {
     "providers": [
-      "Disney Plus"
+      "Disney Plus",
+      "Univer Video"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-f76d0075-f83a-4279-aebc-d2f5c447aefb"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-f76d0075-f83a-4279-aebc-d2f5c447aefb",
+      "Univer Video": "https://www.univervideo.com/movie/queen-of-katwe"
     }
   },
   "31767": {
@@ -7520,7 +7520,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ES419",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886DEDE",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     }
   },
@@ -8016,10 +8016,12 @@
   },
   "423": {
     "providers": [
-      "Cindie Amazon Channel"
+      "Cindie Amazon Channel",
+      "Univer Video"
     ],
     "urls": {
-      "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6765f2cb-c0d6-4668-90a9-1e98b6f5e46c"
+      "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6765f2cb-c0d6-4668-90a9-1e98b6f5e46c",
+      "Univer Video": "https://www.univervideo.com/movie/the-pianist"
     }
   },
   "4232": {
@@ -8036,10 +8038,12 @@
   },
   "424": {
     "providers": [
-      "Telecine Amazon Channel"
+      "Telecine Amazon Channel",
+      "Univer Video"
     ],
     "urls": {
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.40a9f71f-f0bd-7bc6-0201-334a2157c92b"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.40a9f71f-f0bd-7bc6-0201-334a2157c92b",
+      "Univer Video": "https://www.univervideo.com/movie/a-lista-de-schindler"
     }
   },
   "425": {
@@ -8936,6 +8940,9 @@
     "urls": {
       "Disney Plus": "https://www.disneyplus.com/browse/entity-d9cd6bd1-bcf8-4a3b-8f92-0fdd4f79ac08"
     }
+  },
+  "4977": {
+    "providers": []
   },
   "499": {
     "providers": [
@@ -10089,7 +10096,7 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.18020ca2-6414-4515-a842-b5c68ba79e51"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3504672f-1070-400f-a088-26c496b02b3b"
     }
   },
   "59990": {
@@ -10100,16 +10107,6 @@
     "urls": {
       "Globoplay": "https://globoplay.globo.com/o-pagador-de-promessas-o-filme/t/Ftkc65fVxW/",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0cd926c5-cd2b-465f-87e5-637cbbd6b610"
-    }
-  },
-  "600": {
-    "providers": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
-    ],
-    "urls": {
-      "HBO Max": "https://play.hbomax.com/show/01dfcf23-7a1c-4e3f-872c-541f1bbca6b6",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fea9f704-bd57-39f5-2914-03c1cc89a97f"
     }
   },
   "6003": {
@@ -11318,7 +11315,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     }
   },
@@ -13017,7 +13014,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GEVUZXXKX",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUE5537",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
@@ -13339,9 +13336,6 @@
   "947502": {
     "providers": []
   },
-  "947643": {
-    "providers": []
-  },
   "9479": {
     "providers": [
       "Disney Plus"
@@ -13456,6 +13450,9 @@
       "HBO Max": "https://play.hbomax.com/show/d7b0be9a-fc06-4144-a50c-51450c41370b",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4abbef0-8713-2bff-1113-1afbf133cf8d"
     }
+  },
+  "9555": {
+    "providers": []
   },
   "9558": {
     "providers": []
@@ -13836,7 +13833,7 @@
     ],
     "urls": {
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44b4ce8e-4093-a196-ad1d-24ecf26178a1",
-      "Univer Video": "https://www.univervideo.com/"
+      "Univer Video": "https://www.univervideo.com/movie/the-prince-of-egypt"
     }
   },
   "984": {
@@ -13960,7 +13957,7 @@
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/212330",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf1fab94-f318-41b8-b47a-65e03599c1a9",
-      "NetMovies": "https://www.netmovies.com.br/filmes/43290",
+      "NetMovies": "https://www.netmovies.com.br/filmes/212330",
       "Plex": "https://watch.plex.tv/movie/stagecoach-1939?autoplay=1",
       "Pluto TV": "https://pluto.tv/on-demand/movies/stagecoah-br-1939-1-1"
     }
