@@ -435,10 +435,12 @@
   },
   "10830": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "HBO Max"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26a9f6c0-33eb-83d9-3db6-76f877af2408"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26a9f6c0-33eb-83d9-3db6-76f877af2408",
+      "HBO Max": "https://play.hbomax.com/show/056732c1-ea64-4574-82d2-7867e35f74d4"
     },
     "verified": [
       "Amazon Prime Video"
@@ -2686,6 +2688,9 @@
       "Disney Plus"
     ]
   },
+  "36040": {
+    "providers": []
+  },
   "361743": {
     "providers": [
       "Paramount Plus",
@@ -4616,7 +4621,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     },
     "verified": [
@@ -5121,6 +5126,9 @@
       "Paramount+ Amazon Channel"
     ]
   },
+  "850": {
+    "providers": []
+  },
   "855": {
     "providers": [
       "Amazon Prime Video"
@@ -5286,7 +5294,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUE5537",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GN7UD22PN",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
