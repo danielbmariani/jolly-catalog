@@ -31,11 +31,15 @@
   "1008042": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "Diamond Films Amazon Channel",
+      "HBO Max",
+      "HBO Max Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e70b25c4-e8ce-40fd-ab02-ebb6b91d46b2",
-      "HBO Max": "https://play.hbomax.com/show/79e23b6c-7938-444c-bc12-6801f29dc26b"
+      "Diamond Films Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e70b25c4-e8ce-40fd-ab02-ebb6b91d46b2",
+      "HBO Max": "https://play.hbomax.com/show/79e23b6c-7938-444c-bc12-6801f29dc26b",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e70b25c4-e8ce-40fd-ab02-ebb6b91d46b2"
     }
   },
   "10086": {
@@ -43,12 +47,15 @@
   },
   "10098": {
     "providers": [
+      "Cindie Amazon Channel",
+      "JustWatch TV Beta",
       "Looke",
       "NetMovies",
       "Pluto TV",
       "Telecine Amazon Channel"
     ],
     "urls": {
+      "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f32ccc3d-1b28-4902-9478-cca8b5ad45ff",
       "Looke": "https://www.looke.com.br/detalhes/127006",
       "NetMovies": "https://www.netmovies.com.br/filmes/127006",
       "Pluto TV": "https://pluto.tv/on-demand/movies/charlie-chaplin-o-garoto-br-1920-1-1",
@@ -58,11 +65,13 @@
   "101": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/7b9ff861-3b46-4f13-a222-1bb1a5a65a94",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ca9f7c5-88e7-989a-2b95-bba96eecfcb8"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ca9f7c5-88e7-989a-2b95-bba96eecfcb8",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ca9f7c5-88e7-989a-2b95-bba96eecfcb8"
     }
   },
   "10112": {
@@ -83,19 +92,23 @@
   },
   "1012201": {
     "providers": [
+      "Crunchyroll Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "urls": {
+      "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.467b800e-3262-4857-82b7-ed7a8634cb5b",
       "HBO Max": "https://play.hbomax.com/show/d04a6306-6237-46a9-85e2-0748ac522036",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.467b800e-3262-4857-82b7-ed7a8634cb5b"
     }
   },
   "101299": {
     "providers": [
+      "Lionsgate+ Amazon Channel",
       "Sony One Amazon Channel"
     ],
     "urls": {
+      "Lionsgate+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f5a750f-526c-44d2-8884-ae484b3e9dec",
       "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f5a750f-526c-44d2-8884-ae484b3e9dec"
     }
   },
@@ -134,11 +147,13 @@
   "10191": {
     "providers": [
       "Amazon Prime Video",
-      "Netflix"
+      "Netflix",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.76a9f6df-ba74-693c-4b43-07067f71094d",
-      "Netflix": "https://www.netflix.com/title/70109893"
+      "Netflix": "https://www.netflix.com/title/70109893",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.76a9f6df-ba74-693c-4b43-07067f71094d"
     }
   },
   "10193": {
@@ -215,10 +230,12 @@
   },
   "10238": {
     "providers": [
+      "Arte Amazon Channel",
       "MUBI",
       "MUBI Amazon Channel"
     ],
     "urls": {
+      "Arte Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3ce29d3b-7197-4955-8e15-374583071b19",
       "MUBI": "https://mubi.com/films/cries-and-whispers",
       "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3ce29d3b-7197-4955-8e15-374583071b19"
     }
@@ -251,6 +268,7 @@
   "103": {
     "providers": [
       "HBO Max",
+      "HBO Max Amazon Channel",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies",
@@ -258,6 +276,7 @@
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/f9037f52-1ca0-4c86-8817-07f23834bf33",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.faa9f703-2ead-4611-a264-7da217daf413",
       "Looke": "https://www.looke.com.br/detalhes/263711",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.faa9f703-2ead-4611-a264-7da217daf413",
       "NetMovies": "https://www.netmovies.com.br/filmes/263711",
@@ -286,6 +305,7 @@
       "Belas Artes à La Carte",
       "Bloodstream",
       "Cindie Amazon Channel",
+      "JustWatch TV Beta",
       "Libreflix",
       "Looke",
       "NetMovies",
@@ -381,10 +401,12 @@
   },
   "105": {
     "providers": [
-      "Telecine Amazon Channel"
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.30a9f73b-becf-e11e-b945-01fc05bd6430"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.30a9f73b-becf-e11e-b945-01fc05bd6430",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.30a9f73b-becf-e11e-b945-01fc05bd6430"
     }
   },
   "10501": {
@@ -461,10 +483,12 @@
   "1059264": {
     "providers": [
       "Globoplay",
+      "Gloob Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
       "Globoplay": "https://globoplay.globo.com/os-inseparaveis/t/1SJK9GKfj8/",
+      "Gloob Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b58b767b-1968-4761-b1a7-9a207a089861",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b58b767b-1968-4761-b1a7-9a207a089861"
     }
   },
@@ -538,12 +562,14 @@
   "10669": {
     "providers": [
       "HBO Max",
+      "HBO Max Amazon Channel",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/83bf9783-0b32-4f5e-9dc6-86b31112c278",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96a9f773-5a0a-0c71-389d-61e3cfb0559b",
       "Looke": "https://www.looke.com.br/detalhes/284701",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96a9f773-5a0a-0c71-389d-61e3cfb0559b",
       "NetMovies": "https://www.netmovies.com.br/filmes/284701"
@@ -610,11 +636,14 @@
   },
   "10728": {
     "providers": [
+      "JustWatch TV Beta",
       "MUBI",
+      "MUBI Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/faust-1926",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6698926e-7ef9-4a9a-ae05-e270a8dc49fc",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6698926e-7ef9-4a9a-ae05-e270a8dc49fc"
     }
   },
@@ -628,11 +657,13 @@
     "providers": [
       "MGM Plus Amazon Channel",
       "MGM+ Apple TV Channel",
-      "MUBI"
+      "MUBI",
+      "MUBI Amazon Channel"
     ],
     "urls": {
       "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ca9f772-6466-ed86-2a26-41aef9955abe",
-      "MUBI": "https://mubi.com/films/network"
+      "MUBI": "https://mubi.com/films/network",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ca9f772-6466-ed86-2a26-41aef9955abe"
     }
   },
   "10784": {
@@ -666,9 +697,11 @@
   },
   "108": {
     "providers": [
+      "Reserva Imovision Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
+      "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0fd9775-aab9-4d69-ba31-625169a9740e",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0fd9775-aab9-4d69-ba31-625169a9740e"
     }
   },
@@ -678,19 +711,15 @@
   "10830": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Sony One Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26a9f6c0-33eb-83d9-3db6-76f877af2408",
-      "HBO Max": "https://play.hbomax.com/show/056732c1-ea64-4574-82d2-7867e35f74d4"
-    }
-  },
-  "1083381": {
-    "providers": [
-      "Disney Plus"
-    ],
-    "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-38c9c24f-f4f0-4b47-a741-2f4611e461e3"
+      "HBO Max": "https://play.hbomax.com/show/056732c1-ea64-4574-82d2-7867e35f74d4",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26a9f6c0-33eb-83d9-3db6-76f877af2408",
+      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26a9f6c0-33eb-83d9-3db6-76f877af2408"
     }
   },
   "10835": {
@@ -724,12 +753,14 @@
   "10843": {
     "providers": [
       "HBO Max",
+      "HBO Max Amazon Channel",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/a151c5f3-8b95-4130-b0ab-fb964fe15880",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8a9f761-b562-16ae-be82-595e36f11642",
       "Looke": "https://www.looke.com.br/detalhes/348199",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8a9f761-b562-16ae-be82-595e36f11642",
       "NetMovies": "https://www.netmovies.com.br/filmes/348199"
@@ -771,15 +802,16 @@
       "Disney Plus"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-bfe9c61c-f7f3-4e39-94bb-376bf2162c28"
     }
   },
   "109": {
     "providers": [
+      "Reserva Imovision Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
+      "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cb27fc4-a130-4d1a-8f08-ddfcc01ce28d",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cb27fc4-a130-4d1a-8f08-ddfcc01ce28d"
     }
   },
@@ -814,7 +846,6 @@
       "Plex"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/127393",
       "NetMovies": "https://www.netmovies.com.br/filmes/127393",
@@ -848,6 +879,9 @@
   "10955": {
     "providers": []
   },
+  "1096228": {
+    "providers": []
+  },
   "10997": {
     "providers": []
   },
@@ -869,9 +903,11 @@
   },
   "110": {
     "providers": [
+      "Reserva Imovision Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
+      "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.684995f0-8c1b-4e56-8c98-9583b36563a1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.684995f0-8c1b-4e56-8c98-9583b36563a1"
     }
   },
@@ -967,10 +1003,12 @@
   },
   "111": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eea9f7a6-e811-aca8-d842-26763afc4336"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eea9f7a6-e811-aca8-d842-26763afc4336",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eea9f7a6-e811-aca8-d842-26763afc4336"
     }
   },
   "11104": {
@@ -1105,6 +1143,9 @@
     "providers": []
   },
   "11257": {
+    "providers": []
+  },
+  "1127282": {
     "providers": []
   },
   "11287": {
@@ -1567,11 +1608,15 @@
   "11836": {
     "providers": [
       "Paramount Plus",
-      "Paramount+ Amazon Channel"
+      "Paramount Plus Premium",
+      "Paramount+ Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/spongebob-squarepants-movie/xIib0RQzhlochSQUGRYGnTQtYjoA6h0N?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a92cef51-c719-448d-85d5-ce1a930745a3"
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/spongebob-squarepants-movie/xIib0RQzhlochSQUGRYGnTQtYjoA6h0N?amp%3Butm_source=publisher",
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a92cef51-c719-448d-85d5-ce1a930745a3",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a92cef51-c719-448d-85d5-ce1a930745a3"
     }
   },
   "11837": {
@@ -1590,10 +1635,7 @@
   "11848": {
     "providers": [
       "Artiflix"
-    ],
-    "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
-    }
+    ]
   },
   "1184918": {
     "providers": [
@@ -1723,11 +1765,13 @@
     "providers": [
       "Amazon Prime Video",
       "HBO Max",
+      "HBO Max Amazon Channel",
       "Netflix"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84a9f6d5-bc3f-73a3-e41f-a82b4ff83e67",
       "HBO Max": "https://play.hbomax.com/show/fb9f961f-6302-4776-91d7-f1b7a69fb61d",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84a9f6d5-bc3f-73a3-e41f-a82b4ff83e67",
       "Netflix": "https://www.netflix.com/title/60004480"
     }
   },
@@ -1766,11 +1810,13 @@
   "121": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2a9f6ce-d700-f70b-88bf-54f0968a48d5",
-      "HBO Max": "https://play.hbomax.com/show/1b73bd19-1229-4e5f-986a-ae38ac0f5476"
+      "HBO Max": "https://play.hbomax.com/show/1b73bd19-1229-4e5f-986a-ae38ac0f5476",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2a9f6ce-d700-f70b-88bf-54f0968a48d5"
     }
   },
   "12101": {
@@ -1779,11 +1825,13 @@
   "12102": {
     "providers": [
       "Apple TV",
+      "Apple TV Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "urls": {
       "Apple TV": "https://tv.apple.com/br/movie/kramer-vs-kramer/umc.cmc.2ejhhxfkbn2hm6skuojrewp68?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv",
+      "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.48a9f721-c290-30c5-e8e8-4be32e37c920",
       "HBO Max": "https://play.hbomax.com/show/48467a8e-0cdb-4831-8209-c7dfb1fe46d0",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.48a9f721-c290-30c5-e8e8-4be32e37c920"
     }
@@ -1864,11 +1912,13 @@
   "122081": {
     "providers": [
       "Amazon Prime Video",
-      "MUBI"
+      "MUBI",
+      "MUBI Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.054fe4f1-7276-4e1a-8262-ee2cdbaf5968",
-      "MUBI": "https://mubi.com/films/spring-breakers"
+      "MUBI": "https://mubi.com/films/spring-breakers",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.054fe4f1-7276-4e1a-8262-ee2cdbaf5968"
     }
   },
   "1221061": {
@@ -1897,10 +1947,12 @@
   },
   "122906": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58a9f6d4-b7ef-9f4b-6af4-c958c37aa228"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58a9f6d4-b7ef-9f4b-6af4-c958c37aa228",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58a9f6d4-b7ef-9f4b-6af4-c958c37aa228"
     }
   },
   "122917": {
@@ -1914,10 +1966,7 @@
   "123": {
     "providers": [
       "Artiflix"
-    ],
-    "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
-    }
+    ]
   },
   "12311": {
     "providers": []
@@ -2003,11 +2052,13 @@
   "12445": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.534a160f-f33c-43c3-81a7-14925fb031bb",
-      "HBO Max": "https://play.hbomax.com/show/1890c8c5-2f40-4140-a363-064428201826"
+      "HBO Max": "https://play.hbomax.com/show/1890c8c5-2f40-4140-a363-064428201826",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.534a160f-f33c-43c3-81a7-14925fb031bb"
     }
   },
   "1245373": {
@@ -2199,10 +2250,12 @@
   "13": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/forrest-gump/ms2eMPRyXDpOLCITPSn8wW_7ZdQ6g9dV?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/forrest-gump/ms2eMPRyXDpOLCITPSn8wW_7ZdQ6g9dV?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a75bbfef-d811-4fcc-9b4c-192e2fc43b28"
     }
   },
@@ -2233,15 +2286,19 @@
     "providers": [
       "Amazon Prime Video",
       "Crunchyroll",
+      "Crunchyroll Amazon Channel",
       "Disney Plus",
       "HBO Max",
+      "HBO Max Amazon Channel",
       "Netflix"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
       "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144FRFR",
+      "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-b8b65a37-0205-4771-bd07-24b5c4406034",
       "HBO Max": "https://play.hbomax.com/show/291804e2-d281-4934-97f5-5d305fd845fc",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
       "Netflix": "https://www.netflix.com/title/82723106"
     }
   },
@@ -2372,12 +2429,16 @@
     "providers": [
       "Netflix",
       "Paramount Plus",
-      "Paramount+ Amazon Channel"
+      "Paramount Plus Premium",
+      "Paramount+ Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Netflix": "https://www.netflix.com/title/70101276",
       "Paramount Plus": "https://www.paramountplus.com/movies/star-trek/sAGyRO0VWcwjb4VEZ9MZSpQ43Dq4x2_U?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4e3c748-4e10-469e-9ca7-495e0a68d105"
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/star-trek/sAGyRO0VWcwjb4VEZ9MZSpQ43Dq4x2_U?amp%3Butm_source=publisher",
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4e3c748-4e10-469e-9ca7-495e0a68d105",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4e3c748-4e10-469e-9ca7-495e0a68d105"
     }
   },
   "135": {
@@ -2412,10 +2473,10 @@
   "13562": {
     "providers": [
       "Artiflix",
+      "JustWatch TV Beta",
       "Plex"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Plex": "https://watch.plex.tv/movie/my-man-godfrey-1936?autoplay=1"
     }
   },
@@ -2508,10 +2569,12 @@
   "1368314": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/passenger/ALVE01KYA1G2C5E02846P4QYJBAM4E?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/passenger/ALVE01KYA1G2C5E02846P4QYJBAM4E?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5c094aef-8c8e-44df-9b8c-c649b2543135"
     }
   },
@@ -2536,30 +2599,38 @@
   },
   "137106": {
     "providers": [
+      "Cartoon Network Amazon Channel",
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
+      "Cartoon Network Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.caa9f66b-20ba-3a20-9a6c-bdd14d07fbf9",
       "HBO Max": "https://play.hbomax.com/show/bb4aad30-222f-4159-a5b9-7cd4e29aa05d",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.caa9f66b-20ba-3a20-9a6c-bdd14d07fbf9"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.caa9f66b-20ba-3a20-9a6c-bdd14d07fbf9",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.caa9f66b-20ba-3a20-9a6c-bdd14d07fbf9"
     }
   },
   "137113": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9cba5c02-910e-368c-0c9b-8505ea0c7b09",
-      "HBO Max": "https://play.hbomax.com/show/8d4640d7-fb4c-4ea8-bdc5-2c63a8b5ffe0"
+      "HBO Max": "https://play.hbomax.com/show/8d4640d7-fb4c-4ea8-bdc5-2c63a8b5ffe0",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9cba5c02-910e-368c-0c9b-8505ea0c7b09"
     }
   },
   "13751": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Lionsgate+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb74a6a-a313-8418-4ec9-7f09a563fbcd"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb74a6a-a313-8418-4ec9-7f09a563fbcd",
+      "Lionsgate+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb74a6a-a313-8418-4ec9-7f09a563fbcd"
     }
   },
   "13754": {
@@ -2604,10 +2675,12 @@
   "1380316": {
     "providers": [
       "Amazon Prime Video",
+      "MGM Plus Amazon Channel",
       "MGM+ Apple TV Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e30b34d-4b95-4c63-af45-1927d7aa38c3"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e30b34d-4b95-4c63-af45-1927d7aa38c3",
+      "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e30b34d-4b95-4c63-af45-1927d7aa38c3"
     }
   },
   "1380417": {
@@ -2728,10 +2801,12 @@
   },
   "140300": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.deb0a816-b022-8b17-40cf-b862b7952e47"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.deb0a816-b022-8b17-40cf-b862b7952e47",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.deb0a816-b022-8b17-40cf-b862b7952e47"
     }
   },
   "14048": {
@@ -2779,10 +2854,12 @@
   "1408208": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/exit-8/ALVE01M5XNAEG2EMMAR2JQPYKJS7MZ?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/exit-8/ALVE01M5XNAEG2EMMAR2JQPYKJS7MZ?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e8201cb-9842-46ac-9323-977d6f7ac262"
     }
   },
@@ -2905,7 +2982,6 @@
       "Belas Artes à La Carte"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
     }
   },
@@ -3138,11 +3214,15 @@
   },
   "147": {
     "providers": [
+      "Arte Amazon Channel",
       "MUBI",
+      "MUBI Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
+      "Arte Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2fbfcf01-c3cc-4443-a277-7c0206819d31",
       "MUBI": "https://mubi.com/films/the-400-blows",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2fbfcf01-c3cc-4443-a277-7c0206819d31",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2fbfcf01-c3cc-4443-a277-7c0206819d31"
     }
   },
@@ -3363,10 +3443,12 @@
   },
   "152603": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Cindie Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70427fe3-c687-4db7-9093-deed904246c1"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70427fe3-c687-4db7-9093-deed904246c1",
+      "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70427fe3-c687-4db7-9093-deed904246c1"
     }
   },
   "152795": {
@@ -3406,11 +3488,13 @@
   "1541": {
     "providers": [
       "Amazon Prime Video",
-      "MUBI"
+      "MUBI",
+      "MUBI Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.caa9f65b-2c08-d6b7-75f7-c2f31d7cd89e",
-      "MUBI": "https://mubi.com/films/thelma-louise"
+      "MUBI": "https://mubi.com/films/thelma-louise",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.caa9f65b-2c08-d6b7-75f7-c2f31d7cd89e"
     }
   },
   "1541560": {
@@ -3427,11 +3511,15 @@
   "155": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4aa9f68b-5e9d-1955-a451-d4d0087ef56c",
-      "HBO Max": "https://play.hbomax.com/show/52217243-a137-45d6-9c6a-0dfab4633034"
+      "HBO Max": "https://play.hbomax.com/show/52217243-a137-45d6-9c6a-0dfab4633034",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4aa9f68b-5e9d-1955-a451-d4d0087ef56c",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4aa9f68b-5e9d-1955-a451-d4d0087ef56c"
     }
   },
   "1554": {
@@ -3467,11 +3555,13 @@
   "157336": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.002e9637-838c-46be-ab16-e3afdcb578fe",
-      "HBO Max": "https://play.hbomax.com/show/aa5b9295-8f9c-44f5-809b-3f2b84badfbf"
+      "HBO Max": "https://play.hbomax.com/show/aa5b9295-8f9c-44f5-809b-3f2b84badfbf",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.002e9637-838c-46be-ab16-e3afdcb578fe"
     }
   },
   "15739": {
@@ -3495,11 +3585,13 @@
     "providers": [
       "MGM Plus Amazon Channel",
       "MGM+ Apple TV Channel",
-      "MUBI"
+      "MUBI",
+      "MUBI Amazon Channel"
     ],
     "urls": {
       "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f470ce06-ae18-4c44-af5e-c0c83923e7dc",
-      "MUBI": "https://mubi.com/films/raging-bull"
+      "MUBI": "https://mubi.com/films/raging-bull",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f470ce06-ae18-4c44-af5e-c0c83923e7dc"
     }
   },
   "15789": {
@@ -3629,11 +3721,11 @@
       "Bloodstream",
       "Cindie Amazon Channel",
       "Cultpix",
+      "JustWatch TV Beta",
       "Plex",
       "Pluto TV"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Bloodstream": "https://bloodstreamtv.com/show-details/carnivalofsouls?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8f5a0c2-7eee-4c25-af61-116a42343383",
       "Cultpix": "https://www.cultpix.com/movie/carnival-of-souls/2350",
@@ -3694,10 +3786,12 @@
   "1628": {
     "providers": [
       "MUBI",
+      "MUBI Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/jules-and-jim",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c946406d-2965-43c3-9e2c-86139b653432",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c946406d-2965-43c3-9e2c-86139b653432"
     }
   },
@@ -3734,7 +3828,6 @@
       "Belas Artes à La Carte"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
     }
   },
@@ -3778,18 +3871,22 @@
   "166428": {
     "providers": [
       "Amazon Prime Video",
-      "Netflix"
+      "Netflix",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.48b47767-e4bd-0366-8f06-636b685510ba",
-      "Netflix": "https://www.netflix.com/title/81021806"
+      "Netflix": "https://www.netflix.com/title/81021806",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.48b47767-e4bd-0366-8f06-636b685510ba"
     }
   },
   "16646": {
     "providers": []
   },
   "16661": {
-    "providers": []
+    "providers": [
+      "JustWatch TV Beta"
+    ]
   },
   "1666787": {
     "providers": [
@@ -3830,12 +3927,18 @@
     "providers": [
       "Amazon Prime Video",
       "HBO Max",
-      "Netflix"
+      "HBO Max Amazon Channel",
+      "Netflix",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8a9f6c2-ee64-57e0-3072-2e69cd5cbb13",
       "HBO Max": "https://play.hbomax.com/show/bbdd8ac3-8311-434b-9a07-7f64753a8492",
-      "Netflix": "https://www.netflix.com/title/80019608"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8a9f6c2-ee64-57e0-3072-2e69cd5cbb13",
+      "Netflix": "https://www.netflix.com/title/80019608",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8a9f6c2-ee64-57e0-3072-2e69cd5cbb13",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8a9f6c2-ee64-57e0-3072-2e69cd5cbb13"
     }
   },
   "16858": {
@@ -3861,19 +3964,25 @@
   "16866": {
     "providers": [
       "Amazon Prime Video",
-      "Globoplay"
+      "Globoplay",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88a9f75e-1862-2c6f-b2cd-232c18175750",
-      "Globoplay": "https://globoplay.globo.com/planeta-51/t/cvQGfmqr6h/"
+      "Globoplay": "https://globoplay.globo.com/planeta-51/t/cvQGfmqr6h/",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88a9f75e-1862-2c6f-b2cd-232c18175750"
     }
   },
   "16869": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.443db758-06aa-47ac-ac2d-ef6dfd2fd8d8"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.443db758-06aa-47ac-ac2d-ef6dfd2fd8d8",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.443db758-06aa-47ac-ac2d-ef6dfd2fd8d8",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.443db758-06aa-47ac-ac2d-ef6dfd2fd8d8"
     }
   },
   "16905": {
@@ -4066,6 +4175,7 @@
       "Disney Plus",
       "Netflix",
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel",
       "Universal+ Amazon Channel"
     ],
@@ -4073,6 +4183,7 @@
       "Disney Plus": "https://www.disneyplus.com/browse/entity-ecd3ec82-2c70-462e-ba69-8c1988930196",
       "Netflix": "https://www.netflix.com/title/80038359",
       "Paramount Plus": "https://www.paramountplus.com/movies/mission-impossible-rogue-nation/jYFW8I7w9TZBzFEl4aZgHhwlxSavc4tm?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/mission-impossible-rogue-nation/jYFW8I7w9TZBzFEl4aZgHhwlxSavc4tm?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84a9f7a2-5963-6195-7ea9-c7af4721886b",
       "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2fc6111-fae4-42be-bdaf-c58f19cc710b"
     }
@@ -4083,11 +4194,13 @@
   "178032": {
     "providers": [
       "MUBI",
+      "MUBI Amazon Channel",
       "Netflix",
       "Reserva Imovision Amazon Channel"
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/lucio-flavio",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83606730-ee2a-4952-a391-2790680fb3a9",
       "Netflix": "https://www.netflix.com/title/70253664",
       "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83606730-ee2a-4952-a391-2790680fb3a9"
     }
@@ -4128,7 +4241,8 @@
   },
   "18030": {
     "providers": [
-      "Belas Artes à La Carte"
+      "Belas Artes à La Carte",
+      "JustWatch TV Beta"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
@@ -4189,7 +4303,6 @@
       "Belas Artes à La Carte"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
     }
   },
@@ -4229,12 +4342,14 @@
     "providers": [
       "Belas Artes à La Carte",
       "HBO Max",
+      "HBO Max Amazon Channel",
       "Looke",
       "Looke Amazon Channel"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "HBO Max": "https://play.hbomax.com/show/fec73d58-750e-4d9d-aeb0-90e1c2894a95",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8ea9f724-6f2e-8365-8ac7-25c033491b26",
       "Looke": "https://www.looke.com.br/detalhes/243064",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8ea9f724-6f2e-8365-8ac7-25c033491b26"
     }
@@ -4258,21 +4373,25 @@
   "18785": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/2a8a879a-f0eb-4df4-9206-d1d641589486",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aa9f78c-174c-4802-e41f-435d7b50645b"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aa9f78c-174c-4802-e41f-435d7b50645b",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aa9f78c-174c-4802-e41f-435d7b50645b"
     }
   },
   "1885": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Sony One Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/056dfe5a-8245-490b-a76f-a9081c3a76bc",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26f71da8-ed1f-4713-9586-e10f7c6d92cc"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26f71da8-ed1f-4713-9586-e10f7c6d92cc",
+      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26f71da8-ed1f-4713-9586-e10f7c6d92cc"
     }
   },
   "1890": {
@@ -4315,19 +4434,22 @@
       "Looke",
       "Looke Amazon Channel",
       "MUBI",
+      "MUBI Amazon Channel",
       "NetMovies",
-      "Pluto TV"
+      "Pluto TV",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Arte Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.835b9e0f-7d37-4734-bd73-7136c9213024",
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Libreflix": "https://libreflix.org/i/metropolis",
       "Looke": "https://www.looke.com.br/detalhes/357959",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1542531d-ca90-4db4-9e1b-086770f1e0cb",
       "MUBI": "https://mubi.com/films/metropolis",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1542531d-ca90-4db4-9e1b-086770f1e0cb",
       "NetMovies": "https://www.netmovies.com.br/filmes/357959",
-      "Pluto TV": "https://pluto.tv/on-demand/movies/metropolis-br-1926-1-1"
+      "Pluto TV": "https://pluto.tv/on-demand/movies/metropolis-br-1926-1-1",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1542531d-ca90-4db4-9e1b-086770f1e0cb"
     }
   },
   "1902": {
@@ -4420,7 +4542,6 @@
   },
   "194785": {
     "providers": [
-      "MUBI",
       "MUBI Amazon Channel"
     ]
   },
@@ -4434,22 +4555,26 @@
     "providers": [
       "Amazon Prime Video",
       "Globoplay",
-      "Looke"
+      "Looke",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0cb9af4c-cd4a-86c9-212c-432a76fce4fc",
       "Globoplay": "https://globoplay.globo.com/inocencia/t/fqND9hRc5M/",
-      "Looke": "https://www.looke.com.br/detalhes/57538"
+      "Looke": "https://www.looke.com.br/detalhes/57538",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0cb9af4c-cd4a-86c9-212c-432a76fce4fc"
     }
   },
   "1949": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/367c046e-ef22-4b02-9f30-ee1ee72b84d8",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e02604ae-df69-4d30-bd35-0c080df2b080"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e02604ae-df69-4d30-bd35-0c080df2b080",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e02604ae-df69-4d30-bd35-0c080df2b080"
     }
   },
   "19542": {
@@ -4542,7 +4667,6 @@
       "Plex"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Oldflix": "https://www.oldflix.com.br/title/play/5a16e23ea9d3610c74720fc3",
       "Plex": "https://watch.plex.tv/movie/deep-red-1975?autoplay=1"
     }
@@ -4570,11 +4694,13 @@
   "203158": {
     "providers": [
       "Amazon Prime Video",
-      "Looke"
+      "Looke",
+      "Looke Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0bb061d-e35c-26b2-5a53-b18976cf3b05",
-      "Looke": "https://www.looke.com.br/detalhes/175710"
+      "Looke": "https://www.looke.com.br/detalhes/175710",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0bb061d-e35c-26b2-5a53-b18976cf3b05"
     }
   },
   "20325": {
@@ -4586,23 +4712,27 @@
   "20352": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/6a368918-b971-4553-9c1e-4f64daf45fbf",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aaa9f745-36a7-14a5-440f-3cfc1ee8aa30"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aaa9f745-36a7-14a5-440f-3cfc1ee8aa30",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aaa9f745-36a7-14a5-440f-3cfc1ee8aa30",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aaa9f745-36a7-14a5-440f-3cfc1ee8aa30"
     }
   },
   "20367": {
     "providers": [
       "Artiflix",
       "Belas Artes à La Carte",
+      "JustWatch TV Beta",
       "Looke",
       "NetMovies",
       "Pluto TV"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/126311",
       "NetMovies": "https://www.netmovies.com.br/filmes/126311",
@@ -4613,11 +4743,13 @@
     "providers": [
       "Amazon Prime Video",
       "Looke",
+      "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e3e44d56-d382-482d-a574-2917f64ae272",
       "Looke": "https://www.looke.com.br/detalhes/341666",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e3e44d56-d382-482d-a574-2917f64ae272",
       "NetMovies": "https://www.netmovies.com.br/filmes/341666"
     }
   },
@@ -4706,9 +4838,6 @@
       "Oldflix": "https://www.oldflix.com.br/title/play/58ed115bd5a0d11a8489fa81"
     }
   },
-  "209274": {
-    "providers": []
-  },
   "2103": {
     "providers": []
   },
@@ -4747,19 +4876,23 @@
   },
   "211672": {
     "providers": [
-      "Telecine Amazon Channel"
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.94f98717-d3de-47c2-980c-ea7af8b9fc4f"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.94f98717-d3de-47c2-980c-ea7af8b9fc4f",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.94f98717-d3de-47c2-980c-ea7af8b9fc4f"
     }
   },
   "2118": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/la-confidential/ALVE01KXHD0PTEETHT883KFYVK75MC?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/la-confidential/ALVE01KXHD0PTEETHT883KFYVK75MC?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80a9f767-ab86-a7c9-373b-0032fe01bf70"
     }
   },
@@ -4924,6 +5057,7 @@
   "223": {
     "providers": [
       "Filmzie",
+      "JustWatch TV Beta",
       "Looke",
       "NetMovies",
       "Oldflix"
@@ -4981,6 +5115,7 @@
   },
   "22596": {
     "providers": [
+      "JustWatch TV Beta",
       "Telecine Amazon Channel"
     ],
     "urls": {
@@ -5024,6 +5159,7 @@
     "providers": [
       "Artiflix",
       "Belas Artes à La Carte",
+      "Cindie Amazon Channel",
       "Looke",
       "NetMovies",
       "Oldflix",
@@ -5031,8 +5167,8 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
+      "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9bd2f849-3459-4f87-8491-ec1dc29062fe",
       "Looke": "https://www.looke.com.br/detalhes/126306",
       "NetMovies": "https://www.netmovies.com.br/filmes/126306",
       "Oldflix": "https://www.oldflix.com.br/title/play/609e8cc4d06a989d53619db4",
@@ -5043,11 +5179,13 @@
   "227493": {
     "providers": [
       "Amazon Prime Video",
-      "Netflix"
+      "Netflix",
+      "Reserva Imovision Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08dde24b-5451-4f0c-82c9-fa654cd09518",
-      "Netflix": "https://www.netflix.com/title/81295580"
+      "Netflix": "https://www.netflix.com/title/81295580",
+      "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08dde24b-5451-4f0c-82c9-fa654cd09518"
     }
   },
   "22794": {
@@ -5074,7 +5212,6 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Oldflix": "https://www.oldflix.com.br/title/play/5ffb5f6f67140cb1e4dd5508",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.87e2d225-56d3-4369-b985-8a18baabe630"
@@ -5114,14 +5251,18 @@
   },
   "2300": {
     "providers": [
+      "Cartoon Network Amazon Channel",
       "Globoplay",
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Telecine Amazon Channel"
     ],
     "urls": {
+      "Cartoon Network Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cb528b8-88c5-21b1-63fc-44cc29dc1c8a",
       "Globoplay": "https://globoplay.globo.com/space-jam-o-jogo-do-seculo/t/ZJtsP7d5SM/",
       "HBO Max": "https://play.hbomax.com/show/911ef770-d719-451b-8ad5-95a15712df90",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cb528b8-88c5-21b1-63fc-44cc29dc1c8a"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cb528b8-88c5-21b1-63fc-44cc29dc1c8a",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cb528b8-88c5-21b1-63fc-44cc29dc1c8a"
     }
   },
   "2323": {
@@ -5152,7 +5293,6 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Bloodstream": "https://bloodstreamtv.com/show-details/thecabinetofdrcaligari?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Looke": "https://www.looke.com.br/detalhes/7680",
@@ -5177,24 +5317,28 @@
   "23620": {
     "providers": [
       "Artiflix",
+      "JustWatch TV Beta",
       "Plex",
       "Reserva Imovision"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Plex": "https://watch.plex.tv/movie/salt-of-the-earth-1954?autoplay=1",
       "Reserva Imovision": "https://reservaimovision.com.br/programs/o-sal-da-terra"
     }
   },
   "238": {
     "providers": [
+      "Arte Amazon Channel",
       "Oldflix",
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
+      "Arte Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.468f8466-d958-4e43-82bd-4375149d48a8",
       "Oldflix": "https://www.oldflix.com.br/title/play/58f67c6f7b472126a880ae03",
       "Paramount Plus": "https://www.paramountplus.com/movies/godfather/gUufhVPlJy5i5HLTbS8li1LruEeMH_3x?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/godfather/gUufhVPlJy5i5HLTbS8li1LruEeMH_3x?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.468f8466-d958-4e43-82bd-4375149d48a8"
     }
   },
@@ -5202,11 +5346,13 @@
     "providers": [
       "Amazon Prime Video",
       "Looke",
+      "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3fd858d4-8c1d-4496-9925-0bf5ec1e4788",
       "Looke": "https://www.looke.com.br/detalhes/254947",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3fd858d4-8c1d-4496-9925-0bf5ec1e4788",
       "NetMovies": "https://www.netmovies.com.br/filmes/254947"
     }
   },
@@ -5216,11 +5362,13 @@
   "239": {
     "providers": [
       "Amazon Prime Video",
-      "MUBI"
+      "MUBI",
+      "MUBI Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e02be4f0-2fb0-440e-963d-9435063e86c1",
-      "MUBI": "https://mubi.com/films/some-like-it-hot"
+      "MUBI": "https://mubi.com/films/some-like-it-hot",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e02be4f0-2fb0-440e-963d-9435063e86c1"
     }
   },
   "23954": {
@@ -5242,10 +5390,12 @@
   "240": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/godfather-part-ii/FG3ZeSyi6NHEwpuwxqWgrdIGqGemzxNI?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/godfather-part-ii/FG3ZeSyi6NHEwpuwxqWgrdIGqGemzxNI?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4a9f6db-167c-7b3a-b6cc-870ac83848d3"
     }
   },
@@ -5349,9 +5499,11 @@
   },
   "2493": {
     "providers": [
+      "Lionsgate+ Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
+      "Lionsgate+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bd3a74d0-eb8a-4a12-aca9-e0b2bc77a9f1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bd3a74d0-eb8a-4a12-aca9-e0b2bc77a9f1"
     }
   },
@@ -5367,19 +5519,18 @@
   },
   "2501": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8a9f682-6eee-ebba-2ed8-6f520068c709"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8a9f682-6eee-ebba-2ed8-6f520068c709",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8a9f682-6eee-ebba-2ed8-6f520068c709"
     }
   },
   "25037": {
     "providers": [
       "Artiflix"
-    ],
-    "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
-    }
+    ]
   },
   "250480": {
     "providers": [
@@ -5551,19 +5702,19 @@
   },
   "25768": {
     "providers": [
-      "Artiflix"
-    ],
-    "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
-    }
+      "Artiflix",
+      "JustWatch TV Beta"
+    ]
   },
   "258480": {
     "providers": [
       "Amazon Prime Video",
+      "Cindie Amazon Channel",
       "Runtime"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90aa67d0-d827-951e-2cba-4c1f72ea07e2",
+      "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90aa67d0-d827-951e-2cba-4c1f72ea07e2",
       "Runtime": "https://runtime.tv/node/26674"
     }
   },
@@ -5573,11 +5724,15 @@
   "259316": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "Cartoon Network Amazon Channel",
+      "HBO Max",
+      "HBO Max Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d97677f3-dc40-4984-a7fc-75100d4b36a0",
-      "HBO Max": "https://play.hbomax.com/show/d627b35d-31a0-4e62-af14-6ec2fd8fdaef"
+      "Cartoon Network Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d97677f3-dc40-4984-a7fc-75100d4b36a0",
+      "HBO Max": "https://play.hbomax.com/show/d627b35d-31a0-4e62-af14-6ec2fd8fdaef",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d97677f3-dc40-4984-a7fc-75100d4b36a0"
     }
   },
   "25955": {
@@ -5592,12 +5747,12 @@
     "providers": [
       "Artiflix",
       "Belas Artes à La Carte",
+      "JustWatch TV Beta",
       "Looke",
       "Plex",
       "Pluto TV"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/126874",
       "Plex": "https://watch.plex.tv/movie/the-39-steps-1935?autoplay=1",
@@ -5677,6 +5832,7 @@
   "26317": {
     "providers": [
       "Belas Artes à La Carte",
+      "JustWatch TV Beta",
       "Telecine Amazon Channel"
     ],
     "urls": {
@@ -5761,6 +5917,7 @@
     "providers": [
       "Amazon Prime Video",
       "Bloodstream",
+      "Booh Amazon Channel",
       "Looke",
       "NetMovies",
       "Runtime"
@@ -5768,6 +5925,7 @@
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13157434-a624-4026-9d7c-a2f3cc57e937",
       "Bloodstream": "https://bloodstreamtv.com/show-details/ring?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
+      "Booh Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13157434-a624-4026-9d7c-a2f3cc57e937",
       "Looke": "https://www.looke.com.br/detalhes/354126",
       "NetMovies": "https://www.netmovies.com.br/filmes/354126",
       "Runtime": "https://runtime.tv/node/1507"
@@ -5801,10 +5959,12 @@
   },
   "268531": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8b0a846-c139-8fea-c1c1-975422cd12ac"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8b0a846-c139-8fea-c1c1-975422cd12ac",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8b0a846-c139-8fea-c1c1-975422cd12ac"
     }
   },
   "269": {
@@ -5917,10 +6077,12 @@
   "274": {
     "providers": [
       "MGM Plus Amazon Channel",
-      "MGM+ Apple TV Channel"
+      "MGM+ Apple TV Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.980c9d35-6004-49ea-a47a-819fe3a9a1b4"
+      "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.980c9d35-6004-49ea-a47a-819fe3a9a1b4",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.980c9d35-6004-49ea-a47a-819fe3a9a1b4"
     }
   },
   "27443": {
@@ -5951,6 +6113,7 @@
   "27503": {
     "providers": [
       "Bloodstream",
+      "JustWatch TV Beta",
       "Plex"
     ],
     "urls": {
@@ -5959,7 +6122,9 @@
     }
   },
   "27517": {
-    "providers": []
+    "providers": [
+      "JustWatch TV Beta"
+    ]
   },
   "2756": {
     "providers": [
@@ -5985,11 +6150,13 @@
     "providers": [
       "MGM Plus Amazon Channel",
       "MGM+ Apple TV Channel",
-      "MUBI"
+      "MUBI",
+      "MUBI Amazon Channel"
     ],
     "urls": {
       "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44a9f760-e9e5-b942-688d-3670f38c3113",
-      "MUBI": "https://mubi.com/films/the-adventures-of-priscilla-queen-of-the-desert"
+      "MUBI": "https://mubi.com/films/the-adventures-of-priscilla-queen-of-the-desert",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44a9f760-e9e5-b942-688d-3670f38c3113"
     }
   },
   "27632": {
@@ -6094,7 +6261,6 @@
       "Oldflix"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Oldflix": "https://www.oldflix.com.br/title/play/58ef8ddcd5a0d11a848f8c55"
     }
   },
@@ -6104,7 +6270,6 @@
       "Plex"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Plex": "https://watch.plex.tv/movie/kill-baby-kill-1966?autoplay=1"
     }
   },
@@ -6114,12 +6279,13 @@
       "Belas Artes à La Carte"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
     }
   },
   "28189": {
-    "providers": []
+    "providers": [
+      "JustWatch TV Beta"
+    ]
   },
   "283161": {
     "providers": []
@@ -6142,11 +6308,13 @@
     "providers": [
       "MGM Plus Amazon Channel",
       "MGM+ Apple TV Channel",
-      "MUBI"
+      "MUBI",
+      "MUBI Amazon Channel"
     ],
     "urls": {
       "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cb7d6bb5-084a-4190-a392-a9b38e521eb3",
-      "MUBI": "https://mubi.com/films/the-apartment"
+      "MUBI": "https://mubi.com/films/the-apartment",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cb7d6bb5-084a-4190-a392-a9b38e521eb3"
     }
   },
   "284052": {
@@ -6216,12 +6384,14 @@
     "providers": [
       "Looke",
       "Looke Amazon Channel",
+      "MGM Plus Amazon Channel",
       "MGM+ Apple TV Channel",
       "NetMovies"
     ],
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/349976",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.de6470d9-6faa-49b5-9f57-a35694d851c6",
+      "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.de6470d9-6faa-49b5-9f57-a35694d851c6",
       "NetMovies": "https://www.netmovies.com.br/filmes/349976"
     }
   },
@@ -6261,6 +6431,7 @@
   },
   "28963": {
     "providers": [
+      "JustWatch TV Beta",
       "Plex"
     ],
     "urls": {
@@ -6269,6 +6440,7 @@
   },
   "28978": {
     "providers": [
+      "JustWatch TV Beta",
       "Pluto TV",
       "Telecine Amazon Channel"
     ],
@@ -6352,18 +6524,22 @@
   },
   "295693": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.06b0a9c9-a247-4a3e-82ed-e3263ade9162"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.06b0a9c9-a247-4a3e-82ed-e3263ade9162",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.06b0a9c9-a247-4a3e-82ed-e3263ade9162"
     }
   },
   "297": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6a9f7a4-47ee-3022-8e15-df36398a917c"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6a9f7a4-47ee-3022-8e15-df36398a917c",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6a9f7a4-47ee-3022-8e15-df36398a917c"
     }
   },
   "297762": {
@@ -6481,6 +6657,7 @@
   "3059": {
     "providers": [
       "Belas Artes à La Carte",
+      "JustWatch TV Beta",
       "Plex"
     ],
     "urls": {
@@ -6490,6 +6667,7 @@
   },
   "3060": {
     "providers": [
+      "JustWatch TV Beta",
       "Plex"
     ],
     "urls": {
@@ -6513,7 +6691,6 @@
       "Belas Artes à La Carte"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
     }
   },
@@ -6552,6 +6729,7 @@
   },
   "3082": {
     "providers": [
+      "Arte Amazon Channel",
       "Libreflix",
       "Looke",
       "NetMovies",
@@ -6559,6 +6737,7 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
+      "Arte Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b3bf46f8-3470-4e0a-89cb-919389eb43ae",
       "Libreflix": "https://libreflix.org/i/tempos-modernos",
       "Looke": "https://www.looke.com.br/detalhes/43179",
       "NetMovies": "https://www.netmovies.com.br/filmes/43179",
@@ -6584,14 +6763,15 @@
       "Looke",
       "Oldflix",
       "Pluto TV",
+      "Sony One Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/126458",
       "Oldflix": "https://www.oldflix.com.br/title/play/5f8e0446748d1705a8ab2a28",
       "Pluto TV": "https://pluto.tv/on-demand/movies/jejum-de-amor-br-1939-1-1",
+      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ef9f57d6-3cee-4edf-a648-1c0f1b760a69",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ef9f57d6-3cee-4edf-a648-1c0f1b760a69"
     }
   },
@@ -6624,6 +6804,7 @@
     "providers": [
       "Looke",
       "Looke Amazon Channel",
+      "MGM Plus Amazon Channel",
       "MGM+ Apple TV Channel",
       "NetMovies",
       "Oldflix",
@@ -6632,6 +6813,7 @@
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/212447",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cdee00e-9262-48d1-864e-2c4e4146c5d6",
+      "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cdee00e-9262-48d1-864e-2c4e4146c5d6",
       "NetMovies": "https://www.netmovies.com.br/filmes/212447",
       "Oldflix": "https://www.oldflix.com.br/title/play/58ee79a8d5a0d11a848dda57",
       "Pluto TV": "https://pluto.tv/on-demand/movies/red-river-br-1948-1-1"
@@ -6666,12 +6848,14 @@
     "providers": [
       "Amazon Prime Video",
       "Globoplay",
-      "Netflix"
+      "Netflix",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.babbb5aa-4e40-c5b9-bbc9-c1cf320b696b",
       "Globoplay": "https://globoplay.globo.com/o-pequeno-principe-o-filme/t/gtktqxS9h1/",
-      "Netflix": "https://www.netflix.com/title/80057578"
+      "Netflix": "https://www.netflix.com/title/80057578",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.babbb5aa-4e40-c5b9-bbc9-c1cf320b696b"
     }
   },
   "310131": {
@@ -6738,12 +6922,14 @@
     "providers": [
       "Looke",
       "Looke Amazon Channel",
-      "NetMovies"
+      "NetMovies",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/276247",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6a9f719-0977-ed0c-24d4-dcd88f375dea",
-      "NetMovies": "https://www.netmovies.com.br/filmes/276247"
+      "NetMovies": "https://www.netmovies.com.br/filmes/276247",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6a9f719-0977-ed0c-24d4-dcd88f375dea"
     }
   },
   "3116": {
@@ -6767,7 +6953,6 @@
       "Looke"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Looke": "https://www.looke.com.br/detalhes/7907"
     }
   },
@@ -6784,14 +6969,18 @@
   },
   "313369": {
     "providers": [
-      "Filmelier Plus Amazon Channel"
+      "Filmelier Plus Amazon Channel",
+      "Lionsgate+ Amazon Channel"
     ],
     "urls": {
-      "Filmelier Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2b315ef-feed-47dd-9fd2-41e50afbb891"
+      "Filmelier Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2b315ef-feed-47dd-9fd2-41e50afbb891",
+      "Lionsgate+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2b315ef-feed-47dd-9fd2-41e50afbb891"
     }
   },
   "31416": {
-    "providers": []
+    "providers": [
+      "JustWatch TV Beta"
+    ]
   },
   "31417": {
     "providers": []
@@ -6890,10 +7079,7 @@
   "31579": {
     "providers": [
       "Artiflix"
-    ],
-    "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
-    }
+    ]
   },
   "31592": {
     "providers": [
@@ -6901,7 +7087,6 @@
       "Bloodstream"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Bloodstream": "https://bloodstreamtv.com/show-details/the-old-dark-house?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89"
     }
   },
@@ -6946,29 +7131,39 @@
     "providers": []
   },
   "32318": {
-    "providers": []
+    "providers": [
+      "JustWatch TV Beta"
+    ]
   },
   "323661": {
     "providers": []
   },
   "324849": {
     "providers": [
+      "Cartoon Network Amazon Channel",
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
+      "Cartoon Network Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c52cbba3-fd10-4ed8-b565-9f683be19774",
       "HBO Max": "https://play.hbomax.com/show/1042ce03-1313-4af5-9cea-329e9e0bf579",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c52cbba3-fd10-4ed8-b565-9f683be19774"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c52cbba3-fd10-4ed8-b565-9f683be19774",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c52cbba3-fd10-4ed8-b565-9f683be19774"
     }
   },
   "324852": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/1b358388-1855-474f-b617-f3c97c81bd59",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6cae510c-ed49-0b25-acd2-b75a32d3ba9f"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6cae510c-ed49-0b25-acd2-b75a32d3ba9f",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6cae510c-ed49-0b25-acd2-b75a32d3ba9f",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6cae510c-ed49-0b25-acd2-b75a32d3ba9f"
     }
   },
   "324857": {
@@ -6993,6 +7188,7 @@
   },
   "32600": {
     "providers": [
+      "JustWatch TV Beta",
       "Telecine Amazon Channel"
     ],
     "urls": {
@@ -7008,11 +7204,15 @@
   "329": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ea9f6d9-bdc8-9b2e-97a9-c341306e36ef",
-      "HBO Max": "https://play.hbomax.com/show/f24a4ece-2f3d-4919-a934-700d1ef8f7a2"
+      "HBO Max": "https://play.hbomax.com/show/f24a4ece-2f3d-4919-a934-700d1ef8f7a2",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ea9f6d9-bdc8-9b2e-97a9-c341306e36ef",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ea9f6d9-bdc8-9b2e-97a9-c341306e36ef"
     }
   },
   "32961": {
@@ -7034,11 +7234,13 @@
   "329865": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/624309d7-db32-44c1-a677-7ec79e64c1c9",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4674a1b7-e1f6-4b18-a463-88f41059d107"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4674a1b7-e1f6-4b18-a463-88f41059d107",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4674a1b7-e1f6-4b18-a463-88f41059d107"
     }
   },
   "33": {
@@ -7076,14 +7278,20 @@
     "providers": [
       "Amazon Prime Video",
       "Apple TV",
+      "Apple TV Amazon Channel",
       "Globoplay",
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.78b680ff-76d5-f11d-300c-65263d116eaa",
       "Apple TV": "https://tv.apple.com/br/movie/jogador-n%C2%BA-1/umc.cmc.295lpojxtonf6dqc4za2i97lr?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv",
+      "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.78b680ff-76d5-f11d-300c-65263d116eaa",
       "Globoplay": "https://globoplay.globo.com/jogador-n-1/t/9jpqPsskw9/",
-      "HBO Max": "https://play.hbomax.com/show/09d36d79-eff3-4c2d-9300-bbd8ab11eaa5"
+      "HBO Max": "https://play.hbomax.com/show/09d36d79-eff3-4c2d-9300-bbd8ab11eaa5",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.78b680ff-76d5-f11d-300c-65263d116eaa",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.78b680ff-76d5-f11d-300c-65263d116eaa"
     }
   },
   "334": {
@@ -7111,11 +7319,15 @@
   "335797": {
     "providers": [
       "Amazon Prime Video",
-      "Netflix"
+      "Netflix",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02ac577a-2d2f-5258-32c6-77748549e3c3",
-      "Netflix": "https://www.netflix.com/title/80117526"
+      "Netflix": "https://www.netflix.com/title/80117526",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02ac577a-2d2f-5258-32c6-77748549e3c3",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02ac577a-2d2f-5258-32c6-77748549e3c3"
     }
   },
   "335984": {
@@ -7150,17 +7362,21 @@
     "providers": [
       "Amazon Prime Video",
       "Looke",
+      "Looke Amazon Channel",
       "NetMovies",
       "Pluto TV",
       "Reserva Imovision",
+      "Reserva Imovision Amazon Channel",
       "Runtime"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8628d5d0-d87c-4f5e-9058-9849c5580e20",
       "Looke": "https://www.looke.com.br/detalhes/56020",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8628d5d0-d87c-4f5e-9058-9849c5580e20",
       "NetMovies": "https://www.netmovies.com.br/filmes/56020",
       "Pluto TV": "https://pluto.tv/on-demand/movies/com-amor-van-gogh-2016-1-1",
       "Reserva Imovision": "https://reservaimovision.com.br/programs/com-amor-van-gogh",
+      "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8628d5d0-d87c-4f5e-9058-9849c5580e20",
       "Runtime": "https://runtime.tv/node/24098"
     }
   },
@@ -7240,11 +7456,9 @@
   },
   "35227": {
     "providers": [
-      "Artiflix"
-    ],
-    "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
-    }
+      "Artiflix",
+      "JustWatch TV Beta"
+    ]
   },
   "3529": {
     "providers": []
@@ -7254,17 +7468,23 @@
       "Disney Plus",
       "Netflix",
       "Paramount Plus",
-      "Paramount+ Amazon Channel"
+      "Paramount Plus Premium",
+      "Paramount+ Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Disney Plus": "https://www.disneyplus.com/browse/entity-ce251951-1503-4eee-8149-621c66e2b8c8",
       "Netflix": "https://www.netflix.com/title/80236314",
       "Paramount Plus": "https://www.paramountplus.com/movies/mission-impossible-fallout/4_fidVBLydX2A6XccwhB4_zk0JACgvQi?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b41cd88f-2b57-42a0-97b1-b125a497aad4"
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/mission-impossible-fallout/4_fidVBLydX2A6XccwhB4_zk0JACgvQi?amp%3Butm_source=publisher",
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b41cd88f-2b57-42a0-97b1-b125a497aad4",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b41cd88f-2b57-42a0-97b1-b125a497aad4"
     }
   },
   "35454": {
-    "providers": []
+    "providers": [
+      "JustWatch TV Beta"
+    ]
   },
   "354912": {
     "providers": [
@@ -7280,10 +7500,7 @@
   "3596": {
     "providers": [
       "Artiflix"
-    ],
-    "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
-    }
+    ]
   },
   "359724": {
     "providers": [
@@ -7320,11 +7537,15 @@
   "361743": {
     "providers": [
       "Paramount Plus",
-      "Paramount+ Amazon Channel"
+      "Paramount Plus Premium",
+      "Paramount+ Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/top-gun-maverick/jOoM3HucCACLyhwV_WxUGuUzZFVeZIqZ?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.874d1f8d-4abf-4c1a-af2b-ae6680aee4b0"
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/top-gun-maverick/jOoM3HucCACLyhwV_WxUGuUzZFVeZIqZ?amp%3Butm_source=publisher",
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.874d1f8d-4abf-4c1a-af2b-ae6680aee4b0",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.874d1f8d-4abf-4c1a-af2b-ae6680aee4b0"
     }
   },
   "364689": {
@@ -7337,10 +7558,12 @@
   },
   "36557": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.67d67132-66a8-46fb-9b4d-3ebe25602945"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.67d67132-66a8-46fb-9b4d-3ebe25602945",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.67d67132-66a8-46fb-9b4d-3ebe25602945"
     }
   },
   "366656": {
@@ -7356,10 +7579,12 @@
   },
   "370172": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bfe2fd05-01b0-4209-b2ff-2b1db2e96e14"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bfe2fd05-01b0-4209-b2ff-2b1db2e96e14",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bfe2fd05-01b0-4209-b2ff-2b1db2e96e14"
     }
   },
   "37135": {
@@ -7373,10 +7598,12 @@
   "37136": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/naked-gun-from-the-files-of-police-squad/HlBTXi9y8QolNcYiyz2kNEt50BZhg_tv?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/naked-gun-from-the-files-of-police-squad/HlBTXi9y8QolNcYiyz2kNEt50BZhg_tv?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.783c9406-5144-4e9f-8bd5-cc93a3924b77"
     }
   },
@@ -7404,12 +7631,14 @@
     "providers": [
       "Looke",
       "Looke Amazon Channel",
+      "MGM Plus Amazon Channel",
       "MGM+ Apple TV Channel",
       "NetMovies"
     ],
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/359901",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ca9f65c-05b6-7662-cb13-c666563f6a14",
+      "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ca9f65c-05b6-7662-cb13-c666563f6a14",
       "NetMovies": "https://www.netmovies.com.br/filmes/359901"
     }
   },
@@ -7473,22 +7702,26 @@
   },
   "376867": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Diamond Films Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f6b89ff6-0643-1db7-5558-f23b53f5a7a4"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f6b89ff6-0643-1db7-5558-f23b53f5a7a4",
+      "Diamond Films Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f6b89ff6-0643-1db7-5558-f23b53f5a7a4"
     }
   },
   "377": {
     "providers": [
       "HBO Max",
       "HBO Max Amazon Channel",
-      "Oldflix"
+      "Oldflix",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/2d0cd140-c9cc-4c3b-8010-f930ef077379",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1826fd01-cb5c-48b6-b913-f2c8a69eb247",
-      "Oldflix": "https://www.oldflix.com.br/title/play/62715c2f865a58134792e32d"
+      "Oldflix": "https://www.oldflix.com.br/title/play/62715c2f865a58134792e32d",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1826fd01-cb5c-48b6-b913-f2c8a69eb247"
     }
   },
   "37719": {
@@ -7607,19 +7840,22 @@
   },
   "38055": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "HBO Max Amazon Channel",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6b0a844-77ee-4d10-c817-aef0ac8c5d6e"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6b0a844-77ee-4d10-c817-aef0ac8c5d6e",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6b0a844-77ee-4d10-c817-aef0ac8c5d6e",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6b0a844-77ee-4d10-c817-aef0ac8c5d6e",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6b0a844-77ee-4d10-c817-aef0ac8c5d6e"
     }
   },
   "38360": {
     "providers": [
       "Artiflix"
-    ],
-    "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
-    }
+    ]
   },
   "38368": {
     "providers": [
@@ -7701,12 +7937,14 @@
     "providers": [
       "HBO Max",
       "HBO Max Amazon Channel",
-      "Netflix"
+      "Netflix",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/d28771bd-73ed-49a7-9259-bdb33a115cbc",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3ca9f769-6fa0-a249-576d-127a5f1e5be7",
-      "Netflix": "https://www.netflix.com/title/70032593"
+      "Netflix": "https://www.netflix.com/title/70032593",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3ca9f769-6fa0-a249-576d-127a5f1e5be7"
     }
   },
   "393559": {
@@ -7908,10 +8146,12 @@
   },
   "419430": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.34ad9d89-2a6b-11a1-c5c3-27569d5ee969"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.34ad9d89-2a6b-11a1-c5c3-27569d5ee969",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.34ad9d89-2a6b-11a1-c5c3-27569d5ee969"
     }
   },
   "42006": {
@@ -7970,12 +8210,14 @@
   "42148": {
     "providers": [
       "MUBI",
+      "MUBI Amazon Channel",
       "Netflix",
       "Reserva Imovision",
       "Reserva Imovision Amazon Channel"
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/pixote-the-law-of-the-weakest",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf37e215-1815-4da1-a951-89c37a6c9049",
       "Netflix": "https://www.netflix.com/title/60020751",
       "Reserva Imovision": "https://reservaimovision.com.br/programs/pixote-a-lei-do-mais-fraco",
       "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf37e215-1815-4da1-a951-89c37a6c9049"
@@ -7986,13 +8228,19 @@
       "Amazon Prime Video",
       "Globoplay",
       "Looke",
-      "MUBI"
+      "Looke Amazon Channel",
+      "MUBI",
+      "MUBI Amazon Channel",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e5e5fba8-03c9-42a1-a315-38623712c8a6",
       "Globoplay": "https://globoplay.globo.com/bye-bye-brasil/t/cFMt1HCbkQ/",
       "Looke": "https://www.looke.com.br/detalhes/57529",
-      "MUBI": "https://mubi.com/films/bye-bye-brazil"
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e5e5fba8-03c9-42a1-a315-38623712c8a6",
+      "MUBI": "https://mubi.com/films/bye-bye-brazil",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e5e5fba8-03c9-42a1-a315-38623712c8a6",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e5e5fba8-03c9-42a1-a315-38623712c8a6"
     }
   },
   "42170": {
@@ -8011,13 +8259,19 @@
       "Amazon Prime Video",
       "Globoplay",
       "Looke",
-      "MUBI"
+      "Looke Amazon Channel",
+      "MUBI",
+      "MUBI Amazon Channel",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3e8afd3d-f58a-45be-bb57-4ecf9e40a4c4",
       "Globoplay": "https://globoplay.globo.com/dona-flor-e-seus-dois-maridos/t/NBrX1cb6nS/",
       "Looke": "https://www.looke.com.br/detalhes/57530",
-      "MUBI": "https://mubi.com/films/dona-flor-and-her-two-husbands"
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3e8afd3d-f58a-45be-bb57-4ecf9e40a4c4",
+      "MUBI": "https://mubi.com/films/dona-flor-and-her-two-husbands",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3e8afd3d-f58a-45be-bb57-4ecf9e40a4c4",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3e8afd3d-f58a-45be-bb57-4ecf9e40a4c4"
     }
   },
   "42254": {
@@ -8050,11 +8304,13 @@
     "providers": [
       "Netflix",
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Netflix": "https://www.netflix.com/title/939827",
       "Paramount Plus": "https://www.paramountplus.com/movies/scream/W53olFcpfJPcz4lDyjncpAFTxhUdeCZR?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/scream/W53olFcpfJPcz4lDyjncpAFTxhUdeCZR?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.32ae270c-416d-44e9-979b-e69b6aa746f6"
     }
   },
@@ -8085,10 +8341,13 @@
     "providers": []
   },
   "42511": {
-    "providers": []
+    "providers": [
+      "JustWatch TV Beta"
+    ]
   },
   "42518": {
     "providers": [
+      "JustWatch TV Beta",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies",
@@ -8266,10 +8525,12 @@
   },
   "435129": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Cindie Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69c69eb3-06c9-4879-a51f-3ba5aaa8cd6b"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69c69eb3-06c9-4879-a51f-3ba5aaa8cd6b",
+      "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69c69eb3-06c9-4879-a51f-3ba5aaa8cd6b"
     }
   },
   "436120": {
@@ -8281,21 +8542,27 @@
   "438631": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/e7dc7b3a-a494-4ef1-8107-f4308aa6bbf7",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8025548-3908-4562-8896-8fffd945cfb6"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8025548-3908-4562-8896-8fffd945cfb6",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8025548-3908-4562-8896-8fffd945cfb6"
     }
   },
   "438695": {
     "providers": [
       "Amazon Prime Video",
-      "Netflix"
+      "Netflix",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c800672a-6c35-4746-a086-8918c480c7af",
-      "Netflix": "https://www.netflix.com/title/81475311"
+      "Netflix": "https://www.netflix.com/title/81475311",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c800672a-6c35-4746-a086-8918c480c7af",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c800672a-6c35-4746-a086-8918c480c7af"
     }
   },
   "43874": {
@@ -8373,10 +8640,14 @@
   },
   "446893": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9eb89aa9-d291-737f-7ed4-5ad4d4077c33"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9eb89aa9-d291-737f-7ed4-5ad4d4077c33",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9eb89aa9-d291-737f-7ed4-5ad4d4077c33",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9eb89aa9-d291-737f-7ed4-5ad4d4077c33"
     }
   },
   "44731": {
@@ -8391,12 +8662,14 @@
     "providers": [
       "Disney Plus",
       "Netflix",
-      "Paramount Plus"
+      "Paramount Plus",
+      "Paramount Plus Premium"
     ],
     "urls": {
       "Disney Plus": "https://www.disneyplus.com/browse/entity-dd89e42d-56b8-497e-b108-bbc0ac89c82f",
       "Netflix": "https://www.netflix.com/title/80213226",
-      "Paramount Plus": "https://www.paramountplus.com/movies/a-quiet-place/P788VhmSOvEHhSZANjkjDMBdeNvoJz2A?amp%3Butm_source=publisher"
+      "Paramount Plus": "https://www.paramountplus.com/movies/a-quiet-place/P788VhmSOvEHhSZANjkjDMBdeNvoJz2A?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/a-quiet-place/P788VhmSOvEHhSZANjkjDMBdeNvoJz2A?amp%3Butm_source=publisher"
     }
   },
   "447365": {
@@ -8450,6 +8723,7 @@
   },
   "44967": {
     "providers": [
+      "JustWatch TV Beta",
       "Looke",
       "NetMovies",
       "Telecine Amazon Channel"
@@ -8611,19 +8885,23 @@
   },
   "467244": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Diamond Films Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.da725c17-c67c-4b59-91fb-313a108314d0"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.da725c17-c67c-4b59-91fb-313a108314d0",
+      "Diamond Films Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.da725c17-c67c-4b59-91fb-313a108314d0"
     }
   },
   "46785": {
     "providers": [
       "MUBI",
+      "MUBI Amazon Channel",
       "Reserva Imovision Amazon Channel"
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/the-white-balloon",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.beadc53e-3b8e-42ca-a324-91cf05be71ad",
       "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.beadc53e-3b8e-42ca-a324-91cf05be71ad"
     }
   },
@@ -8777,12 +9055,16 @@
   "48303": {
     "providers": [
       "MUBI",
+      "MUBI Amazon Channel",
       "Reserva Imovision",
+      "Reserva Imovision Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/certified-copy",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.47aa3770-9a0b-4681-9f81-4a3fed17831c",
       "Reserva Imovision": "https://reservaimovision.com.br/programs/copia-fiel",
+      "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.47aa3770-9a0b-4681-9f81-4a3fed17831c",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.47aa3770-9a0b-4681-9f81-4a3fed17831c"
     }
   },
@@ -8813,10 +9095,12 @@
   },
   "490": {
     "providers": [
+      "Arte Amazon Channel",
       "MUBI",
       "MUBI Amazon Channel"
     ],
     "urls": {
+      "Arte Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b69d8359-fef5-48c5-a1f8-442b8a27e5bf",
       "MUBI": "https://mubi.com/films/the-seventh-seal",
       "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b69d8359-fef5-48c5-a1f8-442b8a27e5bf"
     }
@@ -8861,11 +9145,13 @@
   "4922": {
     "providers": [
       "Amazon Prime Video",
-      "Globoplay"
+      "Globoplay",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0dd59b8-6899-42dd-8afa-f77ff132aa7e",
-      "Globoplay": "https://globoplay.globo.com/o-curioso-caso-de-benjamin-button/t/PWZXSQw7wT/"
+      "Globoplay": "https://globoplay.globo.com/o-curioso-caso-de-benjamin-button/t/PWZXSQw7wT/",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0dd59b8-6899-42dd-8afa-f77ff132aa7e"
     }
   },
   "4935": {
@@ -8879,27 +9165,33 @@
   "493529": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/dungeons--dragons-honor-among-thieves/qE_PYHpYgmIAixONCpAPX_jhIdyro0PT?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/dungeons--dragons-honor-among-thieves/qE_PYHpYgmIAixONCpAPX_jhIdyro0PT?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e7e9de76-1a87-4d06-84ab-5d2a1e5e0a2c"
     }
   },
   "493922": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Diamond Films Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bce15164-b6c9-4884-a898-93d87ae2a4a2"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bce15164-b6c9-4884-a898-93d87ae2a4a2",
+      "Diamond Films Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bce15164-b6c9-4884-a898-93d87ae2a4a2"
     }
   },
   "49444": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e4ba6579-5d5f-935a-6972-e02d1792022a"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e4ba6579-5d5f-935a-6972-e02d1792022a",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e4ba6579-5d5f-935a-6972-e02d1792022a"
     }
   },
   "49452": {
@@ -8907,10 +9199,14 @@
   },
   "49519": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2a9f6c2-3485-d1ae-ae76-0fb4b344ce8a"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2a9f6c2-3485-d1ae-ae76-0fb4b344ce8a",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2a9f6c2-3485-d1ae-ae76-0fb4b344ce8a",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2a9f6c2-3485-d1ae-ae76-0fb4b344ce8a"
     }
   },
   "496": {
@@ -8926,23 +9222,27 @@
       "Looke",
       "Looke Amazon Channel",
       "MUBI",
+      "MUBI Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/544704",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0e29fb10-2499-42e4-aec0-902d8a816b30",
       "MUBI": "https://mubi.com/films/synecdoche-new-york",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0e29fb10-2499-42e4-aec0-902d8a816b30",
       "NetMovies": "https://www.netmovies.com.br/filmes/544704"
     }
   },
   "496243": {
     "providers": [
       "Amazon Prime Video",
-      "Netflix"
+      "Netflix",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8721e1af-4a30-472b-93b2-95134fb5c2d8",
-      "Netflix": "https://www.netflix.com/title/81221938"
+      "Netflix": "https://www.netflix.com/title/81221938",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8721e1af-4a30-472b-93b2-95134fb5c2d8"
     }
   },
   "497": {
@@ -8969,10 +9269,14 @@
   "499": {
     "providers": [
       "MUBI",
+      "MUBI Amazon Channel",
+      "Reserva Imovision Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/cleo-from-5-to-7",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00f81c4a-3211-4478-8b09-e540ec559b37",
+      "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00f81c4a-3211-4478-8b09-e540ec559b37",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00f81c4a-3211-4478-8b09-e540ec559b37"
     }
   },
@@ -9025,10 +9329,14 @@
   "500": {
     "providers": [
       "Belas Artes à La Carte",
+      "Cindie Amazon Channel",
+      "Lionsgate+ Amazon Channel",
       "Universal+ Amazon Channel"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
+      "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aea9f6e2-15a5-2d18-6ef1-15b4e69cf089",
+      "Lionsgate+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aea9f6e2-15a5-2d18-6ef1-15b4e69cf089",
       "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aea9f6e2-15a5-2d18-6ef1-15b4e69cf089"
     }
   },
@@ -9078,10 +9386,12 @@
   "505600": {
     "providers": [
       "MGM Plus Amazon Channel",
-      "MGM+ Apple TV Channel"
+      "MGM+ Apple TV Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bab5f62a-cf81-c015-7883-3b5aafa26d8e"
+      "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bab5f62a-cf81-c015-7883-3b5aafa26d8e",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bab5f62a-cf81-c015-7883-3b5aafa26d8e"
     }
   },
   "506": {
@@ -9185,7 +9495,9 @@
     }
   },
   "5153": {
-    "providers": []
+    "providers": [
+      "JustWatch TV Beta"
+    ]
   },
   "5155": {
     "providers": [
@@ -9308,10 +9620,14 @@
   },
   "529203": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50bb2002-7170-bcad-afe5-e733c94d80a5"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50bb2002-7170-bcad-afe5-e733c94d80a5",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50bb2002-7170-bcad-afe5-e733c94d80a5",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50bb2002-7170-bcad-afe5-e733c94d80a5"
     }
   },
   "530": {
@@ -9333,10 +9649,12 @@
   },
   "531428": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2fd9fbab-4082-4169-913c-32b039ce4125"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2fd9fbab-4082-4169-913c-32b039ce4125",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2fd9fbab-4082-4169-913c-32b039ce4125"
     }
   },
   "532": {
@@ -9389,6 +9707,7 @@
   },
   "541": {
     "providers": [
+      "JustWatch TV Beta",
       "Looke",
       "NetMovies",
       "Plex",
@@ -9404,12 +9723,12 @@
   "543": {
     "providers": [
       "Artiflix",
+      "JustWatch TV Beta",
       "Looke",
       "NetMovies",
       "Plex"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Looke": "https://www.looke.com.br/detalhes/7960",
       "NetMovies": "https://www.netmovies.com.br/filmes/7960",
       "Plex": "https://watch.plex.tv/movie/blackmail-1929?autoplay=1"
@@ -9429,11 +9748,15 @@
   "545611": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "Diamond Films Amazon Channel",
+      "HBO Max",
+      "HBO Max Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.955c337d-1229-48f4-a180-8e230799c7ef",
-      "HBO Max": "https://play.hbomax.com/show/68b16b1a-fee0-48b2-886f-39f51832725d"
+      "Diamond Films Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.955c337d-1229-48f4-a180-8e230799c7ef",
+      "HBO Max": "https://play.hbomax.com/show/68b16b1a-fee0-48b2-886f-39f51832725d",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.955c337d-1229-48f4-a180-8e230799c7ef"
     }
   },
   "548": {
@@ -9452,12 +9775,18 @@
     "providers": [
       "Amazon Prime Video",
       "Netflix",
-      "Paramount Plus"
+      "Paramount Plus",
+      "Paramount Plus Premium",
+      "Paramount+ Amazon Channel",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84aa074e-d217-477f-9242-3e62c961c14b",
       "Netflix": "https://www.netflix.com/title/26004747",
-      "Paramount Plus": "https://www.paramountplus.com/movies/fight-club/FjMrdlvkHxuNs6kfT7_Gx1bywBA_tqKS?amp%3Butm_source=publisher"
+      "Paramount Plus": "https://www.paramountplus.com/movies/fight-club/FjMrdlvkHxuNs6kfT7_Gx1bywBA_tqKS?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/fight-club/FjMrdlvkHxuNs6kfT7_Gx1bywBA_tqKS?amp%3Butm_source=publisher",
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84aa074e-d217-477f-9242-3e62c961c14b",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84aa074e-d217-477f-9242-3e62c961c14b"
     }
   },
   "5506": {
@@ -9505,6 +9834,7 @@
   },
   "5544": {
     "providers": [
+      "JustWatch TV Beta",
       "Looke",
       "MUBI",
       "MUBI Amazon Channel",
@@ -9525,13 +9855,17 @@
       "MGM Plus Amazon Channel",
       "MGM+ Apple TV Channel",
       "MUBI",
-      "NetMovies"
+      "MUBI Amazon Channel",
+      "NetMovies",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/43007",
       "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09438c17-af86-4bac-a5a3-3a344101fcd9",
       "MUBI": "https://mubi.com/films/robocop",
-      "NetMovies": "https://www.netmovies.com.br/filmes/43007"
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09438c17-af86-4bac-a5a3-3a344101fcd9",
+      "NetMovies": "https://www.netmovies.com.br/filmes/43007",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09438c17-af86-4bac-a5a3-3a344101fcd9"
     }
   },
   "555604": {
@@ -9545,21 +9879,27 @@
   "5559": {
     "providers": [
       "Amazon Prime Video",
-      "Netflix"
+      "Netflix",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bab0a846-c2ad-0470-9899-7b5890676b91",
-      "Netflix": "https://www.netflix.com/title/70060010"
+      "Netflix": "https://www.netflix.com/title/70060010",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bab0a846-c2ad-0470-9899-7b5890676b91"
     }
   },
   "557": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Sony One Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16a9f6fd-c82a-d83d-6bfc-0265e317f307",
-      "HBO Max": "https://play.hbomax.com/show/52c902ab-d1ff-4e18-9326-31641a07ed9a"
+      "HBO Max": "https://play.hbomax.com/show/52c902ab-d1ff-4e18-9326-31641a07ed9a",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16a9f6fd-c82a-d83d-6bfc-0265e317f307",
+      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16a9f6fd-c82a-d83d-6bfc-0265e317f307"
     }
   },
   "55721": {
@@ -9621,6 +9961,7 @@
       "Disney Plus",
       "Netflix",
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel",
       "Universal+ Amazon Channel"
     ],
@@ -9628,6 +9969,7 @@
       "Disney Plus": "https://www.disneyplus.com/browse/entity-9484b30d-926f-4f39-955a-65d8810d31d6",
       "Netflix": "https://www.netflix.com/title/70173048",
       "Paramount Plus": "https://www.paramountplus.com/movies/mission-impossible-ghost-protocol/zucnZ1vN14Z_Zpucydq9K5ZGf5Hxv7kt?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/mission-impossible-ghost-protocol/zucnZ1vN14Z_Zpucydq9K5ZGf5Hxv7kt?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.62a9f6c5-31f7-f8f8-0cd6-06ed29621c2d",
       "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d87f87-5e0f-40e9-acde-fa873bfac5b3"
     }
@@ -9696,10 +10038,12 @@
   },
   "570670": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0b81ff6-2e8a-d3ca-b55b-9e1687286615"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0b81ff6-2e8a-d3ca-b55b-9e1687286615",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0b81ff6-2e8a-d3ca-b55b-9e1687286615"
     }
   },
   "571": {
@@ -9730,6 +10074,7 @@
     "providers": [
       "Bloodstream",
       "Cultpix",
+      "JustWatch TV Beta",
       "Plex"
     ],
     "urls": {
@@ -9758,21 +10103,25 @@
     "providers": [
       "Amazon Prime Video",
       "Looke",
+      "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.600eeda9-182b-4e45-af84-18bd5759b02a",
       "Looke": "https://www.looke.com.br/detalhes/398355",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.600eeda9-182b-4e45-af84-18bd5759b02a",
       "NetMovies": "https://www.netmovies.com.br/filmes/398355"
     }
   },
   "575264": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/mission-impossible-dead-reckoning/90pOAkJfpcIIdYSoedJjjLvqpSaaCQXa?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/mission-impossible-dead-reckoning/90pOAkJfpcIIdYSoedJjjLvqpSaaCQXa?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.11311722-0576-4b19-b2fd-01561f3a3e4d"
     }
   },
@@ -9851,7 +10200,9 @@
     "providers": []
   },
   "58129": {
-    "providers": []
+    "providers": [
+      "JustWatch TV Beta"
+    ]
   },
   "581734": {
     "providers": [
@@ -9936,10 +10287,12 @@
   },
   "5876": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Lionsgate+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bfa801ae-2ecf-4384-802d-a8837e63e8fb"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bfa801ae-2ecf-4384-802d-a8837e63e8fb",
+      "Lionsgate+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bfa801ae-2ecf-4384-802d-a8837e63e8fb"
     }
   },
   "5879": {
@@ -10056,11 +10409,13 @@
     "providers": [
       "Oldflix",
       "Reserva Imovision",
+      "Reserva Imovision Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
       "Oldflix": "https://www.oldflix.com.br/title/play/61c8ab81c9734aa1103139d8",
       "Reserva Imovision": "https://reservaimovision.com.br/programs/os-guarda-chuvas-do-amor",
+      "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d5e578d0-8139-47d6-8f0c-d12e2fc2660e",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d5e578d0-8139-47d6-8f0c-d12e2fc2660e"
     }
   },
@@ -10107,7 +10462,8 @@
   },
   "5991": {
     "providers": [
-      "Belas Artes à La Carte"
+      "Belas Artes à La Carte",
+      "JustWatch TV Beta"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
@@ -10155,6 +10511,14 @@
     ],
     "urls": {
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ea9f78a-fd51-d9b7-c114-58f511f74d79"
+    }
+  },
+  "60141": {
+    "providers": [
+      "MUBI"
+    ],
+    "urls": {
+      "MUBI": "https://mubi.com/films/to-the-left-of-the-father"
     }
   },
   "60142": {
@@ -10269,10 +10633,12 @@
   "614930": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/teenage-mutant-ninja-turtles-mutant-mayhem/EQ5fr_baNCoR_g56TiFxIAalT0m139PW?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/teenage-mutant-ninja-turtles-mutant-mayhem/EQ5fr_baNCoR_g56TiFxIAalT0m139PW?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.74016bbc-b804-48e9-9533-ea14fdd85875"
     }
   },
@@ -10289,13 +10655,17 @@
       "Amazon Prime Video",
       "Globoplay",
       "HBO Max",
-      "Netflix"
+      "HBO Max Amazon Channel",
+      "Netflix",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22a9f72b-588f-f799-c4de-35da9d0f714b",
       "Globoplay": "https://globoplay.globo.com/o-ultimo-samurai/t/2bLDncQDBq/",
       "HBO Max": "https://play.hbomax.com/show/0bbbc3df-3f4c-45c6-928b-5155dd424187",
-      "Netflix": "https://www.netflix.com/title/60031274"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22a9f72b-588f-f799-c4de-35da9d0f714b",
+      "Netflix": "https://www.netflix.com/title/60031274",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22a9f72b-588f-f799-c4de-35da9d0f714b"
     }
   },
   "61791": {
@@ -10308,11 +10678,9 @@
   },
   "618": {
     "providers": [
-      "Artiflix"
-    ],
-    "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
-    }
+      "Artiflix",
+      "JustWatch TV Beta"
+    ]
   },
   "62": {
     "providers": [
@@ -10327,11 +10695,13 @@
   "620": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/56592450-70ff-4eb0-918b-f00737394d0d",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.20a9f6bd-c02b-2730-0262-f6d548d689d7"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.20a9f6bd-c02b-2730-0262-f6d548d689d7",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.20a9f6bd-c02b-2730-0262-f6d548d689d7"
     }
   },
   "620249": {
@@ -10436,6 +10806,7 @@
   "631": {
     "providers": [
       "Belas Artes à La Carte",
+      "JustWatch TV Beta",
       "Plex"
     ],
     "urls": {
@@ -10516,10 +10887,12 @@
   },
   "641": {
     "providers": [
-      "Filmelier Plus Amazon Channel"
+      "Filmelier Plus Amazon Channel",
+      "Lionsgate+ Amazon Channel"
     ],
     "urls": {
-      "Filmelier Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.405eb38a-1a1a-41eb-97f4-c5bb26ba3063"
+      "Filmelier Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.405eb38a-1a1a-41eb-97f4-c5bb26ba3063",
+      "Lionsgate+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.405eb38a-1a1a-41eb-97f4-c5bb26ba3063"
     }
   },
   "642": {
@@ -10539,6 +10912,7 @@
   "643": {
     "providers": [
       "Belas Artes à La Carte",
+      "JustWatch TV Beta",
       "Looke",
       "NetMovies"
     ],
@@ -10579,12 +10953,16 @@
     "providers": [
       "Amazon Prime Video",
       "Globoplay",
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90a9f697-c89f-5246-cd34-886803553c6f",
       "Globoplay": "https://globoplay.globo.com/eu-sou-a-lenda/t/gJBXjYZdLC/",
-      "HBO Max": "https://play.hbomax.com/show/489fcfaa-d5f3-4edf-8034-1549790a5b55"
+      "HBO Max": "https://play.hbomax.com/show/489fcfaa-d5f3-4edf-8034-1549790a5b55",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90a9f697-c89f-5246-cd34-886803553c6f",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90a9f697-c89f-5246-cd34-886803553c6f"
     }
   },
   "648": {
@@ -10641,16 +11019,17 @@
       "Bloodstream",
       "Cindie Amazon Channel",
       "Cultpix",
+      "JustWatch TV Beta",
       "Libreflix",
       "Looke",
       "MUBI",
+      "MUBI Amazon Channel",
       "NetMovies",
       "Plex",
       "Pluto TV",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Bloodstream": "https://bloodstreamtv.com/show-details/noseferatu?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3f00d61e-5f54-4e20-9a0c-3259b9a52891",
@@ -10658,6 +11037,7 @@
       "Libreflix": "https://libreflix.org/i/nosferatu-1922",
       "Looke": "https://www.looke.com.br/detalhes/126873",
       "MUBI": "https://mubi.com/films/nosferatu",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3a428415-b2c9-4339-8191-6370950a6d94",
       "NetMovies": "https://www.netmovies.com.br/filmes/126873",
       "Plex": "https://watch.plex.tv/movie/nosferatu-1922?autoplay=1",
       "Pluto TV": "https://pluto.tv/on-demand/movies/nosferatu-br-1921-1-1",
@@ -10721,10 +11101,12 @@
   },
   "660120": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Diamond Films Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.87566469-83e1-435d-a3a2-abad08b42ed7"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.87566469-83e1-435d-a3a2-abad08b42ed7",
+      "Diamond Films Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.87566469-83e1-435d-a3a2-abad08b42ed7"
     }
   },
   "661": {
@@ -10805,10 +11187,12 @@
   "667538": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/transformers-rise-of-the-beasts/_M3L00j_6hKtfNx0uNFwNKrP8K_2ydeJ?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/transformers-rise-of-the-beasts/_M3L00j_6hKtfNx0uNFwNKrP8K_2ydeJ?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.efd4fe0d-f2ed-445d-b220-ff3fa792a565"
     }
   },
@@ -10835,13 +11219,21 @@
       "Amazon Prime Video",
       "Globoplay",
       "Netflix",
-      "Paramount Plus"
+      "Paramount Plus",
+      "Paramount Plus Premium",
+      "Paramount+ Amazon Channel",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c1c8e64f-bcc9-4f17-81f7-39159828f649",
       "Globoplay": "https://globoplay.globo.com/resistencia/t/ZDwCJYLrWw/",
       "Netflix": "https://www.netflix.com/title/81674655",
-      "Paramount Plus": "https://www.paramountplus.com/movies/creator/ALVE01M5N5HCJWE2CA4ZSWMMSBBRR3?amp%3Butm_source=publisher"
+      "Paramount Plus": "https://www.paramountplus.com/movies/creator/ALVE01M5N5HCJWE2CA4ZSWMMSBBRR3?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/creator/ALVE01M5N5HCJWE2CA4ZSWMMSBBRR3?amp%3Butm_source=publisher",
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c1c8e64f-bcc9-4f17-81f7-39159828f649",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c1c8e64f-bcc9-4f17-81f7-39159828f649",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c1c8e64f-bcc9-4f17-81f7-39159828f649"
     }
   },
   "67062": {
@@ -10856,17 +11248,19 @@
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88ae477d-8574-3fc1-b27b-e2b723d68d7b",
       "HBO Max": "https://play.hbomax.com/show/e22cdcd3-49d1-4e28-8846-d8feec300d77",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b23aabe8-9ba6-4d44-b3de-71f88cfbfd73"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88ae477d-8574-3fc1-b27b-e2b723d68d7b"
     }
   },
   "673": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98c1b69a-4e7d-47cd-a79c-bf9dd59f5410",
-      "HBO Max": "https://play.hbomax.com/show/73553a76-1658-45f6-9e26-1b9c4443b0d6"
+      "HBO Max": "https://play.hbomax.com/show/73553a76-1658-45f6-9e26-1b9c4443b0d6",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98c1b69a-4e7d-47cd-a79c-bf9dd59f5410"
     }
   },
   "67612": {
@@ -10979,10 +11373,12 @@
   "687163": {
     "providers": [
       "Amazon Prime Video",
+      "MGM Plus Amazon Channel",
       "MGM+ Apple TV Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.414eb1af-ee27-476c-bc46-bedd48595f59"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.414eb1af-ee27-476c-bc46-bedd48595f59",
+      "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.414eb1af-ee27-476c-bc46-bedd48595f59"
     }
   },
   "68722": {
@@ -11026,11 +11422,13 @@
   "693134": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/f0a4f239-0b57-47e2-a39a-54fb96925e61",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9392c069-96f9-421b-ac7a-275308e1327a"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9392c069-96f9-421b-ac7a-275308e1327a",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9392c069-96f9-421b-ac7a-275308e1327a"
     }
   },
   "69335": {
@@ -11044,22 +11442,26 @@
   "694": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/9370f169-89d8-48c6-912d-8b10590a4de2",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7f0ed7a-2486-4013-a07d-c614a3622632"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7f0ed7a-2486-4013-a07d-c614a3622632",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7f0ed7a-2486-4013-a07d-c614a3622632"
     }
   },
   "6949": {
     "providers": [
       "HBO Max",
+      "HBO Max Amazon Channel",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/4f8d95a5-07ac-498b-b5ce-433b2e75b9a4",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.daa9f772-2150-fc39-7fac-9a4c3e7cf040",
       "Looke": "https://www.looke.com.br/detalhes/278924",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.daa9f772-2150-fc39-7fac-9a4c3e7cf040",
       "NetMovies": "https://www.netmovies.com.br/filmes/278924"
@@ -11084,6 +11486,7 @@
   },
   "697": {
     "providers": [
+      "JustWatch TV Beta",
       "Looke",
       "NetMovies",
       "Telecine Amazon Channel"
@@ -11105,15 +11508,18 @@
   "698687": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/transformers-one/Cb_EJoeOEi8uCKljhyKYS3Rkp8667W3b?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/transformers-one/Cb_EJoeOEi8uCKljhyKYS3Rkp8667W3b?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8d227fa5-dc8e-45bf-be48-bc4f0defe16f"
     }
   },
   "701": {
     "providers": [
+      "JustWatch TV Beta",
       "Plex"
     ],
     "urls": {
@@ -11143,11 +11549,13 @@
   "702525": {
     "providers": [
       "Globoplay",
-      "Telecine Amazon Channel"
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Globoplay": "https://globoplay.globo.com/big-pai-big-filho-2/t/D1wRWTcqLs/",
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17903581-366b-4484-b97e-e55a73dc20c0"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17903581-366b-4484-b97e-e55a73dc20c0",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17903581-366b-4484-b97e-e55a73dc20c0"
     }
   },
   "703": {
@@ -11169,7 +11577,6 @@
       "Belas Artes à La Carte"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
     }
   },
@@ -11203,9 +11610,11 @@
   },
   "71": {
     "providers": [
+      "Cindie Amazon Channel",
       "Filmelier Plus Amazon Channel"
     ],
     "urls": {
+      "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28b7fd0e-9bbf-17b8-b11a-79691d2359e5",
       "Filmelier Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28b7fd0e-9bbf-17b8-b11a-79691d2359e5"
     }
   },
@@ -11293,10 +11702,12 @@
   "7345": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/there-will-be-blood/MHTjAc5E8FquLtHRNL_T7AUM33Voq__N?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/there-will-be-blood/MHTjAc5E8FquLtHRNL_T7AUM33Voq__N?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c315b6c4-ab14-41c2-afbe-84873b3e00cc"
     }
   },
@@ -11304,12 +11715,16 @@
     "providers": [
       "Amazon Prime Video",
       "HBO Max",
-      "Netflix"
+      "HBO Max Amazon Channel",
+      "Netflix",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b5b20e43-0ea9-4246-ad32-821f6c7f4240",
       "HBO Max": "https://play.hbomax.com/show/c95090ba-cc58-4371-b427-c10a86a08859",
-      "Netflix": "https://www.netflix.com/title/70100721"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b5b20e43-0ea9-4246-ad32-821f6c7f4240",
+      "Netflix": "https://www.netflix.com/title/70100721",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b5b20e43-0ea9-4246-ad32-821f6c7f4240"
     }
   },
   "74122": {
@@ -11317,11 +11732,11 @@
       "Artiflix",
       "Belas Artes à La Carte",
       "Filmzie",
+      "JustWatch TV Beta",
       "Oldflix",
       "Plex"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Filmzie": "https://filmzie.com/content/the-bigamist-1953",
       "Oldflix": "https://www.oldflix.com.br/title/play/6047be18882bf74cb99c382d",
@@ -11352,10 +11767,12 @@
   "744": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/top-gun/0roVPvRM_8J7Gs9eyqXovs2WN6ZX23C8?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/top-gun/0roVPvRM_8J7Gs9eyqXovs2WN6ZX23C8?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ad95bd5-79e1-4677-8453-ff5093abe3c7"
     }
   },
@@ -11506,32 +11923,42 @@
     "providers": [
       "Amazon Prime Video",
       "Apple TV",
-      "HBO Max"
+      "Apple TV Amazon Channel",
+      "HBO Max",
+      "HBO Max Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c9da1a1-af0f-41d7-be82-0bb2fd6e7f32",
       "Apple TV": "https://tv.apple.com/br/movie/mad-max-estrada-da-furia/umc.cmc.6xerenwn1999cjd2y6421r2ex?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv",
-      "HBO Max": "https://play.hbomax.com/show/8cde025a-223d-4879-9336-3d5f6c9d0c55"
+      "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c9da1a1-af0f-41d7-be82-0bb2fd6e7f32",
+      "HBO Max": "https://play.hbomax.com/show/8cde025a-223d-4879-9336-3d5f6c9d0c55",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c9da1a1-af0f-41d7-be82-0bb2fd6e7f32"
     }
   },
   "764": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Sony One Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/b57c983e-1e69-46fc-8dfd-fd966a6f4d43",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8a9f7aa-8f71-740b-26df-431fa53d51a3"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8a9f7aa-8f71-740b-26df-431fa53d51a3",
+      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8a9f7aa-8f71-740b-26df-431fa53d51a3"
     }
   },
   "76492": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8a9f67e-2df5-3d88-dfbe-e88db6df676e",
-      "HBO Max": "https://play.hbomax.com/show/72c1f999-66a5-4e0a-80f2-f5ad84b16670"
+      "HBO Max": "https://play.hbomax.com/show/72c1f999-66a5-4e0a-80f2-f5ad84b16670",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8a9f67e-2df5-3d88-dfbe-e88db6df676e",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8a9f67e-2df5-3d88-dfbe-e88db6df676e"
     }
   },
   "765": {
@@ -11548,11 +11975,13 @@
   "767": {
     "providers": [
       "Amazon Prime Video",
-      "HBO Max"
+      "HBO Max",
+      "HBO Max Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e629f1db-f32d-4e2c-b7dd-bf440af2802b",
-      "HBO Max": "https://play.hbomax.com/show/cba1d85a-5ef4-4ba3-b537-1d24554fe85c"
+      "HBO Max": "https://play.hbomax.com/show/cba1d85a-5ef4-4ba3-b537-1d24554fe85c",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e629f1db-f32d-4e2c-b7dd-bf440af2802b"
     }
   },
   "76816": {
@@ -11570,28 +11999,38 @@
   },
   "77": {
     "providers": [
+      "Cindie Amazon Channel",
+      "Filmelier Plus Amazon Channel",
+      "Lionsgate+ Amazon Channel",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies",
-      "Oldflix"
+      "Oldflix",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
+      "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.096901e2-eea9-42c9-9c61-53165a65fd54",
+      "Filmelier Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.096901e2-eea9-42c9-9c61-53165a65fd54",
+      "Lionsgate+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.096901e2-eea9-42c9-9c61-53165a65fd54",
       "Looke": "https://www.looke.com.br/detalhes/346573",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.096901e2-eea9-42c9-9c61-53165a65fd54",
       "NetMovies": "https://www.netmovies.com.br/filmes/346573",
-      "Oldflix": "https://www.oldflix.com.br/title/play/5b9198d166d816191cfd2c87"
+      "Oldflix": "https://www.oldflix.com.br/title/play/5b9198d166d816191cfd2c87",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.096901e2-eea9-42c9-9c61-53165a65fd54"
     }
   },
   "770": {
     "providers": [
       "HBO Max",
       "HBO Max Amazon Channel",
-      "Oldflix"
+      "Oldflix",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/6b43ae80-28c8-4257-988e-e0a9d591cf47",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8ca9f759-8f92-f165-aa65-bee72c1debd7",
-      "Oldflix": "https://www.oldflix.com.br/title/play/5abe4eb0cb8f3911b4cc2747"
+      "Oldflix": "https://www.oldflix.com.br/title/play/5abe4eb0cb8f3911b4cc2747",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8ca9f759-8f92-f165-aa65-bee72c1debd7"
     }
   },
   "771": {
@@ -11634,7 +12073,6 @@
       "Pluto TV"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Libreflix": "https://libreflix.org/i/viagem-a-lua",
       "MUBI": "https://mubi.com/films/a-trip-to-the-moon",
       "Pluto TV": "https://pluto.tv/on-demand/movies/a-viagem-a-lua-br-1-1"
@@ -11661,11 +12099,13 @@
   "776305": {
     "providers": [
       "Amazon Prime Video",
-      "MUBI"
+      "MUBI",
+      "MUBI Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3e6c0cac-3495-4d13-b115-3f76a611c402",
-      "MUBI": "https://mubi.com/films/belle-2021"
+      "MUBI": "https://mubi.com/films/belle-2021",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3e6c0cac-3495-4d13-b115-3f76a611c402"
     }
   },
   "776527": {
@@ -11705,17 +12145,20 @@
     "providers": [
       "Amazon Prime Video",
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98a9f73a-f078-b2ed-17d1-91d6ab15b397",
       "HBO Max": "https://play.hbomax.com/show/621bb1a7-4684-4e42-bdc2-7c939e8798b4",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ffbea96-1727-423a-be89-81368ad6f6c1"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ffbea96-1727-423a-be89-81368ad6f6c1",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98a9f73a-f078-b2ed-17d1-91d6ab15b397"
     }
   },
   "780": {
     "providers": [
       "Belas Artes à La Carte",
+      "JustWatch TV Beta",
       "Telecine Amazon Channel"
     ],
     "urls": {
@@ -11854,13 +12297,14 @@
   },
   "797": {
     "providers": [
+      "Arte Amazon Channel",
       "Artiflix",
       "MUBI",
       "MUBI Amazon Channel",
       "Oldflix"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
+      "Arte Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3942a7ca-a2f7-4221-a26f-de4885894c2d",
       "MUBI": "https://mubi.com/films/persona",
       "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3942a7ca-a2f7-4221-a26f-de4885894c2d",
       "Oldflix": "https://www.oldflix.com.br/title/play/5a0de275a9d3610c741b1b1b"
@@ -11931,10 +12375,12 @@
   },
   "80321": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0cb0abee-fba2-3a85-3fb5-b761e6defef6"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0cb0abee-fba2-3a85-3fb5-b761e6defef6",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0cb0abee-fba2-3a85-3fb5-b761e6defef6"
     }
   },
   "803796": {
@@ -11978,7 +12424,8 @@
   "807": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/b2af0887-65de-4911-ba0d-b23d94dd37b7"
@@ -11993,21 +12440,29 @@
   "808": {
     "providers": [
       "Amazon Prime Video",
-      "Netflix"
+      "Netflix",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dab0a83d-a456-2887-7423-48e96de4e8c7",
-      "Netflix": "https://www.netflix.com/title/60020686"
+      "Netflix": "https://www.netflix.com/title/60020686",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dab0a83d-a456-2887-7423-48e96de4e8c7",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dab0a83d-a456-2887-7423-48e96de4e8c7"
     }
   },
   "809": {
     "providers": [
       "Amazon Prime Video",
-      "Netflix"
+      "Netflix",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7eb0a83f-e142-e935-04c6-7793b2729dce",
-      "Netflix": "https://www.netflix.com/title/60034572"
+      "Netflix": "https://www.netflix.com/title/60034572",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7eb0a83f-e142-e935-04c6-7793b2729dce",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7eb0a83f-e142-e935-04c6-7793b2729dce"
     }
   },
   "81": {
@@ -12022,15 +12477,19 @@
     "providers": [
       "Amazon Prime Video",
       "Crunchyroll",
+      "Crunchyroll Amazon Channel",
       "Disney Plus",
       "HBO Max",
+      "HBO Max Amazon Channel",
       "Netflix"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ac388135-ac50-4c7b-9116-df2bf4a0b2f3",
       "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00194450PLPL",
+      "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ac388135-ac50-4c7b-9116-df2bf4a0b2f3",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-7c74ce17-ce8d-42d7-b2b5-afc0db501194",
       "HBO Max": "https://play.hbomax.com/show/da7272bf-89a9-4eab-80ef-88c4b6ba705c",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ac388135-ac50-4c7b-9116-df2bf4a0b2f3",
       "Netflix": "https://www.netflix.com/title/81602834"
     }
   },
@@ -12039,10 +12498,12 @@
   },
   "81188": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.32b0a83f-e0d1-371f-d8e8-2bda692740dd"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.32b0a83f-e0d1-371f-d8e8-2bda692740dd",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.32b0a83f-e0d1-371f-d8e8-2bda692740dd"
     }
   },
   "812": {
@@ -12111,11 +12572,13 @@
   "823464": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/e8dfef9b-fa41-4041-8230-7dd832116f2e",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d662a299-4839-4552-84c7-c2a01865b755"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d662a299-4839-4552-84c7-c2a01865b755",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d662a299-4839-4552-84c7-c2a01865b755"
     }
   },
   "824": {
@@ -12159,11 +12622,15 @@
   "82702": {
     "providers": [
       "Amazon Prime Video",
-      "Netflix"
+      "Netflix",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.76b0a844-78e7-9cf2-d089-6a515e189384",
-      "Netflix": "https://www.netflix.com/title/70298991"
+      "Netflix": "https://www.netflix.com/title/70298991",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.76b0a844-78e7-9cf2-d089-6a515e189384",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.76b0a844-78e7-9cf2-d089-6a515e189384"
     }
   },
   "828": {
@@ -12218,6 +12685,7 @@
   "832": {
     "providers": [
       "Belas Artes à La Carte",
+      "JustWatch TV Beta",
       "Looke",
       "NetMovies",
       "Plex",
@@ -12268,17 +12736,23 @@
   },
   "83542": {
     "providers": [
+      "Adrenalina Pura Amazon channel",
       "Adrenalina Pura Apple TV channel",
       "NetMovies",
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel",
-      "Runtime"
+      "Runtime",
+      "Sony One Amazon Channel"
     ],
     "urls": {
+      "Adrenalina Pura Amazon channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7c065823-785a-400c-b88b-f4081f43b45f",
       "NetMovies": "https://www.netmovies.com.br/filmes/446750",
       "Paramount Plus": "https://www.paramountplus.com/movies/cloud-atlas/b7QEUPDoi46w3GJZyAb_oZx1Zrv5YZrS?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/cloud-atlas/b7QEUPDoi46w3GJZyAb_oZx1Zrv5YZrS?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7c065823-785a-400c-b88b-f4081f43b45f",
-      "Runtime": "https://runtime.tv/node/27524"
+      "Runtime": "https://runtime.tv/node/27524",
+      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7c065823-785a-400c-b88b-f4081f43b45f"
     }
   },
   "8356": {
@@ -12304,11 +12778,13 @@
   "8363": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Sony One Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/01d102ca-c50b-4d14-887b-fac195be6bda",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72a9f59d-f44a-4b46-d20d-8576edf22f39"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72a9f59d-f44a-4b46-d20d-8576edf22f39",
+      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72a9f59d-f44a-4b46-d20d-8576edf22f39"
     }
   },
   "83666": {
@@ -12360,7 +12836,9 @@
       "Amazon Prime Video",
       "Bloodstream",
       "Looke",
+      "Looke Amazon Channel",
       "MUBI",
+      "MUBI Amazon Channel",
       "NetMovies",
       "Pluto TV"
     ],
@@ -12368,7 +12846,9 @@
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86b4ff38-700e-83da-fe02-2fb5551783f8",
       "Bloodstream": "https://bloodstreamtv.com/show-details/day-of-the-dead?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Looke": "https://www.looke.com.br/detalhes/389593",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86b4ff38-700e-83da-fe02-2fb5551783f8",
       "MUBI": "https://mubi.com/films/day-of-the-dead",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86b4ff38-700e-83da-fe02-2fb5551783f8",
       "NetMovies": "https://www.netmovies.com.br/filmes/389593",
       "Pluto TV": "https://pluto.tv/on-demand/movies/day-of-the-dead-br-1985-1-1"
     }
@@ -12425,13 +12905,17 @@
     "providers": [
       "Globoplay",
       "MUBI",
+      "MUBI Amazon Channel",
       "Netflix",
+      "Reserva Imovision Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
       "Globoplay": "https://globoplay.globo.com/carandiru/t/d95yL1vW5H/",
       "MUBI": "https://mubi.com/films/carandiru",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f566656a-4573-4899-a626-83350368457e",
       "Netflix": "https://www.netflix.com/title/60033309",
+      "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f566656a-4573-4899-a626-83350368457e",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f566656a-4573-4899-a626-83350368457e"
     }
   },
@@ -12496,11 +12980,13 @@
     "providers": [
       "Oldflix",
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Oldflix": "https://www.oldflix.com.br/title/play/61e57db80a1ac4b9047befa2",
       "Paramount Plus": "https://www.paramountplus.com/movies/raiders-of-the-lost-ark/vGJ_ofTKXN5haxFlcOzehFPYtIvxSLyn?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/raiders-of-the-lost-ark/vGJ_ofTKXN5haxFlcOzehFPYtIvxSLyn?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.036b28e6-8fb2-44fc-838c-eee8881bcc07"
     }
   },
@@ -12532,10 +13018,12 @@
   },
   "855": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Sony One Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60a9f6f6-0c15-59a7-7bcf-975e1188af76"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60a9f6f6-0c15-59a7-7bcf-975e1188af76",
+      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60a9f6f6-0c15-59a7-7bcf-975e1188af76"
     }
   },
   "85559": {
@@ -12552,10 +13040,12 @@
   "857": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/saving-private-ryan/cA6RHYSln7H018wfcs_dtX0iOKatacNr?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/saving-private-ryan/cA6RHYSln7H018wfcs_dtX0iOKatacNr?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1d96b97f-c70d-406f-8cc1-41995a7351b4"
     }
   },
@@ -12614,10 +13104,12 @@
   },
   "86320": {
     "providers": [
-      "CurtaOn Amazon Channel"
+      "CurtaOn Amazon Channel",
+      "Doc Canal Brasil Amazon Channel"
     ],
     "urls": {
-      "CurtaOn Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1e7f0f42-2eb6-4a7f-9f30-3d372064befa"
+      "CurtaOn Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1e7f0f42-2eb6-4a7f-9f30-3d372064befa",
+      "Doc Canal Brasil Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1e7f0f42-2eb6-4a7f-9f30-3d372064befa"
     }
   },
   "86321": {
@@ -12747,14 +13239,18 @@
     "providers": [
       "Amazon Prime Video",
       "Looke",
+      "Looke Amazon Channel",
       "NetMovies",
-      "Reserva Imovision"
+      "Reserva Imovision",
+      "Reserva Imovision Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42ca0eae-a8ba-4915-904e-f149f082e4df",
       "Looke": "https://www.looke.com.br/detalhes/215376",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42ca0eae-a8ba-4915-904e-f149f082e4df",
       "NetMovies": "https://www.netmovies.com.br/filmes/215376",
-      "Reserva Imovision": "https://reservaimovision.com.br/programs/minha-vida-de-cachorro"
+      "Reserva Imovision": "https://reservaimovision.com.br/programs/minha-vida-de-cachorro",
+      "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42ca0eae-a8ba-4915-904e-f149f082e4df"
     }
   },
   "8844": {
@@ -12767,11 +13263,9 @@
   },
   "885": {
     "providers": [
-      "Artiflix"
-    ],
-    "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
-    }
+      "Artiflix",
+      "JustWatch TV Beta"
+    ]
   },
   "88591": {
     "providers": []
@@ -12796,12 +13290,14 @@
   "891": {
     "providers": [
       "HBO Max",
+      "HBO Max Amazon Channel",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/d6ff5470-022f-43ae-b2a5-fec1b076ab63",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44a9f723-46bf-2e5f-a092-4e5977f2886b",
       "Looke": "https://www.looke.com.br/detalhes/263734",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44a9f723-46bf-2e5f-a092-4e5977f2886b",
       "NetMovies": "https://www.netmovies.com.br/filmes/263734"
@@ -12862,6 +13358,7 @@
   },
   "899": {
     "providers": [
+      "JustWatch TV Beta",
       "Plex"
     ],
     "urls": {
@@ -12932,11 +13429,13 @@
   "9040": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Sony One Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/a1d45d42-fcc3-42e9-aa20-cb3dda87f51e",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c481f6a-9a46-48c5-b0cb-420f16059fda"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c481f6a-9a46-48c5-b0cb-420f16059fda",
+      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c481f6a-9a46-48c5-b0cb-420f16059fda"
     }
   },
   "904759": {
@@ -13009,20 +13508,24 @@
   },
   "914": {
     "providers": [
+      "Arte Amazon Channel",
       "Pluto TV",
       "Telecine Amazon Channel"
     ],
     "urls": {
+      "Arte Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b4b22e12-697e-4b69-964c-62151b4c11bf",
       "Pluto TV": "https://pluto.tv/on-demand/movies/charlie-chaplin-o-grande-ditador-br-1939-1-1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b4b22e12-697e-4b69-964c-62151b4c11bf"
     }
   },
   "915935": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Diamond Films Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3ef33c1e-9349-421c-8446-a4a050799bff"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3ef33c1e-9349-421c-8446-a4a050799bff",
+      "Diamond Films Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3ef33c1e-9349-421c-8446-a4a050799bff"
     }
   },
   "916192": {
@@ -13109,12 +13612,14 @@
   "93": {
     "providers": [
       "HBO Max",
+      "HBO Max Amazon Channel",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/b2f749e3-a572-4bd7-b0a1-8c7d6d48bb72",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44a9f78a-8226-8aac-2c9c-6f3a8f5d1396",
       "Looke": "https://www.looke.com.br/detalhes/283599",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44a9f78a-8226-8aac-2c9c-6f3a8f5d1396",
       "NetMovies": "https://www.netmovies.com.br/filmes/283599"
@@ -13175,11 +13680,15 @@
   "93456": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/22db3677-035f-4793-83b6-0d40643df12c",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58a9f6cc-d37f-7c76-e234-22212a166ad2"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58a9f6cc-d37f-7c76-e234-22212a166ad2",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58a9f6cc-d37f-7c76-e234-22212a166ad2",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58a9f6cc-d37f-7c76-e234-22212a166ad2"
     }
   },
   "935": {
@@ -13205,10 +13714,10 @@
   "939": {
     "providers": [
       "Artiflix",
-      "Filmzie"
+      "Filmzie",
+      "JustWatch TV Beta"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Filmzie": "https://filmzie.com/content/the-jazz-singer-1927"
     }
   },
@@ -13236,10 +13745,12 @@
   "939243": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/sonic-the-hedgehog-3/W5mnvNQ3unxkdplziVvh8g8K99P_UVyF?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/sonic-the-hedgehog-3/W5mnvNQ3unxkdplziVvh8g8K99P_UVyF?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3bbdfc33-385a-440b-9901-75bc162192e6"
     }
   },
@@ -13250,13 +13761,13 @@
     "providers": [
       "Artiflix",
       "Belas Artes à La Carte",
+      "JustWatch TV Beta",
       "Looke",
       "NetMovies",
       "Plex",
       "Pluto TV"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/7667",
       "NetMovies": "https://www.netmovies.com.br/filmes/7667",
@@ -13397,10 +13908,12 @@
   },
   "9502": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0b0a846-c40e-4fdf-74ba-be366aa7b5fb"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0b0a846-c40e-4fdf-74ba-be366aa7b5fb",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0b0a846-c40e-4fdf-74ba-be366aa7b5fb"
     }
   },
   "950396": {
@@ -13429,10 +13942,14 @@
   },
   "953": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84a9f6d7-0fe4-d16b-9452-752dfb36af8d"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84a9f6d7-0fe4-d16b-9452-752dfb36af8d",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84a9f6d7-0fe4-d16b-9452-752dfb36af8d",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84a9f6d7-0fe4-d16b-9452-752dfb36af8d"
     }
   },
   "95342": {
@@ -13448,13 +13965,17 @@
       "Disney Plus",
       "Netflix",
       "Paramount Plus",
-      "Paramount+ Amazon Channel"
+      "Paramount Plus Premium",
+      "Paramount+ Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Disney Plus": "https://www.disneyplus.com/browse/entity-fc306151-7cbc-4237-b64a-3b2635c87369",
       "Netflix": "https://www.netflix.com/title/765912",
       "Paramount Plus": "https://www.paramountplus.com/movies/mission-impossible/KKCfDcK2Tv6lZ6NtJCF_S_oSs_5YUBbz?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66244fcc-ad8b-411f-8386-ea353000b341"
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/mission-impossible/KKCfDcK2Tv6lZ6NtJCF_S_oSs_5YUBbz?amp%3Butm_source=publisher",
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66244fcc-ad8b-411f-8386-ea353000b341",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66244fcc-ad8b-411f-8386-ea353000b341"
     }
   },
   "9540": {
@@ -13482,11 +14003,13 @@
   "95597": {
     "providers": [
       "MUBI",
+      "MUBI Amazon Channel",
       "Plex",
       "Telecine Amazon Channel"
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/black-girl",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.89f06054-f777-4a39-9d80-ddf660572cc9",
       "Plex": "https://watch.plex.tv/movie/black-girl-1966?autoplay=1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.89f06054-f777-4a39-9d80-ddf660572cc9"
     }
@@ -13512,11 +14035,15 @@
   "9603": {
     "providers": [
       "Paramount Plus",
-      "Paramount+ Amazon Channel"
+      "Paramount Plus Premium",
+      "Paramount+ Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/clueless/xvUp1GWtFph1P4693bNXs6hQnBWWOJvq?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e5290a87-b663-4eec-90c7-ec8b94f7ab15"
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/clueless/xvUp1GWtFph1P4693bNXs6hQnBWWOJvq?amp%3Butm_source=publisher",
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e5290a87-b663-4eec-90c7-ec8b94f7ab15",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e5290a87-b663-4eec-90c7-ec8b94f7ab15"
     }
   },
   "9606": {
@@ -13526,13 +14053,13 @@
     "providers": [
       "Artiflix",
       "Filmzie",
+      "JustWatch TV Beta",
       "Looke",
       "NetMovies",
       "Plex",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Filmzie": "https://filmzie.com/content/the-general-1926",
       "Looke": "https://www.looke.com.br/detalhes/43312",
       "NetMovies": "https://www.netmovies.com.br/filmes/43312",
@@ -13558,7 +14085,6 @@
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/127005",
       "NetMovies": "https://www.netmovies.com.br/filmes/127005",
@@ -13583,10 +14109,10 @@
     "providers": [
       "Artiflix",
       "Bloodstream",
+      "JustWatch TV Beta",
       "Pluto TV"
     ],
     "urls": {
-      "Artiflix": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
       "Bloodstream": "https://bloodstreamtv.com/show-details/thephantomoftheopera?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Pluto TV": "https://pluto.tv/on-demand/movies/phantom-of-the-opera-the-br-1924-1-1"
     }
@@ -13686,12 +14212,14 @@
     "providers": [
       "Looke",
       "Looke Amazon Channel",
+      "MGM Plus Amazon Channel",
       "MGM+ Apple TV Channel",
       "NetMovies"
     ],
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/357985",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.81d508bc-dfe0-4313-a1a2-b7ae97f5c202",
+      "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.81d508bc-dfe0-4313-a1a2-b7ae97f5c202",
       "NetMovies": "https://www.netmovies.com.br/filmes/357985"
     }
   },
@@ -13750,10 +14278,12 @@
   },
   "98": {
     "providers": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ddc039e3-a01f-4530-b91e-014a7846926b"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ddc039e3-a01f-4530-b91e-014a7846926b",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ddc039e3-a01f-4530-b91e-014a7846926b"
     }
   },
   "980": {
@@ -13779,10 +14309,12 @@
   "980431": {
     "providers": [
       "Paramount Plus",
+      "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/avatar-aang-the-last-airbender/ALVE01KWEWD5Z5EKFAYNJ7KHGAACKP?amp%3Butm_source=publisher",
+      "Paramount Plus Premium": "https://www.paramountplus.com/movies/avatar-aang-the-last-airbender/ALVE01KWEWD5Z5EKFAYNJ7KHGAACKP?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5e42bcf1-8d2c-41cd-a3b6-f1e248c42049"
     }
   },
@@ -13840,12 +14372,14 @@
     "providers": [
       "Disney Plus",
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Universal+ Amazon Channel"
     ],
     "urls": {
       "Disney Plus": "https://www.disneyplus.com/browse/entity-a8a1cc54-0bf5-4a04-ae78-73a9e9e51b63",
       "HBO Max": "https://play.hbomax.com/show/d2ee035c-cf27-486d-844d-138aecd2b88a",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7a05a43c-d80b-4138-8ef7-dd248bb1c6c7"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7a05a43c-d80b-4138-8ef7-dd248bb1c6c7",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7a05a43c-d80b-4138-8ef7-dd248bb1c6c7"
     }
   },
   "9837": {
@@ -13861,23 +14395,29 @@
   "984": {
     "providers": [
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/show/2d8d5c50-be17-477b-a87d-b7b0f38e1866",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b519b8db-5395-4424-ac69-fe1106fcd5eb"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b519b8db-5395-4424-ac69-fe1106fcd5eb",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b519b8db-5395-4424-ac69-fe1106fcd5eb"
     }
   },
   "98477": {
-    "providers": []
+    "providers": [
+      "JustWatch TV Beta"
+    ]
   },
   "985": {
     "providers": [
       "MUBI",
+      "MUBI Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/eraserhead",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2fd34496-a25b-44b6-9203-e4666033ec54",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2fd34496-a25b-44b6-9203-e4666033ec54"
     }
   },
@@ -13916,11 +14456,13 @@
   "99": {
     "providers": [
       "MUBI",
+      "MUBI Amazon Channel",
       "Pluto TV",
       "Telecine Amazon Channel"
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/all-about-my-mother",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54a9f710-367f-72f2-404d-998eedec7908",
       "Pluto TV": "https://pluto.tv/on-demand/movies/todo-sobre-mi-madre-br-1999-1-1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54a9f710-367f-72f2-404d-998eedec7908"
     }
@@ -13947,6 +14489,7 @@
   },
   "992": {
     "providers": [
+      "JustWatch TV Beta",
       "Plex",
       "Telecine Amazon Channel"
     ],
@@ -13973,7 +14516,8 @@
       "Looke Amazon Channel",
       "NetMovies",
       "Plex",
-      "Pluto TV"
+      "Pluto TV",
+      "Telecine Amazon Channel"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
@@ -13981,7 +14525,8 @@
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf1fab94-f318-41b8-b47a-65e03599c1a9",
       "NetMovies": "https://www.netmovies.com.br/filmes/43290",
       "Plex": "https://watch.plex.tv/movie/stagecoach-1939?autoplay=1",
-      "Pluto TV": "https://pluto.tv/on-demand/movies/stagecoah-br-1939-1-1"
+      "Pluto TV": "https://pluto.tv/on-demand/movies/stagecoah-br-1939-1-1",
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf1fab94-f318-41b8-b47a-65e03599c1a9"
     }
   },
   "996": {
