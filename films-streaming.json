@@ -722,6 +722,14 @@
       "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26a9f6c0-33eb-83d9-3db6-76f877af2408"
     }
   },
+  "1083381": {
+    "providers": [
+      "Disney Plus"
+    ],
+    "urls": {
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-38c9c24f-f4f0-4b47-a741-2f4611e461e3"
+    }
+  },
   "10835": {
     "providers": [
       "Looke",
@@ -4837,6 +4845,9 @@
       "NetMovies": "https://www.netmovies.com.br/filmes/347924",
       "Oldflix": "https://www.oldflix.com.br/title/play/58ed115bd5a0d11a8489fa81"
     }
+  },
+  "209274": {
+    "providers": []
   },
   "2103": {
     "providers": []

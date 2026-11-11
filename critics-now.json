@@ -6713,7 +6713,7 @@
             "th",
             "tr"
           ],
-          "audio_pt": false,
+          "audio_pt": true,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -7590,7 +7590,7 @@
         },
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -7604,7 +7604,7 @@
           "provider": "Amazon Video",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "amazon",
           "until": null
         }
@@ -7804,7 +7804,7 @@
             "th",
             "tr"
           ],
-          "audio_pt": false,
+          "audio_pt": true,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -8343,7 +8343,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -8357,7 +8357,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -8852,7 +8852,7 @@
             "th",
             "tr"
           ],
-          "audio_pt": false,
+          "audio_pt": true,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -9003,7 +9003,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -9017,7 +9017,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -9140,7 +9140,7 @@
             "th",
             "tr"
           ],
-          "audio_pt": false,
+          "audio_pt": true,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -9585,7 +9585,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -9599,7 +9599,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -9665,7 +9665,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -9679,7 +9679,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -10256,7 +10256,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -10270,7 +10270,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -10715,7 +10715,7 @@
             "th",
             "tr"
           ],
-          "audio_pt": false,
+          "audio_pt": true,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -10769,7 +10769,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -10783,7 +10783,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -10823,7 +10823,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -10837,7 +10837,7 @@
           "provider": "Globoplay",
           "quality": "SD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "globoplay",
           "until": null
         }
@@ -10867,7 +10867,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -10881,7 +10881,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -11298,7 +11298,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -11312,7 +11312,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -12334,7 +12334,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -12348,7 +12348,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -12503,7 +12503,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -12517,7 +12517,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -12884,7 +12884,7 @@
             "th",
             "tr"
           ],
-          "audio_pt": false,
+          "audio_pt": true,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -12998,7 +12998,7 @@
             "th",
             "tr"
           ],
-          "audio_pt": false,
+          "audio_pt": true,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -13096,7 +13096,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -13110,7 +13110,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -13157,7 +13157,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -13171,7 +13171,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -13547,7 +13547,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -13561,7 +13561,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -13674,7 +13674,7 @@
             "it",
             "pt-BR"
           ],
-          "audio_pt": false,
+          "audio_pt": true,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -14163,7 +14163,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -14177,7 +14177,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -14226,7 +14226,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -14240,7 +14240,7 @@
           "provider": "Globoplay",
           "quality": "SD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "globoplay",
           "until": null
         }
@@ -15442,7 +15442,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -15456,7 +15456,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -16216,7 +16216,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -16230,7 +16230,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -16304,7 +16304,7 @@
             "th",
             "tr"
           ],
-          "audio_pt": false,
+          "audio_pt": true,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -17790,7 +17790,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -17804,7 +17804,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         },
@@ -17826,7 +17826,7 @@
           "provider": "Amazon Video",
           "quality": "HD",
           "state": "trusted",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "amazon",
           "until": null
         },
@@ -17848,7 +17848,7 @@
           "provider": "Apple TV Store",
           "quality": "HD",
           "state": "trusted",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "itunes",
           "until": null
         },
@@ -17870,7 +17870,7 @@
           "provider": "Amazon Video",
           "quality": "HD",
           "state": "trusted",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "amazon",
           "until": null
         },
@@ -17892,7 +17892,7 @@
           "provider": "Apple TV Store",
           "quality": "HD",
           "state": "trusted",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "itunes",
           "until": null
         }
@@ -17994,7 +17994,7 @@
             "th",
             "tr"
           ],
-          "audio_pt": false,
+          "audio_pt": true,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -18685,7 +18685,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -18699,13 +18699,13 @@
           "provider": "Paramount Plus",
           "quality": "HD",
           "state": "trusted",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "paramountplus",
           "until": null
         },
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -18719,13 +18719,13 @@
           "provider": "Paramount Plus Premium",
           "quality": "HD",
           "state": "trusted",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "paramountpluspremium",
           "until": null
         },
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": "Paramount Plus",
           "host": "Apple TV",
           "kind": "channel",
@@ -18739,7 +18739,7 @@
           "provider": "Paramount Plus Apple TV channel",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "appletvparamountplus",
           "until": null
         },
@@ -18992,7 +18992,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -19006,7 +19006,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -19047,7 +19047,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -19061,7 +19061,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -19271,7 +19271,7 @@
             "th",
             "tr"
           ],
-          "audio_pt": false,
+          "audio_pt": true,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -20400,7 +20400,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -20414,7 +20414,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -21730,7 +21730,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -21750,7 +21750,7 @@
         },
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": "MUBI",
           "host": "Prime Video",
           "kind": "channel",
@@ -21831,7 +21831,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -21845,13 +21845,13 @@
           "provider": "Paramount Plus",
           "quality": "HD",
           "state": "trusted",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "paramountplus",
           "until": null
         },
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -21865,13 +21865,13 @@
           "provider": "Paramount Plus Premium",
           "quality": "HD",
           "state": "trusted",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "paramountpluspremium",
           "until": null
         },
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": "Paramount Plus",
           "host": "Apple TV",
           "kind": "channel",
@@ -21885,7 +21885,7 @@
           "provider": "Paramount Plus Apple TV channel",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "appletvparamountplus",
           "until": null
         },
@@ -22144,7 +22144,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -22158,7 +22158,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -22267,7 +22267,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -22281,13 +22281,13 @@
           "provider": "Paramount Plus",
           "quality": "HD",
           "state": "trusted",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "paramountplus",
           "until": null
         },
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -22301,13 +22301,13 @@
           "provider": "Paramount Plus Premium",
           "quality": "HD",
           "state": "trusted",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "paramountpluspremium",
           "until": null
         },
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": "Paramount Plus",
           "host": "Apple TV",
           "kind": "channel",
@@ -22321,7 +22321,7 @@
           "provider": "Paramount Plus Apple TV channel",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "appletvparamountplus",
           "until": null
         },
@@ -22941,7 +22941,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -22955,7 +22955,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -23314,7 +23314,7 @@
             "th",
             "tr"
           ],
-          "audio_pt": false,
+          "audio_pt": true,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -23476,7 +23476,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -23490,7 +23490,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -23639,7 +23639,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -23653,7 +23653,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -23943,7 +23943,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -23957,7 +23957,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -24142,7 +24142,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -24156,7 +24156,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -24929,7 +24929,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -24943,7 +24943,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
@@ -25040,7 +25040,7 @@
       "offers": [
         {
           "audio": [],
-          "audio_pt": false,
+          "audio_pt": null,
           "channel": null,
           "host": null,
           "kind": "included",
@@ -25054,7 +25054,7 @@
           "provider": "Netflix",
           "quality": "HD",
           "state": "verified",
-          "sub_pt": false,
+          "sub_pt": null,
           "tech": "netflix",
           "until": null
         }
