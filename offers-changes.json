@@ -1,4 +1,248 @@
 {
- "_generated": "2026-11-11",
- "_previous": null
+ "_generated": "2026-11-12",
+ "_previous": "2026-11-11",
+ "aho": {
+  "movies": {
+   "in": {
+    "1134346": "Desapareceu Bunny Lake",
+    "1816571": "Você Só Precisa Matar"
+   },
+   "out": {
+    "1432547": "Você Só Precisa Matar",
+    "1942": "Desapareceu Bunny Lake"
+   }
+  },
+  "name": "HBO Max Amazon Channel"
+ },
+ "alo": {
+  "movies": {
+   "in": {
+    "1107387": "Hachiko - Para Sempre",
+    "19171": "Precipícios d'Alma",
+    "308149": "Paixões Cruzadas",
+    "429405": "Pau pra toda obra",
+    "726897": "Luta por Vingança",
+    "835504": "Canção de Ninar",
+    "877816": "Um Estrangeiro no Ninho",
+    "901060": "Sete Cemitérios"
+   },
+   "out": {
+    "24395": "A Colina Maldita",
+    "26129": "Piloto de Elite",
+    "33201": "Jeremias",
+    "38809": "Preto e Branco",
+    "405965": "Um Homem Comum",
+    "47701": "Prenda-me se Puder!",
+    "620137": "A Batalha de Shindisi",
+    "620924": "Cidade Sob Ameaça",
+    "690248": "Meu Coração Só Irá Bater Se Você Pedir"
+   }
+  },
+  "name": "Looke Amazon Channel"
+ },
+ "amu": {
+  "movies": {
+   "in": {
+    "46591": "De Punhos Cerrados"
+   },
+   "out": {
+    "323730": "As Long as Shotguns Remain"
+   }
+  },
+  "name": "MUBI Amazon Channel"
+ },
+ "atl": {
+  "movies": {
+   "in": {},
+   "out": {
+    "851683": "Dois + Dois"
+   }
+  },
+  "name": "Telecine Amazon Channel"
+ },
+ "cru": {
+  "name": "Crunchyroll",
+  "shows": {
+   "in": {
+    "313883": "Solo Leveling",
+    "62715": "Dragon Ball Super"
+   },
+   "out": {
+    "127532": "Solo Leveling",
+    "341160": "Dragon Ball Super"
+   }
+  }
+ },
+ "dnp": {
+  "name": "Disney Plus",
+  "shows": {
+   "in": {
+    "296764": "Cartoonified with Phineas and Ferb",
+    "62715": "Dragon Ball Super"
+   },
+   "out": {
+    "137871": "O Grande Jogo",
+    "341160": "Dragon Ball Super"
+   }
+  }
+ },
+ "gop": {
+  "movies": {
+   "in": {
+    "1314753": "Infinimundo"
+   },
+   "out": {}
+  },
+  "name": "Globoplay"
+ },
+ "lke": {
+  "movies": {
+   "in": {
+    "196024": "Departamento Q: Guardiões das Causas Perdidas",
+    "254201": "Departamento Q – O Ausente",
+    "308149": "Paixões Cruzadas",
+    "475094": "O Capitão",
+    "568453": "O Experimento do Sono",
+    "726897": "Luta por Vingança",
+    "877816": "Um Estrangeiro no Ninho",
+    "901060": "Sete Cemitérios"
+   },
+   "out": {
+    "1207898": "Jack A Caixa Maldita 3",
+    "1444358": "Borboletas em Chamas",
+    "30844": "A Bela e a Besta",
+    "31646": "Piranha II - O Peixe Vampiro",
+    "331044": "Vale dos Deuses",
+    "405815": "Trocando os Papéis",
+    "4722": "Violadores: A Invasão Continua",
+    "587609": "Caros Camaradas!",
+    "670428": "Psycho Goreman"
+   }
+  },
+  "name": "Looke"
+ },
+ "mbi": {
+  "movies": {
+   "in": {
+    "326382": "Zama"
+   },
+   "out": {}
+  },
+  "name": "MUBI"
+ },
+ "mxx": {
+  "movies": {
+   "in": {
+    "1134346": "Desapareceu Bunny Lake",
+    "1816571": "Você Só Precisa Matar"
+   },
+   "out": {
+    "1432547": "Você Só Precisa Matar",
+    "1942": "Desapareceu Bunny Lake"
+   }
+  },
+  "name": "HBO Max",
+  "shows": {
+   "in": {
+    "34415": "The Killing - Além de um Crime"
+   },
+   "out": {}
+  }
+ },
+ "nfx": {
+  "movies": {
+   "in": {
+    "1995": "Lara Croft - Tomb Raider",
+    "413588": "Rock On 2",
+    "515916": "Girl: O Sonho de Lara",
+    "537116": "tick, tick... BOOM!",
+    "714339": "Nas Margens",
+    "980477": "Ne Zha 2"
+   },
+   "out": {
+    "1170618": "ONEFOUR: Contra Tudo e Contra Todos",
+    "1230550": "Meu Porto Seguro 2",
+    "1820172": "Janelle James: How Romantic",
+    "346013": "Paraíso perdido",
+    "977177": "Inquilinos Macabros",
+    "993710": "De Volta à Ação"
+   }
+  },
+  "name": "Netflix",
+  "shows": {
+   "in": {
+    "110152": "A Penúltima Palavra",
+    "69919": "O Mundo das Winx",
+    "87313": "The School Nurse Files"
+   },
+   "out": {
+    "111474": "A Casa de Bonecas da Gabby",
+    "139396": "Todo Dia a Mesma Noite",
+    "306517": "Só Para Membros: Palm Beach"
+   }
+  }
+ },
+ "prv": {
+  "movies": {
+   "in": {
+    "10073": "Uma Comédia Nada Romântica",
+    "1211278": "Orégano: a família do fracasso",
+    "1229770": "Seca",
+    "1297188": "Aquela semana juntos",
+    "1339206": "A Renúncia",
+    "1368520": "Escape",
+    "1586757": "Beyond Disclosure: The Corey Goode Files",
+    "243938": "Jacuzzi: O Desastre do Tempo 2",
+    "30497": "Massacre no Texas",
+    "313519": "Justiça Letal",
+    "3512": "Força em Alerta 2",
+    "40264": "Ponha Aqui o Seu Dentinho",
+    "426469": "De Volta a América",
+    "49530": "Sem Tempo",
+    "580365": "Bolicompras",
+    "7278": "Uns Espartanos do Pior",
+    "742043": "Stigmatized Properties",
+    "877816": "Um Estrangeiro no Ninho",
+    "901060": "Sete Cemitérios",
+    "967874": "Herói de Sangue",
+    "9760": "Deu a Louca em Hollywood"
+   },
+   "out": {
+    "1325198": "The Final Copy of Ilon Specht",
+    "13491": "O Cavaleiro Templário",
+    "1400381": "Nunca Acaba, Jeff Buckley",
+    "1450684": "Stigmatized Properties",
+    "1529372": "Don't Be Shy",
+    "15906": "Barbie e o Pégaso Mágico",
+    "2313": "Terapia do Amor",
+    "242065": "Accused",
+    "255295": "Palavras Diabólicas",
+    "396021": "Cícero Dias, o Compadre de Picasso",
+    "536208": "Não É Mais Uma Canção de Amor",
+    "574060": "Gunpowder Milkshake: Mistura Explosiva",
+    "62046": "Assalto em Dose Dupla",
+    "653851": "Irmãos de Honra",
+    "698": "007 - Aventura no Espaço",
+    "730665": "EAS: Esquadrão Antissequestro",
+    "739901": "Possessão Demoníaca",
+    "741110": "Entre Dois Amores",
+    "760556": "Perdidos no Natal",
+    "770428": "Em Nome do Pai",
+    "814800": "Boa Noite, Mamã",
+    "843633": "Vingança e Redenção",
+    "91333": "Recoil - Vingança Implacável"
+   }
+  },
+  "name": "Amazon Prime Video",
+  "shows": {
+   "in": {
+    "312697": "Na Mira do Júri: Retiro Corporativo",
+    "312872": "7vs.Wild"
+   },
+   "out": {
+    "139434": "7vs.Wild",
+    "222023": "Na Mira do Júri: Retiro Corporativo"
+   }
+  }
+ }
 }

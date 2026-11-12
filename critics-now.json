@@ -1,6 +1,54 @@
 {
   "_raw": [
     {
+      "date": "2026-11-12",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Mouse (2026)",
+      "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
+    },
+    {
+      "date": "2026-11-12",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Everytime",
+      "url": "https://www.rogerebert.com/reviews/everytime-film-review-2026"
+    },
+    {
+      "date": "2026-11-12",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Soul Patrol",
+      "url": "https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026"
+    },
+    {
+      "date": "2026-11-12",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Hen",
+      "url": "https://www.rogerebert.com/reviews/hen-georgia-movie-review-2026"
+    },
+    {
+      "date": "2026-11-12",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "The Good Daughter",
+      "url": "https://www.rogerebert.com/reviews/the-good-daughter-rose-byrne-meghann-fahy-peacock-tv-review-2026"
+    },
+    {
+      "date": "2026-11-12",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Avedon",
+      "url": "https://www.rogerebert.com/reviews/avedon-netflix-documentary-film-review-2026"
+    },
+    {
       "date": "2026-11-11",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
@@ -20,14 +68,6 @@
       "date": "2026-11-11",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "Mouse (2026)",
-      "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
-    },
-    {
-      "date": "2026-11-11",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
       "rating": "3.5★",
       "title": "Club Kid",
       "url": "https://www.rogerebert.com/reviews/club-kid-jordan-firstman-a24-film-review-2026"
@@ -39,30 +79,6 @@
       "rating": "3.5★",
       "title": "Wild Horse Nine",
       "url": "https://www.rogerebert.com/reviews/wild-horse-nine-martin-mcdonagh-sam-rockwell-john-malkovich-film-review-2026"
-    },
-    {
-      "date": "2026-11-11",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Everytime",
-      "url": "https://www.rogerebert.com/reviews/everytime-film-review-2026"
-    },
-    {
-      "date": "2026-11-11",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Soul Patrol",
-      "url": "https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026"
-    },
-    {
-      "date": "2026-11-11",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "Hen",
-      "url": "https://www.rogerebert.com/reviews/hen-georgia-movie-review-2026"
     },
     {
       "date": "2026-11-11",
@@ -111,22 +127,6 @@
       "rating": "4★",
       "title": "David Walliams: Power and Silence",
       "url": "https://www.theguardian.com/tv-and-radio/2026/nov/11/david-walliams-power-and-silence-review-itvx-youtube"
-    },
-    {
-      "date": "2026-11-11",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "The Good Daughter",
-      "url": "https://www.rogerebert.com/reviews/the-good-daughter-rose-byrne-meghann-fahy-peacock-tv-review-2026"
-    },
-    {
-      "date": "2026-11-11",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "Avedon",
-      "url": "https://www.rogerebert.com/reviews/avedon-netflix-documentary-film-review-2026"
     },
     {
       "date": "2026-11-10",
@@ -6287,22 +6287,6 @@
       "rating": "5★",
       "title": "The Beast in Me",
       "url": "https://www.theguardian.com/tv-and-radio/2025/nov/13/the-beast-in-me-review-claire-danes-thriller-netflix"
-    },
-    {
-      "date": "2025-11-11",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "4★",
-      "title": "The Eubanks: Like Father, Like Son",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/nov/11/the-eubanks-like-father-like-son-review-family-boxing-tale-unexpectedly-moving"
-    },
-    {
-      "date": "2025-11-11",
-      "media_type": "movie",
-      "outlet": "IndieWire",
-      "rating": "A-",
-      "title": "The Things You Kill",
-      "url": "https://www.indiewire.com/criticism/movies/the-things-you-kill-review-1235087549/"
     }
   ],
   "movie:tmdb:1434103": {
@@ -7470,7 +7454,7 @@
     "poster": "/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
     "recs": [
       {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026"
@@ -11628,7 +11612,7 @@
     "poster": "/L0nb2GKLqwHqEuLWpU8D9nDQKJ.jpg",
     "recs": [
       {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/hen-georgia-movie-review-2026"
@@ -13385,7 +13369,7 @@
     "poster": "/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
     "recs": [
       {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/the-good-daughter-rose-byrne-meghann-fahy-peacock-tv-review-2026"
@@ -14396,12 +14380,6 @@
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/the-things-you-kill-turkish-film-review-2025"
-      },
-      {
-        "date": "2025-11-11",
-        "outlet": "IndieWire",
-        "rating": "A-",
-        "url": "https://www.indiewire.com/criticism/movies/the-things-you-kill-review-1235087549/"
       }
     ],
     "title": "The Things You Kill",
@@ -21941,7 +21919,7 @@
     "poster": "/sav8yadAjfykfFlZuFsclmrN9st.jpg",
     "recs": [
       {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026"
@@ -23761,7 +23739,7 @@
     "poster": "/lbZ7ltgw8xiKfCEXme8GO5HcV9z.jpg",
     "recs": [
       {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/everytime-film-review-2026"
@@ -23832,7 +23810,7 @@
     "poster": "/8RYuzFSh4ankYCQWPljx89dlFea.jpg",
     "recs": [
       {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/avedon-netflix-documentary-film-review-2026"
