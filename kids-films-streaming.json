@@ -1277,7 +1277,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G31UXJW8E",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G14U4DXQ2",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3583b831-3ad5-4bf2-9be1-fda81ca8f0e9"
     },
     "verified": [
@@ -2983,7 +2983,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886DEDE",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ITIT",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     },
     "verified": [
@@ -5684,7 +5684,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GN7UD22PN",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUE5537",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
@@ -6076,15 +6076,18 @@
   "980477": {
     "providers": [
       "Looke",
-      "Looke Amazon Channel"
+      "Looke Amazon Channel",
+      "Netflix"
     ],
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/530991",
-      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9826e46f-4146-4a84-b1e3-b1bcc36bac03"
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9826e46f-4146-4a84-b1e3-b1bcc36bac03",
+      "Netflix": "https://www.netflix.com/title/82178536"
     },
     "verified": [
       "Looke",
-      "Looke Amazon Channel"
+      "Looke Amazon Channel",
+      "Netflix"
     ]
   },
   "980489": {

@@ -1,41 +1,50 @@
 {
- "_generated": "2026-11-12",
- "_previous": "2026-11-11",
+ "_generated": "2026-11-13",
+ "_previous": "2026-11-12",
  "aho": {
   "movies": {
    "in": {
-    "1134346": "Desapareceu Bunny Lake",
-    "1816571": "Você Só Precisa Matar"
+    "1101383": "O Fim de Oak Street",
+    "674218": "Ponto de Partida",
+    "9342": "A Máscara de Zorro"
    },
    "out": {
-    "1432547": "Você Só Precisa Matar",
-    "1942": "Desapareceu Bunny Lake"
+    "181132": "Ponto de Partida",
+    "502153": "Ali & Cavett: The Tale of the Tapes",
+    "506775": "Nekrotronic",
+    "677781": "A Máscara de Zorro"
    }
   },
-  "name": "HBO Max Amazon Channel"
+  "name": "HBO Max Amazon Channel",
+  "shows": {
+   "in": {
+    "312439": "Alejandro Sanz: Quando Ninguém Me Vê",
+    "315858": "Perdido",
+    "341837": "Lanternas"
+   },
+   "out": {
+    "209626": "Kiddie Kai",
+    "293069": "Perdido",
+    "95350": "Lanternas"
+   }
+  }
  },
  "alo": {
   "movies": {
    "in": {
-    "1107387": "Hachiko - Para Sempre",
-    "19171": "Precipícios d'Alma",
-    "308149": "Paixões Cruzadas",
-    "429405": "Pau pra toda obra",
-    "726897": "Luta por Vingança",
-    "835504": "Canção de Ninar",
-    "877816": "Um Estrangeiro no Ninho",
-    "901060": "Sete Cemitérios"
+    "1084440": "Daniela Forever",
+    "1341548": "Superanfitriã",
+    "297283": "Estrada Real da Cachaça",
+    "4475": "A Vida Íntima de Pippa Lee",
+    "967370": "Olha Que Três!",
+    "985093": "Uma Vez Herói"
    },
    "out": {
-    "24395": "A Colina Maldita",
-    "26129": "Piloto de Elite",
-    "33201": "Jeremias",
-    "38809": "Preto e Branco",
-    "405965": "Um Homem Comum",
-    "47701": "Prenda-me se Puder!",
-    "620137": "A Batalha de Shindisi",
-    "620924": "Cidade Sob Ameaça",
-    "690248": "Meu Coração Só Irá Bater Se Você Pedir"
+    "3055": "O Vale das Bonecas",
+    "308149": "Paixões Cruzadas",
+    "481093": "Foro Íntimo",
+    "706005": "Revelações Perigosas",
+    "849369": "Superanfitriã"
    }
   },
   "name": "Looke Amazon Channel"
@@ -43,80 +52,124 @@
  "amu": {
   "movies": {
    "in": {
-    "46591": "De Punhos Cerrados"
+    "1119537": "Provas de Amor",
+    "1210268": "O Degelo",
+    "396535": "Train to Busan"
    },
-   "out": {
-    "323730": "As Long as Shotguns Remain"
-   }
+   "out": {}
   },
   "name": "MUBI Amazon Channel"
  },
  "atl": {
   "movies": {
-   "in": {},
-   "out": {
-    "851683": "Dois + Dois"
-   }
+   "in": {
+    "1402404": "O Shaolin do Sertão 2",
+    "1485002": "Holiday Touchdown: A Bills Love Story",
+    "1545997": "Single on the 25th",
+    "1547913": "A Keller Christmas Vacation",
+    "1547915": "Tidings for the Season",
+    "1547927": "A Make or Break Holiday"
+   },
+   "out": {}
   },
   "name": "Telecine Amazon Channel"
+ },
+ "atp": {
+  "movies": {
+   "in": {
+    "1050981": "A Arte de Ser Heumann",
+    "1780407": "Snoopy Apresenta: 12 Dias de Snoopy"
+   },
+   "out": {}
+  },
+  "name": "Apple TV",
+  "shows": {
+   "in": {
+    "254630": "12 12 12"
+   },
+   "out": {}
+  }
+ },
+ "avl": {
+  "movies": {
+   "in": {
+    "1050981": "A Arte de Ser Heumann",
+    "1780407": "Snoopy Apresenta: 12 Dias de Snoopy"
+   },
+   "out": {}
+  },
+  "name": "Apple TV Amazon Channel",
+  "shows": {
+   "in": {
+    "254630": "12 12 12"
+   },
+   "out": {}
+  }
  },
  "cru": {
   "name": "Crunchyroll",
   "shows": {
    "in": {
-    "313883": "Solo Leveling",
-    "62715": "Dragon Ball Super"
+    "132310": "Rikei ga Koi ni Ochita no de Shoumei Shite Mita.",
+    "205493": "The Prince of Tennis II",
+    "303272": "Guerreiras Mágicas de Rayearth"
    },
    "out": {
-    "127532": "Solo Leveling",
-    "341160": "Dragon Ball Super"
+    "31692": "Kurau Phantom Memory",
+    "34158": "Guerreiras Mágicas de Rayearth",
+    "67249": "The Prince of Tennis II",
+    "90999": "Rikei ga Koi ni Ochita no de Shoumei Shite Mita."
    }
   }
  },
  "dnp": {
+  "movies": {
+   "in": {
+    "1786842": "Vingadores: Endgame Encore",
+    "321612": "A Bela e o Monstro"
+   },
+   "out": {
+    "1819518": "A Bela e o Monstro",
+    "54682": "Jordan Rides the Bus"
+   }
+  },
   "name": "Disney Plus",
   "shows": {
    "in": {
-    "296764": "Cartoonified with Phineas and Ferb",
-    "62715": "Dragon Ball Super"
+    "31155": "Tara Duncan",
+    "320507": "A Vida Secreta das Esposas Mórmones: Orange County",
+    "329896": "Alerta Fofoca: Coven Academy - O Feitiço das Bruxas",
+    "96714": "Superestruturas Nazis\""
    },
    "out": {
-    "137871": "O Grande Jogo",
-    "341160": "Dragon Ball Super"
+    "152372": "Tara Duncan",
+    "56556": "Superestruturas Nazis\""
    }
   }
  },
  "gop": {
-  "movies": {
+  "name": "Globoplay",
+  "shows": {
    "in": {
-    "1314753": "Infinimundo"
+    "31820": "Divã",
+    "341790": "Caravelle 114",
+    "79744": "O Novato"
    },
-   "out": {}
-  },
-  "name": "Globoplay"
+   "out": {
+    "204441": "Divã"
+   }
+  }
  },
  "lke": {
   "movies": {
    "in": {
-    "196024": "Departamento Q: Guardiões das Causas Perdidas",
-    "254201": "Departamento Q – O Ausente",
-    "308149": "Paixões Cruzadas",
-    "475094": "O Capitão",
-    "568453": "O Experimento do Sono",
-    "726897": "Luta por Vingança",
-    "877816": "Um Estrangeiro no Ninho",
-    "901060": "Sete Cemitérios"
+    "1341548": "Superanfitriã",
+    "4475": "A Vida Íntima de Pippa Lee",
+    "55561": "Quatro Garotas... Uma Grande Confusão"
    },
    "out": {
-    "1207898": "Jack A Caixa Maldita 3",
-    "1444358": "Borboletas em Chamas",
-    "30844": "A Bela e a Besta",
-    "31646": "Piranha II - O Peixe Vampiro",
-    "331044": "Vale dos Deuses",
-    "405815": "Trocando os Papéis",
-    "4722": "Violadores: A Invasão Continua",
-    "587609": "Caros Camaradas!",
-    "670428": "Psycho Goreman"
+    "308149": "Paixões Cruzadas",
+    "849369": "Superanfitriã"
    }
   },
   "name": "Looke"
@@ -124,124 +177,185 @@
  "mbi": {
   "movies": {
    "in": {
-    "326382": "Zama"
+    "46591": "De Punhos Cerrados"
    },
-   "out": {}
+   "out": {
+    "1523096": "Fragments for Venus"
+   }
   },
   "name": "MUBI"
  },
  "mxx": {
   "movies": {
    "in": {
-    "1134346": "Desapareceu Bunny Lake",
-    "1816571": "Você Só Precisa Matar"
+    "1101383": "O Fim de Oak Street",
+    "674218": "Ponto de Partida",
+    "9342": "A Máscara de Zorro"
    },
    "out": {
-    "1432547": "Você Só Precisa Matar",
-    "1942": "Desapareceu Bunny Lake"
+    "181132": "Ponto de Partida",
+    "502153": "Ali & Cavett: The Tale of the Tapes",
+    "506775": "Nekrotronic",
+    "677781": "A Máscara de Zorro"
    }
   },
   "name": "HBO Max",
   "shows": {
    "in": {
-    "34415": "The Killing - Além de um Crime"
+    "305245": "Silent Night",
+    "310204": "Adult Swim Smalls",
+    "312439": "Alejandro Sanz: Quando Ninguém Me Vê",
+    "315858": "Perdido",
+    "341027": "Maniacs of the Truth",
+    "341555": "The Killing of the Golden Rooster",
+    "341837": "Lanternas",
+    "63301": "O Show da Luna"
    },
-   "out": {}
+   "out": {
+    "209626": "Kiddie Kai",
+    "293069": "Perdido",
+    "95350": "Lanternas"
+   }
   }
  },
  "nfx": {
   "movies": {
    "in": {
-    "1995": "Lara Croft - Tomb Raider",
-    "413588": "Rock On 2",
-    "515916": "Girl: O Sonho de Lara",
-    "537116": "tick, tick... BOOM!",
-    "714339": "Nas Margens",
-    "980477": "Ne Zha 2"
+    "1012669": "Um Príncipe no Paraíso",
+    "1231623": "Um Paraíso Real 2: O Pedido",
+    "1419036": "Kijsada Paradise",
+    "1616687": "Never Surrender",
+    "1664682": "Suzane Von Richthofen: O Que o Tempo Não Apaga",
+    "1757174": "A Troca de Natal",
+    "20829": "Gente Gira",
+    "376228": "Audrie & Daisy",
+    "554279": "Natal no Riacho",
+    "744594": "Ruído Branco",
+    "958080": "Sem Respirar"
    },
    "out": {
-    "1170618": "ONEFOUR: Contra Tudo e Contra Todos",
-    "1230550": "Meu Porto Seguro 2",
-    "1820172": "Janelle James: How Romantic",
-    "346013": "Paraíso perdido",
-    "977177": "Inquilinos Macabros",
-    "993710": "De Volta à Ação"
+    "1054561": "Abraço de Mãe",
+    "1098110": "Sangue e Ouro",
+    "112861": "Nelson Freire",
+    "1184889": "Tudo pelo Meu Irmão",
+    "1443762": "O Falsário",
+    "1533898": "Cristela Alonzo: Upper Classy",
+    "586245": "Fantasmas de Sugar Land",
+    "614696": "#Alive",
+    "753230": "As Três Mortes de Marisela",
+    "832277": "Mesa Para Quatro",
+    "961323": "Nimona"
    }
   },
   "name": "Netflix",
   "shows": {
    "in": {
-    "110152": "A Penúltima Palavra",
-    "69919": "O Mundo das Winx",
-    "87313": "The School Nurse Files"
+    "106009": "Numberblocks",
+    "216074": "Ririsa, Uma Garota em 2.5D",
+    "247634": "Love Is Blind, Habibi",
+    "303272": "Guerreiras Mágicas de Rayearth",
+    "306517": "Só Para Membros: Palm Beach",
+    "312661": "Milagres da Sala de Emergência",
+    "341721": "I Am Not Okay with This",
+    "57532": "Patrulha Pata"
    },
    "out": {
-    "111474": "A Casa de Bonecas da Gabby",
-    "139396": "Todo Dia a Mesma Noite",
-    "306517": "Só Para Membros: Palm Beach"
+    "214942": "23,5",
+    "248984": "Destrancados: Um Experimento na Prisão",
+    "286277": "Patrulha Pata",
+    "34158": "Guerreiras Mágicas de Rayearth",
+    "69919": "O Mundo das Winx",
+    "81337": "Sou um Assassino",
+    "87194": "Special",
+    "90260": "I Am Not Okay with This"
+   }
+  }
+ },
+ "pmp": {
+  "movies": {
+   "in": {
+    "1559984": "Uma Escola Estranha",
+    "1612018": "Jackass: Último Shot de Loucura"
+   },
+   "out": {}
+  },
+  "name": "Paramount Plus",
+  "shows": {
+   "in": {
+    "340784": "Quebra-Cabeça Mortal",
+    "57532": "Patrulha Pata"
+   },
+   "out": {
+    "286277": "Patrulha Pata"
    }
   }
  },
  "prv": {
   "movies": {
    "in": {
-    "10073": "Uma Comédia Nada Romântica",
-    "1211278": "Orégano: a família do fracasso",
-    "1229770": "Seca",
-    "1297188": "Aquela semana juntos",
-    "1339206": "A Renúncia",
-    "1368520": "Escape",
-    "1586757": "Beyond Disclosure: The Corey Goode Files",
-    "243938": "Jacuzzi: O Desastre do Tempo 2",
-    "30497": "Massacre no Texas",
-    "313519": "Justiça Letal",
-    "3512": "Força em Alerta 2",
-    "40264": "Ponha Aqui o Seu Dentinho",
-    "426469": "De Volta a América",
-    "49530": "Sem Tempo",
-    "580365": "Bolicompras",
-    "7278": "Uns Espartanos do Pior",
-    "742043": "Stigmatized Properties",
-    "877816": "Um Estrangeiro no Ninho",
-    "901060": "Sete Cemitérios",
-    "967874": "Herói de Sangue",
-    "9760": "Deu a Louca em Hollywood"
+    "1146148": "A Vingança de Charlie",
+    "1180906": "Amanhecer Sangrento",
+    "1263012": "Crime em Direto",
+    "1341548": "Superanfitriã",
+    "1472844": "Todo mundo está mentindo para você por dinheiro",
+    "1654566": "Vibe",
+    "41505": "Abrigo",
+    "429405": "Pau pra toda obra",
+    "4475": "A Vida Íntima de Pippa Lee",
+    "466272": "Era Uma Vez em… Hollywood",
+    "505954": "T-34",
+    "507241": "The Killer's Game",
+    "568453": "O Experimento do Sono",
+    "726897": "Luta por Vingança",
+    "860623": "O Último a Cair"
    },
    "out": {
-    "1325198": "The Final Copy of Ilon Specht",
-    "13491": "O Cavaleiro Templário",
-    "1400381": "Nunca Acaba, Jeff Buckley",
-    "1450684": "Stigmatized Properties",
-    "1529372": "Don't Be Shy",
-    "15906": "Barbie e o Pégaso Mágico",
-    "2313": "Terapia do Amor",
-    "242065": "Accused",
-    "255295": "Palavras Diabólicas",
-    "396021": "Cícero Dias, o Compadre de Picasso",
-    "536208": "Não É Mais Uma Canção de Amor",
-    "574060": "Gunpowder Milkshake: Mistura Explosiva",
-    "62046": "Assalto em Dose Dupla",
-    "653851": "Irmãos de Honra",
-    "698": "007 - Aventura no Espaço",
-    "730665": "EAS: Esquadrão Antissequestro",
-    "739901": "Possessão Demoníaca",
-    "741110": "Entre Dois Amores",
-    "760556": "Perdidos no Natal",
-    "770428": "Em Nome do Pai",
-    "814800": "Boa Noite, Mamã",
-    "843633": "Vingança e Redenção",
-    "91333": "Recoil - Vingança Implacável"
+    "1007826": "Os Underdoggs",
+    "1147913": "Destinos Opostos",
+    "1229770": "Seca",
+    "1297188": "Aquela semana juntos",
+    "1301844": "Belén: Uma História de Injustiça",
+    "1817731": "Era Uma Vez em… Hollywood",
+    "25597": "João e Maria",
+    "313519": "Justiça Letal",
+    "361931": "Ronaldo",
+    "441728": "Hampstead: Nunca É Tarde Para Amar",
+    "534490": "Vingança",
+    "628262": "Fama Fatal",
+    "802226": "O Bingo Macabro",
+    "849369": "Superanfitriã"
    }
   },
   "name": "Amazon Prime Video",
   "shows": {
    "in": {
-    "312697": "Na Mira do Júri: Retiro Corporativo",
-    "312872": "7vs.Wild"
+    "303272": "Guerreiras Mágicas de Rayearth",
+    "332683": "ROCK PAPER LANDMINE",
+    "44549": "Nashville: No Ritmo da Fama"
    },
    "out": {
-    "139434": "7vs.Wild",
-    "222023": "Na Mira do Júri: Retiro Corporativo"
+    "259773": "Nashville: No Ritmo da Fama",
+    "34158": "Guerreiras Mágicas de Rayearth"
+   }
+  }
+ },
+ "ptv": {
+  "movies": {
+   "in": {},
+   "out": {
+    "166546": "A Noiva 66"
+   }
+  },
+  "name": "Pluto TV",
+  "shows": {
+   "in": {
+    "30946": "Obsessivos Compulsivos",
+    "341543": "Sementes da Educação",
+    "57532": "Patrulha Pata"
+   },
+   "out": {
+    "260216": "Obsessivos Compulsivos",
+    "286277": "Patrulha Pata"
    }
   }
  }

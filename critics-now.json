@@ -1,6 +1,38 @@
 {
   "_raw": [
     {
+      "date": "2026-11-13",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Everytime",
+      "url": "https://www.rogerebert.com/reviews/everytime-film-review-2026"
+    },
+    {
+      "date": "2026-11-13",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "Soul Patrol",
+      "url": "https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026"
+    },
+    {
+      "date": "2026-11-13",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "The Good Daughter",
+      "url": "https://www.rogerebert.com/reviews/the-good-daughter-rose-byrne-meghann-fahy-peacock-tv-review-2026"
+    },
+    {
+      "date": "2026-11-13",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Avedon",
+      "url": "https://www.rogerebert.com/reviews/avedon-netflix-documentary-film-review-2026"
+    },
+    {
       "date": "2026-11-12",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
@@ -12,41 +44,17 @@
       "date": "2026-11-12",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Everytime",
-      "url": "https://www.rogerebert.com/reviews/everytime-film-review-2026"
-    },
-    {
-      "date": "2026-11-12",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Soul Patrol",
-      "url": "https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026"
-    },
-    {
-      "date": "2026-11-12",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
       "rating": "4★",
       "title": "Hen",
       "url": "https://www.rogerebert.com/reviews/hen-georgia-movie-review-2026"
     },
     {
       "date": "2026-11-12",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "The Good Daughter",
-      "url": "https://www.rogerebert.com/reviews/the-good-daughter-rose-byrne-meghann-fahy-peacock-tv-review-2026"
-    },
-    {
-      "date": "2026-11-12",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
+      "media_type": "tv",
+      "outlet": "The Guardian",
       "rating": "4★",
-      "title": "Avedon",
-      "url": "https://www.rogerebert.com/reviews/avedon-netflix-documentary-film-review-2026"
+      "title": "Cunk on Cinema",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/cunk-on-cinema-review-philomena-cunk-diane-morgan-bbc-two"
     },
     {
       "date": "2026-11-11",
@@ -9951,78 +9959,6 @@
     ],
     "title": "Lanterns",
     "tmdb_id": 95350,
-    "watch": {
-      "offers": [
-        {
-          "audio": [
-            "en",
-            "es",
-            "fr",
-            "pt"
-          ],
-          "audio_pt": true,
-          "channel": null,
-          "host": null,
-          "kind": "included",
-          "links": {
-            "android": "https://play.hbomax.com/video/watch/bb988e99-2948-4cfe-b9e0-3d41f95380bf",
-            "androidtv": "intent://play.hbomax.com/video/watch/bb988e99-2948-4cfe-b9e0-3d41f95380bf?utm_source=universal_search#Intent;launchFlags=0x00800000;scheme=https;end",
-            "tvos": "https://play.hbomax.com/video/watch/bb988e99-2948-4cfe-b9e0-3d41f95380bf?utm_source=universal_search",
-            "web": "https://play.hbomax.com/video/watch/bb988e99-2948-4cfe-b9e0-3d41f95380bf"
-          },
-          "price": null,
-          "provider": "HBO Max",
-          "quality": "_4K",
-          "state": "verified",
-          "sub_pt": true,
-          "tech": "max",
-          "until": null
-        },
-        {
-          "audio": [
-            "cs",
-            "de",
-            "en",
-            "es",
-            "fr",
-            "hu",
-            "it",
-            "pl",
-            "pt",
-            "ru",
-            "sk",
-            "th",
-            "tr",
-            "uk"
-          ],
-          "audio_pt": true,
-          "channel": "HBO Max",
-          "host": "Prime Video",
-          "kind": "channel",
-          "links": {
-            "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.38bce32c-8377-4467-b4bf-0545d2aa759c",
-            "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.38bce32c-8377-4467-b4bf-0545d2aa759c&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-            "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.38bce32c-8377-4467-b4bf-0545d2aa759c&territory=BR",
-            "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38bce32c-8377-4467-b4bf-0545d2aa759c"
-          },
-          "price": null,
-          "provider": "HBO Max Amazon Channel",
-          "quality": "_4K",
-          "state": "verified",
-          "sub_pt": true,
-          "tech": "amazonhbomax",
-          "until": null
-        }
-      ],
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
-      ],
-      "urls": {
-        "HBO Max": "https://play.hbomax.com/video/watch/bb988e99-2948-4cfe-b9e0-3d41f95380bf",
-        "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38bce32c-8377-4467-b4bf-0545d2aa759c"
-      }
-    },
     "year": 2026
   },
   "tt26598805": {
@@ -10305,20 +10241,83 @@
       "offers": [
         {
           "audio": [
+            "en",
+            "es",
+            "fr",
+            "pt"
+          ],
+          "audio_pt": true,
+          "channel": null,
+          "host": null,
+          "kind": "included",
+          "links": {
+            "android": "https://play.hbomax.com/video/watch/ea28b2ce-ae49-42ae-bf17-884645640768",
+            "androidtv": "intent://play.hbomax.com/video/watch/ea28b2ce-ae49-42ae-bf17-884645640768?utm_source=universal_search#Intent;launchFlags=0x00800000;scheme=https;end",
+            "tvos": "https://play.hbomax.com/video/watch/ea28b2ce-ae49-42ae-bf17-884645640768?utm_source=universal_search",
+            "web": "https://play.hbomax.com/show/710798da-f811-40be-9ed9-3a7443e36278"
+          },
+          "price": null,
+          "provider": "HBO Max",
+          "quality": "_4K",
+          "state": "verified",
+          "sub_pt": true,
+          "tech": "max",
+          "until": null
+        },
+        {
+          "audio": [
             "cs",
             "de",
             "en",
             "es",
             "fr",
-            "hi",
             "hu",
             "it",
             "ja",
+            "ms",
             "pl",
             "pt",
+            "ru",
             "sk",
-            "ta",
-            "te",
+            "th",
+            "tr",
+            "uk"
+          ],
+          "audio_pt": true,
+          "channel": "HBO Max",
+          "host": "Prime Video",
+          "kind": "channel",
+          "links": {
+            "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.44c05f67-8490-458a-9ce6-ddc17528574f",
+            "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.44c05f67-8490-458a-9ce6-ddc17528574f&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
+            "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.44c05f67-8490-458a-9ce6-ddc17528574f&territory=BR",
+            "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44c05f67-8490-458a-9ce6-ddc17528574f"
+          },
+          "price": null,
+          "provider": "HBO Max Amazon Channel",
+          "quality": "_4K",
+          "state": "verified",
+          "sub_pt": true,
+          "tech": "amazonhbomax",
+          "until": null
+        },
+        {
+          "audio": [
+            "cs",
+            "de",
+            "en",
+            "es",
+            "fr",
+            "hu",
+            "it",
+            "ja",
+            "ms",
+            "pl",
+            "pt",
+            "ru",
+            "sk",
+            "th",
+            "tr",
             "uk"
           ],
           "audio_pt": true,
@@ -10369,15 +10368,16 @@
             "en",
             "es",
             "fr",
-            "hi",
             "hu",
             "it",
             "ja",
+            "ms",
             "pl",
             "pt",
+            "ru",
             "sk",
-            "ta",
-            "te",
+            "th",
+            "tr",
             "uk"
           ],
           "audio_pt": true,
@@ -10422,8 +10422,14 @@
           "until": null
         }
       ],
-      "providers": [],
-      "urls": {}
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ],
+      "urls": {
+        "HBO Max": "https://play.hbomax.com/show/710798da-f811-40be-9ed9-3a7443e36278",
+        "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44c05f67-8490-458a-9ce6-ddc17528574f"
+      }
     },
     "media_type": "movie",
     "original_title": "The End of Oak Street",
@@ -12012,6 +12018,7 @@
             "fr",
             "it",
             "ja",
+            "pl",
             "pt",
             "tr"
           ],
@@ -13369,7 +13376,7 @@
     "poster": "/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
     "recs": [
       {
-        "date": "2026-11-12",
+        "date": "2026-11-13",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/the-good-daughter-rose-byrne-meghann-fahy-peacock-tv-review-2026"
@@ -13663,10 +13670,10 @@
           "host": null,
           "kind": "included",
           "links": {
-            "android": "https://www.disneyplus.com/play/13fa9330-d49f-47be-97f2-3e03589bb304",
-            "androidtv": "intent://www.disneyplus.com/play/13fa9330-d49f-47be-97f2-3e03589bb304#Intent;launchFlags=0x00800000;scheme=https;end",
-            "tvos": "https://www.disneyplus.com/play/13fa9330-d49f-47be-97f2-3e03589bb304",
-            "web": "https://www.disneyplus.com/browse/entity-05610ec8-102e-41fc-a139-fea85df8035a"
+            "android": "https://www.disneyplus.com/play/c18ab4ef-c309-4fa9-8c22-1c096d7aa5b9",
+            "androidtv": "intent://www.disneyplus.com/play/c18ab4ef-c309-4fa9-8c22-1c096d7aa5b9#Intent;launchFlags=0x00800000;scheme=https;end",
+            "tvos": "https://www.disneyplus.com/play/c18ab4ef-c309-4fa9-8c22-1c096d7aa5b9",
+            "web": "https://www.disneyplus.com/browse/entity-b6291e80-5aea-43f0-83f8-10f731ed8498"
           },
           "price": null,
           "provider": "Disney Plus",
@@ -13681,7 +13688,7 @@
         "Disney Plus"
       ],
       "urls": {
-        "Disney Plus": "https://www.disneyplus.com/browse/entity-05610ec8-102e-41fc-a139-fea85df8035a"
+        "Disney Plus": "https://www.disneyplus.com/browse/entity-b6291e80-5aea-43f0-83f8-10f731ed8498"
       }
     },
     "year": 2026
@@ -21919,7 +21926,7 @@
     "poster": "/sav8yadAjfykfFlZuFsclmrN9st.jpg",
     "recs": [
       {
-        "date": "2026-11-12",
+        "date": "2026-11-13",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026"
@@ -23739,7 +23746,7 @@
     "poster": "/lbZ7ltgw8xiKfCEXme8GO5HcV9z.jpg",
     "recs": [
       {
-        "date": "2026-11-12",
+        "date": "2026-11-13",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/everytime-film-review-2026"
@@ -23810,7 +23817,7 @@
     "poster": "/8RYuzFSh4ankYCQWPljx89dlFea.jpg",
     "recs": [
       {
-        "date": "2026-11-12",
+        "date": "2026-11-13",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/avedon-netflix-documentary-film-review-2026"
@@ -25066,6 +25073,35 @@
     ],
     "title": "The Watergate Caper: Richard Nixon and the Death of the American Dream",
     "tmdb_id": 1773855,
+    "year": 2026
+  },
+  "tt47021035": {
+    "age": {
+      "classind": "18",
+      "source": "US"
+    },
+    "genres": [
+      35,
+      99
+    ],
+    "media_type": "tv",
+    "original_title": "Cunk on Cinema",
+    "poster": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+    "recs": [
+      {
+        "date": "2026-11-12",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/cunk-on-cinema-review-philomena-cunk-diane-morgan-bbc-two"
+      }
+    ],
+    "title": "Cunk on Cinema",
+    "tmdb_id": 335981,
+    "watch": {
+      "offers": [],
+      "providers": [],
+      "urls": {}
+    },
     "year": 2026
   },
   "tt48394363": {

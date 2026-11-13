@@ -25,9 +25,35 @@
     "lists": [
       "brasil-canon"
     ],
-    "offers": [],
+    "offers": [
+      {
+        "audio": [
+          "es",
+          "pt"
+        ],
+        "audio_pt": true,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": "https://play.hbomax.com/video/watch/b34a2417-a4df-4b18-bd5d-95348f687db1",
+          "androidtv": "intent://play.hbomax.com/video/watch/b34a2417-a4df-4b18-bd5d-95348f687db1?utm_source=universal_search#Intent;launchFlags=0x00800000;scheme=https;end",
+          "tvos": "https://play.hbomax.com/video/watch/b34a2417-a4df-4b18-bd5d-95348f687db1?utm_source=universal_search",
+          "web": "https://play.hbomax.com/video/watch/b34a2417-a4df-4b18-bd5d-95348f687db1"
+        },
+        "price": null,
+        "provider": "HBO Max",
+        "quality": "HD",
+        "state": "trusted",
+        "sub_pt": null,
+        "tech": "max",
+        "until": null
+      }
+    ],
     "poster": "/hYRwRganCESkloQydyEgGz7lYV.jpg",
-    "providers": [],
+    "providers": [
+      "HBO Max"
+    ],
     "status": "returning",
     "title": "O Show da Luna",
     "tmdb_id": 63301
@@ -5954,6 +5980,26 @@
         "until": "2027-06-30"
       },
       {
+        "audio": [],
+        "audio_pt": null,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": "https://www.netflix.com/watch/81188375",
+          "androidtv": "intent://www.netflix.com/watch/70243420#Intent;launchFlags=0x00800000;scheme=https;package=com.netflix.ninja;S.source=30;end",
+          "tvos": "nflx://www.netflix.com/watch/70243420?source=topshelf",
+          "web": "https://www.netflix.com/title/70243420"
+        },
+        "price": null,
+        "provider": "Netflix",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": null,
+        "tech": "netflix",
+        "until": null
+      },
+      {
         "audio": [
           "en",
           "es",
@@ -6006,12 +6052,14 @@
     "providers": [
       "Cartoon Network Amazon Channel",
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Netflix"
     ],
     "providers_verified": [
       "Cartoon Network Amazon Channel",
       "HBO Max",
-      "HBO Max Amazon Channel"
+      "HBO Max Amazon Channel",
+      "Netflix"
     ],
     "status": "ended",
     "title": "O Incrível Mundo de Gumball",
@@ -7966,15 +8014,151 @@
         "year": 2015
       }
     ],
+    "offers": [
+      {
+        "audio": [],
+        "audio_pt": null,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": "https://www.netflix.com/watch/81277433",
+          "androidtv": "intent://www.netflix.com/watch/80026226#Intent;launchFlags=0x00800000;scheme=https;package=com.netflix.ninja;S.source=30;end",
+          "tvos": "nflx://www.netflix.com/watch/80026226?source=topshelf",
+          "web": "https://www.netflix.com/title/80026226"
+        },
+        "price": null,
+        "provider": "Netflix",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": null,
+        "tech": "netflix",
+        "until": null
+      },
+      {
+        "audio": [],
+        "audio_pt": null,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": "https://www.paramountplus.com/shows/paw-patrol/video/KNywS6oo_YKo_QyAWOBCBJ01Ok37U1kR/paw-patrol-paw-patrol?amp%3Butm_source=publisher",
+          "androidtv": "intent://www.paramountplus.com/shows/paw-patrol/video/KNywS6oo_YKo_QyAWOBCBJ01Ok37U1kR/paw-patrol-paw-patrol#Intent;scheme=pplusintl;S.browser_fallback_url=https%3A%2F%2Fwww.paramountplus.com%2Fshows%2Fpaw-patrol%2Fvideo%2FKNywS6oo_YKo_QyAWOBCBJ01Ok37U1kR%2Fpaw-patrol-paw-patrol%3FsearchReferral%3D%26amp%3Butm_source%3Dpublisher;end",
+          "tvos": "pplusintl://www.paramountplus.com/shows/paw-patrol/video/KNywS6oo_YKo_QyAWOBCBJ01Ok37U1kR/paw-patrol-paw-patrol?searchReferral=&amp;utm_source=publisher",
+          "web": "https://www.paramountplus.com/shows/paw-patrol/video/KNywS6oo_YKo_QyAWOBCBJ01Ok37U1kR/paw-patrol-paw-patrol?amp%3Butm_source=publisher"
+        },
+        "price": null,
+        "provider": "Paramount Plus",
+        "quality": "HD",
+        "state": "trusted",
+        "sub_pt": null,
+        "tech": "paramountplus",
+        "until": null
+      },
+      {
+        "audio": [],
+        "audio_pt": null,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": "https://www.paramountplus.com/shows/paw-patrol/video/KNywS6oo_YKo_QyAWOBCBJ01Ok37U1kR/paw-patrol-paw-patrol?amp%3Butm_source=publisher",
+          "androidtv": "intent://www.paramountplus.com/shows/paw-patrol/video/KNywS6oo_YKo_QyAWOBCBJ01Ok37U1kR/paw-patrol-paw-patrol#Intent;scheme=pplusintl;S.browser_fallback_url=https%3A%2F%2Fwww.paramountplus.com%2Fshows%2Fpaw-patrol%2Fvideo%2FKNywS6oo_YKo_QyAWOBCBJ01Ok37U1kR%2Fpaw-patrol-paw-patrol%3FsearchReferral%3D%26amp%3Butm_source%3Dpublisher;end",
+          "tvos": "pplusintl://www.paramountplus.com/shows/paw-patrol/video/KNywS6oo_YKo_QyAWOBCBJ01Ok37U1kR/paw-patrol-paw-patrol?searchReferral=&amp;utm_source=publisher",
+          "web": "https://www.paramountplus.com/shows/paw-patrol/video/KNywS6oo_YKo_QyAWOBCBJ01Ok37U1kR/paw-patrol-paw-patrol?amp%3Butm_source=publisher"
+        },
+        "price": null,
+        "provider": "Paramount Plus Premium",
+        "quality": "HD",
+        "state": "trusted",
+        "sub_pt": null,
+        "tech": "paramountpluspremium",
+        "until": null
+      },
+      {
+        "audio": [
+          "pt"
+        ],
+        "audio_pt": true,
+        "channel": null,
+        "host": null,
+        "kind": "ads",
+        "links": {
+          "android": "https://pluto.tv/on-demand/series/paw-patrol-br/season/1/episode/o-filhote-faz-um-splash-o-festival-de-outono-dos-filhotes-2012-1-1",
+          "androidtv": "intent://pluto.tv/on-demand/series/paw-patrol-br/season/1/episode/o-filhote-faz-um-splash-o-festival-de-outono-dos-filhotes-2012-1-1?utm_medium=deeplink&utm_source=justwatch#Intent;launchFlags=0x00800000;scheme=https;end",
+          "tvos": "https://pluto.tv/on-demand/series/paw-patrol-br/season/1/episode/o-filhote-faz-um-splash-o-festival-de-outono-dos-filhotes-2012-1-1?utm_medium=deeplink&utm_source=justwatch",
+          "web": "https://pluto.tv/on-demand/series/paw-patrol-br/season/1/episode/o-filhote-faz-um-splash-o-festival-de-outono-dos-filhotes-2012-1-1"
+        },
+        "price": null,
+        "provider": "Pluto TV",
+        "quality": "SD",
+        "state": "trusted",
+        "sub_pt": null,
+        "tech": "plutotv",
+        "until": null
+      },
+      {
+        "audio": [],
+        "audio_pt": null,
+        "channel": "Paramount Plus",
+        "host": "Apple TV",
+        "kind": "channel",
+        "links": {
+          "android": null,
+          "androidtv": null,
+          "tvos": null,
+          "web": null
+        },
+        "price": null,
+        "provider": "Paramount Plus Apple TV channel",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": null,
+        "tech": "appletvparamountplus",
+        "until": null
+      },
+      {
+        "audio": [
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "ja",
+          "pt"
+        ],
+        "audio_pt": true,
+        "channel": "Paramount+",
+        "host": "Prime Video",
+        "kind": "channel",
+        "links": {
+          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.9020464c-996c-4a55-bbcf-8dcf370d4d8a",
+          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.9020464c-996c-4a55-bbcf-8dcf370d4d8a&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
+          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.9020464c-996c-4a55-bbcf-8dcf370d4d8a&territory=BR",
+          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9020464c-996c-4a55-bbcf-8dcf370d4d8a"
+        },
+        "price": null,
+        "provider": "Paramount+ Amazon Channel",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": false,
+        "tech": "amazonparamountplus",
+        "until": null
+      }
+    ],
     "poster": "/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
     "providers": [
       "Netflix",
-      "Netflix Standard with Ads",
       "Paramount Plus",
       "Paramount Plus Apple TV channel",
       "Paramount Plus Premium",
       "Paramount+ Amazon Channel",
       "Pluto TV"
+    ],
+    "providers_verified": [
+      "Netflix",
+      "Paramount Plus Apple TV channel",
+      "Paramount+ Amazon Channel"
     ],
     "status": "returning",
     "title": "Patrulha Canina",
@@ -8910,10 +9094,10 @@
         "host": null,
         "kind": "included",
         "links": {
-          "android": "https://www.disneyplus.com/play/f191fda7-cf62-41bb-8925-31b4deb9dda0",
-          "androidtv": "intent://www.disneyplus.com/play/f191fda7-cf62-41bb-8925-31b4deb9dda0#Intent;launchFlags=0x00800000;scheme=https;end",
-          "tvos": "https://www.disneyplus.com/play/f191fda7-cf62-41bb-8925-31b4deb9dda0",
-          "web": "https://www.disneyplus.com/browse/entity-25405af5-cf5d-41fe-b5de-20c2f080571b"
+          "android": "https://www.disneyplus.com/play/78351308-049f-47f0-92e6-74bb327783e7",
+          "androidtv": "intent://www.disneyplus.com/play/78351308-049f-47f0-92e6-74bb327783e7#Intent;launchFlags=0x00800000;scheme=https;end",
+          "tvos": "https://www.disneyplus.com/play/78351308-049f-47f0-92e6-74bb327783e7",
+          "web": "https://www.disneyplus.com/browse/entity-626e02ea-e139-4f45-995a-6856848d0f2f"
         },
         "price": null,
         "provider": "Disney Plus",
@@ -10485,10 +10669,10 @@
         "host": null,
         "kind": "included",
         "links": {
-          "android": "https://www.disneyplus.com/play/8c73b300-6e4d-4dd7-9a8f-027b9f3f459f",
-          "androidtv": "intent://www.disneyplus.com/play/8c73b300-6e4d-4dd7-9a8f-027b9f3f459f#Intent;launchFlags=0x00800000;scheme=https;end",
-          "tvos": "https://www.disneyplus.com/play/8c73b300-6e4d-4dd7-9a8f-027b9f3f459f",
-          "web": "https://www.disneyplus.com/browse/entity-e878689c-487f-4041-bd45-cc4551f0a2e5"
+          "android": "https://www.disneyplus.com/play/f34d5bda-d298-40d3-bb2a-b6b4bc6252d9",
+          "androidtv": "intent://www.disneyplus.com/play/f34d5bda-d298-40d3-bb2a-b6b4bc6252d9#Intent;launchFlags=0x00800000;scheme=https;end",
+          "tvos": "https://www.disneyplus.com/play/f34d5bda-d298-40d3-bb2a-b6b4bc6252d9",
+          "web": "https://www.disneyplus.com/browse/entity-3e171a81-a5dc-42c7-9b31-43ec454e9940"
         },
         "price": null,
         "provider": "Disney Plus",

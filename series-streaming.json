@@ -134,7 +134,7 @@
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8482ba93-1984-4351-afbd-30aa2affef47",
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-1a7d8421-5215-4669-9967-3875d2fe37c4",
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-e6fd3925-2978-4818-ac61-eec617cbf782",
       "HBO Max": "https://play.hbomax.com/video/watch/fb057a4e-f4e0-40d8-9d42-afdcb522654a",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8482ba93-1984-4351-afbd-30aa2affef47"
     },
@@ -339,12 +339,12 @@
       "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6baf1097-1a9b-4e93-8eba-74bb6923c65f",
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9632f7ac-d196-4a36-b664-d424e7d038ad",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-28137d88-b95f-4fc7-8545-31162ebe63a7",
       "HBO Max": "https://play.hbomax.com/video/watch/d3b9d800-09bc-4012-b555-24ff8f0b9bed",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6baf1097-1a9b-4e93-8eba-74bb6923c65f",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9632f7ac-d196-4a36-b664-d424e7d038ad",
       "Netflix": "https://www.netflix.com/title/70136117",
-      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6baf1097-1a9b-4e93-8eba-74bb6923c65f"
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9632f7ac-d196-4a36-b664-d424e7d038ad"
     },
     "verified": [
       "Amazon Prime Video",
@@ -458,7 +458,7 @@
       "Amazon Prime Video"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f36450ed-e594-49d9-bb82-6b0a6498ebea"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e1651cc0-8464-4a5b-9366-d7f4edb24d1c"
     },
     "verified": [
       "Amazon Prime Video"
@@ -706,7 +706,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GK9U353V4",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GY79X321R",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd4b5aab-b901-4620-abc7-a476190a00ef"
     },
     "verified": [
@@ -3050,7 +3050,7 @@
       "The Great Courses Signature Collection Amazon Channel"
     ],
     "urls": {
-      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb93120-8db4-e890-c593-c0f215b87a45"
+      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.18ba00db-d308-741c-a5a5-35a2d7c4e6b9"
     },
     "verified": [
       "The Great Courses Signature Collection Amazon Channel"
@@ -3725,7 +3725,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GVWU8NKGQ",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G0DUMG7EX",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
       "HBO Max": "https://play.hbomax.com/video/watch/61e42cc7-30a8-454a-9c92-236712db9130",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
@@ -4027,7 +4027,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-05610ec8-102e-41fc-a139-fea85df8035a"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-b6291e80-5aea-43f0-83f8-10f731ed8498"
     },
     "verified": [
       "Disney Plus"
@@ -4921,7 +4921,7 @@
     ],
     "urls": {
       "HBO Max": "https://play.hbomax.com/video/watch/f48d0843-84d3-456b-a763-4d21981b42bc",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e5e0bec1-abbd-433e-ae28-09cc6387b70c"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42c2e0df-4c61-4af6-a71f-84511c93f279"
     },
     "verified": [
       "HBO Max",
@@ -5648,7 +5648,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-e878689c-487f-4041-bd45-cc4551f0a2e5"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-3e171a81-a5dc-42c7-9b31-43ec454e9940"
     },
     "verified": [
       "Disney Plus"

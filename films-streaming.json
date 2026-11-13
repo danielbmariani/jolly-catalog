@@ -418,7 +418,14 @@
     }
   },
   "1050981": {
-    "providers": []
+    "providers": [
+      "Apple TV",
+      "Apple TV Amazon Channel"
+    ],
+    "urls": {
+      "Apple TV": "https://tv.apple.com/br/movie/a-arte-de-ser-heumann/umc.cmc.5gf63v7zj97yiozkpj26lpy55?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv",
+      "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cb5bf8f-b2a8-4723-be31-8cb088507a4d"
+    }
   },
   "1051": {
     "providers": [
@@ -923,7 +930,14 @@
     "providers": []
   },
   "1101383": {
-    "providers": []
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "urls": {
+      "HBO Max": "https://play.hbomax.com/show/710798da-f811-40be-9ed9-3a7443e36278",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44c05f67-8490-458a-9ce6-ddc17528574f"
+    }
   },
   "11020": {
     "providers": [
@@ -1385,9 +1399,11 @@
   },
   "116146": {
     "providers": [
+      "Doc Canal Brasil Amazon Channel",
       "Netflix"
     ],
     "urls": {
+      "Doc Canal Brasil Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b66f35bf-dedb-4dd4-a8f4-6b4c00f34db4",
       "Netflix": "https://www.netflix.com/title/82152291"
     }
   },
@@ -2125,7 +2141,12 @@
     "providers": []
   },
   "1263012": {
-    "providers": []
+    "providers": [
+      "Amazon Prime Video"
+    ],
+    "urls": {
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80dcc8ba-5e4d-4497-a070-09b8ba436a81"
+    }
   },
   "1265717": {
     "providers": [
@@ -2302,7 +2323,7 @@
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144FRFR",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144HIIN",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-b8b65a37-0205-4771-bd07-24b5c4406034",
       "HBO Max": "https://play.hbomax.com/show/291804e2-d281-4934-97f5-5d305fd845fc",
@@ -2451,14 +2472,6 @@
   },
   "135": {
     "providers": []
-  },
-  "13528": {
-    "providers": [
-      "Plex"
-    ],
-    "urls": {
-      "Plex": "https://watch.plex.tv/movie/gaslight-1944?autoplay=1"
-    }
   },
   "1354518": {
     "providers": [
@@ -2751,7 +2764,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G31UXJW8E",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G14U4DXQ2",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3583b831-3ad5-4bf2-9be1-fda81ca8f0e9"
     }
   },
@@ -3018,10 +3031,16 @@
   "1433367": {
     "providers": []
   },
+  "1433583": {
+    "providers": []
+  },
   "14337": {
     "providers": []
   },
   "1437396": {
+    "providers": []
+  },
+  "1437696": {
     "providers": []
   },
   "144": {
@@ -3061,7 +3080,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-09aa241f-b771-4323-a7ac-e2dae4f3782e"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-24ff6801-575d-45d4-a157-e95f4499e161"
     }
   },
   "145": {
@@ -6656,9 +6675,11 @@
   },
   "30497": {
     "providers": [
+      "Amazon Prime Video",
       "Filmelier Plus Amazon Channel"
     ],
     "urls": {
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.915c983c-f0a4-471b-8faa-ccc109f37e7b",
       "Filmelier Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.915c983c-f0a4-471b-8faa-ccc109f37e7b"
     }
   },
@@ -6710,13 +6731,15 @@
       "Belas Artes à La Carte",
       "Looke",
       "Looke Amazon Channel",
-      "NetMovies"
+      "NetMovies",
+      "Sony One Amazon Channel"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/243034",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4aa9f75c-9968-b5a5-6262-1177a415a141",
-      "NetMovies": "https://www.netmovies.com.br/filmes/243034"
+      "NetMovies": "https://www.netmovies.com.br/filmes/243034",
+      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4aa9f75c-9968-b5a5-6262-1177a415a141"
     }
   },
   "3080": {
@@ -7786,7 +7809,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886DEDE",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ITIT",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     }
   },
@@ -8882,6 +8905,16 @@
     ],
     "urls": {
       "Oldflix": "https://www.oldflix.com.br/title/play/58ee5153d5a0d11a848c1f1e"
+    }
+  },
+  "466272": {
+    "providers": [
+      "Amazon Prime Video",
+      "Sony One Amazon Channel"
+    ],
+    "urls": {
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86b60c06-85b4-b8a8-bbb1-cc1374c0ae0e",
+      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86b60c06-85b4-b8a8-bbb1-cc1374c0ae0e"
     }
   },
   "466420": {
@@ -11297,7 +11330,7 @@
       "NetMovies"
     ],
     "urls": {
-      "Looke": "https://www.looke.com.br/detalhes/252381",
+      "Looke": "https://www.looke.com.br/detalhes/129202",
       "NetMovies": "https://www.netmovies.com.br/filmes/252381"
     }
   },
@@ -13550,7 +13583,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GN7UD22PN",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUE5537",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
@@ -14332,11 +14365,13 @@
   "980477": {
     "providers": [
       "Looke",
-      "Looke Amazon Channel"
+      "Looke Amazon Channel",
+      "Netflix"
     ],
     "urls": {
       "Looke": "https://www.looke.com.br/detalhes/530991",
-      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9826e46f-4146-4a84-b1e3-b1bcc36bac03"
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9826e46f-4146-4a84-b1e3-b1bcc36bac03",
+      "Netflix": "https://www.netflix.com/title/82178536"
     }
   },
   "980489": {
