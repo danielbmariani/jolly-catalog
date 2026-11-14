@@ -1,50 +1,41 @@
 {
- "_generated": "2026-11-13",
- "_previous": "2026-11-12",
+ "_generated": "2026-11-14",
+ "_previous": "2026-11-13",
  "aho": {
   "movies": {
    "in": {
-    "1101383": "O Fim de Oak Street",
-    "674218": "Ponto de Partida",
-    "9342": "A Máscara de Zorro"
+    "849777": "Jackass: Nadando com Tubarões"
    },
    "out": {
-    "181132": "Ponto de Partida",
-    "502153": "Ali & Cavett: The Tale of the Tapes",
-    "506775": "Nekrotronic",
-    "677781": "A Máscara de Zorro"
+    "1001870": "Jackass: Nadando com Tubarões"
    }
   },
   "name": "HBO Max Amazon Channel",
   "shows": {
    "in": {
-    "312439": "Alejandro Sanz: Quando Ninguém Me Vê",
-    "315858": "Perdido",
-    "341837": "Lanternas"
+    "314647": "Presente",
+    "341769": "O assassinato do Galo de Ouro"
    },
-   "out": {
-    "209626": "Kiddie Kai",
-    "293069": "Perdido",
-    "95350": "Lanternas"
-   }
+   "out": {}
   }
  },
  "alo": {
   "movies": {
    "in": {
-    "1084440": "Daniela Forever",
-    "1341548": "Superanfitriã",
-    "297283": "Estrada Real da Cachaça",
-    "4475": "A Vida Íntima de Pippa Lee",
-    "967370": "Olha Que Três!",
-    "985093": "Uma Vez Herói"
+    "1353245": "Corpos Hospedeiros",
+    "1748425": "Verdade e Justiça",
+    "2640": "Atração Mortal",
+    "28580": "Farrapo Humano",
+    "516700": "Gundala: A Ascensão de um Herói",
+    "898368": "Sopro"
    },
    "out": {
-    "3055": "O Vale das Bonecas",
-    "308149": "Paixões Cruzadas",
-    "481093": "Foro Íntimo",
-    "706005": "Revelações Perigosas",
-    "849369": "Superanfitriã"
+    "1507322": "Sopro",
+    "1518033": "Farrapo Humano",
+    "1817978": "Atração Mortal",
+    "408355": "O Reino dos Elfos",
+    "529446": "Corpos Hospedeiros",
+    "583841": "Verdade e Justiça"
    }
   },
   "name": "Looke Amazon Channel"
@@ -52,124 +43,88 @@
  "amu": {
   "movies": {
    "in": {
-    "1119537": "Provas de Amor",
-    "1210268": "O Degelo",
-    "396535": "Train to Busan"
+    "389218": "O Nosso Tempo"
    },
-   "out": {}
+   "out": {
+    "1459816": "O Nosso Tempo",
+    "1523096": "Fragments for Venus"
+   }
   },
   "name": "MUBI Amazon Channel"
  },
- "atl": {
+ "bac": {
   "movies": {
    "in": {
-    "1402404": "O Shaolin do Sertão 2",
-    "1485002": "Holiday Touchdown: A Bills Love Story",
-    "1545997": "Single on the 25th",
-    "1547913": "A Keller Christmas Vacation",
-    "1547915": "Tidings for the Season",
-    "1547927": "A Make or Break Holiday"
-   },
-   "out": {}
-  },
-  "name": "Telecine Amazon Channel"
- },
- "atp": {
-  "movies": {
-   "in": {
-    "1050981": "A Arte de Ser Heumann",
-    "1780407": "Snoopy Apresenta: 12 Dias de Snoopy"
-   },
-   "out": {}
-  },
-  "name": "Apple TV",
-  "shows": {
-   "in": {
-    "254630": "12 12 12"
-   },
-   "out": {}
-  }
- },
- "avl": {
-  "movies": {
-   "in": {
-    "1050981": "A Arte de Ser Heumann",
-    "1780407": "Snoopy Apresenta: 12 Dias de Snoopy"
-   },
-   "out": {}
-  },
-  "name": "Apple TV Amazon Channel",
-  "shows": {
-   "in": {
-    "254630": "12 12 12"
-   },
-   "out": {}
-  }
- },
- "cru": {
-  "name": "Crunchyroll",
-  "shows": {
-   "in": {
-    "132310": "Rikei ga Koi ni Ochita no de Shoumei Shite Mita.",
-    "205493": "The Prince of Tennis II",
-    "303272": "Guerreiras Mágicas de Rayearth"
+    "28580": "Farrapo Humano"
    },
    "out": {
-    "31692": "Kurau Phantom Memory",
-    "34158": "Guerreiras Mágicas de Rayearth",
-    "67249": "The Prince of Tennis II",
-    "90999": "Rikei ga Koi ni Ochita no de Shoumei Shite Mita."
+    "1518033": "Farrapo Humano"
    }
-  }
+  },
+  "name": "Belas Artes à La Carte"
  },
  "dnp": {
   "movies": {
    "in": {
-    "1786842": "Vingadores: Endgame Encore",
-    "321612": "A Bela e o Monstro"
+    "1716604": "Orgulho de Família no Natal",
+    "851122": "Os Tubarões Mais Perigosos do Mundo"
    },
    "out": {
-    "1819518": "A Bela e o Monstro",
-    "54682": "Jordan Rides the Bus"
+    "944719": "Os Tubarões Mais Perigosos do Mundo"
    }
   },
   "name": "Disney Plus",
   "shows": {
    "in": {
-    "31155": "Tara Duncan",
-    "320507": "A Vida Secreta das Esposas Mórmones: Orange County",
-    "329896": "Alerta Fofoca: Coven Academy - O Feitiço das Bruxas",
-    "96714": "Superestruturas Nazis\""
+    "1417": "Glee: Em Busca da Fama"
    },
    "out": {
-    "152372": "Tara Duncan",
-    "56556": "Superestruturas Nazis\""
+    "272153": "Glee: Em Busca da Fama"
    }
   }
  },
  "gop": {
-  "name": "Globoplay",
-  "shows": {
+  "movies": {
    "in": {
-    "31820": "Divã",
-    "341790": "Caravelle 114",
-    "79744": "O Novato"
+    "1485002": "Um Touchdown de Natal",
+    "1545997": "Solteiros no Natal",
+    "1547913": "O Natal da Família Keller",
+    "1547915": "Notícias de Um Natal Feliz",
+    "1547927": "Tudo Por Um Feliz Natal"
    },
-   "out": {
-    "204441": "Divã"
-   }
-  }
+   "out": {}
+  },
+  "name": "Globoplay"
  },
  "lke": {
   "movies": {
    "in": {
-    "1341548": "Superanfitriã",
-    "4475": "A Vida Íntima de Pippa Lee",
-    "55561": "Quatro Garotas... Uma Grande Confusão"
+    "1353245": "Corpos Hospedeiros",
+    "1588205": "A Última Noite de Solteiro",
+    "1748425": "Verdade e Justiça",
+    "2640": "Atração Mortal",
+    "28580": "Farrapo Humano",
+    "297283": "Estrada Real da Cachaça",
+    "429405": "Pau pra toda obra",
+    "516700": "Gundala: A Ascensão de um Herói",
+    "61149": "Entre o Amor e a Morte",
+    "898368": "Sopro",
+    "967370": "Olha Que Três!",
+    "985093": "Uma Vez Herói"
    },
    "out": {
-    "308149": "Paixões Cruzadas",
-    "849369": "Superanfitriã"
+    "1068427": "Once Upon a Time... in Lapua",
+    "1119197": "A Paranoia de Lulu",
+    "1139106": "Nós Somos Zumbis",
+    "11617": "Rio Grande",
+    "1507322": "Sopro",
+    "1518033": "Farrapo Humano",
+    "1817978": "Atração Mortal",
+    "49397": "A Morte Vem a Cavalo",
+    "524659": "Enquanto a Cidade Dorme",
+    "529446": "Corpos Hospedeiros",
+    "55561": "Quatro Garotas... Uma Grande Confusão",
+    "583841": "Verdade e Justiça"
    }
   },
   "name": "Looke"
@@ -177,10 +132,16 @@
  "mbi": {
   "movies": {
    "in": {
-    "46591": "De Punhos Cerrados"
+    "1119537": "Provas de Amor",
+    "1130948": "Rosebush Pruning",
+    "1210268": "O Degelo",
+    "389218": "O Nosso Tempo",
+    "396535": "Train to Busan",
+    "41801": "Desejos Femininos"
    },
    "out": {
-    "1523096": "Fragments for Venus"
+    "1459816": "O Nosso Tempo",
+    "471291": "Inferninho"
    }
   },
   "name": "MUBI"
@@ -188,175 +149,131 @@
  "mxx": {
   "movies": {
    "in": {
-    "1101383": "O Fim de Oak Street",
-    "674218": "Ponto de Partida",
-    "9342": "A Máscara de Zorro"
+    "1703709": "Mosquito: Judgment Day For A Killer",
+    "747803": "Sentido Único",
+    "849777": "Jackass: Nadando com Tubarões"
    },
    "out": {
-    "181132": "Ponto de Partida",
-    "502153": "Ali & Cavett: The Tale of the Tapes",
-    "506775": "Nekrotronic",
-    "677781": "A Máscara de Zorro"
+    "1001870": "Jackass: Nadando com Tubarões",
+    "465296": "Mosquito: Judgment Day For A Killer"
    }
   },
   "name": "HBO Max",
   "shows": {
    "in": {
-    "305245": "Silent Night",
-    "310204": "Adult Swim Smalls",
-    "312439": "Alejandro Sanz: Quando Ninguém Me Vê",
-    "315858": "Perdido",
-    "341027": "Maniacs of the Truth",
-    "341555": "The Killing of the Golden Rooster",
-    "341837": "Lanternas",
-    "63301": "O Show da Luna"
+    "314647": "Presente"
    },
    "out": {
-    "209626": "Kiddie Kai",
-    "293069": "Perdido",
-    "95350": "Lanternas"
+    "34415": "The Killing - Além de um Crime"
    }
   }
  },
  "nfx": {
   "movies": {
    "in": {
-    "1012669": "Um Príncipe no Paraíso",
-    "1231623": "Um Paraíso Real 2: O Pedido",
-    "1419036": "Kijsada Paradise",
-    "1616687": "Never Surrender",
-    "1664682": "Suzane Von Richthofen: O Que o Tempo Não Apaga",
-    "1757174": "A Troca de Natal",
-    "20829": "Gente Gira",
-    "376228": "Audrie & Daisy",
-    "554279": "Natal no Riacho",
-    "744594": "Ruído Branco",
-    "958080": "Sem Respirar"
+    "10718": "Torque - A Lei do Mais Rápido",
+    "11287": "Liga de Mulheres",
+    "1215889": "Os Limites da Justiça",
+    "1389379": "Ranabaali",
+    "1418709": "Porrada na Hora",
+    "1518204": "Allen",
+    "1543469": "No Coração de Nashville",
+    "475210": "Como Tudo Acaba",
+    "5255": "Polar Express",
+    "632727": "O Massacre da Serra Elétrica: O Retorno de Leatherface",
+    "9969": "Um Vizinho a Apagar"
    },
    "out": {
-    "1054561": "Abraço de Mãe",
-    "1098110": "Sangue e Ouro",
-    "112861": "Nelson Freire",
-    "1184889": "Tudo pelo Meu Irmão",
-    "1443762": "O Falsário",
-    "1533898": "Cristela Alonzo: Upper Classy",
-    "586245": "Fantasmas de Sugar Land",
-    "614696": "#Alive",
-    "753230": "As Três Mortes de Marisela",
-    "832277": "Mesa Para Quatro",
-    "961323": "Nimona"
+    "1169455": "O Depois",
+    "1231623": "Um Paraíso Real 2: O Pedido",
+    "1252377": "A Doce Vila",
+    "1282138": "O Assalto",
+    "1574961": "Warkop DKI: ViRaLiN dOoOoNg..!!",
+    "29262": "Casa de Areia",
+    "316154": "The Bad Batch - Terra Sem Lei",
+    "554279": "Natal no Riacho",
+    "744594": "Ruído Branco",
+    "958080": "Sem Respirar",
+    "983883": "Um Romance do Além"
    }
   },
   "name": "Netflix",
   "shows": {
    "in": {
+    "119861": "Zero",
+    "130523": "O Gang: Assalto Arriscado: A Série",
+    "13265": "Den-noh Coil",
+    "2328": "Mighty Morphin Power Rangers",
+    "303182": "O Crime de Pazos",
+    "341603": "Estrelas no Altar: Anele e Buzza",
+    "75297": "Turma do Peito",
+    "90260": "I Am Not Okay with This"
+   },
+   "out": {
+    "101836": "Planeta Bizarro",
     "106009": "Numberblocks",
     "216074": "Ririsa, Uma Garota em 2.5D",
-    "247634": "Love Is Blind, Habibi",
-    "303272": "Guerreiras Mágicas de Rayearth",
+    "303470": "Mighty Morphin Power Rangers",
     "306517": "Só Para Membros: Palm Beach",
-    "312661": "Milagres da Sala de Emergência",
+    "336241": "Como Acabar com o Diwali: Conhecendo a Família",
     "341721": "I Am Not Okay with This",
-    "57532": "Patrulha Pata"
-   },
-   "out": {
-    "214942": "23,5",
-    "248984": "Destrancados: Um Experimento na Prisão",
-    "286277": "Patrulha Pata",
-    "34158": "Guerreiras Mágicas de Rayearth",
-    "69919": "O Mundo das Winx",
-    "81337": "Sou um Assassino",
-    "87194": "Special",
-    "90260": "I Am Not Okay with This"
-   }
-  }
- },
- "pmp": {
-  "movies": {
-   "in": {
-    "1559984": "Uma Escola Estranha",
-    "1612018": "Jackass: Último Shot de Loucura"
-   },
-   "out": {}
-  },
-  "name": "Paramount Plus",
-  "shows": {
-   "in": {
-    "340784": "Quebra-Cabeça Mortal",
-    "57532": "Patrulha Pata"
-   },
-   "out": {
-    "286277": "Patrulha Pata"
+    "95439": "O Final Do Paraíso"
    }
   }
  },
  "prv": {
   "movies": {
    "in": {
-    "1146148": "A Vingança de Charlie",
-    "1180906": "Amanhecer Sangrento",
-    "1263012": "Crime em Direto",
-    "1341548": "Superanfitriã",
-    "1472844": "Todo mundo está mentindo para você por dinheiro",
-    "1654566": "Vibe",
-    "41505": "Abrigo",
-    "429405": "Pau pra toda obra",
-    "4475": "A Vida Íntima de Pippa Lee",
-    "466272": "Era Uma Vez em… Hollywood",
-    "505954": "T-34",
-    "507241": "The Killer's Game",
-    "568453": "O Experimento do Sono",
-    "726897": "Luta por Vingança",
-    "860623": "O Último a Cair"
+    "1007826": "Os Underdoggs",
+    "122": "O Senhor dos Anéis: O Regresso do Rei",
+    "1339713": "Obsession: A Felicidade é Relativa",
+    "1519168": "Jester: A Morte Sorri 2",
+    "157829": "O Desaparecimento de Eleanor Rigby: Eles",
+    "361931": "Ronaldo",
+    "628262": "Fama Fatal",
+    "639135": "Eve",
+    "711017": "Zona de Confronto",
+    "802226": "O Bingo Macabro",
+    "853806": "Os Segredos que Ocultamos"
    },
    "out": {
-    "1007826": "Os Underdoggs",
-    "1147913": "Destinos Opostos",
-    "1229770": "Seca",
-    "1297188": "Aquela semana juntos",
-    "1301844": "Belén: Uma História de Injustiça",
-    "1817731": "Era Uma Vez em… Hollywood",
-    "25597": "João e Maria",
-    "313519": "Justiça Letal",
-    "361931": "Ronaldo",
-    "441728": "Hampstead: Nunca É Tarde Para Amar",
-    "534490": "Vingança",
-    "628262": "Fama Fatal",
-    "802226": "O Bingo Macabro",
-    "849369": "Superanfitriã"
+    "1035088": "Fala Comigo",
+    "11302": "Bananas",
+    "1211278": "Orégano: a família do fracasso",
+    "1999": "Vidas Privadas",
+    "507241": "The Killer's Game",
+    "606870": "O Sobrevivente",
+    "615115": "Os Segredos que Ocultamos",
+    "719221": "Tarot - Carta da Morte",
+    "852470": "Aprendendo a Ser Pai",
+    "878163": "O Apóstolo do Brasil - A Missão de São José de Anchieta",
+    "967847": "Caça-Fantasmas: O Império do Gelo"
    }
   },
   "name": "Amazon Prime Video",
   "shows": {
    "in": {
-    "303272": "Guerreiras Mágicas de Rayearth",
-    "332683": "ROCK PAPER LANDMINE",
-    "44549": "Nashville: No Ritmo da Fama"
+    "32138": "Mister Maker",
+    "64572": "ALVINNN!!! e os Esquilos"
    },
    "out": {
-    "259773": "Nashville: No Ritmo da Fama",
-    "34158": "Guerreiras Mágicas de Rayearth"
+    "110240": "Mister Maker"
    }
   }
  },
  "ptv": {
   "movies": {
-   "in": {},
-   "out": {
-    "166546": "A Noiva 66"
-   }
-  },
-  "name": "Pluto TV",
-  "shows": {
    "in": {
-    "30946": "Obsessivos Compulsivos",
-    "341543": "Sementes da Educação",
-    "57532": "Patrulha Pata"
+    "1748425": "Verdade e Justiça",
+    "2640": "Atração Mortal",
+    "28580": "Farrapo Humano"
    },
    "out": {
-    "260216": "Obsessivos Compulsivos",
-    "286277": "Patrulha Pata"
+    "1518033": "Farrapo Humano",
+    "1817978": "Atração Mortal",
+    "583841": "Verdade e Justiça"
    }
-  }
+  },
+  "name": "Pluto TV"
  }
 }

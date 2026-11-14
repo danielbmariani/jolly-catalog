@@ -1,6 +1,30 @@
 {
   "_raw": [
     {
+      "date": "2026-11-14",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "3.5★",
+      "title": "The Good Daughter",
+      "url": "https://www.rogerebert.com/reviews/the-good-daughter-rose-byrne-meghann-fahy-peacock-tv-review-2026"
+    },
+    {
+      "date": "2026-11-14",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Avedon",
+      "url": "https://www.rogerebert.com/reviews/avedon-netflix-documentary-film-review-2026"
+    },
+    {
+      "date": "2026-11-14",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Paper Tiger",
+      "url": "https://www.rogerebert.com/reviews/paper-tiger-james-gray-miles-teller-adam-driver-scarlett-johansson-film-review-2026"
+    },
+    {
       "date": "2026-11-13",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
@@ -18,19 +42,11 @@
     },
     {
       "date": "2026-11-13",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "The Good Daughter",
-      "url": "https://www.rogerebert.com/reviews/the-good-daughter-rose-byrne-meghann-fahy-peacock-tv-review-2026"
-    },
-    {
-      "date": "2026-11-13",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
+      "media_type": "tv",
+      "outlet": "The Guardian",
       "rating": "4★",
-      "title": "Avedon",
-      "url": "https://www.rogerebert.com/reviews/avedon-netflix-documentary-film-review-2026"
+      "title": "The Body",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/13/the-body-coming-of-age-review-netflix"
     },
     {
       "date": "2026-11-12",
@@ -6287,14 +6303,6 @@
       "rating": "3.5★",
       "title": "The Things You Kill",
       "url": "https://www.rogerebert.com/reviews/the-things-you-kill-turkish-film-review-2025"
-    },
-    {
-      "date": "2025-11-13",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "5★",
-      "title": "The Beast in Me",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/nov/13/the-beast-in-me-review-claire-danes-thriller-netflix"
     }
   ],
   "movie:tmdb:1434103": {
@@ -13376,7 +13384,7 @@
     "poster": "/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
     "recs": [
       {
-        "date": "2026-11-13",
+        "date": "2026-11-14",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/the-good-daughter-rose-byrne-meghann-fahy-peacock-tv-review-2026"
@@ -13524,12 +13532,6 @@
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/the-beast-in-me-claire-danes-netflix-tv-review-2025"
-      },
-      {
-        "date": "2025-11-13",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/13/the-beast-in-me-review-claire-danes-thriller-netflix"
       }
     ],
     "title": "The Beast in Me",
@@ -16856,6 +16858,12 @@
     "original_title": "Paper Tiger",
     "poster": "/zVYm9mNSyr9EYhUUI72DOGgYRZH.jpg",
     "recs": [
+      {
+        "date": "2026-11-14",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/paper-tiger-james-gray-miles-teller-adam-driver-scarlett-johansson-film-review-2026"
+      },
       {
         "date": "2026-11-11",
         "outlet": "IndieWire",
@@ -23817,7 +23825,7 @@
     "poster": "/8RYuzFSh4ankYCQWPljx89dlFea.jpg",
     "recs": [
       {
-        "date": "2026-11-13",
+        "date": "2026-11-14",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/avedon-netflix-documentary-film-review-2026"
@@ -25468,6 +25476,60 @@
     ],
     "title": "The Magic Faraway Tree",
     "tmdb_id": 1140521,
+    "year": 2026
+  },
+  "tt8014982": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      9648,
+      18
+    ],
+    "media_type": "tv",
+    "original_title": "The Body",
+    "poster": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+    "recs": [
+      {
+        "date": "2026-11-13",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/13/the-body-coming-of-age-review-netflix"
+      }
+    ],
+    "title": "The Body",
+    "tmdb_id": 291507,
+    "watch": {
+      "offers": [
+        {
+          "audio": [],
+          "audio_pt": null,
+          "channel": null,
+          "host": null,
+          "kind": "included",
+          "links": {
+            "android": "https://www.netflix.com/watch/81989718",
+            "androidtv": "intent://www.netflix.com/watch/81983578#Intent;launchFlags=0x00800000;scheme=https;package=com.netflix.ninja;S.source=30;end",
+            "tvos": "nflx://www.netflix.com/watch/81983578?source=topshelf",
+            "web": "https://www.netflix.com/title/81983578"
+          },
+          "price": null,
+          "provider": "Netflix",
+          "quality": "HD",
+          "state": "verified",
+          "sub_pt": null,
+          "tech": "netflix",
+          "until": null
+        }
+      ],
+      "providers": [
+        "Netflix"
+      ],
+      "urls": {
+        "Netflix": "https://www.netflix.com/title/81983578"
+      }
+    },
     "year": 2026
   },
   "tt8036976": {

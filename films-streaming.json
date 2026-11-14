@@ -139,7 +139,12 @@
     "providers": []
   },
   "10176": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/ff801e0e-dccc-47cd-896a-9448f9c1c3d8"
+    }
   },
   "1018": {
     "providers": []
@@ -394,7 +399,12 @@
     "providers": []
   },
   "104739": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/b15bbab4-727a-405d-907f-9a92ac614ad6"
+    }
   },
   "10494": {
     "providers": []
@@ -424,7 +434,7 @@
     ],
     "urls": {
       "Apple TV": "https://tv.apple.com/br/movie/a-arte-de-ser-heumann/umc.cmc.5gf63v7zj97yiozkpj26lpy55?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv",
-      "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cb5bf8f-b2a8-4723-be31-8cb088507a4d"
+      "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a1d9a1a-28a2-41bd-a040-307fe03a6405"
     }
   },
   "1051": {
@@ -856,12 +866,14 @@
     "providers": [
       "Artiflix",
       "Belas Artes à La Carte",
+      "Filmicca",
       "Looke",
       "NetMovies",
       "Plex"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
+      "Filmicca": "https://assista.filmicca.com.br/watch/19ef5b11-603d-4f73-9754-194cf84c1c7a",
       "Looke": "https://www.looke.com.br/detalhes/127393",
       "NetMovies": "https://www.netmovies.com.br/filmes/127393",
       "Plex": "https://watch.plex.tv/movie/the-third-man-1949?autoplay=1"
@@ -1171,7 +1183,12 @@
     "providers": []
   },
   "11287": {
-    "providers": []
+    "providers": [
+      "Netflix"
+    ],
+    "urls": {
+      "Netflix": "https://www.netflix.com/title/691124"
+    }
   },
   "11299": {
     "providers": []
@@ -1367,7 +1384,12 @@
     "providers": []
   },
   "11549": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/faa84d78-24f1-4b27-a57b-4b9853543837"
+    }
   },
   "11561": {
     "providers": []
@@ -1745,7 +1767,12 @@
     }
   },
   "11911": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/78556a25-2aad-458e-8baf-b21fdde11af6"
+    }
   },
   "11942": {
     "providers": []
@@ -2021,7 +2048,12 @@
     "providers": []
   },
   "123678": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/d3d892ca-6061-48fc-ad5d-088a1511a1ed"
+    }
   },
   "1240889": {
     "providers": [
@@ -2203,7 +2235,12 @@
     }
   },
   "128216": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/164eebfe-7796-4346-a484-5845124fb19d"
+    }
   },
   "1284016": {
     "providers": [
@@ -2323,7 +2360,7 @@
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144HIIN",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144ENUS",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-b8b65a37-0205-4771-bd07-24b5c4406034",
       "HBO Max": "https://play.hbomax.com/show/291804e2-d281-4934-97f5-5d305fd845fc",
@@ -2400,9 +2437,6 @@
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42007092-14a4-4b3f-b7f7-2137b1b49d55"
     }
   },
-  "133": {
-    "providers": []
-  },
   "13310": {
     "providers": []
   },
@@ -2472,6 +2506,14 @@
   },
   "135": {
     "providers": []
+  },
+  "13528": {
+    "providers": [
+      "Plex"
+    ],
+    "urls": {
+      "Plex": "https://watch.plex.tv/movie/gaslight-1944?autoplay=1"
+    }
   },
   "1354518": {
     "providers": [
@@ -2764,7 +2806,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G14U4DXQ2",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G31UXJW8E",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3583b831-3ad5-4bf2-9be1-fda81ca8f0e9"
     }
   },
@@ -3140,12 +3182,14 @@
   "14580": {
     "providers": [
       "Belas Artes à La Carte",
+      "Filmicca",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
+      "Filmicca": "https://assista.filmicca.com.br/watch/15f62566-e93a-455d-b3dc-4a4f6a0e328f",
       "Looke": "https://www.looke.com.br/detalhes/280152",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23596d82-3f8f-430f-b178-7a4eef54ee11",
       "NetMovies": "https://www.netmovies.com.br/filmes/280152"
@@ -3171,7 +3215,12 @@
     "providers": []
   },
   "14626": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/7e162de1-0296-4655-bf6f-251025e197aa"
+    }
   },
   "14633": {
     "providers": []
@@ -3456,10 +3505,12 @@
   },
   "15244": {
     "providers": [
-      "Belas Artes à La Carte"
+      "Belas Artes à La Carte",
+      "Filmicca"
     ],
     "urls": {
-      "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/"
+      "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
+      "Filmicca": "https://assista.filmicca.com.br/watch/9356b220-d668-4771-9b0e-24bca69ef47e"
     }
   },
   "152584": {
@@ -3808,7 +3859,12 @@
     }
   },
   "1626": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/0452fc2a-1e55-45b0-bbe7-4223dce23e00"
+    }
   },
   "1628": {
     "providers": [
@@ -4030,10 +4086,12 @@
   },
   "16958": {
     "providers": [
+      "Filmicca",
       "Looke",
       "Looke Amazon Channel"
     ],
     "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/0534b845-f2bc-433e-b388-c0213956bedd",
       "Looke": "https://www.looke.com.br/detalhes/393087",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a491f265-8357-4959-8c5a-da4dd5ab9532"
     }
@@ -4050,11 +4108,13 @@
   },
   "17057": {
     "providers": [
+      "Filmicca",
       "Looke",
       "Looke Amazon Channel",
       "NetMovies"
     ],
     "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/ed733d5a-6518-4c5d-800a-5c763fe750c2",
       "Looke": "https://www.looke.com.br/detalhes/280148",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dea9f776-cb70-b4a5-a1b9-63191c5d36ad",
       "NetMovies": "https://www.netmovies.com.br/filmes/280148"
@@ -4128,7 +4188,12 @@
     }
   },
   "17346": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/e9ef635b-9a32-4a73-9a34-5fa864ff9906"
+    }
   },
   "173722": {
     "providers": []
@@ -4234,11 +4299,13 @@
   },
   "1786": {
     "providers": [
+      "Filmicca",
       "Looke",
       "NetMovies",
       "Oldflix"
     ],
     "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/8dd272e1-d9fa-4b86-8e9b-faf0ab1d36cf",
       "Looke": "https://www.looke.com.br/detalhes/7840",
       "NetMovies": "https://www.netmovies.com.br/filmes/7840",
       "Oldflix": "https://www.oldflix.com.br/title/play/58e420584627ec0db85b882f"
@@ -4845,9 +4912,11 @@
   },
   "20620": {
     "providers": [
+      "Filmicca",
       "Oldflix"
     ],
     "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/622e43c8-8380-42dd-8b0f-79665de8d566",
       "Oldflix": "https://www.oldflix.com.br/title/play/58f65db57b472126a88017d5"
     }
   },
@@ -6102,7 +6171,12 @@
     "providers": []
   },
   "27375": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/dbee26a5-189b-4329-98af-9b04e498ba82"
+    }
   },
   "274": {
     "providers": [
@@ -6400,6 +6474,24 @@
       "Looke": "https://www.looke.com.br/detalhes/349978",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f65a760d-e29a-457d-baa0-54198a2c570c",
       "NetMovies": "https://www.netmovies.com.br/filmes/349978"
+    }
+  },
+  "28580": {
+    "providers": [
+      "Belas Artes à La Carte",
+      "Looke",
+      "Looke Amazon Channel",
+      "NetMovies",
+      "Oldflix",
+      "Pluto TV"
+    ],
+    "urls": {
+      "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
+      "Looke": "https://www.looke.com.br/detalhes/225222",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8d63e2e7-6bb8-4c28-b29b-b09ac1665781",
+      "NetMovies": "https://www.netmovies.com.br/filmes/225222",
+      "Oldflix": "https://www.oldflix.com.br/title/play/5ebdc494f7b54a1a60267977",
+      "Pluto TV": "https://pluto.tv/on-demand/movies/farrapo-humano-br-1944-1-1"
     }
   },
   "286217": {
@@ -7017,7 +7109,12 @@
     ]
   },
   "31417": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/740d8c3e-6b12-43cf-a3e8-95193cfc06bf"
+    }
   },
   "314365": {
     "providers": [
@@ -7095,7 +7192,12 @@
     }
   },
   "31542": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/de5fbf38-e491-4f82-9644-5a38f605cad1"
+    }
   },
   "315465": {
     "providers": []
@@ -7430,7 +7532,12 @@
     }
   },
   "34181": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/fbbd16ca-80f1-4ff4-8152-377c0403775b"
+    }
   },
   "343": {
     "providers": []
@@ -7545,7 +7652,12 @@
     }
   },
   "35987": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/03e6c93c-f627-4556-b7ad-3035877b630b"
+    }
   },
   "3604": {
     "providers": [
@@ -7699,10 +7811,12 @@
   },
   "3763": {
     "providers": [
+      "Filmicca",
       "Looke",
       "NetMovies"
     ],
     "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/cea2f271-0954-4077-8d34-64c932ae044a",
       "Looke": "https://www.looke.com.br/detalhes/7782",
       "NetMovies": "https://www.netmovies.com.br/filmes/7782"
     }
@@ -8006,7 +8120,12 @@
     }
   },
   "39504": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/9d0f7073-3619-40a0-9459-edb9bb6477a1"
+    }
   },
   "39510": {
     "providers": [
@@ -8176,7 +8295,12 @@
     }
   },
   "41799": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/416062cf-6585-46c8-ab92-af97372c6a09"
+    }
   },
   "419430": {
     "providers": [
@@ -8608,7 +8732,12 @@
     }
   },
   "43878": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/7730e2b4-682b-4257-9bb1-3a4d1ca7f69f"
+    }
   },
   "439": {
     "providers": []
@@ -8622,7 +8751,12 @@
     }
   },
   "44012": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/30851687-7bb1-42b3-a6a2-eb0a5b757355"
+    }
   },
   "44018": {
     "providers": [
@@ -8633,7 +8767,12 @@
     }
   },
   "44065": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/57d1e27b-c063-4a7d-8450-061e90e48c49"
+    }
   },
   "441130": {
     "providers": [
@@ -8749,9 +8888,11 @@
   },
   "4495": {
     "providers": [
+      "Filmicca",
       "Oldflix"
     ],
     "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/b656fb35-076e-4c83-a714-e40285743d60",
       "Oldflix": "https://www.oldflix.com.br/title/play/609ec022d06a989d53721c7f"
     }
   },
@@ -8978,7 +9119,12 @@
     }
   },
   "46919": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/4a7ac6c4-2fc2-4709-8761-b533a3a29340"
+    }
   },
   "46993": {
     "providers": []
@@ -9015,7 +9161,12 @@
     }
   },
   "4734": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/b530dca9-fde7-4a00-ba6b-a2188bfe8d93"
+    }
   },
   "47353": {
     "providers": []
@@ -9039,7 +9190,12 @@
     }
   },
   "47576": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/6562e3ab-9658-43db-b116-782428aaba51"
+    }
   },
   "476": {
     "providers": []
@@ -9085,7 +9241,12 @@
     }
   },
   "48035": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/f4dfdd17-3f68-4854-b093-792d95fd9c3a"
+    }
   },
   "482": {
     "providers": []
@@ -9584,7 +9745,12 @@
     }
   },
   "51857": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/1704cec5-5053-4a36-b135-c702c4cdf2fe"
+    }
   },
   "52047": {
     "providers": [
@@ -10031,7 +10197,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-92243dd0-bcfe-4365-ae76-1fa3cf1a2ab9"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-4153fd1c-1653-4678-8006-9cdd0d35154f"
     }
   },
   "567": {
@@ -10447,7 +10613,12 @@
     "providers": []
   },
   "5961": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/a682ffcd-5ff6-4100-9824-90cf56e5f0db"
+    }
   },
   "5967": {
     "providers": [
@@ -11063,6 +11234,7 @@
       "Bloodstream",
       "Cindie Amazon Channel",
       "Cultpix",
+      "Filmicca",
       "JustWatch TV Beta",
       "Libreflix",
       "Looke",
@@ -11078,6 +11250,7 @@
       "Bloodstream": "https://bloodstreamtv.com/show-details/noseferatu?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
       "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3f00d61e-5f54-4e20-9a0c-3259b9a52891",
       "Cultpix": "https://www.cultpix.com/movie/nosferatu-eine-symphonie-des-grauens/2346",
+      "Filmicca": "https://assista.filmicca.com.br/watch/f6864c15-7d5e-4c6f-83ea-7aadcdde4160",
       "Libreflix": "https://libreflix.org/i/nosferatu-1922",
       "Looke": "https://www.looke.com.br/detalhes/126873",
       "MUBI": "https://mubi.com/films/nosferatu",
@@ -11330,7 +11503,7 @@
       "NetMovies"
     ],
     "urls": {
-      "Looke": "https://www.looke.com.br/detalhes/129202",
+      "Looke": "https://www.looke.com.br/detalhes/252381",
       "NetMovies": "https://www.netmovies.com.br/filmes/252381"
     }
   },
@@ -11793,7 +11966,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     }
   },
@@ -12178,10 +12351,12 @@
   "779": {
     "providers": [
       "Bloodstream",
+      "Filmicca",
       "Plex"
     ],
     "urls": {
       "Bloodstream": "https://bloodstreamtv.com/show-details/vampyr?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
+      "Filmicca": "https://assista.filmicca.com.br/watch/e6a88957-c677-4b9b-89fd-a203a5cca42e",
       "Plex": "https://watch.plex.tv/movie/vampyr-1932?autoplay=1"
     }
   },
@@ -12202,11 +12377,12 @@
   "780": {
     "providers": [
       "Belas Artes à La Carte",
-      "JustWatch TV Beta",
+      "Filmicca",
       "Telecine Amazon Channel"
     ],
     "urls": {
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
+      "Filmicca": "https://assista.filmicca.com.br/watch/ec4323ff-fbbf-49ac-9624-d0182c258f67",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f14896ed-cbfd-4022-a452-949cd64786f7"
     }
   },
@@ -12479,7 +12655,12 @@
     "providers": []
   },
   "8075": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/53080c12-efec-4a25-93ff-0f2a59dae277"
+    }
   },
   "808": {
     "providers": [
@@ -12752,7 +12933,12 @@
     }
   },
   "8337": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/c9ad1426-0916-4a16-b900-72473422d9d4"
+    }
   },
   "83389": {
     "providers": [
@@ -13071,7 +13257,12 @@
     }
   },
   "85559": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/8041ea5f-32b1-485f-b4cd-9c5200e8ec03"
+    }
   },
   "856": {
     "providers": [
@@ -13173,7 +13364,12 @@
     "providers": []
   },
   "86814": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/2a9d41de-35c6-4c4f-9b06-b0d6c87c8e06"
+    }
   },
   "86829": {
     "providers": []
@@ -13312,7 +13508,12 @@
     ]
   },
   "88591": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/807d7477-c9dc-4dcc-93eb-0691ff3559d5"
+    }
   },
   "887": {
     "providers": []
@@ -13701,7 +13902,12 @@
     }
   },
   "934": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/181a56cb-fa0d-475f-958c-edd6b9f30b84"
+    }
   },
   "9340": {
     "providers": [
@@ -14242,7 +14448,12 @@
     "providers": []
   },
   "97029": {
-    "providers": []
+    "providers": [
+      "Filmicca"
+    ],
+    "urls": {
+      "Filmicca": "https://assista.filmicca.com.br/watch/12ef3f3a-8875-49b9-92b2-e6bca8578f5c"
+    }
   },
   "97370": {
     "providers": [
@@ -14569,7 +14780,7 @@
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/212330",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf1fab94-f318-41b8-b47a-65e03599c1a9",
-      "NetMovies": "https://www.netmovies.com.br/filmes/43290",
+      "NetMovies": "https://www.netmovies.com.br/filmes/212330",
       "Plex": "https://watch.plex.tv/movie/stagecoach-1939?autoplay=1",
       "Pluto TV": "https://pluto.tv/on-demand/movies/stagecoah-br-1939-1-1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf1fab94-f318-41b8-b47a-65e03599c1a9"
