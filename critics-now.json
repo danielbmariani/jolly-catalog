@@ -1,7 +1,7 @@
 {
   "_raw": [
     {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -9,7 +9,7 @@
       "url": "https://www.rogerebert.com/reviews/the-good-daughter-rose-byrne-meghann-fahy-peacock-tv-review-2026"
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -17,12 +17,20 @@
       "url": "https://www.rogerebert.com/reviews/avedon-netflix-documentary-film-review-2026"
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
       "title": "Paper Tiger",
       "url": "https://www.rogerebert.com/reviews/paper-tiger-james-gray-miles-teller-adam-driver-scarlett-johansson-film-review-2026"
+    },
+    {
+      "date": "2026-11-14",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "Honey",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/honey-review-killing-eve-prequel-bbc-one-iplayer"
     },
     {
       "date": "2026-11-13",
@@ -6239,70 +6247,6 @@
       "rating": "4★",
       "title": "Men of the Manosphere",
       "url": "https://www.theguardian.com/tv-and-radio/2025/nov/17/men-of-the-manosphere-review-a-truly-terrifying-hour"
-    },
-    {
-      "date": "2025-11-14",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "4★",
-      "title": "Malice",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/nov/14/malice-review-david-duchovny-jack-whitehall-amazon-prime"
-    },
-    {
-      "date": "2025-11-14",
-      "media_type": "movie",
-      "outlet": "IndieWire",
-      "rating": "B+",
-      "title": "Rebuilding",
-      "url": "https://www.indiewire.com/criticism/movies/rebuilding-movie-review-josh-oconnor-wildfire-1235088777/"
-    },
-    {
-      "date": "2025-11-14",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "In Your Dreams",
-      "url": "https://www.rogerebert.com/reviews/in-your-dreams-netflix-animated-movie-review-2025"
-    },
-    {
-      "date": "2025-11-14",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "The Beast in Me",
-      "url": "https://www.rogerebert.com/reviews/the-beast-in-me-claire-danes-netflix-tv-review-2025"
-    },
-    {
-      "date": "2025-11-14",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "The American Revolution",
-      "url": "https://www.rogerebert.com/reviews/the-american-revolution-ken-burns-pbs-tv-review-2025"
-    },
-    {
-      "date": "2025-11-14",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Rebuilding",
-      "url": "https://www.rogerebert.com/reviews/rebuilding-josh-oconnor-film-review-2025"
-    },
-    {
-      "date": "2025-11-14",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Come See Me in the Good Light",
-      "url": "https://www.rogerebert.com/reviews/come-see-me-in-the-good-light-apple-tv-documentary-film-review-2025"
-    },
-    {
-      "date": "2025-11-14",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "The Things You Kill",
-      "url": "https://www.rogerebert.com/reviews/the-things-you-kill-turkish-film-review-2025"
     }
   ],
   "movie:tmdb:1434103": {
@@ -7207,7 +7151,7 @@
             "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.414eb1af-ee27-476c-bc46-bedd48595f59&territory=BR",
             "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.414eb1af-ee27-476c-bc46-bedd48595f59"
           },
-          "price": "39,90 R$",
+          "price": "49,90 R$",
           "provider": "Amazon Video",
           "quality": "_4K",
           "state": "trusted",
@@ -8035,6 +7979,7 @@
             "hi",
             "hu",
             "it",
+            "ja",
             "pl",
             "pt",
             "th",
@@ -8092,6 +8037,7 @@
             "hi",
             "hu",
             "it",
+            "ja",
             "pl",
             "pt",
             "th",
@@ -10849,63 +10795,6 @@
     },
     "year": 2026
   },
-  "tt27604215": {
-    "age": {
-      "classind": "L",
-      "source": "BR"
-    },
-    "genres": [
-      12,
-      16,
-      35,
-      10751,
-      14
-    ],
-    "kids": {
-      "offers": [
-        {
-          "audio": [],
-          "audio_pt": null,
-          "channel": null,
-          "host": null,
-          "kind": "included",
-          "links": {
-            "android": "https://www.netflix.com/watch/80992977",
-            "androidtv": "intent://www.netflix.com/watch/80992977#Intent;launchFlags=0x00800000;scheme=https;package=com.netflix.ninja;S.source=30;end",
-            "tvos": "nflx://www.netflix.com/watch/80992977?source=topshelf",
-            "web": "https://www.netflix.com/title/80992977"
-          },
-          "price": null,
-          "provider": "Netflix",
-          "quality": "HD",
-          "state": "verified",
-          "sub_pt": null,
-          "tech": "netflix",
-          "until": null
-        }
-      ],
-      "providers": [
-        "Netflix"
-      ],
-      "urls": {
-        "Netflix": "https://www.netflix.com/title/80992977"
-      }
-    },
-    "media_type": "movie",
-    "original_title": "In Your Dreams",
-    "poster": "/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
-    "recs": [
-      {
-        "date": "2025-11-14",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/in-your-dreams-netflix-animated-movie-review-2025"
-      }
-    ],
-    "title": "In Your Dreams",
-    "tmdb_id": 1117857,
-    "year": 2025
-  },
   "tt27681354": {
     "age": {
       "classind": "14",
@@ -11798,35 +11687,6 @@
     "tmdb_id": 1228841,
     "year": 2027
   },
-  "tt29361963": {
-    "age": {
-      "classind": "10",
-      "source": "BR"
-    },
-    "genres": [
-      18
-    ],
-    "media_type": "movie",
-    "original_title": "Rebuilding",
-    "poster": "/7cDCGKBA6XANFDw4km9GvDnFBHw.jpg",
-    "recs": [
-      {
-        "date": "2025-11-14",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/rebuilding-movie-review-josh-oconnor-wildfire-1235088777/"
-      },
-      {
-        "date": "2025-11-14",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/rebuilding-josh-oconnor-film-review-2025"
-      }
-    ],
-    "title": "Rebuilding",
-    "tmdb_id": 1211442,
-    "year": 2025
-  },
   "tt29512008": {
     "age": null,
     "genres": [
@@ -12404,77 +12264,6 @@
     "title": "The Audacity",
     "tmdb_id": 258036,
     "year": 2026
-  },
-  "tt31036715": {
-    "age": {
-      "classind": "18",
-      "source": "BR"
-    },
-    "genres": [
-      18,
-      9648
-    ],
-    "media_type": "tv",
-    "original_title": "Malice",
-    "poster": "/fKhHzRk1VIJY1nz1cRhAfAaYfnA.jpg",
-    "recs": [
-      {
-        "date": "2025-11-14",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/14/malice-review-david-duchovny-jack-whitehall-amazon-prime"
-      }
-    ],
-    "title": "Malice",
-    "tmdb_id": 244416,
-    "watch": {
-      "offers": [
-        {
-          "audio": [
-            "ar",
-            "cs",
-            "de",
-            "en",
-            "es",
-            "fr",
-            "hi",
-            "hu",
-            "it",
-            "ja",
-            "kn",
-            "ml",
-            "pl",
-            "pt",
-            "ta",
-            "te",
-            "th",
-            "tr"
-          ],
-          "audio_pt": true,
-          "channel": null,
-          "host": null,
-          "kind": "included",
-          "links": {
-            "android": null,
-            "androidtv": null,
-            "tvos": null,
-            "web": null
-          },
-          "price": null,
-          "provider": "Amazon Prime Video",
-          "quality": "_4K",
-          "state": "verified",
-          "sub_pt": true,
-          "tech": "amazonprimevideo",
-          "until": null
-        }
-      ],
-      "providers": [
-        "Amazon Prime Video"
-      ],
-      "urls": {}
-    },
-    "year": 2025
   },
   "tt31038430": {
     "age": {
@@ -13384,7 +13173,7 @@
     "poster": "/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
     "recs": [
       {
-        "date": "2026-11-14",
+        "date": "2026-11-15",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/the-good-daughter-rose-byrne-meghann-fahy-peacock-tv-review-2026"
@@ -13510,60 +13299,6 @@
       "urls": {
         "HBO Max": "https://play.hbomax.com/video/watch/e4b915fb-5e6b-42b8-97ac-90ec7d0e3147",
         "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fa255946-19e9-45c1-9c74-4ed174cbc5e6"
-      }
-    },
-    "year": 2025
-  },
-  "tt31974367": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      18,
-      9648
-    ],
-    "media_type": "tv",
-    "original_title": "The Beast in Me",
-    "poster": "/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
-    "recs": [
-      {
-        "date": "2025-11-14",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/the-beast-in-me-claire-danes-netflix-tv-review-2025"
-      }
-    ],
-    "title": "The Beast in Me",
-    "tmdb_id": 250504,
-    "watch": {
-      "offers": [
-        {
-          "audio": [],
-          "audio_pt": null,
-          "channel": null,
-          "host": null,
-          "kind": "included",
-          "links": {
-            "android": "https://www.netflix.com/watch/81775039",
-            "androidtv": "intent://www.netflix.com/watch/81427733#Intent;launchFlags=0x00800000;scheme=https;package=com.netflix.ninja;S.source=30;end",
-            "tvos": "nflx://www.netflix.com/watch/81427733?source=topshelf",
-            "web": "https://www.netflix.com/title/81427733"
-          },
-          "price": null,
-          "provider": "Netflix",
-          "quality": "HD",
-          "state": "verified",
-          "sub_pt": null,
-          "tech": "netflix",
-          "until": null
-        }
-      ],
-      "providers": [
-        "Netflix"
-      ],
-      "urls": {
-        "Netflix": "https://www.netflix.com/title/81427733"
       }
     },
     "year": 2025
@@ -14374,27 +14109,6 @@
     "tmdb_id": 1288229,
     "year": 2026
   },
-  "tt32367116": {
-    "age": null,
-    "genres": [
-      53,
-      18
-    ],
-    "media_type": "movie",
-    "original_title": "Öldürdüğün Şeyler",
-    "poster": "/kR8CHANk8KwQLWarMIQsk2mthhW.jpg",
-    "recs": [
-      {
-        "date": "2025-11-14",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/the-things-you-kill-turkish-film-review-2025"
-      }
-    ],
-    "title": "The Things You Kill",
-    "tmdb_id": 1001270,
-    "year": 2025
-  },
   "tt32368068": {
     "age": {
       "classind": "L",
@@ -14780,7 +14494,7 @@
             "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.4c31bd57-6ca1-4d79-9311-c7d5caa84b41&territory=BR",
             "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4c31bd57-6ca1-4d79-9311-c7d5caa84b41"
           },
-          "price": "38,90 R$",
+          "price": "39,90 R$",
           "provider": "Amazon Video",
           "quality": "_4K",
           "state": "trusted",
@@ -16859,7 +16573,7 @@
     "poster": "/zVYm9mNSyr9EYhUUI72DOGgYRZH.jpg",
     "recs": [
       {
-        "date": "2026-11-14",
+        "date": "2026-11-15",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/paper-tiger-james-gray-miles-teller-adam-driver-scarlett-johansson-film-review-2026"
@@ -17333,29 +17047,6 @@
     "tmdb_id": 1393151,
     "year": 2025
   },
-  "tt34966013": {
-    "age": {
-      "classind": "14",
-      "source": "BR"
-    },
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "original_title": "Come See Me in the Good Light",
-    "poster": "/5AFbcDGT78cLZTyHTSDBohczjuO.jpg",
-    "recs": [
-      {
-        "date": "2025-11-14",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/come-see-me-in-the-good-light-apple-tv-documentary-film-review-2025"
-      }
-    ],
-    "title": "Come See Me in the Good Light",
-    "tmdb_id": 1400780,
-    "year": 2025
-  },
   "tt34966562": {
     "age": {
       "classind": "16",
@@ -17744,30 +17435,6 @@
     "title": "The Life and Deaths of Wilson Shedd",
     "tmdb_id": 1476832,
     "year": 2026
-  },
-  "tt35328184": {
-    "age": {
-      "classind": "10",
-      "source": "US"
-    },
-    "genres": [
-      99,
-      10768
-    ],
-    "media_type": "tv",
-    "original_title": "The American Revolution",
-    "poster": "/hXDHzOJxbsWZNy5jd5TMBAKIb0w.jpg",
-    "recs": [
-      {
-        "date": "2025-11-14",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/the-american-revolution-ken-burns-pbs-tv-review-2025"
-      }
-    ],
-    "title": "The American Revolution",
-    "tmdb_id": 258023,
-    "year": 2025
   },
   "tt35340614": {
     "age": {
@@ -19323,6 +18990,27 @@
     "tmdb_id": 1465814,
     "year": 2025
   },
+  "tt36329495": {
+    "age": null,
+    "genres": [
+      35,
+      80
+    ],
+    "media_type": "tv",
+    "original_title": "Honey",
+    "poster": "/mb8Fx5B5riLl3Gobn4968oJZKCK.jpg",
+    "recs": [
+      {
+        "date": "2026-11-14",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/honey-review-killing-eve-prequel-bbc-one-iplayer"
+      }
+    ],
+    "title": "Honey",
+    "tmdb_id": 287296,
+    "year": 2026
+  },
   "tt36363511": {
     "age": null,
     "genres": [
@@ -19564,6 +19252,7 @@
       "offers": [
         {
           "audio": [
+            "cs",
             "da",
             "de",
             "en",
@@ -19571,12 +19260,15 @@
             "fi",
             "fr",
             "hi",
+            "hr",
             "id",
             "it",
             "ms",
             "nb",
             "nl",
             "pt",
+            "sk",
+            "sl",
             "sv",
             "th"
           ],
@@ -19623,6 +19315,7 @@
         },
         {
           "audio": [
+            "cs",
             "da",
             "de",
             "en",
@@ -19630,12 +19323,15 @@
             "fi",
             "fr",
             "hi",
+            "hr",
             "id",
             "it",
             "ms",
             "nb",
             "nl",
             "pt",
+            "sk",
+            "sl",
             "sv",
             "th"
           ],
@@ -23825,7 +23521,7 @@
     "poster": "/8RYuzFSh4ankYCQWPljx89dlFea.jpg",
     "recs": [
       {
-        "date": "2026-11-14",
+        "date": "2026-11-15",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/avedon-netflix-documentary-film-review-2026"
@@ -25106,9 +24802,34 @@
     "title": "Cunk on Cinema",
     "tmdb_id": 335981,
     "watch": {
-      "offers": [],
-      "providers": [],
-      "urls": {}
+      "offers": [
+        {
+          "audio": [],
+          "audio_pt": null,
+          "channel": null,
+          "host": null,
+          "kind": "included",
+          "links": {
+            "android": "https://www.netflix.com/watch/83120595",
+            "androidtv": "intent://www.netflix.com/watch/83120594#Intent;launchFlags=0x00800000;scheme=https;package=com.netflix.ninja;S.source=30;end",
+            "tvos": "nflx://www.netflix.com/watch/83120594?source=topshelf",
+            "web": "https://www.netflix.com/title/83120594"
+          },
+          "price": null,
+          "provider": "Netflix",
+          "quality": "HD",
+          "state": "verified",
+          "sub_pt": null,
+          "tech": "netflix",
+          "until": null
+        }
+      ],
+      "providers": [
+        "Netflix"
+      ],
+      "urls": {
+        "Netflix": "https://www.netflix.com/title/83120594"
+      }
     },
     "year": 2026
   },

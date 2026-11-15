@@ -5363,10 +5363,37 @@
         "year": 2017
       }
     ],
+    "offers": [
+      {
+        "audio": [
+          "en",
+          "pt"
+        ],
+        "audio_pt": true,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": null,
+          "androidtv": null,
+          "tvos": null,
+          "web": null
+        },
+        "price": null,
+        "provider": "Amazon Prime Video",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": null,
+        "tech": "amazonprimevideo",
+        "until": null
+      }
+    ],
     "poster": "/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg",
     "providers": [
-      "Amazon Prime Video",
-      "Amazon Prime Video with Ads"
+      "Amazon Prime Video"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video"
     ],
     "status": "returning",
     "title": "Octonautas",
@@ -9094,10 +9121,10 @@
         "host": null,
         "kind": "included",
         "links": {
-          "android": "https://www.disneyplus.com/play/78351308-049f-47f0-92e6-74bb327783e7",
-          "androidtv": "intent://www.disneyplus.com/play/78351308-049f-47f0-92e6-74bb327783e7#Intent;launchFlags=0x00800000;scheme=https;end",
-          "tvos": "https://www.disneyplus.com/play/78351308-049f-47f0-92e6-74bb327783e7",
-          "web": "https://www.disneyplus.com/browse/entity-626e02ea-e139-4f45-995a-6856848d0f2f"
+          "android": "https://www.disneyplus.com/play/f191fda7-cf62-41bb-8925-31b4deb9dda0",
+          "androidtv": "intent://www.disneyplus.com/play/f191fda7-cf62-41bb-8925-31b4deb9dda0#Intent;launchFlags=0x00800000;scheme=https;end",
+          "tvos": "https://www.disneyplus.com/play/f191fda7-cf62-41bb-8925-31b4deb9dda0",
+          "web": "https://www.disneyplus.com/browse/entity-25405af5-cf5d-41fe-b5de-20c2f080571b"
         },
         "price": null,
         "provider": "Disney Plus",
