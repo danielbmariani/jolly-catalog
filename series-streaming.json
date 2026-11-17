@@ -920,9 +920,6 @@
   "tt10846104": {
     "providers": []
   },
-  "tt10846464": {
-    "providers": []
-  },
   "tt10919420": {
     "providers": [
       "Netflix"
@@ -935,18 +932,7 @@
     ]
   },
   "tt10975574": {
-    "providers": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
-    ],
-    "urls": {
-      "HBO Max": "https://play.hbomax.com/video/watch/c7ea4f47-c3b1-45db-a7ba-68f41fbdace1",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65f15564-9824-4cbf-8c67-9a7ac6cc8da4"
-    },
-    "verified": [
-      "HBO Max",
-      "HBO Max Amazon Channel"
-    ]
+    "providers": []
   },
   "tt10986410": {
     "providers": [
@@ -1127,14 +1113,12 @@
       "Paramount Plus",
       "Paramount Plus Apple TV channel",
       "Paramount Plus Premium",
-      "Paramount+ Amazon Channel",
-      "Plex"
+      "Paramount+ Amazon Channel"
     ],
     "urls": {
       "Netflix": "https://www.netflix.com/title/81696955",
       "Paramount Plus": "https://www.paramountplus.com/shows/ghosts/video/748hlNjIT__jkZ9UFAkdguxunpdsu4LN/ghosts-pilot?amp%3Butm_source=publisher",
-      "Paramount Plus Premium": "https://www.paramountplus.com/shows/ghosts/video/748hlNjIT__jkZ9UFAkdguxunpdsu4LN/ghosts-pilot?amp%3Butm_source=publisher",
-      "Plex": "https://watch.plex.tv/show/ghosts-us/season/2/episode/9?autoplay=1"
+      "Paramount Plus Premium": "https://www.paramountplus.com/shows/ghosts/video/748hlNjIT__jkZ9UFAkdguxunpdsu4LN/ghosts-pilot?amp%3Butm_source=publisher"
     },
     "verified": [
       "Netflix",
@@ -1317,7 +1301,7 @@
       "Amazon Prime Video"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f55a13ae-a019-41b1-ba63-5935110caac3"
     },
     "verified": [
       "Amazon Prime Video"
@@ -3046,7 +3030,7 @@
       "The Great Courses Signature Collection Amazon Channel"
     ],
     "urls": {
-      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ae464a3-c62b-4c89-a2a0-d54b6f94a870"
+      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bc63b0-75f2-35ee-7047-2cc4a4dcbae8"
     },
     "verified": [
       "The Great Courses Signature Collection Amazon Channel"
@@ -3721,7 +3705,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GWDU7V1ZV",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G0DUMG7EX",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
       "HBO Max": "https://play.hbomax.com/video/watch/61e42cc7-30a8-454a-9c92-236712db9130",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
@@ -5647,7 +5631,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-3e171a81-a5dc-42c7-9b31-43ec454e9940"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-deb3781c-9bfe-43a8-b82d-4b3d6b0a9cae"
     },
     "verified": [
       "Disney Plus"

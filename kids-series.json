@@ -2025,36 +2025,10 @@
     "lists": [
       "brasil-canon"
     ],
-    "offers": [
-      {
-        "audio": [
-          "pt"
-        ],
-        "audio_pt": true,
-        "channel": null,
-        "host": null,
-        "kind": "included",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.84b938d5-3f34-75c3-504a-0a09acf0a5b1",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.84b938d5-3f34-75c3-504a-0a09acf0a5b1&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/watch?gti=amzn1.dv.gti.84b938d5-3f34-75c3-504a-0a09acf0a5b1&territory=BR&time=auto",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84b938d5-3f34-75c3-504a-0a09acf0a5b1"
-        },
-        "price": null,
-        "provider": "Amazon Prime Video",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": null,
-        "tech": "amazonprimevideo",
-        "until": null
-      }
-    ],
     "poster": "/64NyFMaTxe89SXxzbyqXB2zbcgl.jpg",
     "providers": [
-      "Amazon Prime Video"
-    ],
-    "providers_verified": [
-      "Amazon Prime Video"
+      "Amazon Prime Video",
+      "Amazon Prime Video with Ads"
     ],
     "status": "ended",
     "title": "Cocoricó",
@@ -6598,10 +6572,99 @@
         "year": 2012
       }
     ],
+    "offers": [
+      {
+        "audio": [
+          "ar",
+          "da",
+          "de",
+          "en",
+          "es",
+          "fi",
+          "fr",
+          "he",
+          "id",
+          "it",
+          "ko",
+          "nb",
+          "nl",
+          "pl",
+          "pt",
+          "ru",
+          "sv",
+          "tr"
+        ],
+        "audio_pt": true,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.9b7478d3-fc56-4b50-a486-55cf2dec1cbc",
+          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.9b7478d3-fc56-4b50-a486-55cf2dec1cbc&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
+          "tvos": "aiv://aiv/watch?gti=amzn1.dv.gti.9b7478d3-fc56-4b50-a486-55cf2dec1cbc&territory=BR&time=auto",
+          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9b7478d3-fc56-4b50-a486-55cf2dec1cbc"
+        },
+        "price": null,
+        "provider": "Amazon Prime Video",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": false,
+        "tech": "amazonprimevideo",
+        "until": null
+      },
+      {
+        "audio": [],
+        "audio_pt": null,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": "https://globoplay.globo.com/v/8650479",
+          "androidtv": "intent://globoplay.globo.com/v/8650479#Intent;launchFlags=0x00800000;scheme=https;component=com.globo.globotv/.title.TitleActivity;end",
+          "tvos": "https://globoplay.globo.com/v/8650479?utm_origin=tv_apps",
+          "web": "https://globoplay.globo.com/v/8650479"
+        },
+        "price": null,
+        "provider": "Globoplay",
+        "quality": "SD",
+        "state": "verified",
+        "sub_pt": null,
+        "tech": "globoplay",
+        "until": null
+      },
+      {
+        "audio": [
+          "pt"
+        ],
+        "audio_pt": true,
+        "channel": "Gloob",
+        "host": "Prime Video",
+        "kind": "channel",
+        "links": {
+          "android": null,
+          "androidtv": null,
+          "tvos": null,
+          "web": null
+        },
+        "price": null,
+        "provider": "Gloob Amazon Channel",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": null,
+        "tech": "amazonglobokids",
+        "until": null
+      }
+    ],
     "poster": "/gFhBIF8oXjpdVk1NbI4kP4l8LAe.jpg",
     "providers": [
       "Amazon Prime Video",
-      "Amazon Prime Video with Ads"
+      "Globoplay",
+      "Gloob Amazon Channel"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video",
+      "Globoplay",
+      "Gloob Amazon Channel"
     ],
     "status": "ended",
     "title": "Dragões: A Série",
@@ -8914,10 +8977,10 @@
         "host": null,
         "kind": "included",
         "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.4131c60d-9985-4c71-92b1-d89cb2085b43",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.4131c60d-9985-4c71-92b1-d89cb2085b43&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/watch?gti=amzn1.dv.gti.4131c60d-9985-4c71-92b1-d89cb2085b43&territory=BR&time=auto",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4131c60d-9985-4c71-92b1-d89cb2085b43"
+          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.71c04eda-d1a2-4dc8-8d57-8c17ef57ae6f",
+          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.71c04eda-d1a2-4dc8-8d57-8c17ef57ae6f&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
+          "tvos": "aiv://aiv/watch?gti=amzn1.dv.gti.71c04eda-d1a2-4dc8-8d57-8c17ef57ae6f&territory=BR&time=auto",
+          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.71c04eda-d1a2-4dc8-8d57-8c17ef57ae6f"
         },
         "price": null,
         "provider": "Amazon Prime Video",
@@ -8950,10 +9013,10 @@
         "host": null,
         "kind": "free",
         "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.4131c60d-9985-4c71-92b1-d89cb2085b43",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.4131c60d-9985-4c71-92b1-d89cb2085b43&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.4131c60d-9985-4c71-92b1-d89cb2085b43&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4131c60d-9985-4c71-92b1-d89cb2085b43"
+          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.71c04eda-d1a2-4dc8-8d57-8c17ef57ae6f",
+          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.71c04eda-d1a2-4dc8-8d57-8c17ef57ae6f&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
+          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.71c04eda-d1a2-4dc8-8d57-8c17ef57ae6f&territory=BR",
+          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.71c04eda-d1a2-4dc8-8d57-8c17ef57ae6f"
         },
         "price": null,
         "provider": "Amazon Prime Video",
@@ -9121,10 +9184,10 @@
         "host": null,
         "kind": "included",
         "links": {
-          "android": "https://www.disneyplus.com/play/f191fda7-cf62-41bb-8925-31b4deb9dda0",
-          "androidtv": "intent://www.disneyplus.com/play/f191fda7-cf62-41bb-8925-31b4deb9dda0#Intent;launchFlags=0x00800000;scheme=https;end",
-          "tvos": "https://www.disneyplus.com/play/f191fda7-cf62-41bb-8925-31b4deb9dda0",
-          "web": "https://www.disneyplus.com/browse/entity-25405af5-cf5d-41fe-b5de-20c2f080571b"
+          "android": "https://www.disneyplus.com/play/78351308-049f-47f0-92e6-74bb327783e7",
+          "androidtv": "intent://www.disneyplus.com/play/78351308-049f-47f0-92e6-74bb327783e7#Intent;launchFlags=0x00800000;scheme=https;end",
+          "tvos": "https://www.disneyplus.com/play/78351308-049f-47f0-92e6-74bb327783e7",
+          "web": "https://www.disneyplus.com/browse/entity-626e02ea-e139-4f45-995a-6856848d0f2f"
         },
         "price": null,
         "provider": "Disney Plus",
@@ -10696,10 +10759,10 @@
         "host": null,
         "kind": "included",
         "links": {
-          "android": "https://www.disneyplus.com/play/f34d5bda-d298-40d3-bb2a-b6b4bc6252d9",
-          "androidtv": "intent://www.disneyplus.com/play/f34d5bda-d298-40d3-bb2a-b6b4bc6252d9#Intent;launchFlags=0x00800000;scheme=https;end",
-          "tvos": "https://www.disneyplus.com/play/f34d5bda-d298-40d3-bb2a-b6b4bc6252d9",
-          "web": "https://www.disneyplus.com/browse/entity-3e171a81-a5dc-42c7-9b31-43ec454e9940"
+          "android": "https://www.disneyplus.com/play/6ed712a2-63b3-4774-b3e8-7d7af55b4caf",
+          "androidtv": "intent://www.disneyplus.com/play/6ed712a2-63b3-4774-b3e8-7d7af55b4caf#Intent;launchFlags=0x00800000;scheme=https;end",
+          "tvos": "https://www.disneyplus.com/play/6ed712a2-63b3-4774-b3e8-7d7af55b4caf",
+          "web": "https://www.disneyplus.com/browse/entity-deb3781c-9bfe-43a8-b82d-4b3d6b0a9cae"
         },
         "price": null,
         "provider": "Disney Plus",

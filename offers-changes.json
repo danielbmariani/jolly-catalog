@@ -1,63 +1,62 @@
 {
- "_generated": "2026-11-15",
- "_previous": "2026-11-14",
+ "_generated": "2026-11-17",
+ "_previous": "2026-11-15",
  "aho": {
   "movies": {
    "in": {
-    "181132": "Ponto de Partida",
-    "888095": "Tempestade Perfeita"
+    "1363895": "Demolição",
+    "897319": "Juntos Pela Vida"
    },
    "out": {
-    "2133": "Tempestade Perfeita",
-    "674218": "Ponto de Partida"
+    "303991": "Demolição",
+    "56555": "Juntos Pela Vida"
    }
   },
   "name": "HBO Max Amazon Channel",
   "shows": {
    "in": {
-    "18165": "Diários do Vampiro",
-    "341950": "Clangold: Roubo em Berlim",
-    "35358": "S.O.S. Restaurante",
-    "65930": "My Hero Academia",
-    "76331": "Succession"
+    "124386": "Keith & Evan: Reformando com o Coração",
+    "185": "Carnivàle",
+    "342122": "Lanternas"
    },
    "out": {
-    "156014": "S.O.S. Restaurante",
-    "309367": "Succession",
-    "312258": "Diários do Vampiro",
-    "341153": "My Hero Academia"
+    "116761": "Julia Child",
+    "209116": "Keith & Evan: Reformando com o Coração",
+    "287227": "Carnivàle",
+    "341837": "Lanternas"
    }
   }
  },
  "alo": {
   "movies": {
    "in": {
-    "264418": "Estás me Matando Susana",
-    "875487": "Tempos de Escuridão",
-    "879913": "Entre Penas e Bicadas"
+    "1043804": "Thank You, Next",
+    "1362029": "Karma - Aqui se faz, aqui se paga",
+    "33201": "Jeremias",
+    "40231": "O Incrivel Homem que Derreteu",
+    "43194": "Ulisses",
+    "706005": "Revelações Perigosas"
    },
    "out": {
-    "1821334": "Estás me Matando Susana",
-    "40231": "O Incrivel Homem que Derreteu",
-    "639514": "Tempos de Escuridão"
+    "1089345": "Megaterremoto",
+    "1129020": "As Órfãs da Rainha",
+    "1301252": "Ulisses",
+    "553928": "Karma - Aqui se faz, aqui se paga",
+    "554979": "Monstro Robô - Meu Melhor Amigo",
+    "609734": "A Rapariga Invisível"
    }
   },
-  "name": "Looke Amazon Channel",
-  "shows": {
-   "in": {
-    "41421": "Louie"
-   },
-   "out": {
-    "270952": "Louie"
-   }
-  }
+  "name": "Looke Amazon Channel"
  },
  "amu": {
   "movies": {
-   "in": {},
+   "in": {
+    "11599": "Os Amantes do Rio",
+    "314220": "Chevalier",
+    "79934": "O Palhaço"
+   },
    "out": {
-    "203502": "A Carta",
-    "471291": "Inferninho"
+    "640364": "O Palhaço"
    }
   },
   "name": "MUBI Amazon Channel"
@@ -65,108 +64,152 @@
  "atl": {
   "movies": {
    "in": {
-    "1544567": "Noé",
-    "862620": "Pronto, Falei!"
+    "1366215": "O Último Metro",
+    "79934": "O Palhaço",
+    "86834": "Noé"
    },
    "out": {
-    "1046011": "Pronto, Falei!",
-    "86834": "Noé"
+    "1544567": "Noé",
+    "1716": "O Último Metro",
+    "640364": "O Palhaço",
+    "829051": "O Meu Pai É Um Perigo"
    }
   },
   "name": "Telecine Amazon Channel"
  },
+ "bac": {
+  "movies": {
+   "in": {
+    "13581": "Na Solidão da Noite",
+    "43194": "Ulisses",
+    "777": "A Grande Ilusão",
+    "85844": "Mulheres da Noite"
+   },
+   "out": {
+    "1054148": "Mulheres da Noite",
+    "1301252": "Ulisses",
+    "1468379": "Na Solidão da Noite",
+    "726308": "A Grande Ilusão",
+    "768590": "Vidas (in)visíveis – um arsenal de esperança"
+   }
+  },
+  "name": "Belas Artes à La Carte"
+ },
  "cru": {
+  "movies": {
+   "in": {
+    "9730": "Sexta-Feira 13 - Parte 4: O Capítulo Final"
+   },
+   "out": {}
+  },
   "name": "Crunchyroll",
   "shows": {
    "in": {
-    "157583": "Star Blazers [Space Battleship Yamato] 2205: The New Voyage",
-    "285899": "A Tale of the Secret Saint",
-    "65930": "My Hero Academia",
-    "8974": "Hell Girl"
+    "127532": "Solo Leveling",
+    "83121": "Kaguya-sama: Love Is War",
+    "92579": "Keep Your Hands Off Eizouken!"
    },
    "out": {
-    "246495": "Hell Girl",
-    "341153": "My Hero Academia",
-    "45844": "Star Blazers [Space Battleship Yamato] 2205: The New Voyage"
+    "101505": "Keep Your Hands Off Eizouken!",
+    "127164": "Kaguya-sama: Love Is War",
+    "313883": "Solo Leveling"
    }
   }
  },
  "dnp": {
   "movies": {
    "in": {
-    "5255": "Polar Express",
-    "870598": "Bios. Vidas que Marcaram a sua: Andrés Calamaro"
+    "1822873": "Darius Rucker: Chamavam-me Hootie",
+    "1826442": "Expedição: salvar os nossos mares",
+    "917116": "O Tronco de Natal do Castelo de Arendelle"
    },
    "out": {
-    "1768706": "Bios. Vidas que Marcaram a sua: Andrés Calamaro"
+    "1751415": "D23 Horizons: Disney Experiences Showcase",
+    "665287": "O Tronco de Natal do Castelo de Arendelle"
    }
   },
   "name": "Disney Plus",
   "shows": {
    "in": {
-    "65930": "My Hero Academia"
+    "113888": "Na Rota do Tráfico: Submundos com Mariana van Zeller",
+    "273974": "Os Substitutos",
+    "46928": "A Princesa Sofia"
    },
    "out": {
-    "341153": "My Hero Academia"
+    "254010": "Na Rota do Tráfico: Submundos com Mariana van Zeller",
+    "321657": "A Princesa Sofia",
+    "4627": "Os Substitutos"
    }
   }
  },
  "gop": {
   "movies": {
    "in": {
-    "1544567": "Noé"
+    "79934": "O Palhaço",
+    "86834": "Noé"
    },
    "out": {
-    "86834": "Noé"
+    "1544567": "Noé",
+    "640364": "O Palhaço"
    }
   },
   "name": "Globoplay",
   "shows": {
    "in": {
-    "18165": "Diários do Vampiro",
-    "319554": "Giro Universidades",
-    "42867": "Baila Comigo",
-    "77692": "Brasil Visto de Cima"
+    "250927": "O Espigão",
+    "341531": "A Clínica",
+    "44305": "Dragões: Pilotos de Berk",
+    "72457": "Saramandaia",
+    "84390": "Meu Pedacinho de Chão",
+    "97569": "Minha Nada Mole Vida",
+    "99137": "Agora é Que São Elas"
    },
    "out": {
-    "275990": "Brasil Visto de Cima",
-    "312258": "Diários do Vampiro",
-    "95498": "Baila Comigo"
+    "195518": "Saramandaia",
+    "282495": "Meu Pedacinho de Chão",
+    "292303": "Dragões: Pilotos de Berk",
+    "324787": "Máfia PCC - Dos presídios à economia formal",
+    "42688": "Agora é Que São Elas"
    }
   }
  },
  "lke": {
   "movies": {
    "in": {
-    "1119197": "A Paranoia de Lulu",
-    "1354829": "O Medo Atrás da Tela",
-    "264418": "Estás me Matando Susana",
-    "524659": "Enquanto a Cidade Dorme",
-    "875487": "Tempos de Escuridão"
+    "1043804": "Thank You, Next",
+    "1143291": "Verão Vermelho de Sangue",
+    "1365953": "O Medo Atrás da Tela",
+    "18449": "Companheiros da Morte",
+    "43194": "Ulisses",
+    "491037": "O Efeito Mandela",
+    "49397": "A Morte Vem a Cavalo",
+    "897386": "Turma da Mônica: Especial de Férias",
+    "916284": "Pretérito Perfeito",
+    "927033": "O Segredo dos Portais"
    },
    "out": {
-    "1365953": "O Medo Atrás da Tela",
-    "1821334": "Estás me Matando Susana",
-    "61149": "Entre o Amor e a Morte",
-    "639514": "Tempos de Escuridão",
-    "733508": "A Viagem de Nossas Vidas"
+    "1012173": "Uma Lição do Passado",
+    "1301252": "Ulisses",
+    "1354829": "O Medo Atrás da Tela",
+    "14886": "O Último Dever",
+    "237824": "Pretérito Perfeito",
+    "636514": "O Segredo dos Portais",
+    "697": "Outubro",
+    "845875": "O Lutador de Auschwitz",
+    "897365": "Turma da Mônica: Especial de Férias"
    }
   },
-  "name": "Looke",
-  "shows": {
-   "in": {
-    "39914": "Oscar no Oásis"
-   },
-   "out": {
-    "206688": "Oscar no Oásis"
-   }
-  }
+  "name": "Looke"
  },
  "mbi": {
   "movies": {
-   "in": {},
+   "in": {
+    "11599": "Os Amantes do Rio",
+    "314220": "Chevalier",
+    "79934": "O Palhaço"
+   },
    "out": {
-    "203502": "A Carta"
+    "640364": "O Palhaço"
    }
   },
   "name": "MUBI"
@@ -174,167 +217,168 @@
  "mxx": {
   "movies": {
    "in": {
-    "181132": "Ponto de Partida",
-    "888095": "Tempestade Perfeita"
+    "1363895": "Demolição",
+    "897319": "Juntos Pela Vida"
    },
    "out": {
-    "2133": "Tempestade Perfeita",
-    "674218": "Ponto de Partida"
+    "303991": "Demolição",
+    "56555": "Juntos Pela Vida"
    }
   },
   "name": "HBO Max",
   "shows": {
    "in": {
-    "18165": "Diários do Vampiro",
-    "341950": "Clangold: Roubo em Berlim",
-    "35358": "S.O.S. Restaurante",
-    "65930": "My Hero Academia",
-    "76331": "Succession"
+    "124386": "Keith & Evan: Reformando com o Coração",
+    "185": "Carnivàle",
+    "342122": "Lanternas"
    },
    "out": {
-    "156014": "S.O.S. Restaurante",
-    "309367": "Succession",
-    "312258": "Diários do Vampiro",
-    "341153": "My Hero Academia"
+    "116761": "Julia Child",
+    "209116": "Keith & Evan: Reformando com o Coração",
+    "287227": "Carnivàle",
+    "341837": "Lanternas"
    }
   }
  },
  "nfx": {
   "movies": {
    "in": {
-    "10197": "Nove",
-    "1067503": "Nos Bastidores de The Witcher",
-    "1231623": "Um Paraíso Real 2: O Pedido",
-    "1515487": "Lendo o Mundo",
-    "1544567": "Noé",
-    "862816": "Lunático",
-    "983883": "Um Romance do Além"
+    "1127953": "Reportagem de Natal",
+    "1217748": "Villains in the Metropolis",
+    "1316054": "Até aos Ossos",
+    "1363895": "Demolição",
+    "1374847": "Um Natal no Rancho",
+    "250574": "Lunático",
+    "25113": "As Quatro Estações do Ano",
+    "360920": "Grinch",
+    "485504": "Natal em El Camino",
+    "622951": "A Sun",
+    "623195": "Amor em Obras",
+    "663558": "New Gods: Nezha Reborn",
+    "786170": "A Guardiã",
+    "86834": "Noé"
    },
    "out": {
-    "1032472": "Touch",
-    "1157013": "Nos Bastidores de The Witcher",
-    "1158915": "Caçula",
-    "250574": "Lunático",
-    "475210": "Como Tudo Acaba",
-    "86834": "Noé",
-    "9663": "Starman - O Homem das Estrelas",
-    "975242": "11:11"
+    "1308757": "Armadilha em Alto Mar",
+    "1532602": "As Quatro Estações do Ano",
+    "1544567": "Noé",
+    "303991": "Demolição",
+    "401104": "Até aos Ossos",
+    "495659": "Bayonet",
+    "560050": "Para Além da Lua",
+    "619297": "Justiça em Família",
+    "661043": "Vagando Por Aí",
+    "69885": "As Mães de Chico Xavier",
+    "798612": "Shirley Chisholm",
+    "823625": "O Agente das Sombras",
+    "862816": "Lunático",
+    "983883": "Um Romance do Além"
    }
   },
   "name": "Netflix",
   "shows": {
    "in": {
-    "104999": "Jogo da Lava",
-    "18165": "Diários do Vampiro",
-    "207333": "Cem Anos de Solidão",
-    "335981": "O Cinema por Philomena Cunk",
-    "44573": "Painter of the Wind",
-    "44821": "A Grande Doutora",
-    "50712": "Black Butler",
-    "62806": "Máscara",
-    "62863": "High Society",
-    "65930": "My Hero Academia",
-    "88783": "A vida secreta da minha secretária"
-   },
-   "out": {
-    "106525": "A Era dos Dados",
-    "129959": "Panda do Kung Fu: O Cavaleiro-Dragão",
-    "248716": "Legado Corrompido",
-    "249586": "Império de Amesterdão",
-    "252121": "Vermelho Carmesim",
-    "257183": "Jogo da Lava",
     "258306": "Terça do Terror",
     "275998": "Quem Viu o Pavão Dançando na Floresta?",
-    "279518": "Cem Anos de Solidão",
-    "312258": "Diários do Vampiro",
-    "341153": "My Hero Academia"
+    "341602": "O Universo do Alan",
+    "342012": "Chainsmoker Cat",
+    "342130": "O Nosso Mundo, Segundo Philomena Cunk",
+    "61613": "Modern Farmer",
+    "63787": "Olhos angelicais",
+    "71026": "Super Wings",
+    "95439": "O Final Do Paraíso"
+   },
+   "out": {
+    "108298": "Challenger: Voo Final",
+    "204062": "Eden",
+    "213803": "O Segredo da Família Greco",
+    "257605": "Super Wings",
+    "283917": "Novo Rico, Novo Pobre",
+    "301851": "O Nosso Mundo, Segundo Philomena Cunk",
+    "312949": "Chainsmoker Cat",
+    "78319": "James Acaster: Repertoire",
+    "84777": "Sunderland Até Morrer"
    }
   }
  },
  "pmp": {
   "movies": {
    "in": {
-    "1544567": "Noé",
-    "1658572": "Hungria, A Escolha de Um Sonho"
+    "1293167": "Protocolo de Fuga",
+    "1378742": "Corrida para o Inferno",
+    "86834": "Noé"
    },
    "out": {
-    "86834": "Noé"
+    "1544567": "Noé"
    }
   },
-  "name": "Paramount Plus",
-  "shows": {
-   "in": {
-    "8840": "The Book Tower"
-   },
-   "out": {}
-  }
+  "name": "Paramount Plus"
  },
  "prv": {
   "movies": {
    "in": {
-    "1061641": "Sica",
-    "1086855": "Empire Queen: The Golden Age of Magic",
-    "1378915": "Chaos Glacier Country",
-    "1383984": "Wild Days",
-    "1500112": "Women and the Wind",
-    "1528592": "The Future of Climbing",
-    "1544567": "Noé",
-    "1600519": "Fit for Life - Dare to Dream",
-    "516700": "Gundala: A Ascensão de um Herói",
-    "536144": "ARASHI LIVE TOUR 2015 Japonism",
-    "743400": "Undone",
-    "875303": "Amor Doentio",
-    "875487": "Tempos de Escuridão"
-   },
-   "out": {
     "1000081": "Sentinelle - Desafinando em Dobro",
-    "1007826": "Os Underdoggs",
-    "1173255": "Amor Doentio",
-    "1596310": "Fallout: O Natal do Ghoul",
-    "1721329": "PARANORIAS Os Arquivos Perdidos do Dr. Romanoski",
-    "17466": "Van Damme - Implacável",
-    "361931": "Ronaldo",
-    "41953": "Crusoé",
+    "1043804": "Thank You, Next",
+    "1143291": "Verão Vermelho de Sangue",
+    "1175942": "Os Mauzões 2",
+    "261768": "A Última Canção",
+    "2637": "A Profecia das Sombras",
     "574883": "Infidelidade",
-    "628262": "Fama Fatal",
-    "639514": "Tempos de Escuridão",
+    "70577": "Rostos Na Multidão",
     "802226": "O Bingo Macabro",
     "850871": "Sayen",
     "86834": "Noé",
-    "883502": "Fortaleza: O Olhar do Sniper",
-    "9966": "Os Mensageiros"
+    "881415": "Love Me",
+    "919678": "Memórias de Um Amor"
+   },
+   "out": {
+    "1086855": "Empire Queen: The Golden Age of Magic",
+    "1436485": "Qivitoq",
+    "1528592": "The Future of Climbing",
+    "1544567": "Noé",
+    "1600519": "Fit for Life - Dare to Dream",
+    "545957": "Meu Primeiro Verão na Califórnia",
+    "59075": "Branca de Neve e os Sete Anões",
+    "642208": "Memórias de Um Amor",
+    "743400": "Undone",
+    "781020": "A Última Canção",
+    "930094": "Vermelho, Branco e Sangue Azul"
    }
   },
   "name": "Amazon Prime Video",
   "shows": {
    "in": {
-    "104999": "Jogo da Lava",
-    "113367": "The Wilds: Vidas Selvagens",
-    "18165": "Diários do Vampiro",
-    "37472": "Os Octonautas",
-    "40360": "Ben Hur"
+    "139434": "7vs.Wild",
+    "227679": "Cocoricó",
+    "44305": "Dragões: Pilotos de Berk",
+    "71026": "Super Wings"
    },
    "out": {
-    "257183": "Jogo da Lava",
-    "288458": "Ben Hur",
-    "293709": "The Wilds: Vidas Selvagens",
-    "303400": "LOL: Last One Laughing - Norway - Halloween Special",
-    "309136": "Os Octonautas",
-    "312258": "Diários do Vampiro"
+    "20153": "Cocoricó",
+    "257605": "Super Wings",
+    "292303": "Dragões: Pilotos de Berk",
+    "312872": "7vs.Wild",
+    "340987": "Laureus Spirit of Sport Episode 6"
    }
   }
  },
  "ptv": {
   "movies": {
    "in": {
-    "869637": "Chat - A Sala Negra",
-    "875303": "Amor Doentio"
+    "897386": "Turma da Mônica: Especial de Férias"
    },
    "out": {
-    "1173255": "Amor Doentio",
-    "48946": "Chat - A Sala Negra"
+    "897365": "Turma da Mônica: Especial de Férias"
    }
   },
-  "name": "Pluto TV"
+  "name": "Pluto TV",
+  "shows": {
+   "in": {
+    "141": "Cheers, Aquele Bar"
+   },
+   "out": {
+    "293772": "Cheers, Aquele Bar"
+   }
+  }
  }
 }
