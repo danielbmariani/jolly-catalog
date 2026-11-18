@@ -705,7 +705,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G50UZ7D00",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GK9U353V4",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd4b5aab-b901-4620-abc7-a476190a00ef"
     },
     "verified": [
@@ -2138,7 +2138,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bd06851d-badc-4336-8f65-de34771d167d",
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.95b6dc78-2e0c-4b81-87ed-165009953ad0",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-2faf68df-e153-4e47-b117-a048427b250f"
     },
     "verified": [
@@ -3030,7 +3030,7 @@
       "The Great Courses Signature Collection Amazon Channel"
     ],
     "urls": {
-      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bc63b0-75f2-35ee-7047-2cc4a4dcbae8"
+      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ae464a3-c62b-4c89-a2a0-d54b6f94a870"
     },
     "verified": [
       "The Great Courses Signature Collection Amazon Channel"
@@ -3705,7 +3705,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G0DUMG7EX",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GN7UNXQ3W",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
       "HBO Max": "https://play.hbomax.com/video/watch/61e42cc7-30a8-454a-9c92-236712db9130",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
@@ -3779,17 +3779,14 @@
   },
   "tt3061046": {
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "urls": {
-      "Cartoon Network Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.341904f3-7487-4eba-90ef-74753f6a1bee",
       "HBO Max": "https://play.hbomax.com/video/watch/da2e4a19-309c-4096-91a5-d616d7bbfd4d",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.341904f3-7487-4eba-90ef-74753f6a1bee"
     },
     "verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ]
@@ -4661,7 +4658,7 @@
       "Netflix"
     ],
     "urls": {
-      "Netflix": "https://www.netflix.com/title/82939566"
+      "Netflix": "https://www.netflix.com/title/80057281"
     },
     "verified": [
       "Netflix"
@@ -5864,17 +5861,14 @@
   },
   "tt8146760": {
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "urls": {
-      "Cartoon Network Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6ccf4775-69d9-4619-a9fa-84defb0ca475",
       "HBO Max": "https://play.hbomax.com/video/watch/c69873a1-36dc-4c3d-a657-0a9758a15021",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6ccf4775-69d9-4619-a9fa-84defb0ca475"
     },
     "verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ]

@@ -258,28 +258,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.6819af24-6553-4328-b4fe-07db731fe53e",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.6819af24-6553-4328-b4fe-07db731fe53e&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.6819af24-6553-4328-b4fe-07db731fe53e&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6819af24-6553-4328-b4fe-07db731fe53e"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": null,
-        "tech": "amazoncartoonnetwork",
-        "until": "2027-02-01"
-      },
-      {
-        "audio": [
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -300,13 +278,11 @@
     ],
     "poster": "/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Netflix"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Netflix"
@@ -549,31 +525,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.34148f59-59dc-47d3-a33b-626b0c65cc51",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.34148f59-59dc-47d3-a33b-626b0c65cc51&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.34148f59-59dc-47d3-a33b-626b0c65cc51&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.34148f59-59dc-47d3-a33b-626b0c65cc51"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "fr",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -594,12 +545,10 @@
     ],
     "poster": "/fJXzwxCVr2TEkhhKRKcih9o5DYK.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -1858,30 +1807,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.f3b5f895-0b6c-41b1-99d5-66a725bb88d5",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.f3b5f895-0b6c-41b1-99d5-66a725bb88d5&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.f3b5f895-0b6c-41b1-99d5-66a725bb88d5&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f3b5f895-0b6c-41b1-99d5-66a725bb88d5"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": null,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -1902,12 +1827,10 @@
     ],
     "poster": "/aerZJVODYwji4BnyWrHFmF3JxhX.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -2851,30 +2774,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.3b07478e-f9e6-4796-8ff5-58c06bde79f8",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.3b07478e-f9e6-4796-8ff5-58c06bde79f8&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.3b07478e-f9e6-4796-8ff5-58c06bde79f8&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3b07478e-f9e6-4796-8ff5-58c06bde79f8"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": false,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -2895,12 +2794,10 @@
     ],
     "poster": "/4H5diUE5bKp9dxcisJ3wbZzvAg7.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -2982,30 +2879,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.0994884c-bd92-410d-9109-aac1bb7c6116",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.0994884c-bd92-410d-9109-aac1bb7c6116&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.0994884c-bd92-410d-9109-aac1bb7c6116&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0994884c-bd92-410d-9109-aac1bb7c6116"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": null,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -3026,12 +2899,10 @@
     ],
     "poster": "/8dpk0bjBgX93ZkQxEI1daNSj3OW.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -3404,30 +3275,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.5f1f160e-ff70-42dd-b5f2-d51f9ed6950b",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.5f1f160e-ff70-42dd-b5f2-d51f9ed6950b&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.5f1f160e-ff70-42dd-b5f2-d51f9ed6950b&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f1f160e-ff70-42dd-b5f2-d51f9ed6950b"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -3448,12 +3295,10 @@
     ],
     "poster": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -3710,30 +3555,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.d9d747fa-21c1-41b4-a281-657e89101df1",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.d9d747fa-21c1-41b4-a281-657e89101df1&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.d9d747fa-21c1-41b4-a281-657e89101df1&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d9d747fa-21c1-41b4-a281-657e89101df1"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -3754,13 +3575,11 @@
     ],
     "poster": "/nDNUuNNoFaZFNjSwWCG5XwaOf9f.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Netflix"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Netflix"
@@ -3811,30 +3630,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.13124570-8cfb-4a66-aedd-1affc641d778",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.13124570-8cfb-4a66-aedd-1affc641d778&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.13124570-8cfb-4a66-aedd-1affc641d778&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13124570-8cfb-4a66-aedd-1affc641d778"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": "2027-01-01"
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -3855,12 +3650,10 @@
     ],
     "poster": "/cXJ1m6f8KORhoIcrPSOYap56aAe.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -4615,30 +4408,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.281671e3-0401-4d75-9ba8-0f1e4476a228",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.281671e3-0401-4d75-9ba8-0f1e4476a228&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.281671e3-0401-4d75-9ba8-0f1e4476a228&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.281671e3-0401-4d75-9ba8-0f1e4476a228"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -4659,12 +4428,10 @@
     ],
     "poster": "/l7joGj61QSDC2jsIOgnUVftoiu2.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -5148,30 +4915,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.602c64d0-a563-480d-b3b2-df0996dac06d",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.602c64d0-a563-480d-b3b2-df0996dac06d&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.602c64d0-a563-480d-b3b2-df0996dac06d&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.602c64d0-a563-480d-b3b2-df0996dac06d"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": "2026-12-30"
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -5192,13 +4935,11 @@
     ],
     "poster": "/o6Uom6mVkHJsghzMFuFA3W6Kc5l.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Shahid VIP"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -5509,30 +5250,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.4e2279c9-f6b6-4efe-89fc-e2eaabea6442",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.4e2279c9-f6b6-4efe-89fc-e2eaabea6442&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.4e2279c9-f6b6-4efe-89fc-e2eaabea6442&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e2279c9-f6b6-4efe-89fc-e2eaabea6442"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -5553,12 +5270,10 @@
     ],
     "poster": "/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -6007,30 +5722,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.39a52e41-ffc5-4b5c-8227-953084129982",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.39a52e41-ffc5-4b5c-8227-953084129982&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.39a52e41-ffc5-4b5c-8227-953084129982&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.39a52e41-ffc5-4b5c-8227-953084129982"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -6051,13 +5742,11 @@
     ],
     "poster": "/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Netflix"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Netflix"
@@ -6392,8 +6081,61 @@
         "year": 2013
       }
     ],
+    "offers": [
+      {
+        "audio": [
+          "ar",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "es-419",
+          "fi",
+          "fr",
+          "he",
+          "hu",
+          "id",
+          "it",
+          "ja",
+          "ko",
+          "ms",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "pt-BR",
+          "ro",
+          "sk",
+          "sv",
+          "th",
+          "tr"
+        ],
+        "audio_pt": true,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": "https://www.disneyplus.com/play/1d879339-02e5-4051-9ce0-7874b64d9996",
+          "androidtv": "intent://www.disneyplus.com/play/1d879339-02e5-4051-9ce0-7874b64d9996#Intent;launchFlags=0x00800000;scheme=https;end",
+          "tvos": "https://www.disneyplus.com/play/1d879339-02e5-4051-9ce0-7874b64d9996",
+          "web": "https://www.disneyplus.com/browse/entity-158f0e51-8d09-44fe-852b-5c286767cc9a"
+        },
+        "price": null,
+        "provider": "Disney Plus",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": false,
+        "tech": "disneyplus",
+        "until": null
+      }
+    ],
     "poster": "/eZHmUO1OQRpVkAOdj9VwYCCyQew.jpg",
     "providers": [
+      "Disney Plus"
+    ],
+    "providers_verified": [
       "Disney Plus"
     ],
     "status": "ended",
@@ -6950,29 +6692,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.72e69c31-81b9-469a-9fe1-e1cfcfeb477a",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.72e69c31-81b9-469a-9fe1-e1cfcfeb477a&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.72e69c31-81b9-469a-9fe1-e1cfcfeb477a&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e69c31-81b9-469a-9fe1-e1cfcfeb477a"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "Discovery Kids",
         "host": "Prime Video",
         "kind": "channel",
@@ -7040,14 +6759,12 @@
     ],
     "poster": "/V57onWsHdZUMOao3uixaUBbO4o.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "Discovery Kids Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Playkids Learning Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "Discovery Kids Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
@@ -7258,30 +6975,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.35bfde83-3e5d-48d7-ac25-fb0dab3a0548",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.35bfde83-3e5d-48d7-ac25-fb0dab3a0548&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.35bfde83-3e5d-48d7-ac25-fb0dab3a0548&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.35bfde83-3e5d-48d7-ac25-fb0dab3a0548"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -7302,13 +6995,11 @@
     ],
     "poster": "/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Netflix"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Netflix"
@@ -7938,30 +7629,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.341904f3-7487-4eba-90ef-74753f6a1bee",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.341904f3-7487-4eba-90ef-74753f6a1bee&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.341904f3-7487-4eba-90ef-74753f6a1bee&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.341904f3-7487-4eba-90ef-74753f6a1bee"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -7982,12 +7649,10 @@
     ],
     "poster": "/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -8037,30 +7702,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.8e6a97e7-0bc1-49c8-8f80-f78efc444fbe",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.8e6a97e7-0bc1-49c8-8f80-f78efc444fbe&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.8e6a97e7-0bc1-49c8-8f80-f78efc444fbe&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8e6a97e7-0bc1-49c8-8f80-f78efc444fbe"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": null,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -8081,12 +7722,10 @@
     ],
     "poster": "/qZkAyOlDAxHtQreQE4ZzGfrSQl8.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -8457,30 +8096,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.f949befb-bfbd-4890-aa4b-443c8b5634e7",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.f949befb-bfbd-4890-aa4b-443c8b5634e7&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.f949befb-bfbd-4890-aa4b-443c8b5634e7&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f949befb-bfbd-4890-aa4b-443c8b5634e7"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -8501,12 +8116,10 @@
     ],
     "poster": "/41EWXLXTZO4MLb2BL28mWZuydyq.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -8716,33 +8329,6 @@
           "th"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.30a0e32e-82da-4109-b179-38b0fa76e034",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.30a0e32e-82da-4109-b179-38b0fa76e034&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.30a0e32e-82da-4109-b179-38b0fa76e034&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.30a0e32e-82da-4109-b179-38b0fa76e034"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "id",
-          "ms",
-          "pt",
-          "th"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -8763,12 +8349,10 @@
     ],
     "poster": "/wG6tRzXB8lTE03i7NaqwO04z5Oy.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -8818,30 +8402,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.1771edae-bca5-4538-8a79-00c67e3c8ba0",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.1771edae-bca5-4538-8a79-00c67e3c8ba0&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.1771edae-bca5-4538-8a79-00c67e3c8ba0&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1771edae-bca5-4538-8a79-00c67e3c8ba0"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": null,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -8862,12 +8422,10 @@
     ],
     "poster": "/m3lU8n7WxzMecxKZcqhq5y5ESy.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -9184,10 +8742,10 @@
         "host": null,
         "kind": "included",
         "links": {
-          "android": "https://www.disneyplus.com/play/78351308-049f-47f0-92e6-74bb327783e7",
-          "androidtv": "intent://www.disneyplus.com/play/78351308-049f-47f0-92e6-74bb327783e7#Intent;launchFlags=0x00800000;scheme=https;end",
-          "tvos": "https://www.disneyplus.com/play/78351308-049f-47f0-92e6-74bb327783e7",
-          "web": "https://www.disneyplus.com/browse/entity-626e02ea-e139-4f45-995a-6856848d0f2f"
+          "android": "https://www.disneyplus.com/play/f191fda7-cf62-41bb-8925-31b4deb9dda0",
+          "androidtv": "intent://www.disneyplus.com/play/f191fda7-cf62-41bb-8925-31b4deb9dda0#Intent;launchFlags=0x00800000;scheme=https;end",
+          "tvos": "https://www.disneyplus.com/play/f191fda7-cf62-41bb-8925-31b4deb9dda0",
+          "web": "https://www.disneyplus.com/browse/entity-25405af5-cf5d-41fe-b5de-20c2f080571b"
         },
         "price": null,
         "provider": "Disney Plus",
@@ -9690,30 +9248,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.09217cfc-2897-4772-a68d-904ce7e7893b",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.09217cfc-2897-4772-a68d-904ce7e7893b&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.09217cfc-2897-4772-a68d-904ce7e7893b&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09217cfc-2897-4772-a68d-904ce7e7893b"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -9734,12 +9268,10 @@
     ],
     "poster": "/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -10322,29 +9854,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.5a49de4d-d7e5-465b-86dd-1905808ffb8b",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.5a49de4d-d7e5-465b-86dd-1905808ffb8b&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.5a49de4d-d7e5-465b-86dd-1905808ffb8b&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a49de4d-d7e5-465b-86dd-1905808ffb8b"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -10365,12 +9874,10 @@
     ],
     "poster": "/3nwQQE7WlIfZg5VDLi5FLA6sGOU.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
@@ -11634,30 +11141,6 @@
           "pt"
         ],
         "audio_pt": true,
-        "channel": "Cartoon Network",
-        "host": "Prime Video",
-        "kind": "channel",
-        "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.db75c326-3fbe-459a-8bb7-6583b0085e6c",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.db75c326-3fbe-459a-8bb7-6583b0085e6c&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.db75c326-3fbe-459a-8bb7-6583b0085e6c&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.db75c326-3fbe-459a-8bb7-6583b0085e6c"
-        },
-        "price": null,
-        "provider": "Cartoon Network Amazon Channel",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": true,
-        "tech": "amazoncartoonnetwork",
-        "until": null
-      },
-      {
-        "audio": [
-          "en",
-          "es",
-          "pt"
-        ],
-        "audio_pt": true,
         "channel": "HBO Max",
         "host": "Prime Video",
         "kind": "channel",
@@ -11678,12 +11161,10 @@
     ],
     "poster": "/fkkBQsWgRX7OFxzV0jtCM88a0Xq.jpg",
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "providers_verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],

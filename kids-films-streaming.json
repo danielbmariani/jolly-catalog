@@ -1230,19 +1230,16 @@
   },
   "137106": {
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Cartoon Network Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.caa9f66b-20ba-3a20-9a6c-bdd14d07fbf9",
       "HBO Max": "https://play.hbomax.com/show/bb4aad30-222f-4159-a5b9-7cd4e29aa05d",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.caa9f66b-20ba-3a20-9a6c-bdd14d07fbf9",
       "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.caa9f66b-20ba-3a20-9a6c-bdd14d07fbf9"
     },
     "verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Universal+ Amazon Channel"
@@ -1288,7 +1285,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G14U4DXQ2",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G31UXJW8E",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3583b831-3ad5-4bf2-9be1-fda81ca8f0e9"
     },
     "verified": [
@@ -2033,21 +2030,18 @@
   },
   "2300": {
     "providers": [
-      "Cartoon Network Amazon Channel",
       "Globoplay",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Telecine Amazon Channel"
     ],
     "urls": {
-      "Cartoon Network Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cb528b8-88c5-21b1-63fc-44cc29dc1c8a",
       "Globoplay": "https://globoplay.globo.com/space-jam-o-jogo-do-seculo/t/ZJtsP7d5SM/",
       "HBO Max": "https://play.hbomax.com/show/911ef770-d719-451b-8ad5-95a15712df90",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cb528b8-88c5-21b1-63fc-44cc29dc1c8a",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cb528b8-88c5-21b1-63fc-44cc29dc1c8a"
     },
     "verified": [
-      "Cartoon Network Amazon Channel",
       "Globoplay",
       "HBO Max",
       "HBO Max Amazon Channel",
@@ -2175,19 +2169,16 @@
   "259316": {
     "providers": [
       "Amazon Prime Video",
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d97677f3-dc40-4984-a7fc-75100d4b36a0",
-      "Cartoon Network Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d97677f3-dc40-4984-a7fc-75100d4b36a0",
       "HBO Max": "https://play.hbomax.com/show/d627b35d-31a0-4e62-af14-6ec2fd8fdaef",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d97677f3-dc40-4984-a7fc-75100d4b36a0"
     },
     "verified": [
       "Amazon Prime Video",
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel"
     ]
@@ -2642,19 +2633,16 @@
   },
   "324849": {
     "providers": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Universal+ Amazon Channel"
     ],
     "urls": {
-      "Cartoon Network Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c52cbba3-fd10-4ed8-b565-9f683be19774",
       "HBO Max": "https://play.hbomax.com/show/1042ce03-1313-4af5-9cea-329e9e0bf579",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c52cbba3-fd10-4ed8-b565-9f683be19774",
       "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c52cbba3-fd10-4ed8-b565-9f683be19774"
     },
     "verified": [
-      "Cartoon Network Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
       "Universal+ Amazon Channel"
@@ -5055,7 +5043,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-154b2e5c-fbe7-49b7-b6be-fd0e6c75651f"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-e6ef640e-787e-4477-aba4-9e05925ebac2"
     },
     "verified": [
       "Disney Plus"
@@ -5697,7 +5685,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29952",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29988",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
