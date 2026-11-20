@@ -288,8 +288,11 @@
       "Universal+ Amazon Channel"
     ],
     "urls": {
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b3ea01-bd1a-448d-b8dc-1d4614137e7c",
       "HBO Max": "https://play.hbomax.com/video/watch/66c0c553-47e5-473d-9f12-0825f0cb9607",
-      "Netflix": "https://www.netflix.com/title/70136120"
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b3ea01-bd1a-448d-b8dc-1d4614137e7c",
+      "Netflix": "https://www.netflix.com/title/70136120",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b3ea01-bd1a-448d-b8dc-1d4614137e7c"
     },
     "verified": [
       "Amazon Prime Video",
@@ -423,7 +426,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-03d80ab5-f0a7-45a7-97ec-2ceb7e066251"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-2171423f-3326-4dfa-b193-b40494e60109"
     },
     "verified": [
       "Disney Plus"
@@ -1658,18 +1661,15 @@
   },
   "tt13623608": {
     "providers": [
-      "Paramount Plus",
-      "Paramount Plus Apple TV channel",
-      "Paramount Plus Premium",
+      "MUBI",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
-      "Paramount Plus": "https://www.paramountplus.com/shows/the-curse/video/FK_sX2XScsPS0ya06aqhagEHP7ff6oWa/the-curse-land-of-enchantment?amp%3Butm_source=publisher",
-      "Paramount Plus Premium": "https://www.paramountplus.com/shows/the-curse/video/FK_sX2XScsPS0ya06aqhagEHP7ff6oWa/the-curse-land-of-enchantment?amp%3Butm_source=publisher",
+      "MUBI": "https://mubi.com/films/land-of-enchantment-2023",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.61291af2-1d00-4ce5-9c81-951bbff1be79"
     },
     "verified": [
-      "Paramount Plus Apple TV channel",
+      "MUBI",
       "Paramount+ Amazon Channel"
     ]
   },
@@ -1861,9 +1861,6 @@
     "verified": [
       "Netflix"
     ]
-  },
-  "tt14371926": {
-    "providers": []
   },
   "tt1439629": {
     "providers": [
@@ -3030,7 +3027,7 @@
       "The Great Courses Signature Collection Amazon Channel"
     ],
     "urls": {
-      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ae464a3-c62b-4c89-a2a0-d54b6f94a870"
+      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb93120-8db4-e890-c593-c0f215b87a45"
     },
     "verified": [
       "The Great Courses Signature Collection Amazon Channel"
@@ -3705,7 +3702,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GN7UNXQ3W",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GVWU8NKGQ",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
       "HBO Max": "https://play.hbomax.com/video/watch/61e42cc7-30a8-454a-9c92-236712db9130",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
@@ -4075,20 +4072,17 @@
   },
   "tt33043892": {
     "providers": [
-      "Amazon Prime Video",
       "Paramount Plus",
       "Paramount Plus Apple TV channel",
       "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ff21299-2f7a-471b-9979-4b5f796ca297",
       "Paramount Plus": "https://www.paramountplus.com/shows/dexter-resurrection/video/oOtBqMJIb7CSG8ZELOruJWGKCFWwnLkk/dexter-resurrection-a-beating-heart-?amp%3Butm_source=publisher",
       "Paramount Plus Premium": "https://www.paramountplus.com/shows/dexter-resurrection/video/oOtBqMJIb7CSG8ZELOruJWGKCFWwnLkk/dexter-resurrection-a-beating-heart-?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8500885e-a8bf-420a-bb55-eb33708aacee"
     },
     "verified": [
-      "Amazon Prime Video",
       "Paramount Plus Apple TV channel",
       "Paramount+ Amazon Channel"
     ]
@@ -4477,6 +4471,9 @@
     ]
   },
   "tt4063800": {
+    "providers": []
+  },
+  "tt4082744": {
     "providers": []
   },
   "tt4094300": {
@@ -5036,17 +5033,9 @@
   },
   "tt5743796": {
     "providers": [
-      "HBO Max",
-      "HBO Max Amazon Channel",
       "The Great Courses Signature Collection Amazon Channel"
     ],
-    "urls": {
-      "HBO Max": "https://play.hbomax.com/video/watch/1f0af73f-baca-4586-a7a9-2135b6b234dc",
-      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4b6a31d-cf78-fafd-541c-672ffccb7eb5"
-    },
     "verified": [
-      "HBO Max",
-      "HBO Max Amazon Channel",
       "The Great Courses Signature Collection Amazon Channel"
     ]
   },
@@ -5111,14 +5100,14 @@
       "Paramount+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.720f8f36-8742-4068-b9e9-e3a5d91ff95f",
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.93303bd8-75f6-4735-8ce9-cb477f3093d6",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-565d8976-9d26-4e63-866c-40f8a137ce5f",
       "Globoplay": "https://globoplay.globo.com/v/7363621",
-      "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.720f8f36-8742-4068-b9e9-e3a5d91ff95f",
+      "MGM Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.93303bd8-75f6-4735-8ce9-cb477f3093d6",
       "Netflix": "https://www.netflix.com/title/80190982",
       "Paramount Plus": "https://www.paramountplus.com/shows/the-handmaids-tale/video/gwC14equs3Iay5Iope6hPlrHnH4IW_JP/the-handmaid-s-tale-offred?amp%3Butm_source=publisher",
       "Paramount Plus Premium": "https://www.paramountplus.com/shows/the-handmaids-tale/video/gwC14equs3Iay5Iope6hPlrHnH4IW_JP/the-handmaid-s-tale-offred?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.720f8f36-8742-4068-b9e9-e3a5d91ff95f"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.93303bd8-75f6-4735-8ce9-cb477f3093d6"
     },
     "verified": [
       "Amazon Prime Video",

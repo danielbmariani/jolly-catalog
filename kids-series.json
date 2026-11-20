@@ -1948,10 +1948,36 @@
     "lists": [
       "brasil-canon"
     ],
+    "offers": [
+      {
+        "audio": [
+          "pt"
+        ],
+        "audio_pt": true,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.84b938d5-3f34-75c3-504a-0a09acf0a5b1",
+          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.84b938d5-3f34-75c3-504a-0a09acf0a5b1&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
+          "tvos": "aiv://aiv/watch?gti=amzn1.dv.gti.84b938d5-3f34-75c3-504a-0a09acf0a5b1&territory=BR&time=auto",
+          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84b938d5-3f34-75c3-504a-0a09acf0a5b1"
+        },
+        "price": null,
+        "provider": "Amazon Prime Video",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": null,
+        "tech": "amazonprimevideo",
+        "until": null
+      }
+    ],
     "poster": "/64NyFMaTxe89SXxzbyqXB2zbcgl.jpg",
     "providers": [
-      "Amazon Prime Video",
-      "Amazon Prime Video with Ads"
+      "Amazon Prime Video"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video"
     ],
     "status": "ended",
     "title": "Cocoricó",
@@ -3621,7 +3647,7 @@
         "state": "verified",
         "sub_pt": true,
         "tech": "max",
-        "until": "2027-01-01"
+        "until": null
       },
       {
         "audio": [
@@ -3645,7 +3671,7 @@
         "state": "verified",
         "sub_pt": true,
         "tech": "amazonhbomax",
-        "until": "2027-01-01"
+        "until": null
       }
     ],
     "poster": "/cXJ1m6f8KORhoIcrPSOYap56aAe.jpg",
@@ -3998,35 +4024,9 @@
         "year": 2021
       }
     ],
-    "offers": [
-      {
-        "audio": [],
-        "audio_pt": null,
-        "channel": null,
-        "host": null,
-        "kind": "included",
-        "links": {
-          "android": "https://www.netflix.com/watch/81131659",
-          "androidtv": "intent://www.netflix.com/watch/81035680#Intent;launchFlags=0x00800000;scheme=https;package=com.netflix.ninja;S.source=30;end",
-          "tvos": "nflx://www.netflix.com/watch/81035680?source=topshelf",
-          "web": "https://www.netflix.com/title/81035680"
-        },
-        "price": null,
-        "provider": "Netflix",
-        "quality": "HD",
-        "state": "verified",
-        "sub_pt": null,
-        "tech": "netflix",
-        "until": null
-      }
-    ],
+    "offers": [],
     "poster": "/oPpA8DMcMThacHlAo5az83WxwBr.jpg",
-    "providers": [
-      "Netflix"
-    ],
-    "providers_verified": [
-      "Netflix"
-    ],
+    "providers": [],
     "status": "ended",
     "title": "Waffles + Mochi",
     "tmdb_id": 118439

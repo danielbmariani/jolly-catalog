@@ -1,7 +1,7 @@
 {
   "_raw": [
     {
-      "date": "2026-11-18",
+      "date": "2026-11-20",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -9,7 +9,7 @@
       "url": "https://www.rogerebert.com/reviews/the-good-daughter-rose-byrne-meghann-fahy-peacock-tv-review-2026"
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-20",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -17,7 +17,7 @@
       "url": "https://www.rogerebert.com/reviews/avedon-netflix-documentary-film-review-2026"
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-20",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -25,12 +25,52 @@
       "url": "https://www.rogerebert.com/reviews/paper-tiger-james-gray-miles-teller-adam-driver-scarlett-johansson-film-review-2026"
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-20",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
       "title": "The Hunger Games: Sunrise on the Reaping",
       "url": "https://www.rogerebert.com/reviews/the-hunger-games-sunrise-on-the-reaping-prequel-movie-review-2026"
+    },
+    {
+      "date": "2026-11-20",
+      "media_type": "movie",
+      "outlet": "RogerEbert.com",
+      "rating": "4★",
+      "title": "Minotaur",
+      "url": "https://www.rogerebert.com/reviews/minotaur-film-review-2026"
+    },
+    {
+      "date": "2026-11-19",
+      "media_type": "movie",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "The Further Mis-Adventures of Cliff Booth",
+      "url": "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt"
+    },
+    {
+      "date": "2026-11-19",
+      "media_type": "movie",
+      "outlet": "The Guardian",
+      "rating": "5★",
+      "title": "You Can See Everything",
+      "url": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes"
+    },
+    {
+      "date": "2026-11-19",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "5★",
+      "title": "Terror on Bondi Beach",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/19/terror-on-bondi-beach-review-channel-four"
+    },
+    {
+      "date": "2026-11-19",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "The Altruists",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/19/the-altruists-review-anthony-boyle-julia-garner"
     },
     {
       "date": "2026-11-17",
@@ -999,14 +1039,6 @@
       "rating": "4★",
       "title": "Carrie",
       "url": "https://www.theguardian.com/tv-and-radio/2026/oct/07/carrie-review-summer-h-howel-prime-video-horror"
-    },
-    {
-      "date": "2026-10-06",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "Minotaur",
-      "url": "https://www.rogerebert.com/reviews/minotaur-film-review-2026"
     },
     {
       "date": "2026-10-06",
@@ -6279,30 +6311,6 @@
       "rating": "3.5★",
       "title": "Sisu: Road to Revenge",
       "url": "https://www.rogerebert.com/reviews/sisu-2-road-to-revenge-movie-review-2025"
-    },
-    {
-      "date": "2025-11-19",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "4★",
-      "title": "Turner: The Secret Sketchbooks",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/nov/19/turner-the-secret-sketchbooks-review-bbc-two-iplayer"
-    },
-    {
-      "date": "2025-11-19",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Angel’s Egg",
-      "url": "https://www.rogerebert.com/reviews/angels-egg-film-review-2025"
-    },
-    {
-      "date": "2025-11-18",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "5★",
-      "title": "The Black Swan",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/nov/18/the-black-swan-review-denmark-bbc-one-iplayer"
     }
   ],
   "movie:tmdb:1434103": {
@@ -8052,13 +8060,13 @@
             "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.56bf57bc-6f3b-4cec-9d30-6ab7b71f977b&territory=BR",
             "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.56bf57bc-6f3b-4cec-9d30-6ab7b71f977b"
           },
-          "price": "14,90 R$",
+          "price": "9,90 R$",
           "provider": "Amazon Video",
           "quality": "_4K",
           "state": "trusted",
           "sub_pt": true,
           "tech": "amazon",
-          "until": "2026-11-19"
+          "until": "2026-11-27"
         },
         {
           "audio": [
@@ -8075,7 +8083,7 @@
             "tvos": "https://tv.apple.com/br/movie/dia-d/umc.cmc.1i56xrk36gdembwgd2qfll4qi?playableId=tvs.sbd.9001%3A1896826363",
             "web": "https://tv.apple.com/br/movie/dia-d/umc.cmc.1i56xrk36gdembwgd2qfll4qi?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1896826363"
           },
-          "price": "14,90 R$",
+          "price": "9,90 R$",
           "provider": "Apple TV Store",
           "quality": "_4K",
           "state": "trusted",
@@ -8110,13 +8118,13 @@
             "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.56bf57bc-6f3b-4cec-9d30-6ab7b71f977b&territory=BR",
             "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.56bf57bc-6f3b-4cec-9d30-6ab7b71f977b"
           },
-          "price": "49,90 R$",
+          "price": "29,90 R$",
           "provider": "Amazon Video",
           "quality": "_4K",
           "state": "trusted",
           "sub_pt": true,
           "tech": "amazon",
-          "until": "2026-11-19"
+          "until": "2026-11-27"
         },
         {
           "audio": [
@@ -8133,7 +8141,7 @@
             "tvos": "https://tv.apple.com/br/movie/dia-d/umc.cmc.1i56xrk36gdembwgd2qfll4qi?playableId=tvs.sbd.9001%3A1896826363",
             "web": "https://tv.apple.com/br/movie/dia-d/umc.cmc.1i56xrk36gdembwgd2qfll4qi?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1896826363"
           },
-          "price": "49,90 R$",
+          "price": "29,90 R$",
           "provider": "Apple TV Store",
           "quality": "_4K",
           "state": "trusted",
@@ -10949,13 +10957,13 @@
             "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.b645e26f-b508-4843-84fd-8ca3eeba99b1&territory=BR",
             "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b645e26f-b508-4843-84fd-8ca3eeba99b1"
           },
-          "price": "39,90 R$",
+          "price": "19,90 R$",
           "provider": "Amazon Video",
           "quality": "_4K",
           "state": "trusted",
           "sub_pt": true,
           "tech": "amazon",
-          "until": "2026-11-19"
+          "until": "2026-12-01"
         },
         {
           "audio": [
@@ -11999,6 +12007,7 @@
             "fr",
             "it",
             "ja",
+            "pl",
             "pt",
             "tr"
           ],
@@ -12661,13 +12670,13 @@
             "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.e4827820-d91e-48e3-a1f7-f58c2fd1da15&territory=BR",
             "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e4827820-d91e-48e3-a1f7-f58c2fd1da15"
           },
-          "price": "39,90 R$",
+          "price": "19,90 R$",
           "provider": "Amazon Video",
           "quality": "_4K",
           "state": "trusted",
           "sub_pt": true,
           "tech": "amazon",
-          "until": "2026-11-19"
+          "until": "2026-12-01"
         },
         {
           "audio": [
@@ -13256,7 +13265,7 @@
     "poster": "/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
     "recs": [
       {
-        "date": "2026-11-18",
+        "date": "2026-11-20",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/the-good-daughter-rose-byrne-meghann-fahy-peacock-tv-review-2026"
@@ -14378,27 +14387,6 @@
     "tmdb_id": 1171145,
     "year": 2026
   },
-  "tt32482555": {
-    "age": null,
-    "genres": [
-      99,
-      80
-    ],
-    "media_type": "tv",
-    "original_title": "Den Sorte Svane",
-    "poster": "/zngOoIOqg0V5qCSotkOoPW7JQnc.jpg",
-    "recs": [
-      {
-        "date": "2025-11-18",
-        "outlet": "The Guardian",
-        "rating": "5★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/18/the-black-swan-review-denmark-bbc-one-iplayer"
-      }
-    ],
-    "title": "The Black Swan",
-    "tmdb_id": 255510,
-    "year": 2024
-  },
   "tt32499731": {
     "age": {
       "classind": "16",
@@ -14555,7 +14543,7 @@
     "poster": "/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "recs": [
       {
-        "date": "2026-11-18",
+        "date": "2026-11-20",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/the-hunger-games-sunrise-on-the-reaping-prequel-movie-review-2026"
@@ -14602,13 +14590,13 @@
             "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.4c31bd57-6ca1-4d79-9311-c7d5caa84b41&territory=BR",
             "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4c31bd57-6ca1-4d79-9311-c7d5caa84b41"
           },
-          "price": "39,90 R$",
+          "price": "29,90 R$",
           "provider": "Amazon Video",
           "quality": "_4K",
           "state": "trusted",
           "sub_pt": true,
           "tech": "amazon",
-          "until": "2026-11-19"
+          "until": "2026-12-01"
         },
         {
           "audio": [
@@ -14625,7 +14613,7 @@
             "tvos": "https://tv.apple.com/br/movie/da-magia-a-seducao-feitico-de-amor/umc.cmc.2e0x5rla466dkovz6ucgie52?playableId=tvs.sbd.9001%3A6803706922",
             "web": "https://tv.apple.com/br/movie/da-magia-a-seducao-feitico-de-amor/umc.cmc.2e0x5rla466dkovz6ucgie52?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A6803706922"
           },
-          "price": "39,90 R$",
+          "price": "29,90 R$",
           "provider": "Apple TV Store",
           "quality": "_4K",
           "state": "trusted",
@@ -14658,13 +14646,13 @@
             "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.4c31bd57-6ca1-4d79-9311-c7d5caa84b41&territory=BR",
             "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4c31bd57-6ca1-4d79-9311-c7d5caa84b41"
           },
-          "price": "49,90 R$",
+          "price": "39,90 R$",
           "provider": "Amazon Video",
           "quality": "_4K",
           "state": "trusted",
           "sub_pt": true,
           "tech": "amazon",
-          "until": "2026-11-19"
+          "until": "2026-12-01"
         },
         {
           "audio": [
@@ -14681,7 +14669,7 @@
             "tvos": "https://tv.apple.com/br/movie/da-magia-a-seducao-feitico-de-amor/umc.cmc.2e0x5rla466dkovz6ucgie52?playableId=tvs.sbd.9001%3A6803706922",
             "web": "https://tv.apple.com/br/movie/da-magia-a-seducao-feitico-de-amor/umc.cmc.2e0x5rla466dkovz6ucgie52?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A6803706922"
           },
-          "price": "49,90 R$",
+          "price": "39,90 R$",
           "provider": "Apple TV Store",
           "quality": "_4K",
           "state": "trusted",
@@ -16740,7 +16728,7 @@
     "poster": "/zVYm9mNSyr9EYhUUI72DOGgYRZH.jpg",
     "recs": [
       {
-        "date": "2026-11-18",
+        "date": "2026-11-20",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/paper-tiger-james-gray-miles-teller-adam-driver-scarlett-johansson-film-review-2026"
@@ -17649,13 +17637,13 @@
             "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.d7ee9489-801c-4a17-8adb-b4bd94f93a29&territory=BR",
             "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7ee9489-801c-4a17-8adb-b4bd94f93a29"
           },
-          "price": "6,90 R$",
+          "price": "4,90 R$",
           "provider": "Amazon Video",
           "quality": "HD",
           "state": "trusted",
           "sub_pt": null,
           "tech": "amazon",
-          "until": "2026-11-19"
+          "until": "2026-12-01"
         },
         {
           "audio": [
@@ -17693,13 +17681,13 @@
             "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.d7ee9489-801c-4a17-8adb-b4bd94f93a29&territory=BR",
             "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7ee9489-801c-4a17-8adb-b4bd94f93a29"
           },
-          "price": "14,90 R$",
+          "price": "9,90 R$",
           "provider": "Amazon Video",
           "quality": "HD",
           "state": "trusted",
           "sub_pt": null,
           "tech": "amazon",
-          "until": "2026-11-19"
+          "until": "2026-12-01"
         },
         {
           "audio": [
@@ -19219,6 +19207,31 @@
     "tmdb_id": 1444471,
     "year": 2026
   },
+  "tt36408401": {
+    "age": {
+      "classind": "16",
+      "source": "BR"
+    },
+    "genres": [
+      35,
+      18,
+      53
+    ],
+    "media_type": "movie",
+    "original_title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+    "poster": "/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
+    "recs": [
+      {
+        "date": "2026-11-19",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt"
+      }
+    ],
+    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+    "tmdb_id": 1457866,
+    "year": 2026
+  },
   "tt36415529": {
     "age": null,
     "genres": [
@@ -19765,6 +19778,60 @@
     "tmdb_id": 1492865,
     "year": 2026
   },
+  "tt36786185": {
+    "age": {
+      "classind": "14",
+      "source": "BR"
+    },
+    "genres": [
+      80,
+      18
+    ],
+    "media_type": "tv",
+    "original_title": "The Altruists",
+    "poster": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+    "recs": [
+      {
+        "date": "2026-11-19",
+        "outlet": "The Guardian",
+        "rating": "4★",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/19/the-altruists-review-anthony-boyle-julia-garner"
+      }
+    ],
+    "title": "The Altruists",
+    "tmdb_id": 308007,
+    "watch": {
+      "offers": [
+        {
+          "audio": [],
+          "audio_pt": null,
+          "channel": null,
+          "host": null,
+          "kind": "included",
+          "links": {
+            "android": "https://www.netflix.com/watch/81738585",
+            "androidtv": "intent://www.netflix.com/watch/81681910#Intent;launchFlags=0x00800000;scheme=https;package=com.netflix.ninja;S.source=30;end",
+            "tvos": "nflx://www.netflix.com/watch/81681910?source=topshelf",
+            "web": "https://www.netflix.com/title/81681910"
+          },
+          "price": null,
+          "provider": "Netflix",
+          "quality": "HD",
+          "state": "verified",
+          "sub_pt": null,
+          "tech": "netflix",
+          "until": null
+        }
+      ],
+      "providers": [
+        "Netflix"
+      ],
+      "urls": {
+        "Netflix": "https://www.netflix.com/title/81681910"
+      }
+    },
+    "year": 2026
+  },
   "tt36789130": {
     "age": null,
     "genres": [
@@ -20066,16 +20133,16 @@
     "poster": "/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
     "recs": [
       {
+        "date": "2026-11-20",
+        "outlet": "RogerEbert.com",
+        "rating": "4★",
+        "url": "https://www.rogerebert.com/reviews/minotaur-film-review-2026"
+      },
+      {
         "date": "2026-11-16",
         "outlet": "IndieWire",
         "rating": "A-",
         "url": "https://www.indiewire.com/criticism/movies/minotaur-movie-review-andrey-zvyagintsev-1235194820/"
-      },
-      {
-        "date": "2026-10-06",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/minotaur-film-review-2026"
       },
       {
         "date": "2026-05-19",
@@ -23694,7 +23761,7 @@
     "poster": "/8RYuzFSh4ankYCQWPljx89dlFea.jpg",
     "recs": [
       {
-        "date": "2026-11-18",
+        "date": "2026-11-20",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/avedon-netflix-documentary-film-review-2026"
@@ -24831,6 +24898,12 @@
     "original_title": "You Can See Everything",
     "poster": "/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
     "recs": [
+      {
+        "date": "2026-11-19",
+        "outlet": "The Guardian",
+        "rating": "5★",
+        "url": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes"
+      },
       {
         "date": "2026-10-23",
         "outlet": "RogerEbert.com",

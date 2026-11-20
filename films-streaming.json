@@ -431,7 +431,7 @@
     ],
     "urls": {
       "Apple TV": "https://tv.apple.com/br/movie/a-arte-de-ser-heumann/umc.cmc.5gf63v7zj97yiozkpj26lpy55?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv",
-      "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cb5bf8f-b2a8-4723-be31-8cb088507a4d"
+      "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a1d9a1a-28a2-41bd-a040-307fe03a6405"
     }
   },
   "1051": {
@@ -641,11 +641,13 @@
   "10719": {
     "providers": [
       "Amazon Prime Video",
-      "Disney Plus"
+      "Disney Plus",
+      "Netflix"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.712a5b64-2b9b-4a4f-a965-ceae2917dfe4",
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-05f65cbb-d0ac-4bd3-8b51-ed61707b1c4b"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-05f65cbb-d0ac-4bd3-8b51-ed61707b1c4b",
+      "Netflix": "https://www.netflix.com/title/60031255"
     }
   },
   "10728": {
@@ -1227,7 +1229,12 @@
     "providers": []
   },
   "11393": {
-    "providers": []
+    "providers": [
+      "Sony One Amazon Channel"
+    ],
+    "urls": {
+      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ea9f798-37e1-3909-d7df-7517970eb83f"
+    }
   },
   "114": {
     "providers": [
@@ -1473,10 +1480,20 @@
     "providers": []
   },
   "1165366": {
-    "providers": []
+    "providers": [
+      "Filmelier Plus Amazon Channel"
+    ],
+    "urls": {
+      "Filmelier Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.064ac49d-c75e-4f52-88aa-88fa1378d92a"
+    }
   },
   "1165369": {
-    "providers": []
+    "providers": [
+      "Filmelier Plus Amazon Channel"
+    ],
+    "urls": {
+      "Filmelier Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.75a8db71-85b0-4cac-8fac-f2e6ca73b0cb"
+    }
   },
   "1165642": {
     "providers": [
@@ -2302,13 +2319,16 @@
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/forrest-gump/ms2eMPRyXDpOLCITPSn8wW_7ZdQ6g9dV?amp%3Butm_source=publisher",
       "Paramount Plus Premium": "https://www.paramountplus.com/movies/forrest-gump/ms2eMPRyXDpOLCITPSn8wW_7ZdQ6g9dV?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a75bbfef-d811-4fcc-9b4c-192e2fc43b28"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2325459a-971a-43d5-b23f-bfca02ab8cb7"
     }
   },
   "1300968": {
     "providers": []
   },
   "1302904": {
+    "providers": []
+  },
+  "1303336": {
     "providers": []
   },
   "13041": {
@@ -2343,7 +2363,7 @@
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144ITIT",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00351144PLPL",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf16c3ee-07f4-4987-87d6-8329d6116776",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-b8b65a37-0205-4771-bd07-24b5c4406034",
       "HBO Max": "https://play.hbomax.com/show/291804e2-d281-4934-97f5-5d305fd845fc",
@@ -2795,7 +2815,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G31UXJW8E",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G14U4DXQ2",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3583b831-3ad5-4bf2-9be1-fda81ca8f0e9"
     }
   },
@@ -3107,7 +3127,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-09aa241f-b771-4323-a7ac-e2dae4f3782e"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-24ff6801-575d-45d4-a157-e95f4499e161"
     }
   },
   "145": {
@@ -3163,6 +3183,9 @@
       "MUBI": "https://mubi.com/films/pompei-below-the-clouds",
       "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8de43d27-ed9a-4d2d-8c7d-9e3477790324"
     }
+  },
+  "1457866": {
+    "providers": []
   },
   "14580": {
     "providers": [
@@ -3528,6 +3551,9 @@
   "153": {
     "providers": []
   },
+  "1532787": {
+    "providers": []
+  },
   "1534221": {
     "providers": []
   },
@@ -3758,6 +3784,9 @@
       "Apple TV": "https://tv.apple.com/br/movie/k2---o-desafio-final/umc.cmc.3qvemsb6f04actuyzdporeelt?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv",
       "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e4ed3d5b-020e-4a2e-9a54-841264963ec5"
     }
+  },
+  "1596314": {
+    "providers": []
   },
   "1596335": {
     "providers": [
@@ -4267,13 +4296,11 @@
     "providers": [
       "MUBI",
       "MUBI Amazon Channel",
-      "Netflix",
       "Reserva Imovision Amazon Channel"
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/lucio-flavio",
       "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83606730-ee2a-4952-a391-2790680fb3a9",
-      "Netflix": "https://www.netflix.com/title/70253664",
       "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83606730-ee2a-4952-a391-2790680fb3a9"
     }
   },
@@ -6660,6 +6687,9 @@
       "Disney Plus": "https://www.disneyplus.com/browse/entity-9a136e06-852a-41bf-b71d-fa061cb43225"
     }
   },
+  "2998": {
+    "providers": []
+  },
   "30020": {
     "providers": [
       "Reserva Imovision Amazon Channel"
@@ -7131,12 +7161,10 @@
   },
   "315162": {
     "providers": [
-      "Telecine Amazon Channel",
-      "Universal+ Amazon Channel"
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.348e8e77-73d8-4692-a0e7-1814bfc45fd8",
-      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7a7a3dbb-f7d6-4076-bf3e-0b41a186cee3"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.348e8e77-73d8-4692-a0e7-1814bfc45fd8"
     }
   },
   "31526": {
@@ -7885,7 +7913,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ITIT",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ES419",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     }
   },
@@ -8338,14 +8366,12 @@
     "providers": [
       "MUBI",
       "MUBI Amazon Channel",
-      "Netflix",
       "Reserva Imovision",
       "Reserva Imovision Amazon Channel"
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/pixote-the-law-of-the-weakest",
       "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf37e215-1815-4da1-a951-89c37a6c9049",
-      "Netflix": "https://www.netflix.com/title/60020751",
       "Reserva Imovision": "https://reservaimovision.com.br/programs/pixote-a-lei-do-mais-fraco",
       "Reserva Imovision Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf37e215-1815-4da1-a951-89c37a6c9049"
     }
@@ -10164,7 +10190,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-92243dd0-bcfe-4365-ae76-1fa3cf1a2ab9"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-4153fd1c-1653-4678-8006-9cdd0d35154f"
     }
   },
   "567": {
@@ -11199,36 +11225,10 @@
   },
   "653": {
     "providers": [
-      "Artiflix",
-      "Belas Artes à La Carte",
-      "Bloodstream",
-      "Cindie Amazon Channel",
-      "Cultpix",
-      "Filmicca",
-      "JustWatch TV Beta",
-      "Libreflix",
-      "Looke",
-      "MUBI",
-      "MUBI Amazon Channel",
-      "NetMovies",
-      "Plex",
-      "Pluto TV",
-      "Telecine Amazon Channel"
+      "MUBI"
     ],
     "urls": {
-      "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
-      "Bloodstream": "https://bloodstreamtv.com/show-details/noseferatu?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89",
-      "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3f00d61e-5f54-4e20-9a0c-3259b9a52891",
-      "Cultpix": "https://www.cultpix.com/movie/nosferatu-eine-symphonie-des-grauens/2346",
-      "Filmicca": "https://assista.filmicca.com.br/watch/f6864c15-7d5e-4c6f-83ea-7aadcdde4160",
-      "Libreflix": "https://libreflix.org/i/nosferatu-1922",
-      "Looke": "https://www.looke.com.br/detalhes/126873",
-      "MUBI": "https://mubi.com/films/nosferatu",
-      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3a428415-b2c9-4339-8191-6370950a6d94",
-      "NetMovies": "https://www.netmovies.com.br/filmes/126873",
-      "Plex": "https://watch.plex.tv/movie/nosferatu-1922?autoplay=1",
-      "Pluto TV": "https://pluto.tv/on-demand/movies/nosferatu-br-1921-1-1",
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3a428415-b2c9-4339-8191-6370950a6d94"
+      "MUBI": "https://mubi.com/films/nosferatu"
     }
   },
   "653346": {
@@ -12023,14 +12023,6 @@
       "Filmelier Plus Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ea9f73c-5e2d-b91a-7c49-7f9ff8e5a94f"
     }
   },
-  "7484": {
-    "providers": [
-      "Netflix"
-    ],
-    "urls": {
-      "Netflix": "https://www.netflix.com/title/70043308"
-    }
-  },
   "74879": {
     "providers": []
   },
@@ -12162,7 +12154,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-e6ef640e-787e-4477-aba4-9e05925ebac2"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-154b2e5c-fbe7-49b7-b6be-fd0e6c75651f"
     }
   },
   "767": {
@@ -13759,7 +13751,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29988",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G50UZXXWP",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"

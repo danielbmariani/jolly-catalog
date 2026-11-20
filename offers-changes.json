@@ -1,99 +1,87 @@
 {
- "_generated": "2026-11-18",
- "_previous": "2026-11-17",
+ "_generated": "2026-11-20",
+ "_previous": "2026-11-18",
  "aho": {
   "movies": {
    "in": {
-    "1007462": "Ladrões de Elite",
-    "11812": "A Coisa Mais Doce",
-    "1401565": "A Sociedade da Virtude Salva o Natal!",
-    "1596270": "Quando uma Testemunha Se Retrata",
-    "398818": "Chama-me Pelo Teu Nome",
-    "4597": "Blindado",
-    "504172": "Correio de Droga",
-    "511322": "A Mentira Perfeita",
-    "674218": "Ponto de Partida",
-    "69335": "Estômago",
-    "9333": "O Último a Cair"
+    "1280646": "Sweeney Todd: O Terrível Barbeiro de Fleet Street",
+    "1291595": "Insidious: O Longínquo",
+    "1292079": "O Advogado de Deus",
+    "1592609": "Perguntas Frequentes sobre Viagem no Tempo",
+    "1627922": "Do Outro Lado da Linha de Ajuda",
+    "18264": "O Homem Que Veio de Longe",
+    "2133": "Tempestade Perfeita",
+    "303991": "Demolição",
+    "352431": "Carrossel 2: O Sumiço de Maria Joaquina",
+    "56555": "Juntos Pela Vida"
    },
    "out": {
-    "181132": "Ponto de Partida",
-    "581644": "Ladrões de Elite"
+    "1363895": "Demolição",
+    "13885": "Sweeney Todd: O Terrível Barbeiro de Fleet Street",
+    "22494": "Perguntas Frequentes sobre Viagem no Tempo",
+    "888095": "Tempestade Perfeita",
+    "897319": "Juntos Pela Vida"
    }
   },
   "name": "HBO Max Amazon Channel",
   "shows": {
    "in": {
-    "105161": "90 Dias Para Casar: Felizes Para Sempre? - Contra-Ataque",
-    "119790": "Sociedade da Virtude",
-    "305245": "Noite de Paz",
-    "341027": "Os Maníacos da Verdade",
-    "62058": "Drinques Pelo Mundo",
-    "64608": "Kim vs Kanye: O Divórcio do Século",
-    "64728": "Monstros da Montanha",
-    "64922": "Febre do Ouro - Bastidores: Família Hoffman",
-    "64928": "Chapa e Pintura",
-    "66014": "Quilos Mortais",
-    "66461": "Os Busbys + 5",
-    "69056": "The 1980s: The Deadliest Decade"
+    "15577": "Friends: O Game Show",
+    "158352": "The Howard Stern Show",
+    "282696": "Ravalear",
+    "70299": "O Zoológico de San Diego",
+    "70538": "Emagreci, e Agora?",
+    "70615": "Wild Australia",
+    "70674": "Os Manos do Além"
    },
    "out": {
-    "105776": "The 1980s: The Deadliest Decade",
-    "110957": "90 Dias Para Casar: Felizes Para Sempre? - Contra-Ataque",
-    "119613": "Os Busbys + 5",
-    "120910": "Monstros da Montanha",
-    "196841": "Febre do Ouro - Bastidores: Família Hoffman",
-    "232151": "Kim vs Kanye: O Divórcio do Século",
-    "241121": "Drinques Pelo Mundo",
-    "294638": "Quilos Mortais",
-    "297218": "Chapa e Pintura"
+    "156324": "Wild Australia",
+    "221531": "Emagreci, e Agora?",
+    "272306": "Friends: O Game Show",
+    "276550": "O Zoológico de San Diego",
+    "40227": "The Howard Stern Show",
+    "73544": "Warrior",
+    "92155": "Os Manos do Além"
    }
   }
  },
  "alo": {
   "movies": {
    "in": {
-    "1370951": "Shrooms",
-    "1385185": "Além de um Olhar",
-    "1415031": "Dentro da Caixinha — Segredo de Criança",
-    "1824132": "O Irmão Mais Novo",
-    "199708": "Embarque Imediato",
-    "348668": "Departamento Q: Uma Conspiração de Fé",
-    "479226": "Departamento Q: Em Busca de Vingança",
-    "489176": "Armadilha do Caçador",
-    "506863": "Missão de Honra",
-    "772535": "Tudo que Você Desejou"
+    "1010423": "Verão mortal",
+    "1128872": "Shrooms",
+    "1588205": "A Última Noite de Solteiro",
+    "1642905": "No Caminho de Emaús",
+    "18264": "O Homem Que Veio de Longe",
+    "299641": "Jimmy Vestvood - Um Quase Super-Herói Americano",
+    "30071": "Lições de Vida",
+    "360212": "Fome",
+    "641167": "Pau pra Toda Obra: Miami"
    },
    "out": {
-    "14456": "Shrooms",
-    "24137": "Um Marido Ideal",
-    "25749": "A Revolta dos Filhos da Terra",
-    "33201": "Jeremias",
-    "40231": "O Incrivel Homem que Derreteu",
-    "513327": "Tudo que Você Desejou",
-    "706005": "Revelações Perigosas",
-    "767852": "O Segredo de Mercator",
-    "926889": "O Irmão Mais Novo",
-    "969047": "Antes Que Eu Mude de Ideia"
+    "1026377": "Sob a Lei do Crime",
+    "1370951": "Shrooms",
+    "26514": "Lições de Vida",
+    "31685": "Nossa Senhora de Paris",
+    "42369": "No Caminho de Emaús",
+    "435035": "Rito de Passagem",
+    "551289": "Verão mortal",
+    "792237": "Cam Girls - Garotas da Web",
+    "937895": "Atraídos pelo Desejo"
    }
   },
-  "name": "Looke Amazon Channel",
-  "shows": {
-   "in": {
-    "98104": "Happy Ending"
-   },
-   "out": {
-    "243349": "Happy Ending"
-   }
-  }
+  "name": "Looke Amazon Channel"
  },
  "amu": {
   "movies": {
    "in": {
-    "1185294": "Amor Fantasma"
+    "1489665": "Nosferatu",
+    "271989": "Em Nome de Cristo",
+    "500890": "Ramen Shop - Negócio de Família"
    },
    "out": {
-    "129882": "Amor Fantasma"
+    "50951": "Chained Girls",
+    "653": "Nosferatu"
    }
   },
   "name": "MUBI Amazon Channel"
@@ -101,85 +89,85 @@
  "atl": {
   "movies": {
    "in": {
-    "1368576": "Trago Seu Amor"
+    "1489665": "Nosferatu"
    },
    "out": {
-    "1117215": "Trago Seu Amor"
+    "653": "Nosferatu",
+    "913290": "Bárbaro"
    }
   },
   "name": "Telecine Amazon Channel"
  },
- "cru": {
+ "bac": {
   "movies": {
    "in": {
-    "768744": "My Hero Academia - Uma Missão Para os Heróis Mundiais"
+    "1489665": "Nosferatu"
    },
-   "out": {}
+   "out": {
+    "653": "Nosferatu"
+   }
   },
+  "name": "Belas Artes à La Carte"
+ },
+ "cru": {
   "name": "Crunchyroll",
   "shows": {
    "in": {
-    "1018": "Bonanza",
-    "207743": "Ranking of Kings",
-    "61930": "Cute High Earth Defense Club LOVE!",
-    "66102": "Cerberus",
-    "67249": "The Prince of Tennis II"
+    "248435": "The Yuzuki Family's Four Sons",
+    "305313": "Romelia War Chronicle",
+    "64793": "Beijo Malicioso"
    },
    "out": {
-    "112613": "Ranking of Kings",
-    "205493": "The Prince of Tennis II",
-    "286308": "Cerberus",
-    "289562": "Cute High Earth Defense Club LOVE!",
-    "50071": "Ai-Mai-Mi"
+    "229612": "The Yuzuki Family's Four Sons"
    }
   }
  },
  "dnp": {
   "movies": {
    "in": {
-    "1370978": "Sky High - Escola de Heróis",
-    "1820101": "O Cavalo Invisível: Um Curta de Natal",
-    "665287": "O Tronco de Natal do Castelo de Arendelle"
+    "1317874": "Seventeen Tour 'Follow' Again to Cinemas",
+    "1592838": "Os Descendentes 2",
+    "1604647": "O Vapor Willie",
+    "1804968": "The Pursuit: F1 Academy",
+    "58159": "Classicos de Encantar: A Lebre e a Tartaruga",
+    "815396": "Um Corpo Perfeito"
    },
    "out": {
-    "11459": "Sky High - Escola de Heróis",
-    "917116": "O Tronco de Natal do Castelo de Arendelle"
+    "1050281": "Elton John: O Show da Despedida",
+    "11852": "Um Corpo Perfeito",
+    "1296324": "Seventeen Tour 'Follow' Again to Cinemas",
+    "1597624": "Classicos de Encantar: A Lebre e a Tartaruga",
+    "417320": "Os Descendentes 2",
+    "53565": "O Vapor Willie",
+    "72753": "A Equipa de Bowling"
    }
   },
   "name": "Disney Plus",
   "shows": {
    "in": {
-    "219": "Kyle XY",
-    "288120": "Vienna Game",
-    "293163": "BeddyByes",
-    "339208": "Pocoyo",
-    "98303": "Drenar Os Oceanos"
+    "104124": "Big Hero 6 (Shorts)",
+    "70823": "Mickey e os Superpilotos"
    },
    "out": {
-    "105109": "Marretas Bebés: Hora da Brincadeira",
-    "245366": "Kyle XY",
-    "37158": "Drenar Os Oceanos"
+    "101286": "Mickey e os Superpilotos"
    }
   }
  },
  "gop": {
   "movies": {
    "in": {
-    "1363606": "Dois Nilos"
+    "351964": "A Acompanhante"
    },
-   "out": {}
+   "out": {
+    "1028548": "Um Conto de Natal",
+    "1374935": "A Acompanhante",
+    "746039": "Natal Fora do Tempo",
+    "851683": "Dois + Dois"
+   }
   },
   "name": "Globoplay",
   "shows": {
    "in": {
-    "207627": "O Tempo e o Vento",
-    "220999": "O Bem-Amado",
-    "44541": "Além do Horizonte",
-    "97710": "Sandy & Junior",
-    "99027": "Selva de Pedra"
-   },
-   "out": {
-    "106936": "Selva de Pedra",
     "124451": "A Vida Depois do Tombo",
     "132647": "É Ouro! O Brilho do Brasil em Tóquio",
     "135454": "Acesso Total: Corinthians",
@@ -275,16 +263,15 @@
     "341205": "Violência Digital, Dano Real",
     "341346": "Voz da Consciência",
     "341790": "Caravelle 114",
-    "40817": "O Bem-Amado",
     "60108": "Pé na Cova",
     "64553": "Bipolar Show",
     "69824": "Sem Fronteiras",
+    "73506": "Sabor a Paixão",
     "73667": "Sandy & Junior",
     "73927": "SuperMax",
     "74801": "De Repente Pais",
     "76993": "Sexo e as Negas",
     "80274": "Segunda Dama",
-    "85582": "O Tempo e o Vento",
     "88470": "Baby e Rose",
     "91880": "Malhação - Toda Forma de Amar",
     "95229": "Vítimas Digitais",
@@ -292,198 +279,288 @@
     "95611": "Pornolândia",
     "96493": "Anitta Entrou no Grupo",
     "97739": "Chacrinha - A Minissérie",
-    "98960": "Além do Horizonte",
     "99137": "Agora é Que São Elas",
     "99714": "Mais X Favela"
+   },
+   "out": {
+    "90304": "Sabor a Paixão",
+    "97710": "Sandy & Junior"
    }
   }
  },
  "lke": {
   "movies": {
    "in": {
-    "1415031": "Dentro da Caixinha — Segredo de Criança",
-    "1824132": "O Irmão Mais Novo",
-    "70954": "O Caçador: Último Tigre da Tasmânia"
+    "1010423": "Verão mortal",
+    "1109402": "Her Body",
+    "1489665": "Nosferatu",
+    "1642905": "No Caminho de Emaús",
+    "18264": "O Homem Que Veio de Longe",
+    "299641": "Jimmy Vestvood - Um Quase Super-Herói Americano",
+    "30071": "Lições de Vida",
+    "348668": "Departamento Q: Uma Conspiração de Fé",
+    "479226": "Departamento Q: Em Busca de Vingança",
+    "506863": "Missão de Honra"
    },
    "out": {
-    "1081705": "O Silêncio dos Culpados",
-    "49397": "A Morte Vem a Cavalo",
-    "670886": "O Caçador: Último Tigre da Tasmânia"
+    "11874": "Assim Começou Trinity",
+    "1286547": "INSANO",
+    "15019": "Nem Contigo... Nem Sem Ti!",
+    "26514": "Lições de Vida",
+    "42369": "No Caminho de Emaús",
+    "524659": "Enquanto a Cidade Dorme",
+    "551289": "Verão mortal",
+    "653": "Nosferatu",
+    "944865": "Na Mira do Inimigo",
+    "988857": "Projeto Harmony"
    }
   },
-  "name": "Looke",
-  "shows": {
+  "name": "Looke"
+ },
+ "mbi": {
+  "movies": {
    "in": {
-    "98104": "Happy Ending"
+    "1489665": "Nosferatu",
+    "271989": "Em Nome de Cristo",
+    "488453": "In My Room - No Meu Quarto",
+    "500890": "Ramen Shop - Negócio de Família"
    },
    "out": {
-    "243349": "Happy Ending"
+    "653": "Nosferatu"
    }
+  },
+  "name": "MUBI",
+  "shows": {
+   "in": {
+    "114655": "The Curse"
+   },
+   "out": {}
   }
  },
  "mxx": {
   "movies": {
    "in": {
-    "1007462": "Ladrões de Elite",
-    "11812": "A Coisa Mais Doce",
-    "1596270": "Quando uma Testemunha Se Retrata",
-    "18264": "O Homem Que Veio de Longe",
-    "398818": "Chama-me Pelo Teu Nome",
-    "4597": "Blindado",
-    "504172": "Correio de Droga",
-    "511322": "A Mentira Perfeita",
-    "674218": "Ponto de Partida",
-    "69335": "Estômago",
-    "9333": "O Último a Cair"
+    "1280646": "Sweeney Todd: O Terrível Barbeiro de Fleet Street",
+    "1291595": "Insidious: O Longínquo",
+    "1292079": "O Advogado de Deus",
+    "1592609": "Perguntas Frequentes sobre Viagem no Tempo",
+    "1627922": "Do Outro Lado da Linha de Ajuda",
+    "2133": "Tempestade Perfeita",
+    "303991": "Demolição",
+    "56555": "Juntos Pela Vida"
    },
    "out": {
-    "181132": "Ponto de Partida",
-    "581644": "Ladrões de Elite"
+    "12153": "Loiras à Força",
+    "1363895": "Demolição",
+    "13885": "Sweeney Todd: O Terrível Barbeiro de Fleet Street",
+    "22494": "Perguntas Frequentes sobre Viagem no Tempo",
+    "396461": "O Mistério de Silver Lake",
+    "888095": "Tempestade Perfeita",
+    "897319": "Juntos Pela Vida"
    }
   },
   "name": "HBO Max",
   "shows": {
    "in": {
-    "105161": "90 Dias Para Casar: Felizes Para Sempre? - Contra-Ataque",
-    "119790": "Sociedade da Virtude",
-    "64608": "Kim vs Kanye: O Divórcio do Século",
-    "64728": "Monstros da Montanha",
-    "64922": "Febre do Ouro - Bastidores: Família Hoffman",
-    "64928": "Chapa e Pintura",
-    "66014": "Quilos Mortais",
-    "66461": "Os Busbys + 5",
-    "69056": "The 1980s: The Deadliest Decade",
-    "89516": "Feelings"
+    "15577": "Friends: O Game Show",
+    "282696": "Ravalear",
+    "70299": "O Zoológico de San Diego",
+    "70538": "Emagreci, e Agora?",
+    "70674": "Os Manos do Além"
    },
    "out": {
-    "105776": "The 1980s: The Deadliest Decade",
-    "110957": "90 Dias Para Casar: Felizes Para Sempre? - Contra-Ataque",
-    "119613": "Os Busbys + 5",
-    "120910": "Monstros da Montanha",
-    "196841": "Febre do Ouro - Bastidores: Família Hoffman",
-    "232151": "Kim vs Kanye: O Divórcio do Século",
-    "293178": "Feelings",
-    "294638": "Quilos Mortais",
-    "297218": "Chapa e Pintura"
+    "221531": "Emagreci, e Agora?",
+    "272306": "Friends: O Game Show",
+    "276550": "O Zoológico de San Diego",
+    "66203": "Sou Luna",
+    "73544": "Warrior",
+    "92155": "Os Manos do Além"
    }
   }
  },
  "nfx": {
   "movies": {
    "in": {
-    "1007462": "Ladrões de Elite",
-    "10292": "Mitos Urbanos 3 - Bloody Mary",
-    "1122932": "Espero Por Ti em Vénus",
-    "1187417": "O Estado das Coisas",
-    "1551025": "A Guarda-Costas",
-    "495659": "Bayonet",
-    "554279": "Natal no Riacho",
-    "59108": "Alta Golpada",
-    "75612": "Esquecido"
+    "10719": "Elf - O Falso Duende",
+    "1117857": "Nos Teus Sonhos",
+    "11324": "Ilha do Medo",
+    "1372665": "As Crianças Perdidas",
+    "1463182": "A Cereja do Natal",
+    "1574367": "Um Natal em Fields Ranch",
+    "17339": "Os Comandos de Navarone",
+    "245906": "Ela é Mesmo... o Máximo",
+    "300671": "13 Horas: Os Soldados Secretos de Benghazi",
+    "303991": "Demolição",
+    "401104": "Até aos Ossos",
+    "423204": "Assalto ao Poder",
+    "517909": "Laundromat: O Escândalo dos Papéis do Panamá",
+    "549509": "O Brutalista",
+    "605116": "Project Power",
+    "636565": "A Incrível História de Giorgio Rosa",
+    "673392": "Radhe Shyam",
+    "910571": "Jogo Justo",
+    "911522": "Boog & Elliot Vão à Caça",
+    "96721": "Rush - Duelo de Rivais",
+    "983883": "Um Romance do Além"
    },
    "out": {
-    "1290205": "As Garotas do Prédio",
-    "324670": "Spectral",
-    "485504": "Natal em El Camino",
-    "522168": "Mulheres Alteradas",
-    "556509": "Svaha: The Sixth Finger",
-    "581032": "Notícias do Mundo",
-    "581644": "Ladrões de Elite",
-    "786170": "A Guardiã",
-    "999127": "Broad Peak"
+    "10588": "O Gato",
+    "11156": "Coco Avant Chanel",
+    "1128568": "Seja Você Mesma",
+    "1161048": "Conferência Mortal",
+    "1316054": "Até aos Ossos",
+    "1363895": "Demolição",
+    "191121": "Raanjhanaa",
+    "2268": "A Bússola Dourada",
+    "2323": "Campo de Sonhos",
+    "266294": "Só Podiam Ser Irmãs",
+    "3638": "Sem Reserva",
+    "399796": "A Rainha da Festa",
+    "45190": "Sua Excelência",
+    "484247": "Um Pequeno Favor",
+    "495659": "Bayonet",
+    "554279": "Natal no Riacho",
+    "574376": "Olho por Olho",
+    "68735": "Warcraft: O Primeiro Encontro de Dois Mundos",
+    "7484": "Boog & Elliot Vão à Caça",
+    "768334": "Um Clássico Filme de Terror",
+    "786892": "Furiosa: Uma Saga Mad Max"
    }
   },
   "name": "Netflix",
   "shows": {
    "in": {
-    "139396": "Todo Dia a Mesma Noite",
-    "154647": "Angry Birds: Loucuras de Verão",
-    "196556": "MaveriX",
-    "312949": "Chainsmoker Cat",
-    "318420": "Os 12 Signos de Valentina",
-    "62455": "Vis a vis",
-    "63201": "Glitch",
-    "64010": "Responde 1988",
-    "68854": "From Me to You: Kimi ni Todoke"
+    "115521": "Alba",
+    "128013": "Santo",
+    "203698": "Agência",
+    "29451": "O Rei De Porcelana",
+    "308007": "Os Altruístas",
+    "332839": "A Lei dos Monstros",
+    "336592": "Conquistando o Shopping",
+    "340280": "Gordon",
+    "38464": "Blue Exorcist",
+    "45782": "Sword Art Online",
+    "78597": "Fugitiva",
+    "90293": "O Fantasma do Futuro: SAC_2045",
+    "93097": "Para sempre Camélia"
    },
    "out": {
-    "127753": "Johnny Test",
-    "258306": "Terça do Terror",
-    "279392": "From Me to You: Kimi ni Todoke",
-    "287540": "Glitch",
-    "340004": "Responde 1988",
-    "342012": "Chainsmoker Cat",
-    "45871": "Vis a vis",
-    "91056": "Vidrados",
-    "97401": "Cheer"
+    "129478": "O Rei De Porcelana",
+    "136763": "Yuusha, Yamemasu",
+    "154647": "Angry Birds: Loucuras de Verão",
+    "195407": "Os Mistérios dos Bichos",
+    "196556": "MaveriX",
+    "247670": "Coração de Vidro",
+    "277544": "Love is Blind: França",
+    "286338": "Má Influência: Quando as Crianças São Influencers",
+    "32406": "O Grande C",
+    "62273": "Food Wars: Shokugeki no Soma",
+    "67265": "Chesapeake Shores",
+    "67960": "Paranoid",
+    "73157": "FUTURE MAN: O VIAJANTE DO TEMPO"
+   }
+  }
+ },
+ "pmp": {
+  "movies": {
+   "in": {},
+   "out": {
+    "974950": "EMILIA PÉREZ"
+   }
+  },
+  "name": "Paramount Plus",
+  "shows": {
+   "in": {},
+   "out": {
+    "114655": "The Curse"
    }
   }
  },
  "prv": {
   "movies": {
    "in": {
-    "1007462": "Ladrões de Elite",
-    "1131943": "Madden: O Homem e o Jogo",
-    "1163186": "Crescendo Juntos: A História de Erik e Malik",
-    "127846": "Sequestro",
-    "1367853": "Coma",
-    "1415031": "Dentro da Caixinha — Segredo de Criança",
-    "199708": "Embarque Imediato",
-    "268339": "É de Chuá!",
-    "647785": "O Cobrador 2"
+    "1049082": "Jumbo: Um Coração Gigante",
+    "11638": "A Família da Noiva",
+    "1561834": "Last Meal",
+    "1636": "Sedutora Endiabrada",
+    "1824132": "O Irmão Mais Novo",
+    "298583": "Amor em Roma",
+    "299641": "Jimmy Vestvood - Um Quase Super-Herói Americano",
+    "30071": "Lições de Vida",
+    "318846": "A Queda de Wall Street",
+    "351964": "A Acompanhante",
+    "44716": "Num Mundo Melhor",
+    "45022": "Caminhos Opostos",
+    "451657": "Custódia Partilhada",
+    "475132": "Uma Guerra Pessoal",
+    "673392": "Radhe Shyam",
+    "682": "007 - O Homem da Pistola Dourada",
+    "70670": "Headhunters - Caçadores de Cabeças",
+    "71469": "A Hora Mais Negra"
    },
    "out": {
-    "1000081": "Sentinelle - Desafinando em Dobro",
-    "110146": "The Sapphires",
-    "1187417": "O Estado das Coisas",
-    "1453589": "Eu e Meu Avô Nihonjin",
-    "37944": "The Lazarus Child",
-    "430155": "Coma",
-    "581644": "Ladrões de Elite",
-    "823346": "Last Night in Rozzie",
-    "84306": "Amor e Letras"
+    "1022000": "Leopoldo Jacinto, Vida de Campeão",
+    "1043905": "Infiltradas",
+    "10799": "O Império dos Lobos",
+    "1129025": "Power of the Dream",
+    "1236197": "Jogos de Sedução",
+    "1374935": "A Acompanhante",
+    "23752": "Malucos no Divã",
+    "26514": "Lições de Vida",
+    "412762": "A Caça",
+    "437108": "Mimic: Não Confie nas Vozes",
+    "534072": "Tubarão Branco",
+    "549509": "O Brutalista",
+    "574883": "Infidelidade",
+    "7985": "Penelope",
+    "802226": "O Bingo Macabro",
+    "850871": "Sayen",
+    "876262": "Garota da Moto",
+    "944946": "A Royal Runaway Romance"
    }
   },
   "name": "Amazon Prime Video",
   "shows": {
    "in": {
-    "288458": "Ben Hur",
-    "63714": "Porta dos Fundos",
-    "66943": "Tudo ou Nada",
-    "68539": "O Assalto"
+    "13892": "Razão e Sensibilidade",
+    "20153": "Cocoricó",
+    "206779": "24 Horas no Planeta Terra",
+    "222023": "Na Mira do Júri: Retiro Corporativo",
+    "298103": "IbiKona: Minha Madrasta e Suas Filhas Nada Malvadas",
+    "338549": "Mascarade",
+    "72572": "Hackers",
+    "73648": "Padre Pio"
    },
    "out": {
-    "100375": "O Assalto",
-    "104999": "Jogo da Lava",
-    "228215": "Tudo ou Nada",
-    "247855": "Porta dos Fundos",
-    "40360": "Ben Hur"
+    "118101": "Hackers",
+    "227679": "Cocoricó",
+    "249537": "Razão e Sensibilidade",
+    "292166": "Padre Pio",
+    "303272": "Guerreiras Mágicas de Rayearth",
+    "312697": "Na Mira do Júri: Retiro Corporativo"
    }
   }
  },
  "ptv": {
   "movies": {
    "in": {
-    "10975": "O Guerreiro de Deus II - Operação Condor",
-    "185640": "Comando: Exército de um Homem Só",
-    "966724": "Meu Filho",
-    "984978": "Perdidos em Silver Canyon"
+    "1489665": "Nosferatu"
    },
    "out": {
-    "359201": "Perdidos em Silver Canyon",
-    "451646": "Meu Filho",
-    "679348": "O Guerreiro de Deus II - Operação Condor"
+    "653": "Nosferatu"
    }
   },
   "name": "Pluto TV",
   "shows": {
    "in": {
-    "63714": "Porta dos Fundos",
-    "68539": "O Assalto"
+    "20914": "Secrets & Mysteries",
+    "73648": "Padre Pio",
+    "75334": "The Lost Tapes"
    },
    "out": {
-    "100375": "O Assalto",
-    "247855": "Porta dos Fundos"
+    "239143": "The Lost Tapes",
+    "249300": "Secrets & Mysteries",
+    "292166": "Padre Pio"
    }
   }
  }

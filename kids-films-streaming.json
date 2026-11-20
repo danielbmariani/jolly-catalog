@@ -444,15 +444,18 @@
   "10719": {
     "providers": [
       "Amazon Prime Video",
-      "Disney Plus"
+      "Disney Plus",
+      "Netflix"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.712a5b64-2b9b-4a4f-a965-ceae2917dfe4",
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-05f65cbb-d0ac-4bd3-8b51-ed61707b1c4b"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-05f65cbb-d0ac-4bd3-8b51-ed61707b1c4b",
+      "Netflix": "https://www.netflix.com/title/60031255"
     },
     "verified": [
       "Amazon Prime Video",
-      "Disney Plus"
+      "Disney Plus",
+      "Netflix"
     ]
   },
   "10830": {
@@ -1285,7 +1288,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G31UXJW8E",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G14U4DXQ2",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3583b831-3ad5-4bf2-9be1-fda81ca8f0e9"
     },
     "verified": [
@@ -2575,16 +2578,13 @@
   },
   "315162": {
     "providers": [
-      "Telecine Amazon Channel",
-      "Universal+ Amazon Channel"
+      "Telecine Amazon Channel"
     ],
     "urls": {
-      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.348e8e77-73d8-4692-a0e7-1814bfc45fd8",
-      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7a7a3dbb-f7d6-4076-bf3e-0b41a186cee3"
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.348e8e77-73d8-4692-a0e7-1814bfc45fd8"
     },
     "verified": [
-      "Telecine Amazon Channel",
-      "Universal+ Amazon Channel"
+      "Telecine Amazon Channel"
     ]
   },
   "315465": {
@@ -2984,7 +2984,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ITIT",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ES419",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     },
     "verified": [
@@ -4142,7 +4142,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-92243dd0-bcfe-4365-ae76-1fa3cf1a2ab9"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-4153fd1c-1653-4678-8006-9cdd0d35154f"
     },
     "verified": [
       "Disney Plus"
@@ -4983,17 +4983,6 @@
   "7450": {
     "providers": []
   },
-  "7484": {
-    "providers": [
-      "Netflix"
-    ],
-    "urls": {
-      "Netflix": "https://www.netflix.com/title/70043308"
-    },
-    "verified": [
-      "Netflix"
-    ]
-  },
   "7518": {
     "providers": [
       "Telecine Amazon Channel"
@@ -5043,7 +5032,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-e6ef640e-787e-4477-aba4-9e05925ebac2"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-154b2e5c-fbe7-49b7-b6be-fd0e6c75651f"
     },
     "verified": [
       "Disney Plus"
@@ -5685,7 +5674,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29988",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G50UZXXWP",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
