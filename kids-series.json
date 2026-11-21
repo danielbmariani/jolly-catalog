@@ -1993,15 +1993,198 @@
         "year": 2018
       }
     ],
+    "offers": [
+      {
+        "audio": [
+          "pt"
+        ],
+        "audio_pt": true,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.70b04cb5-5e43-99ca-d951-da114824e45f",
+          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.70b04cb5-5e43-99ca-d951-da114824e45f&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
+          "tvos": "aiv://aiv/watch?gti=amzn1.dv.gti.70b04cb5-5e43-99ca-d951-da114824e45f&territory=BR&time=auto",
+          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70b04cb5-5e43-99ca-d951-da114824e45f"
+        },
+        "price": null,
+        "provider": "Amazon Prime Video",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": null,
+        "tech": "amazonprimevideo",
+        "until": null
+      },
+      {
+        "audio": [
+          "da",
+          "de",
+          "en",
+          "es",
+          "es-419",
+          "fi",
+          "fr",
+          "it",
+          "ja",
+          "nl",
+          "no",
+          "pt",
+          "pt-BR",
+          "sv"
+        ],
+        "audio_pt": true,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": "https://www.disneyplus.com/play/08d6137e-e252-4a86-ad65-c31e4c430122",
+          "androidtv": "intent://www.disneyplus.com/play/08d6137e-e252-4a86-ad65-c31e4c430122#Intent;launchFlags=0x00800000;scheme=https;end",
+          "tvos": "https://www.disneyplus.com/play/08d6137e-e252-4a86-ad65-c31e4c430122",
+          "web": "https://www.disneyplus.com/browse/entity-aa19a59d-0c42-4b01-9fb9-ad24e7750207"
+        },
+        "price": null,
+        "provider": "Disney Plus",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": true,
+        "tech": "disneyplus",
+        "until": null
+      },
+      {
+        "audio": [],
+        "audio_pt": null,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": "https://globoplay.globo.com/v/13787330",
+          "androidtv": "intent://globoplay.globo.com/v/13787330#Intent;launchFlags=0x00800000;scheme=https;component=com.globo.globotv/.title.TitleActivity;end",
+          "tvos": "https://globoplay.globo.com/v/13787330?utm_origin=tv_apps",
+          "web": "https://globoplay.globo.com/v/13787330"
+        },
+        "price": null,
+        "provider": "Globoplay",
+        "quality": "SD",
+        "state": "verified",
+        "sub_pt": null,
+        "tech": "globoplay",
+        "until": null
+      },
+      {
+        "audio": [
+          "en",
+          "es",
+          "pt"
+        ],
+        "audio_pt": true,
+        "channel": null,
+        "host": null,
+        "kind": "included",
+        "links": {
+          "android": "https://play.hbomax.com/video/watch/8a3eaacb-8a84-4f08-b456-15f1f33fab4c",
+          "androidtv": "intent://play.hbomax.com/video/watch/8a3eaacb-8a84-4f08-b456-15f1f33fab4c?utm_source=universal_search#Intent;launchFlags=0x00800000;scheme=https;end",
+          "tvos": "https://play.hbomax.com/video/watch/8a3eaacb-8a84-4f08-b456-15f1f33fab4c?utm_source=universal_search",
+          "web": "https://play.hbomax.com/video/watch/8a3eaacb-8a84-4f08-b456-15f1f33fab4c"
+        },
+        "price": null,
+        "provider": "HBO Max",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": true,
+        "tech": "max",
+        "until": null
+      },
+      {
+        "audio": [
+          "pt"
+        ],
+        "audio_pt": true,
+        "channel": "Gloob",
+        "host": "Prime Video",
+        "kind": "channel",
+        "links": {
+          "android": null,
+          "androidtv": null,
+          "tvos": null,
+          "web": null
+        },
+        "price": null,
+        "provider": "Gloob Amazon Channel",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": null,
+        "tech": "amazonglobokids",
+        "until": null
+      },
+      {
+        "audio": [
+          "en",
+          "es",
+          "pt"
+        ],
+        "audio_pt": true,
+        "channel": "HBO Max",
+        "host": "Prime Video",
+        "kind": "channel",
+        "links": {
+          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.1b8de9de-c75a-4558-89c7-1b5b3f137139",
+          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.1b8de9de-c75a-4558-89c7-1b5b3f137139&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
+          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.1b8de9de-c75a-4558-89c7-1b5b3f137139&territory=BR",
+          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1b8de9de-c75a-4558-89c7-1b5b3f137139"
+        },
+        "price": null,
+        "provider": "HBO Max Amazon Channel",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": true,
+        "tech": "amazonhbomax",
+        "until": null
+      },
+      {
+        "audio": [
+          "en",
+          "es",
+          "fr",
+          "pt",
+          "sv"
+        ],
+        "audio_pt": true,
+        "channel": "Playkids Learning",
+        "host": "Prime Video",
+        "kind": "channel",
+        "links": {
+          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.737f2468-6dd7-4f68-87a2-7e9168a2bb37",
+          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.737f2468-6dd7-4f68-87a2-7e9168a2bb37&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
+          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.737f2468-6dd7-4f68-87a2-7e9168a2bb37&territory=BR",
+          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.737f2468-6dd7-4f68-87a2-7e9168a2bb37"
+        },
+        "price": null,
+        "provider": "Playkids Learning Amazon Channel",
+        "quality": "HD",
+        "state": "verified",
+        "sub_pt": false,
+        "tech": "amazonplaykids",
+        "until": null
+      }
+    ],
     "poster": "/1fmaC3t96Napg7TR9SsfOX8q11X.jpg",
     "providers": [
       "Amazon Prime Video",
-      "Amazon Prime Video with Ads",
+      "Disney Plus",
       "Globoplay",
+      "Gloob Amazon Channel",
       "HBO Max",
       "HBO Max Amazon Channel",
-      "Netflix",
-      "Netflix Standard with Ads",
+      "Playkids Learning Amazon Channel"
+    ],
+    "providers_verified": [
+      "Amazon Prime Video",
+      "Disney Plus",
+      "Globoplay",
+      "Gloob Amazon Channel",
+      "HBO Max",
+      "HBO Max Amazon Channel",
       "Playkids Learning Amazon Channel"
     ],
     "status": "returning",
