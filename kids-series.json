@@ -1320,10 +1320,10 @@
         "host": null,
         "kind": "included",
         "links": {
-          "android": "https://globoplay.globo.com/v/5975885",
-          "androidtv": "intent://globoplay.globo.com/v/5975885#Intent;launchFlags=0x00800000;scheme=https;component=com.globo.globotv/.title.TitleActivity;end",
-          "tvos": "https://globoplay.globo.com/v/5975885?utm_origin=tv_apps",
-          "web": "https://globoplay.globo.com/v/5975885"
+          "android": "https://globoplay.globo.com/v/14400501",
+          "androidtv": "intent://globoplay.globo.com/v/14400501#Intent;launchFlags=0x00800000;scheme=https;component=com.globo.globotv/.title.TitleActivity;end",
+          "tvos": "https://globoplay.globo.com/v/14400501?utm_origin=tv_apps",
+          "web": "https://globoplay.globo.com/v/14400501"
         },
         "price": null,
         "provider": "Globoplay",
@@ -6879,10 +6879,10 @@
         "host": "Prime Video",
         "kind": "channel",
         "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.72e69c31-81b9-469a-9fe1-e1cfcfeb477a",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.72e69c31-81b9-469a-9fe1-e1cfcfeb477a&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.72e69c31-81b9-469a-9fe1-e1cfcfeb477a&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e69c31-81b9-469a-9fe1-e1cfcfeb477a"
+          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.206c039b-9959-44cc-8a61-58c230b8cc12",
+          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.206c039b-9959-44cc-8a61-58c230b8cc12&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
+          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.206c039b-9959-44cc-8a61-58c230b8cc12&territory=BR",
+          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.206c039b-9959-44cc-8a61-58c230b8cc12"
         },
         "price": null,
         "provider": "Discovery Kids Amazon Channel",
@@ -6902,10 +6902,10 @@
         "host": "Prime Video",
         "kind": "channel",
         "links": {
-          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.72e69c31-81b9-469a-9fe1-e1cfcfeb477a",
-          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.72e69c31-81b9-469a-9fe1-e1cfcfeb477a&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.72e69c31-81b9-469a-9fe1-e1cfcfeb477a&territory=BR",
-          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e69c31-81b9-469a-9fe1-e1cfcfeb477a"
+          "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.206c039b-9959-44cc-8a61-58c230b8cc12",
+          "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.206c039b-9959-44cc-8a61-58c230b8cc12&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
+          "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.206c039b-9959-44cc-8a61-58c230b8cc12&territory=BR",
+          "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.206c039b-9959-44cc-8a61-58c230b8cc12"
         },
         "price": null,
         "provider": "HBO Max Amazon Channel",

@@ -1,7 +1,7 @@
 {
   "_raw": [
     {
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -9,7 +9,7 @@
       "url": "https://www.rogerebert.com/reviews/paper-tiger-james-gray-miles-teller-adam-driver-scarlett-johansson-film-review-2026"
     },
     {
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "3.5★",
@@ -17,7 +17,7 @@
       "url": "https://www.rogerebert.com/reviews/the-hunger-games-sunrise-on-the-reaping-prequel-movie-review-2026"
     },
     {
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -25,7 +25,7 @@
       "url": "https://www.rogerebert.com/reviews/minotaur-film-review-2026"
     },
     {
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -33,7 +33,7 @@
       "url": "https://www.rogerebert.com/reviews/elsinore-andrew-scott-olivia-colman-film-review-2026"
     },
     {
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -6287,22 +6287,6 @@
       "rating": "4★",
       "title": "Chris McCausland: Seeing into the Future",
       "url": "https://www.theguardian.com/tv-and-radio/2025/nov/23/chris-mccausland-seeing-into-the-future-review-disabled-people-tech-bbc"
-    },
-    {
-      "date": "2025-11-21",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "Cactus Pears",
-      "url": "https://www.rogerebert.com/reviews/cactus-pears-marathi-film-review-2025"
-    },
-    {
-      "date": "2025-11-21",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Rental Family",
-      "url": "https://www.rogerebert.com/reviews/rental-family-brendan-fraser-film-review-2025"
     }
   ],
   "movie:tmdb:1434103": {
@@ -7645,30 +7629,6 @@
     ],
     "title": "Cielo",
     "tmdb_id": 1443869,
-    "year": 2025
-  },
-  "tt14142060": {
-    "age": {
-      "classind": "12",
-      "source": "BR"
-    },
-    "genres": [
-      35,
-      18
-    ],
-    "media_type": "movie",
-    "original_title": "Rental Family",
-    "poster": "/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
-    "recs": [
-      {
-        "date": "2025-11-21",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/rental-family-brendan-fraser-film-review-2025"
-      }
-    ],
-    "title": "Rental Family",
-    "tmdb_id": 1208348,
     "year": 2025
   },
   "tt14173636": {
@@ -10839,8 +10799,11 @@
       "offers": [
         {
           "audio": [
+            "ca",
             "en",
             "es",
+            "eu",
+            "gl",
             "pt"
           ],
           "audio_pt": true,
@@ -10863,8 +10826,11 @@
         },
         {
           "audio": [
+            "ca",
             "en",
             "es",
+            "eu",
+            "gl",
             "pt"
           ],
           "audio_pt": true,
@@ -10910,8 +10876,11 @@
         },
         {
           "audio": [
+            "ca",
             "en",
             "es",
+            "eu",
+            "gl",
             "pt"
           ],
           "audio_pt": true,
@@ -11577,12 +11546,6 @@
         "outlet": "The Guardian",
         "rating": "4★",
         "url": "https://www.theguardian.com/film/2026/jun/17/cactus-pears-review-forbidden-love-india-rohan-kanawade"
-      },
-      {
-        "date": "2025-11-21",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/cactus-pears-marathi-film-review-2025"
       }
     ],
     "title": "Cactus Pears",
@@ -14081,7 +14044,7 @@
     "poster": "/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
     "recs": [
       {
-        "date": "2026-11-21",
+        "date": "2026-11-22",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/josephine-netflix-animated-film-review-2026"
@@ -14491,7 +14454,7 @@
     "poster": "/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "recs": [
       {
-        "date": "2026-11-21",
+        "date": "2026-11-22",
         "outlet": "RogerEbert.com",
         "rating": "3.5★",
         "url": "https://www.rogerebert.com/reviews/the-hunger-games-sunrise-on-the-reaping-prequel-movie-review-2026"
@@ -16676,7 +16639,7 @@
     "poster": "/zVYm9mNSyr9EYhUUI72DOGgYRZH.jpg",
     "recs": [
       {
-        "date": "2026-11-21",
+        "date": "2026-11-22",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/paper-tiger-james-gray-miles-teller-adam-driver-scarlett-johansson-film-review-2026"
@@ -19380,6 +19343,7 @@
       "offers": [
         {
           "audio": [
+            "bg",
             "cs",
             "da",
             "de",
@@ -19397,6 +19361,7 @@
             "pt",
             "sk",
             "sl",
+            "sr",
             "sv",
             "th"
           ],
@@ -19443,6 +19408,7 @@
         },
         {
           "audio": [
+            "bg",
             "cs",
             "da",
             "de",
@@ -19460,6 +19426,7 @@
             "pt",
             "sk",
             "sl",
+            "sr",
             "sv",
             "th"
           ],
@@ -20081,7 +20048,7 @@
     "poster": "/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
     "recs": [
       {
-        "date": "2026-11-21",
+        "date": "2026-11-22",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/minotaur-film-review-2026"
@@ -20309,7 +20276,7 @@
     "poster": "/mTd1B0Nq4vwMRilsf7eGNpdGIrv.jpg",
     "recs": [
       {
-        "date": "2026-11-21",
+        "date": "2026-11-22",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/elsinore-andrew-scott-olivia-colman-film-review-2026"
@@ -24934,10 +24901,10 @@
           "host": null,
           "kind": "included",
           "links": {
-            "android": "https://www.netflix.com/watch/82946792",
-            "androidtv": "intent://www.netflix.com/watch/82939566#Intent;launchFlags=0x00800000;scheme=https;package=com.netflix.ninja;S.source=30;end",
-            "tvos": "nflx://www.netflix.com/watch/82939566?source=topshelf",
-            "web": "https://www.netflix.com/title/82939566"
+            "android": "https://www.netflix.com/watch/80077368",
+            "androidtv": "intent://www.netflix.com/watch/80057281#Intent;launchFlags=0x00800000;scheme=https;package=com.netflix.ninja;S.source=30;end",
+            "tvos": "nflx://www.netflix.com/watch/80057281?source=topshelf",
+            "web": "https://www.netflix.com/title/80057281"
           },
           "price": null,
           "provider": "Netflix",
@@ -24952,7 +24919,7 @@
         "Netflix"
       ],
       "urls": {
-        "Netflix": "https://www.netflix.com/title/82939566"
+        "Netflix": "https://www.netflix.com/title/80057281"
       }
     },
     "year": 2016

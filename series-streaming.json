@@ -967,17 +967,20 @@
   },
   "tt11041332": {
     "providers": [
+      "Amazon Prime Video",
       "Paramount Plus",
       "Paramount Plus Apple TV channel",
       "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ad1116-cb1f-43a7-b99f-4965f3e94721",
       "Paramount Plus": "https://www.paramountplus.com/shows/yellowjackets/video/hXOv_JVo06AG3BJ21ZT3vlziXmcs9ssv/yellowjackets-pilot?amp%3Butm_source=publisher",
       "Paramount Plus Premium": "https://www.paramountplus.com/shows/yellowjackets/video/hXOv_JVo06AG3BJ21ZT3vlziXmcs9ssv/yellowjackets-pilot?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0145bd6f-66ed-47fc-85ab-da2de5dd6f8c"
     },
     "verified": [
+      "Amazon Prime Video",
       "Paramount Plus Apple TV channel",
       "Paramount+ Amazon Channel"
     ]
@@ -1662,14 +1665,17 @@
   "tt13623608": {
     "providers": [
       "MUBI",
+      "MUBI Amazon Channel",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
       "MUBI": "https://mubi.com/films/land-of-enchantment-2023",
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.61291af2-1d00-4ce5-9c81-951bbff1be79",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.61291af2-1d00-4ce5-9c81-951bbff1be79"
     },
     "verified": [
       "MUBI",
+      "MUBI Amazon Channel",
       "Paramount+ Amazon Channel"
     ]
   },
@@ -3027,7 +3033,7 @@
       "The Great Courses Signature Collection Amazon Channel"
     ],
     "urls": {
-      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.18ba00db-d308-741c-a5a5-35a2d7c4e6b9"
+      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a5a3a6e5-a2e9-4fc4-a9bb-fb8f3ed32440"
     },
     "verified": [
       "The Great Courses Signature Collection Amazon Channel"
@@ -3702,7 +3708,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GWDU7V1ZV",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G0DUMG7EX",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
       "HBO Max": "https://play.hbomax.com/video/watch/61e42cc7-30a8-454a-9c92-236712db9130",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
@@ -4378,9 +4384,6 @@
       "Globoplay"
     ]
   },
-  "tt3655448": {
-    "providers": []
-  },
   "tt3673480": {
     "providers": []
   },
@@ -4655,7 +4658,7 @@
       "Netflix"
     ],
     "urls": {
-      "Netflix": "https://www.netflix.com/title/82939566"
+      "Netflix": "https://www.netflix.com/title/80057281"
     },
     "verified": [
       "Netflix"
@@ -6364,9 +6367,6 @@
     "verified": [
       "Netflix"
     ]
-  },
-  "tt9805674": {
-    "providers": []
   },
   "tt9805708": {
     "providers": [

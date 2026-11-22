@@ -1,73 +1,56 @@
 {
- "_generated": "2026-11-21",
- "_previous": "2026-11-20",
+ "_generated": "2026-11-22",
+ "_previous": "2026-11-21",
  "aho": {
   "movies": {
    "in": {
-    "677781": "A Máscara de Zorro",
-    "678616": "Full Metal Jacket - Nascido Para Matar"
+    "22494": "Perguntas Frequentes sobre Viagem no Tempo"
    },
    "out": {
-    "12153": "Loiras à Força",
-    "600": "Full Metal Jacket - Nascido Para Matar",
-    "9342": "A Máscara de Zorro"
+    "1592609": "Perguntas Frequentes sobre Viagem no Tempo"
    }
   },
   "name": "HBO Max Amazon Channel",
   "shows": {
    "in": {
-    "1292": "How Do They Do It?",
-    "2437": "Pocoyo",
-    "670": "Los pequeños Looney Tunes"
+    "120161": "100% Lobo: A Lenda da Pedra da Lua",
+    "76107": "Corridas Proibidas: Memphis"
    },
    "out": {
-    "241749": "How Do They Do It?",
-    "273127": "Los pequeños Looney Tunes",
-    "339208": "Pocoyo",
-    "94075": "Doki"
+    "244188": "Corridas Proibidas: Memphis"
    }
   }
  },
  "alo": {
   "movies": {
    "in": {
-    "675485": "Meu Eterno Primeiro Amor",
-    "890338": "Fragmentada",
-    "891644": "Zero",
-    "974878": "O Preço dos Pecados"
+    "1045090": "Golpe de Gênio",
+    "735563": "Cadáver Exquisito"
    },
    "out": {
-    "360212": "Fome",
-    "641167": "Pau pra Toda Obra: Miami",
-    "938008": "O Matador: Missão Resgate",
-    "9950": "Mafioso Quanto Baste..."
+    "1291821": "Golpe de Gênio",
+    "25360": "O Matador de Gigantes"
    }
   },
-  "name": "Looke Amazon Channel",
-  "shows": {
-   "in": {
-    "16749": "Seus Olhos"
-   },
-   "out": {
-    "203494": "Seus Olhos"
-   }
-  }
+  "name": "Looke Amazon Channel"
  },
  "amu": {
-  "movies": {
+  "name": "MUBI Amazon Channel",
+  "shows": {
    "in": {
-    "128700": "Broadway by Light"
+    "114655": "The Curse"
    },
    "out": {}
-  },
-  "name": "MUBI Amazon Channel"
+  }
  },
  "atl": {
   "movies": {
    "in": {
-    "40096": "O Auto da Compadecida"
+    "1046011": "Pronto, Falei!"
    },
-   "out": {}
+   "out": {
+    "862620": "Pronto, Falei!"
+   }
   },
   "name": "Telecine Amazon Channel"
  },
@@ -75,76 +58,52 @@
   "name": "Crunchyroll",
   "shows": {
    "in": {
-    "98296": "Knight's & Magic"
+    "74233": "Monster Sonic! D'Artagnan no Idol Sengen",
+    "75864": "Katana Maidens ~ Toji No Miko",
+    "76821": "Gundam Build Divers"
    },
    "out": {
-    "72635": "Knight's & Magic"
+    "105473": "Katana Maidens ~ Toji No Miko",
+    "299094": "Gundam Build Divers"
    }
   }
  },
  "dnp": {
-  "movies": {
-   "in": {
-    "417320": "Os Descendentes 2"
-   },
-   "out": {
-    "1503761": "Coração de Ferro | Um Olhar Especial",
-    "1592838": "Os Descendentes 2"
-   }
-  },
   "name": "Disney Plus",
   "shows": {
    "in": {
-    "2437": "Pocoyo"
+    "4627": "Os Substitutos"
    },
    "out": {
-    "339208": "Pocoyo"
+    "273974": "Os Substitutos"
    }
   }
  },
  "gop": {
-  "movies": {
-   "in": {
-    "1125851": "Malês",
-    "1374935": "A Acompanhante"
-   },
-   "out": {
-    "351964": "A Acompanhante"
-   }
-  },
   "name": "Globoplay",
   "shows": {
    "in": {
-    "2437": "Pocoyo"
+    "334498": "Popstar Bastidores",
+    "4410": "Condessa Descalça",
+    "4979": "Vira-Lata"
    },
    "out": {
-    "339208": "Pocoyo"
+    "208731": "Condessa Descalça",
+    "291940": "Vira-Lata"
    }
   }
  },
  "lke": {
   "movies": {
    "in": {
-    "1044058": "Sem Medo de Amar",
-    "1314829": "Carrossel Mágico",
-    "489176": "Armadilha do Caçador",
-    "670886": "O Caçador: Último Tigre da Tasmânia",
-    "675485": "Meu Eterno Primeiro Amor",
-    "890338": "Fragmentada",
-    "891644": "Zero",
-    "9102": "Gritos Mortais",
-    "974878": "O Preço dos Pecados"
+    "1045090": "Golpe de Gênio",
+    "365483": "Estive em Lisboa e Lembrei de Você",
+    "735563": "Cadáver Exquisito"
    },
    "out": {
-    "1084440": "Daniela Forever",
-    "1117126": "1 Milhão de Seguidores",
-    "1119197": "A Paranoia de Lulu",
-    "299641": "Jimmy Vestvood - Um Quase Super-Herói Americano",
-    "37567": "Fall",
-    "615946": "Do Outro Lado da Fronteira",
-    "70954": "O Caçador: Último Tigre da Tasmânia",
-    "964913": "Refazendo Laços",
-    "990593": "Thor: Deus do Trovão"
+    "1265517": "Você Não Dormirá Esta Noite",
+    "1291821": "Golpe de Gênio",
+    "42491": "Ulzana, o Perseguido"
    }
   },
   "name": "Looke"
@@ -152,121 +111,124 @@
  "mxx": {
   "movies": {
    "in": {
-    "677781": "A Máscara de Zorro",
-    "678616": "Full Metal Jacket - Nascido Para Matar"
+    "22494": "Perguntas Frequentes sobre Viagem no Tempo"
    },
    "out": {
-    "600": "Full Metal Jacket - Nascido Para Matar",
-    "9342": "A Máscara de Zorro"
+    "1592609": "Perguntas Frequentes sobre Viagem no Tempo"
    }
   },
   "name": "HBO Max",
   "shows": {
    "in": {
-    "1292": "How Do They Do It?",
-    "2437": "Pocoyo",
-    "670": "Los pequeños Looney Tunes"
+    "120161": "100% Lobo: A Lenda da Pedra da Lua",
+    "76107": "Corridas Proibidas: Memphis"
    },
    "out": {
-    "241749": "How Do They Do It?",
-    "273127": "Los pequeños Looney Tunes",
-    "339208": "Pocoyo",
-    "341555": "The Killing of the Golden Rooster"
+    "244188": "Corridas Proibidas: Memphis"
    }
   }
  },
  "nfx": {
   "movies": {
    "in": {
-    "1307474": "Vicentina Pede Desculpas",
-    "1581787": "Under the Shadow",
-    "1595124": "Tipo Irmãs",
-    "1606527": "418",
-    "1737129": "HB2ME",
-    "1791730": "Pregadore$ no Horário Nobre",
-    "76649": "Pompeia",
-    "798612": "Shirley Chisholm"
+    "1169455": "O Depois",
+    "1535377": "Jordan Jensen: Take Me with You",
+    "1593350": "Amor em Versos",
+    "1702960": "GOAT Pandemonium Ge on all tempo",
+    "44037": "Pânico no Lago 3",
+    "495659": "Bayonet",
+    "556803": "A Princesa e a Plebeia",
+    "560050": "Para Além da Lua",
+    "574376": "Olho por Olho",
+    "661043": "Vagando Por Aí",
+    "670981": "Reze pelas Mulheres Roubadas",
+    "832277": "Mesa Para Quatro"
    },
    "out": {
-    "1117857": "Nos Teus Sonhos",
-    "1535377": "Jordan Jensen: Take Me with You",
-    "1702960": "GOAT Pandemonium Ge on all tempo",
-    "375012": "Under the Shadow",
-    "517909": "Laundromat: O Escândalo dos Papéis do Panamá",
-    "605116": "Project Power",
-    "747349": "Natal com Dolly Parton",
-    "82792": "Pepe"
+    "1072371": "Nosso Amigo Extraordinário",
+    "11931": "Na Sua Pele",
+    "1737129": "HB2ME",
+    "178032": "Lúcio Flávio, o Passageiro da Agonia",
+    "42148": "Pixote: A Lei do Mais Fraco",
+    "59678": "ETs in da Bairro",
+    "700391": "65 - Ameaça Pré-Histórica",
+    "758323": "O Exorcista do Vaticano",
+    "890665": "Game Changer",
+    "931404": "Boonie Bears: Back to Earth",
+    "937278": "Um Homem Chamado Otto"
    }
   },
   "name": "Netflix",
   "shows": {
    "in": {
-    "117678": "A Ilha da Caveira",
-    "233205": "Sedução Real",
-    "2437": "Pocoyo",
-    "300523": "Estrada das Lágrimas",
-    "301391": "Bem-vindos ao El Bulli",
-    "73126": "Vândalo Americano",
-    "90274": "El caso Alcàsser"
+    "248047": "Se avexe não",
+    "252121": "Vermelho Carmesim",
+    "31120": "Herança brilhante",
+    "76719": "The rain",
+    "92829": "Entre o Desejo e a Morte"
    },
    "out": {
-    "128013": "Santo",
-    "275998": "Quem Viu o Pavão Dançando na Floresta?",
-    "339208": "Pocoyo",
-    "88378": "Professor Iglesias",
-    "93097": "Para sempre Camélia",
-    "93878": "Criminal: Espanha",
-    "93953": "Seis Mãos"
+    "253028": "Casamento às Cegas: México",
+    "277751": "Inside",
+    "330176": "Solteiros Nunca Mais: Depois do Reality",
+    "341109": "The rain",
+    "74016": "O Residente"
    }
+  }
+ },
+ "pmp": {
+  "name": "Paramount Plus",
+  "shows": {
+   "in": {
+    "239334": "França Shore"
+   },
+   "out": {}
   }
  },
  "prv": {
   "movies": {
    "in": {
-    "1288246": "Padrões de Morte",
-    "1374935": "A Acompanhante",
-    "354282": "Ficção Científica Volume 1: O Legado de Osiris",
-    "675485": "Meu Eterno Primeiro Amor"
+    "1044058": "Sem Medo de Amar",
+    "1700680": "Louco México Mágico",
+    "2196": "Morte Num Funeral",
+    "366512": "Os Sonhos de um Sonhador - A História de Frank Aguiar",
+    "735563": "Cadáver Exquisito"
    },
    "out": {
-    "1378915": "Chaos Glacier Country",
-    "299641": "Jimmy Vestvood - Um Quase Super-Herói Americano",
-    "351964": "A Acompanhante",
-    "46648": "Verônica"
+    "1688575": "Kyle Larson e o Double",
+    "65796": "Wild Bill - Uma Lenda no Oeste",
+    "675485": "Meu Eterno Primeiro Amor",
+    "9582": "Louco por Elas",
+    "977246": "Feitiçaria"
    }
   },
   "name": "Amazon Prime Video",
   "shows": {
    "in": {
-    "110240": "Mister Maker",
-    "2352": "Competente e Descarada",
-    "2437": "Pocoyo",
-    "314131": "Melania The Series",
-    "82130": "Tarde lo conocí"
+    "39483": "Crimes Graves"
    },
    "out": {
-    "32138": "Mister Maker",
-    "339208": "Pocoyo",
-    "93833": "The Feed"
+    "63714": "Porta dos Fundos",
+    "93895": "Jurassic World: A Lenda da Ilha Nublar"
    }
   }
  },
  "ptv": {
   "movies": {
    "in": {
-    "679348": "O Guerreiro de Deus II - Operação Condor"
+    "1045090": "Golpe de Gênio"
    },
    "out": {
-    "10975": "O Guerreiro de Deus II - Operação Condor"
+    "1291821": "Golpe de Gênio"
    }
   },
   "name": "Pluto TV",
   "shows": {
    "in": {
-    "1760": "Ginger"
+    "249300": "Secrets & Mysteries"
    },
    "out": {
-    "287105": "Ginger"
+    "20914": "Secrets & Mysteries"
    }
   }
  }
