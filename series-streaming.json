@@ -708,7 +708,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GK9U353V4",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G50UZ7D00",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd4b5aab-b901-4620-abc7-a476190a00ef"
     },
     "verified": [
@@ -970,20 +970,17 @@
   },
   "tt11041332": {
     "providers": [
-      "Amazon Prime Video",
       "Paramount Plus",
       "Paramount Plus Apple TV channel",
       "Paramount Plus Premium",
       "Paramount+ Amazon Channel"
     ],
     "urls": {
-      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ad1116-cb1f-43a7-b99f-4965f3e94721",
       "Paramount Plus": "https://www.paramountplus.com/shows/yellowjackets/video/hXOv_JVo06AG3BJ21ZT3vlziXmcs9ssv/yellowjackets-pilot?amp%3Butm_source=publisher",
       "Paramount Plus Premium": "https://www.paramountplus.com/shows/yellowjackets/video/hXOv_JVo06AG3BJ21ZT3vlziXmcs9ssv/yellowjackets-pilot?amp%3Butm_source=publisher",
       "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0145bd6f-66ed-47fc-85ab-da2de5dd6f8c"
     },
     "verified": [
-      "Amazon Prime Video",
       "Paramount Plus Apple TV channel",
       "Paramount+ Amazon Channel"
     ]
@@ -3036,7 +3033,7 @@
       "The Great Courses Signature Collection Amazon Channel"
     ],
     "urls": {
-      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ae464a3-c62b-4c89-a2a0-d54b6f94a870"
+      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb93120-8db4-e890-c593-c0f215b87a45"
     },
     "verified": [
       "The Great Courses Signature Collection Amazon Channel"
@@ -4915,15 +4912,7 @@
     ]
   },
   "tt5435008": {
-    "providers": [
-      "Netflix"
-    ],
-    "urls": {
-      "Netflix": "https://www.netflix.com/title/80109415"
-    },
-    "verified": [
-      "Netflix"
-    ]
+    "providers": []
   },
   "tt5460226": {
     "providers": [
