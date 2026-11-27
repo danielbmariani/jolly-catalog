@@ -1,72 +1,65 @@
 {
- "_generated": "2026-11-26",
- "_previous": "2026-11-25",
+ "_generated": "2026-11-27",
+ "_previous": "2026-11-26",
  "aho": {
   "movies": {
    "in": {
-    "1393121": "Perdidos na Amazônia: O Resgate Que Chocou o Mundo",
-    "1632599": "Ao Menor Toque",
-    "591": "O Código Da Vinci",
-    "9342": "A Máscara de Zorro"
+    "12153": "Loiras à Força",
+    "1440050": "Pai em Tempo Integral",
+    "36950": "Você Não Conhece o Jack",
+    "677781": "A Máscara de Zorro",
+    "969681": "Homem-Aranha: Um Novo Dia"
    },
    "out": {
-    "1052548": "Bita e o Circo",
-    "1060446": "O Código Da Vinci",
-    "1317603": "Perdidos na Amazônia: O Resgate Que Chocou o Mundo",
-    "298768": "Bita e os Animais",
-    "618962": "Bita e a Natureza",
-    "677781": "A Máscara de Zorro"
+    "318924": "Mundo Bita - Bita e as Brincadeiras",
+    "9342": "A Máscara de Zorro",
+    "977391": "Você Não Conhece o Jack"
    }
   },
   "name": "HBO Max Amazon Channel",
   "shows": {
    "in": {
-    "195859": "Floribella",
-    "85429": "Segredos Sinistros",
-    "85492": "Pequenas Cidades em Pânico",
-    "99043": "Memórias Contra o Crime"
+    "335251": "Os Segelström: A Arte da Enganação",
+    "86818": "To Catch a Killer"
    },
    "out": {
-    "106756": "Segredos Sinistros",
-    "157336": "Pequenas Cidades em Pânico",
-    "34057": "Floribella"
+    "117420": "To Catch a Killer"
    }
   }
  },
  "alo": {
   "movies": {
    "in": {
-    "1081464": "Os Conflitos na Irlanda",
-    "140818": "Ragnarok",
-    "365483": "Estive em Lisboa e Lembrei de Você",
-    "605874": "Nós Que Ficámos",
-    "842493": "Maldição Criativa",
-    "9102": "Gritos Mortais"
+    "1353066": "A Própria Carne",
+    "40506": "Um Maluco Está no Ar",
+    "43308": "O Morro dos Maus Espíritos",
+    "59189": "Fase IV - Destruição",
+    "687238": "A Espada da Vingança",
+    "847153": "Vingança Final"
    },
    "out": {
-    "1049208": "O Alecrim e o Sonho",
-    "253380": "S. Bernardo",
-    "41209": "Testemunhas Contra a Máfia",
-    "51763": "Una Historia Americana",
-    "879913": "Entre Penas e Bicadas",
-    "923857": "Rebeldes aos 16"
+    "10973": "O Monstro da Lagoa Negra",
+    "11916": "Os Abutres Têm Fome",
+    "140818": "Ragnarok",
+    "299641": "Jimmy Vestvood - Um Quase Super-Herói Americano",
+    "452000": "Western",
+    "568029": "Quando Lembro de Chico"
    }
   },
-  "name": "Looke Amazon Channel",
-  "shows": {
-   "in": {},
-   "out": {
-    "196686": "Mother Teresa"
-   }
-  }
+  "name": "Looke Amazon Channel"
  },
  "amu": {
   "movies": {
    "in": {
-    "653": "Nosferatu"
+    "1469342": "Her Private Hell – Viagem ao Inferno",
+    "1614698": "Taxi moto",
+    "319994": "O Botão de Pérola",
+    "582944": "A Cordilheira dos Sonhos",
+    "60670": "Os Crimes dos Rios de Púrpura",
+    "72721": "Nostalgia da Luz"
    },
    "out": {
-    "1489665": "Nosferatu"
+    "435987": "Uma sobremesa para Constance"
    }
   },
   "name": "MUBI Amazon Channel"
@@ -74,301 +67,250 @@
  "atl": {
   "movies": {
    "in": {
-    "653": "Nosferatu"
+    "1033356": "O Porão da Rua do Grito",
+    "1249562": "Muito Prazer"
    },
    "out": {
-    "1489665": "Nosferatu",
-    "44697": "Cavalagada Fantástica"
+    "609271": "Debaixo do Píer"
    }
   },
   "name": "Telecine Amazon Channel"
  },
- "atp": {
-  "name": "Apple TV",
-  "shows": {
-   "in": {
-    "290164": "Sereno - O Panda Zen"
-   },
-   "out": {
-    "111834": "Sereno - O Panda Zen"
-   }
-  }
- },
- "avl": {
-  "name": "Apple TV Amazon Channel",
-  "shows": {
-   "in": {
-    "290164": "Sereno - O Panda Zen"
-   },
-   "out": {
-    "111834": "Sereno - O Panda Zen"
-   }
-  }
- },
  "bac": {
   "movies": {
    "in": {
-    "653": "Nosferatu"
+    "1395661": "Sinta-se em Casa",
+    "8047": "Matador"
    },
-   "out": {
-    "1489665": "Nosferatu"
-   }
+   "out": {}
   },
   "name": "Belas Artes à La Carte"
  },
  "cru": {
+  "movies": {
+   "in": {},
+   "out": {
+    "896499": "Fruits Basket - Prelude"
+   }
+  },
   "name": "Crunchyroll",
   "shows": {
    "in": {
-    "85426": "Mecha-Ude: Mechanical Arms"
+    "292774": "Honor of Kings",
+    "88040": "Given"
    },
    "out": {
-    "210355": "Mecha-Ude: Mechanical Arms",
-    "95346": "Hatena Illusion"
+    "126409": "Given",
+    "243327": "Honor of Kings"
    }
   }
  },
  "dnp": {
   "movies": {
    "in": {
-    "53565": "O Vapor Willie"
+    "1715686": "Mickey: Sozinho em Casa",
+    "1843337": "Momentos de Glória"
    },
    "out": {
-    "1604647": "O Vapor Willie"
+    "9443": "Momentos de Glória"
    }
   },
   "name": "Disney Plus",
   "shows": {
    "in": {
-    "339077": "A Pequena Sereia",
-    "85919": "Nat Geo Lab Brasil"
+    "95782": "Segredos Enterrados da Bíblia com Albert Lin"
    },
    "out": {
-    "129900": "Nat Geo Lab Brasil",
-    "2675": "A Pequena Sereia"
+    "203051": "Segredos Enterrados da Bíblia com Albert Lin",
+    "324434": "Sou Luna: De Volta à Pista"
    }
   }
  },
  "gop": {
   "movies": {
-   "in": {
-    "1083888": "Superação"
-   },
+   "in": {},
    "out": {
-    "527776": "Superação"
+    "957452": "O Corvo"
    }
   },
   "name": "Globoplay",
   "shows": {
    "in": {
-    "85582": "O Tempo e o Vento"
+    "31155": "Tara Duncan"
    },
    "out": {
-    "207627": "O Tempo e o Vento"
+    "256711": "The Rainmaker"
    }
   }
  },
  "lke": {
   "movies": {
    "in": {
-    "140818": "Ragnarok",
-    "547475": "Rendel 2: Ciclo da Vingança",
-    "653": "Nosferatu"
+    "2117": "Sophie Scholl - Os Últimos Dias",
+    "509598": "Mr. Jones - A Verdade da Mentira",
+    "59189": "Fase IV - Destruição",
+    "847153": "Vingança Final"
    },
    "out": {
-    "1489665": "Nosferatu",
-    "34211": "Intenções Ocultas",
-    "618737": "O Amigo do Rei"
+    "1088530": "Nelly Rapp e o Espelho da Morte",
+    "140818": "Ragnarok",
+    "547475": "Rendel 2: Ciclo da Vingança",
+    "670886": "O Caçador: Último Tigre da Tasmânia"
    }
   },
   "name": "Looke",
   "shows": {
-   "in": {},
+   "in": {
+    "206688": "Oscar no Oásis"
+   },
    "out": {
-    "196686": "Mother Teresa"
+    "39914": "Oscar no Oásis"
    }
   }
  },
  "mbi": {
   "movies": {
    "in": {
-    "653": "Nosferatu"
+    "1469342": "Her Private Hell – Viagem ao Inferno",
+    "1614698": "Taxi moto",
+    "319994": "O Botão de Pérola",
+    "582944": "A Cordilheira dos Sonhos",
+    "60670": "Os Crimes dos Rios de Púrpura",
+    "72721": "Nostalgia da Luz"
    },
-   "out": {
-    "1489665": "Nosferatu",
-    "38810": "Canino",
-    "435987": "Uma sobremesa para Constance"
-   }
+   "out": {}
   },
   "name": "MUBI"
  },
  "mxx": {
   "movies": {
    "in": {
-    "1393121": "Perdidos na Amazônia: O Resgate Que Chocou o Mundo",
-    "1632599": "Ao Menor Toque",
-    "591": "O Código Da Vinci",
-    "9342": "A Máscara de Zorro"
+    "12153": "Loiras à Força",
+    "1440050": "Pai em Tempo Integral",
+    "36950": "Você Não Conhece o Jack",
+    "677781": "A Máscara de Zorro",
+    "969681": "Homem-Aranha: Um Novo Dia"
    },
    "out": {
-    "1060446": "O Código Da Vinci",
-    "1317603": "Perdidos na Amazônia: O Resgate Que Chocou o Mundo",
-    "677781": "A Máscara de Zorro",
-    "794153": "O.J. and Nicole: An American Tragedy"
+    "9342": "A Máscara de Zorro",
+    "977391": "Você Não Conhece o Jack"
    }
   },
   "name": "HBO Max",
   "shows": {
    "in": {
-    "195859": "Floribella",
-    "85429": "Segredos Sinistros",
-    "85492": "Pequenas Cidades em Pânico",
-    "99043": "Memórias Contra o Crime"
+    "335251": "Os Segelström: A Arte da Enganação",
+    "86818": "To Catch a Killer"
    },
    "out": {
-    "106756": "Segredos Sinistros",
-    "157336": "Pequenas Cidades em Pânico",
-    "34057": "Floribella"
+    "117420": "To Catch a Killer"
    }
   }
  },
  "nfx": {
   "movies": {
    "in": {
-    "1305218": "A Salvação",
-    "1368568": "Um Tio Quase Perfeito 3",
-    "1383426": "Brigada 49",
-    "1458300": "The Mosquito Bowl",
-    "14869": "G.I. Joe - O Ataque dos Cobra",
-    "352431": "Carrossel 2: O Sumiço de Maria Joaquina",
-    "495659": "Bayonet",
-    "882598": "Sorri",
-    "974036": "Anjos na Terra"
+    "12193": "Surpresas do Amor",
+    "1269325": "Drishyam: The Conclusion",
+    "1843934": "NFL Netflix Gameday: Packers vs. Rams",
+    "454626": "Sonic - O Filme",
+    "454983": "A Banca dos Beijos",
+    "554279": "Natal no Riacho",
+    "653522": "O Aplicativo",
+    "774370": "O Homem-Cão",
+    "864116": "Um Dia para Morrer"
    },
    "out": {
-    "1058647": "De Tirar o Fôlego",
-    "11128": "Brigada 49",
-    "1655112": "O Último Pedido",
-    "1802703": "Rob Lowe: The Outsider",
-    "22414": "Recordações de Hollywood",
-    "349138": "Ludo",
-    "4379": "Uma Sogra de Fugir",
-    "452015": "Psychokinesis",
-    "651070": "O Limite da Traição"
+    "1006917": "O Único Sobrevivente",
+    "1195506": "Novocaine: À Prova de Dor",
+    "1196207": "Quem Salva o Natal? 2",
+    "12403": "Uma Fuga Perfeita",
+    "15092": "Crank 2: Alta Voltagem",
+    "1593350": "Amor em Versos",
+    "352431": "Carrossel 2: O Sumiço de Maria Joaquina",
+    "495659": "Bayonet",
+    "862968": "Pain Hustlers"
    }
   },
   "name": "Netflix",
   "shows": {
    "in": {
-    "116736": "Pit Stop",
-    "198200": "Reação Nuclear",
-    "326247": "Fool Night",
-    "342640": " Stranger Things",
-    "67202": "Eastsiders",
-    "85220": "Romance is a Bonus Book"
+    "133678": "Era Uma Vez... Numa Pequena Cidade",
+    "302837": "Toos: Um Sequestro Entre os Van der Valk",
+    "313701": "Um Natal Filipino",
+    "338930": "De Plantão",
+    "39276": "Inesquecível",
+    "45666": "Sam & Cat",
+    "87387": "Glow Up - Deutschlands nächster Make-up-Star"
    },
    "out": {
-    "100226": "Sexify",
-    "123856": "Um Homem da Flórida",
-    "210945": "Onimusha",
-    "232944": "Romance is a Bonus Book",
-    "66732": " Stranger Things",
-    "78597": "Fugitiva"
+    "203280": "E Por Hoje É Só... com David Letterman",
+    "210529": "Glow Up - Deutschlands nächster Make-up-Star",
+    "229122": "Six Zeros",
+    "231681": "As Viúvas de Quinta-feira",
+    "284536": "Inesquecível",
+    "68799": "Gilmore Girls: Um Ano para Recordar",
+    "95121": "Ninguém Tá Olhando"
    }
   }
  },
  "pmp": {
   "movies": {
    "in": {
-    "1195506": "Novocaine: À Prova de Dor"
+    "1507275": "O Natal da Patrulha Canina"
    },
    "out": {
-    "7874": "Black Snake Moan - A Redenção"
+    "1238200": "Sem Instruções",
+    "1433719": "High Ground: Cerco fechado",
+    "1837215": "O Natal da Patrulha Canina"
    }
   },
-  "name": "Paramount Plus"
+  "name": "Paramount Plus",
+  "shows": {
+   "in": {},
+   "out": {
+    "517": "The Ultimate Fighter"
+   }
+  }
  },
  "prv": {
   "movies": {
    "in": {
-    "10687": "Tigerland - O Teste Final",
-    "1129598": "Presa",
-    "123568": "Os Trapalhões e o Mágico de Oroz",
+    "1064103": "Como Se Tornar um Homem Moderno",
+    "1249289": "Código Alarum",
+    "1301214": "Atena",
+    "1430386": "Uma Mãe e o Seu Filho",
+    "534094": "As Aventuras de Errol Flynn",
+    "605874": "Nós Que Ficámos",
+    "864116": "Um Dia para Morrer",
+    "866346": "O Plano de Reforma",
+    "888001": "O Rio do Terror",
+    "900667": "One Piece Film - Red",
+    "937092": "Boa Esposa"
+   },
+   "out": {
     "128454": "O Trapalhão e a Luz Azul",
     "133007": "Os Fantasmas Trapalhões",
     "143535": "O Incrível Monstro Trapalhão",
     "143558": "Ali Babá e os Quarenta Ladrões",
     "144060": "Uma Escola Atrapalhada",
-    "181191": "Os Trapalhões e o Rei do Futebol",
+    "172519": "O Trapalhão na Ilha do Tesouro",
+    "189883": "Bonga, o Vagabundo",
     "251356": "O Cangaceiro Trapalhão",
-    "286426": "Adorável Trapalhão",
-    "37834": "Dia e Noite",
     "407528": "Robin Hood, O Trapalhão da Floresta",
-    "419704": "Ad Astra: Rumo às Estrelas",
-    "424781": "Desculpe Incomodar",
-    "428501": "City of Ghosts",
     "547475": "Rendel 2: Ciclo da Vingança",
-    "59450": "Fera à Solta",
-    "59860": "Monte Carlo",
-    "698369": "Helmut Newton - Perversão e Beleza",
-    "88697": "O Casamento dos Trapalhões",
-    "88730": "Os Saltimbancos Trapalhões",
-    "949": "Heat - Cidade Sob Pressão",
-    "9667": "Colete de Forças"
-   },
-   "out": {
-    "1049208": "O Alecrim e o Sonho",
-    "1064103": "Como Se Tornar um Homem Moderno",
-    "1119544": "De Volta à Roma",
-    "1120543": "Quando a Guerra Acabar",
-    "1129025": "Power of the Dream",
-    "1174618": "Alice no País das Trevas",
-    "1182222": "15 Anos em Silêncio",
-    "19505": "Hendrix",
-    "2251": "Infiel",
-    "270774": "Salva-te Se Puderes",
-    "280169": "Guerra Suja",
-    "36677": "Solarbabies",
-    "441647": "O Som",
-    "534094": "As Aventuras de Errol Flynn",
-    "566141": "A Única Escolha",
-    "567441": "Banjara - The Truck Driver",
-    "772515": "Huesera: The Bone Woman",
-    "845605": "Queime Todas Minhas Cartas",
-    "888001": "O Rio do Terror",
-    "8952": "Eu Amo-te Phillip Morris",
-    "900667": "One Piece Film - Red",
-    "974036": "Anjos na Terra",
-    "991257": "Sparkle: Um Conto Mágico",
-    "9989": "Conspiração.com"
+    "88697": "O Casamento dos Trapalhões"
    }
   },
   "name": "Amazon Prime Video",
   "shows": {
    "in": {
-    "310209": "Nove às Seis",
-    "32138": "Mister Maker",
-    "86346": "El Bronx"
+    "293031": "A Mulher da Casa Abandonada",
+    "341492": "Alan Carr's Great Big Bucket List",
+    "342696": "Plein"
    },
    "out": {
-    "110240": "Mister Maker"
-   }
-  }
- },
- "ptv": {
-  "movies": {
-   "in": {
-    "653": "Nosferatu"
-   },
-   "out": {
-    "1489665": "Nosferatu"
-   }
-  },
-  "name": "Pluto TV",
-  "shows": {
-   "in": {},
-   "out": {
-    "196686": "Mother Teresa"
+    "341177": "A Mulher da Casa Abandonada"
    }
   }
  }

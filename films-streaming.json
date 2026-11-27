@@ -1936,14 +1936,6 @@
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.91d91081-a2e1-4004-af7d-4efb31e99e27"
     }
   },
-  "1220564": {
-    "providers": [
-      "Netflix"
-    ],
-    "urls": {
-      "Netflix": "https://www.netflix.com/title/81770793"
-    }
-  },
   "1220566": {
     "providers": [
       "Reserva Imovision Amazon Channel"
@@ -2130,16 +2122,6 @@
     ],
     "urls": {
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.441276c2-8da0-4b50-89b6-f0ea29e13bee"
-    }
-  },
-  "1259102": {
-    "providers": [
-      "Apple TV",
-      "Apple TV Amazon Channel"
-    ],
-    "urls": {
-      "Apple TV": "https://tv.apple.com/br/movie/eternidade/umc.cmc.4dlymcfscta2oo4u1whkzaqpl?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv",
-      "Apple TV Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7752f142-0e03-477f-b378-569ca7572744"
     }
   },
   "12593": {
@@ -2941,14 +2923,6 @@
   "1412": {
     "providers": []
   },
-  "1414312": {
-    "providers": [
-      "Netflix"
-    ],
-    "urls": {
-      "Netflix": "https://www.netflix.com/title/82069795"
-    }
-  },
   "14160": {
     "providers": [
       "Disney Plus"
@@ -3109,7 +3083,7 @@
       "Disney Plus"
     ],
     "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-09aa241f-b771-4323-a7ac-e2dae4f3782e"
+      "Disney Plus": "https://www.disneyplus.com/browse/entity-24ff6801-575d-45d4-a157-e95f4499e161"
     }
   },
   "145": {
@@ -3259,7 +3233,12 @@
     "providers": []
   },
   "1469342": {
-    "providers": []
+    "providers": [
+      "MUBI Amazon Channel"
+    ],
+    "urls": {
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7dee8400-3665-42ac-9ffa-102570f3fb7a"
+    }
   },
   "14696": {
     "providers": [
@@ -7912,7 +7891,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ES419",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886DEDE",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     }
   },
@@ -11879,7 +11858,12 @@
     }
   },
   "72721": {
-    "providers": []
+    "providers": [
+      "MUBI Amazon Channel"
+    ],
+    "urls": {
+      "MUBI Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2baf10d-7f7a-4c7c-abef-2909cbfee195"
+    }
   },
   "728118": {
     "providers": [
@@ -11963,7 +11947,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     }
   },
@@ -12088,9 +12072,6 @@
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-f08e9233-5325-45ac-a070-134f9725f1fd"
     }
-  },
-  "75629": {
-    "providers": []
   },
   "758866": {
     "providers": [
@@ -12698,11 +12679,13 @@
   "809": {
     "providers": [
       "Amazon Prime Video",
+      "Netflix",
       "Telecine Amazon Channel",
       "Universal+ Amazon Channel"
     ],
     "urls": {
       "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7eb0a83f-e142-e935-04c6-7793b2729dce",
+      "Netflix": "https://www.netflix.com/title/60034572",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7eb0a83f-e142-e935-04c6-7793b2729dce",
       "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7eb0a83f-e142-e935-04c6-7793b2729dce"
     }
@@ -13298,7 +13281,7 @@
     "urls": {
       "Paramount Plus": "https://www.paramountplus.com/movies/saving-private-ryan/cA6RHYSln7H018wfcs_dtX0iOKatacNr?amp%3Butm_source=publisher",
       "Paramount Plus Premium": "https://www.paramountplus.com/movies/saving-private-ryan/cA6RHYSln7H018wfcs_dtX0iOKatacNr?amp%3Butm_source=publisher",
-      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1d96b97f-c70d-406f-8cc1-41995a7351b4"
+      "Paramount+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9b56b999-8e52-4354-9915-03d43db4ffd5"
     }
   },
   "858": {
@@ -13783,7 +13766,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29988",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUE5537",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
@@ -14059,14 +14042,6 @@
     ],
     "urls": {
       "Diamond Films Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9642817d-51e3-4af9-bea1-1d846650f2b1"
-    }
-  },
-  "9443": {
-    "providers": [
-      "Disney Plus"
-    ],
-    "urls": {
-      "Disney Plus": "https://www.disneyplus.com/browse/entity-7ce2bfcc-0c8b-491d-8644-36c947568cec"
     }
   },
   "9444": {
@@ -14446,7 +14421,14 @@
     }
   },
   "969681": {
-    "providers": []
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "urls": {
+      "HBO Max": "https://play.hbomax.com/show/ac8145d1-80de-468c-9b74-f17672ae9f19",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7bb04e11-fe7f-4528-bd0e-84d1312f15c5"
+    }
   },
   "97029": {
     "providers": [
@@ -14766,7 +14748,7 @@
       "Belas Artes à La Carte": "https://www.belasartesalacarte.com.br/",
       "Looke": "https://www.looke.com.br/detalhes/212330",
       "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf1fab94-f318-41b8-b47a-65e03599c1a9",
-      "NetMovies": "https://www.netmovies.com.br/filmes/212330",
+      "NetMovies": "https://www.netmovies.com.br/filmes/43290",
       "Plex": "https://watch.plex.tv/movie/stagecoach-1939?autoplay=1",
       "Pluto TV": "https://pluto.tv/on-demand/movies/stagecoah-br-1939-1-1",
       "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf1fab94-f318-41b8-b47a-65e03599c1a9"

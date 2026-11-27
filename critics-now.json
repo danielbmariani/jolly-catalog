@@ -1,7 +1,7 @@
 {
   "_raw": [
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -9,7 +9,7 @@
       "url": "https://www.rogerebert.com/reviews/minotaur-film-review-2026"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -17,7 +17,7 @@
       "url": "https://www.rogerebert.com/reviews/elsinore-andrew-scott-olivia-colman-film-review-2026"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -6223,70 +6223,6 @@
       "rating": "4★",
       "title": "Stranger Things season five",
       "url": "https://www.theguardian.com/tv-and-radio/2025/nov/27/stranger-things-final-season-five-review-netflix"
-    },
-    {
-      "date": "2025-11-26",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "5★",
-      "title": "Poison Water",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/nov/26/poison-water-review-north-cornwall-mass-poisoning-1988-bbc"
-    },
-    {
-      "date": "2025-11-26",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "4★",
-      "title": "The Beatles Anthology",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/nov/26/the-beatles-anthology-review-incredible-audio-shows-why-world-fell-in-love-with-band"
-    },
-    {
-      "date": "2025-11-26",
-      "media_type": "movie",
-      "outlet": "IndieWire",
-      "rating": "B+",
-      "title": "The Secret Agent",
-      "url": "https://www.indiewire.com/criticism/movies/the-secret-agent-review-wagner-moura-brazilian-movie-1235124373/"
-    },
-    {
-      "date": "2025-11-26",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "BLKNWS: Terms & Conditions",
-      "url": "https://www.rogerebert.com/reviews/blknws-terms-conditions-khalil-joseph-film-review-2025"
-    },
-    {
-      "date": "2025-11-26",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "The Secret Agent",
-      "url": "https://www.rogerebert.com/reviews/the-secret-agent-film-review-2025"
-    },
-    {
-      "date": "2025-11-26",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "The Stringer: The Man Who Took the Photo",
-      "url": "https://www.rogerebert.com/reviews/the-stringer-the-man-who-took-the-photo-netflix-documentary-film-review-2025"
-    },
-    {
-      "date": "2025-11-26",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "4★",
-      "title": "The Tale of Silyan",
-      "url": "https://www.rogerebert.com/reviews/the-tale-of-silyan-documentary-movie-review-2025"
-    },
-    {
-      "date": "2025-11-26",
-      "media_type": "movie",
-      "outlet": "RogerEbert.com",
-      "rating": "3.5★",
-      "title": "Eternity",
-      "url": "https://www.rogerebert.com/reviews/eternity-miles-teller-elizabeth-olsen-callum-turner-film-review-2025"
     }
   ],
   "movie:tmdb:1434103": {
@@ -6503,61 +6439,6 @@
     "title": "Landmarks",
     "tmdb_id": 1796902,
     "year": 2026
-  },
-  "tt0111893": {
-    "age": {
-      "classind": "18",
-      "source": "US"
-    },
-    "genres": [
-      99
-    ],
-    "media_type": "tv",
-    "original_title": "The Beatles Anthology",
-    "poster": "/97zhDkOLlrkaIiIvROPsAMSqnzQ.jpg",
-    "recs": [
-      {
-        "date": "2025-11-26",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/26/the-beatles-anthology-review-incredible-audio-shows-why-world-fell-in-love-with-band"
-      }
-    ],
-    "title": "The Beatles Anthology",
-    "tmdb_id": 16906,
-    "watch": {
-      "offers": [
-        {
-          "audio": [
-            "en"
-          ],
-          "audio_pt": false,
-          "channel": null,
-          "host": null,
-          "kind": "included",
-          "links": {
-            "android": "https://www.disneyplus.com/play/fe49fbe3-0fc8-4f16-beda-e70f781c2b12",
-            "androidtv": "intent://www.disneyplus.com/play/fe49fbe3-0fc8-4f16-beda-e70f781c2b12#Intent;launchFlags=0x00800000;scheme=https;end",
-            "tvos": "https://www.disneyplus.com/play/fe49fbe3-0fc8-4f16-beda-e70f781c2b12",
-            "web": "https://www.disneyplus.com/browse/entity-cab32c53-c3f8-4879-86f5-c8e4a1657338"
-          },
-          "price": null,
-          "provider": "Disney Plus",
-          "quality": "_4K",
-          "state": "verified",
-          "sub_pt": true,
-          "tech": "disneyplus",
-          "until": null
-        }
-      ],
-      "providers": [
-        "Disney Plus"
-      ],
-      "urls": {
-        "Disney Plus": "https://www.disneyplus.com/browse/entity-cab32c53-c3f8-4879-86f5-c8e4a1657338"
-      }
-    },
-    "year": 1995
   },
   "tt10094546": {
     "age": {
@@ -7983,11 +7864,11 @@
           },
           "price": "9,90 R$",
           "provider": "Amazon Video",
-          "quality": "HD",
+          "quality": "_4K",
           "state": "trusted",
           "sub_pt": true,
           "tech": "amazon",
-          "until": "2026-11-27"
+          "until": "2026-12-02"
         },
         {
           "audio": [
@@ -8045,7 +7926,7 @@
           "state": "trusted",
           "sub_pt": true,
           "tech": "amazon",
-          "until": "2026-11-27"
+          "until": "2026-12-02"
         },
         {
           "audio": [
@@ -8301,26 +8182,6 @@
       }
     },
     "year": 2023
-  },
-  "tt17497960": {
-    "age": null,
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "original_title": "BLKNWS: Terms & Conditions",
-    "poster": "/4DTTBR1TdT3gfthXmFtwl3tViZZ.jpg",
-    "recs": [
-      {
-        "date": "2025-11-26",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/blknws-terms-conditions-khalil-joseph-film-review-2025"
-      }
-    ],
-    "title": "BLKNWS: Terms & Conditions",
-    "tmdb_id": 931942,
-    "year": 2025
   },
   "tt17676654": {
     "age": {
@@ -9615,31 +9476,6 @@
       }
     },
     "year": 2026
-  },
-  "tt24950660": {
-    "age": {
-      "classind": "14",
-      "source": "BR"
-    },
-    "genres": [
-      10749,
-      35,
-      18
-    ],
-    "media_type": "movie",
-    "original_title": "Eternity",
-    "poster": "/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
-    "recs": [
-      {
-        "date": "2025-11-26",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/eternity-miles-teller-elizabeth-olsen-callum-turner-film-review-2025"
-      }
-    ],
-    "title": "Eternity",
-    "tmdb_id": 1259102,
-    "year": 2025
   },
   "tt2531336": {
     "age": {
@@ -11071,37 +10907,6 @@
       "urls": {}
     },
     "year": 2024
-  },
-  "tt27847051": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      53,
-      18,
-      80
-    ],
-    "media_type": "movie",
-    "original_title": "O Agente Secreto",
-    "poster": "/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-    "recs": [
-      {
-        "date": "2025-11-26",
-        "outlet": "IndieWire",
-        "rating": "B+",
-        "url": "https://www.indiewire.com/criticism/movies/the-secret-agent-review-wagner-moura-brazilian-movie-1235124373/"
-      },
-      {
-        "date": "2025-11-26",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/the-secret-agent-film-review-2025"
-      }
-    ],
-    "title": "The Secret Agent",
-    "tmdb_id": 1220564,
-    "year": 2025
   },
   "tt27988879": {
     "age": {
@@ -13965,7 +13770,7 @@
     "poster": "/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
     "recs": [
       {
-        "date": "2026-11-26",
+        "date": "2026-11-27",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/josephine-netflix-animated-film-review-2026"
@@ -14424,7 +14229,7 @@
           },
           "price": "29,90 R$",
           "provider": "Amazon Video",
-          "quality": "HD",
+          "quality": "_4K",
           "state": "trusted",
           "sub_pt": true,
           "tech": "amazon",
@@ -17360,29 +17165,6 @@
     "tmdb_id": 1684274,
     "year": 2026
   },
-  "tt35307143": {
-    "age": {
-      "classind": "16",
-      "source": "US"
-    },
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "original_title": "The Stringer: The Man Who Took the Photo",
-    "poster": "/cnDf5hkhoAa810dWTSkBDYEkbcY.jpg",
-    "recs": [
-      {
-        "date": "2025-11-26",
-        "outlet": "RogerEbert.com",
-        "rating": "3.5★",
-        "url": "https://www.rogerebert.com/reviews/the-stringer-the-man-who-took-the-photo-netflix-documentary-film-review-2025"
-      }
-    ],
-    "title": "The Stringer: The Man Who Took the Photo",
-    "tmdb_id": 1414312,
-    "year": 2025
-  },
   "tt35308845": {
     "age": null,
     "genres": [
@@ -19949,7 +19731,7 @@
     "poster": "/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
     "recs": [
       {
-        "date": "2026-11-26",
+        "date": "2026-11-27",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/minotaur-film-review-2026"
@@ -20197,7 +19979,7 @@
     "poster": "/mTd1B0Nq4vwMRilsf7eGNpdGIrv.jpg",
     "recs": [
       {
-        "date": "2026-11-26",
+        "date": "2026-11-27",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/elsinore-andrew-scott-olivia-colman-film-review-2026"
@@ -20408,29 +20190,6 @@
     "title": "Alphabet Lane",
     "tmdb_id": 1511400,
     "year": 2026
-  },
-  "tt37660542": {
-    "age": {
-      "classind": "12",
-      "source": "BR"
-    },
-    "genres": [
-      99
-    ],
-    "media_type": "movie",
-    "original_title": "Приказната за Силјан",
-    "poster": "/pr4kRAXsQE97CpHv3s5L0cW9w38.jpg",
-    "recs": [
-      {
-        "date": "2025-11-26",
-        "outlet": "RogerEbert.com",
-        "rating": "4★",
-        "url": "https://www.rogerebert.com/reviews/the-tale-of-silyan-documentary-movie-review-2025"
-      }
-    ],
-    "title": "The Tale of Silyan",
-    "tmdb_id": 1517130,
-    "year": 2025
   },
   "tt37660544": {
     "age": {

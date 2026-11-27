@@ -264,6 +264,20 @@
   "10386": {
     "providers": []
   },
+  "105": {
+    "providers": [
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
+    ],
+    "urls": {
+      "Telecine Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.30a9f73b-becf-e11e-b945-01fc05bd6430",
+      "Universal+ Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.30a9f73b-becf-e11e-b945-01fc05bd6430"
+    },
+    "verified": [
+      "Telecine Amazon Channel",
+      "Universal+ Amazon Channel"
+    ]
+  },
   "10501": {
     "providers": [
       "Telecine Amazon Channel"
@@ -2978,7 +2992,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886ES419",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GMEE00111886DEDE",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5482d2e9-157c-411c-b5c3-7f3210286c90"
     },
     "verified": [
@@ -4940,7 +4954,7 @@
       "Crunchyroll Amazon Channel"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUEQ523",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GX9UQGJ4Z",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7501adcf-3dff-4a06-95e0-f16b73b52406"
     },
     "verified": [
@@ -5676,7 +5690,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/GJWU29988",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/G9DUE5537",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29328f26-ef83-4bfc-983e-2eb64a0696c8",
       "Disney Plus": "https://www.disneyplus.com/browse/entity-96c09556-5d7d-4c27-b005-f828e008b506",
       "Netflix": "https://www.netflix.com/title/81696498"
@@ -6026,7 +6040,14 @@
     "providers": []
   },
   "969681": {
-    "providers": []
+    "providers": [
+      "HBO Max",
+      "HBO Max Amazon Channel"
+    ],
+    "urls": {
+      "HBO Max": "https://play.hbomax.com/show/ac8145d1-80de-468c-9b74-f17672ae9f19",
+      "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7bb04e11-fe7f-4528-bd0e-84d1312f15c5"
+    }
   },
   "976573": {
     "providers": [
