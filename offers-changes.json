@@ -1,317 +1,314 @@
 {
- "_generated": "2026-11-27",
- "_previous": "2026-11-26",
+ "_generated": "2026-11-28",
+ "_previous": "2026-11-27",
  "aho": {
   "movies": {
    "in": {
-    "12153": "Loiras à Força",
-    "1440050": "Pai em Tempo Integral",
-    "36950": "Você Não Conhece o Jack",
-    "677781": "A Máscara de Zorro",
-    "969681": "Homem-Aranha: Um Novo Dia"
+    "1317603": "Perdidos na Amazônia: O Resgate Que Chocou o Mundo",
+    "1764131": "Buffalo: Milagre sob a Neve",
+    "298768": "Bita e os Animais",
+    "678616": "Full Metal Jacket - Nascido Para Matar"
    },
    "out": {
-    "318924": "Mundo Bita - Bita e as Brincadeiras",
-    "9342": "A Máscara de Zorro",
-    "977391": "Você Não Conhece o Jack"
+    "1393121": "Perdidos na Amazônia: O Resgate Que Chocou o Mundo",
+    "600": "Full Metal Jacket - Nascido Para Matar",
+    "776524": "Corações Livres"
    }
   },
   "name": "HBO Max Amazon Channel",
   "shows": {
    "in": {
-    "335251": "Os Segelström: A Arte da Enganação",
-    "86818": "To Catch a Killer"
+    "223584": "Unprecedented"
    },
    "out": {
-    "117420": "To Catch a Killer"
+    "205488": "Unprecedented",
+    "341769": "O assassinato do Galo de Ouro"
    }
   }
  },
  "alo": {
   "movies": {
    "in": {
-    "1353066": "A Própria Carne",
-    "40506": "Um Maluco Está no Ar",
-    "43308": "O Morro dos Maus Espíritos",
-    "59189": "Fase IV - Destruição",
-    "687238": "A Espada da Vingança",
-    "847153": "Vingança Final"
+    "1243650": "Queda Livre",
+    "1304369": "Raven - O Nome da Vingança",
+    "425124": "A Garota Perfeita",
+    "496049": "Lembro Mais dos Corvos",
+    "529446": "Corpos Hospedeiros",
+    "821234": "Deus tem AIDS",
+    "831": "S.O.S. Metaluna"
    },
    "out": {
-    "10973": "O Monstro da Lagoa Negra",
-    "11916": "Os Abutres Têm Fome",
-    "140818": "Ragnarok",
-    "299641": "Jimmy Vestvood - Um Quase Super-Herói Americano",
-    "452000": "Western",
-    "568029": "Quando Lembro de Chico"
+    "1081464": "Os Conflitos na Irlanda",
+    "1353245": "Corpos Hospedeiros",
+    "23827": "Actividade Paranormal",
+    "395444": "Perseguição",
+    "526242": "Michelangelo - Infinito",
+    "76195": "Centopeias Gigantes"
    }
   },
   "name": "Looke Amazon Channel"
  },
- "amu": {
-  "movies": {
-   "in": {
-    "1469342": "Her Private Hell – Viagem ao Inferno",
-    "1614698": "Taxi moto",
-    "319994": "O Botão de Pérola",
-    "582944": "A Cordilheira dos Sonhos",
-    "60670": "Os Crimes dos Rios de Púrpura",
-    "72721": "Nostalgia da Luz"
-   },
-   "out": {
-    "435987": "Uma sobremesa para Constance"
-   }
-  },
-  "name": "MUBI Amazon Channel"
- },
  "atl": {
   "movies": {
-   "in": {
-    "1033356": "O Porão da Rua do Grito",
-    "1249562": "Muito Prazer"
-   },
+   "in": {},
    "out": {
-    "609271": "Debaixo do Píer"
+    "704081": "Para Onde Voam as Feiticeiras"
    }
   },
   "name": "Telecine Amazon Channel"
  },
- "bac": {
-  "movies": {
-   "in": {
-    "1395661": "Sinta-se em Casa",
-    "8047": "Matador"
-   },
-   "out": {}
-  },
-  "name": "Belas Artes à La Carte"
- },
- "cru": {
+ "atp": {
   "movies": {
    "in": {},
    "out": {
-    "896499": "Fruits Basket - Prelude"
+    "949580": "Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown"
    }
   },
+  "name": "Apple TV"
+ },
+ "avl": {
+  "movies": {
+   "in": {},
+   "out": {
+    "949580": "Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown"
+   }
+  },
+  "name": "Apple TV Amazon Channel"
+ },
+ "cru": {
   "name": "Crunchyroll",
   "shows": {
    "in": {
-    "292774": "Honor of Kings",
-    "88040": "Given"
+    "110397": "Wakakozake",
+    "116481": "Louco Por Você",
+    "342655": "Crunchyroll Presents: The Anime Effect"
    },
    "out": {
-    "126409": "Given",
-    "243327": "Honor of Kings"
+    "274548": "Louco Por Você",
+    "45782": "Sword Art Online",
+    "77237": "Wakakozake"
    }
   }
  },
  "dnp": {
   "movies": {
    "in": {
-    "1715686": "Mickey: Sozinho em Casa",
-    "1843337": "Momentos de Glória"
+    "11459": "Sky High - Escola de Heróis",
+    "1810889": "Disney Adventure: Uma Nova Rota em Curso",
+    "1845462": "Os Chimpanzés",
+    "361931": "Ronaldo"
    },
    "out": {
-    "9443": "Momentos de Glória"
+    "1370978": "Sky High - Escola de Heróis",
+    "72334": "Os Chimpanzés"
    }
   },
   "name": "Disney Plus",
   "shows": {
    "in": {
-    "95782": "Segredos Enterrados da Bíblia com Albert Lin"
+    "72089": "Bingo e Rolly"
    },
    "out": {
-    "203051": "Segredos Enterrados da Bíblia com Albert Lin",
-    "324434": "Sou Luna: De Volta à Pista"
+    "104065": "Bingo e Rolly"
    }
   }
  },
  "gop": {
   "movies": {
-   "in": {},
-   "out": {
-    "957452": "O Corvo"
-   }
+   "in": {
+    "1248881": "Mãe Fora da Caixa"
+   },
+   "out": {}
   },
   "name": "Globoplay",
   "shows": {
    "in": {
-    "31155": "Tara Duncan"
+    "207611": "Tudo Novo de Novo",
+    "342840": "Atenção Para o Refrão",
+    "90304": "Sabor a Paixão"
    },
    "out": {
-    "256711": "The Rainmaker"
+    "295299": "Malhação.com",
+    "319554": "Giro Universidades",
+    "73506": "Sabor a Paixão"
    }
   }
  },
  "lke": {
   "movies": {
    "in": {
-    "2117": "Sophie Scholl - Os Últimos Dias",
-    "509598": "Mr. Jones - A Verdade da Mentira",
-    "59189": "Fase IV - Destruição",
-    "847153": "Vingança Final"
-   },
-   "out": {
-    "1088530": "Nelly Rapp e o Espelho da Morte",
-    "140818": "Ragnarok",
+    "1177250": "Jovem Para Sempre",
+    "14801": "O Cérebro de Aço",
+    "40506": "Um Maluco Está no Ar",
+    "43308": "O Morro dos Maus Espíritos",
+    "529446": "Corpos Hospedeiros",
     "547475": "Rendel 2: Ciclo da Vingança",
-    "670886": "O Caçador: Último Tigre da Tasmânia"
-   }
-  },
-  "name": "Looke",
-  "shows": {
-   "in": {
-    "206688": "Oscar no Oásis"
+    "56481": "Fronteira Proibida",
+    "605874": "Nós Que Ficámos",
+    "722328": "Dias de Luta",
+    "821234": "Deus tem AIDS",
+    "831": "S.O.S. Metaluna"
    },
    "out": {
-    "39914": "Oscar no Oásis"
+    "1104164": "O Homem que Desafiou os Soviéticos",
+    "1154155": "Fronteira Proibida",
+    "13197": "O Bairro da Mafia",
+    "13442": "Conduta Ilegal",
+    "1353245": "Corpos Hospedeiros",
+    "14795": "Herança Maldita",
+    "18639": "A Lança em Chamas",
+    "21489": "O Caso Odessa",
+    "21970": "Olhos na Floresta",
+    "294935": "1914 - A Primeira Guerra",
+    "710157": "Teresa de Ávila"
    }
-  }
- },
- "mbi": {
-  "movies": {
-   "in": {
-    "1469342": "Her Private Hell – Viagem ao Inferno",
-    "1614698": "Taxi moto",
-    "319994": "O Botão de Pérola",
-    "582944": "A Cordilheira dos Sonhos",
-    "60670": "Os Crimes dos Rios de Púrpura",
-    "72721": "Nostalgia da Luz"
-   },
-   "out": {}
   },
-  "name": "MUBI"
+  "name": "Looke"
  },
  "mxx": {
   "movies": {
    "in": {
-    "12153": "Loiras à Força",
-    "1440050": "Pai em Tempo Integral",
-    "36950": "Você Não Conhece o Jack",
-    "677781": "A Máscara de Zorro",
-    "969681": "Homem-Aranha: Um Novo Dia"
+    "1317603": "Perdidos na Amazônia: O Resgate Que Chocou o Mundo",
+    "1764131": "Buffalo: Milagre sob a Neve",
+    "678616": "Full Metal Jacket - Nascido Para Matar",
+    "830818": "Broken Harts"
    },
    "out": {
-    "9342": "A Máscara de Zorro",
-    "977391": "Você Não Conhece o Jack"
+    "1393121": "Perdidos na Amazônia: O Resgate Que Chocou o Mundo",
+    "600": "Full Metal Jacket - Nascido Para Matar",
+    "776524": "Corações Livres"
    }
   },
   "name": "HBO Max",
   "shows": {
    "in": {
-    "335251": "Os Segelström: A Arte da Enganação",
-    "86818": "To Catch a Killer"
+    "223584": "Unprecedented"
    },
    "out": {
-    "117420": "To Catch a Killer"
+    "205488": "Unprecedented"
    }
   }
  },
  "nfx": {
   "movies": {
    "in": {
-    "12193": "Surpresas do Amor",
-    "1269325": "Drishyam: The Conclusion",
-    "1843934": "NFL Netflix Gameday: Packers vs. Rams",
-    "454626": "Sonic - O Filme",
-    "454983": "A Banca dos Beijos",
-    "554279": "Natal no Riacho",
-    "653522": "O Aplicativo",
-    "774370": "O Homem-Cão",
-    "864116": "Um Dia para Morrer"
+    "1027073": "Na Terra de Santos e Pecadores",
+    "1110090": "Separados Pelo Casamento",
+    "1316427": "7 Dogs",
+    "13279": "Vizinho Suspeito",
+    "1480665": "Quasímodo: A Alma de Paris",
+    "1496785": "AK47: A Família Perfeita da Casa 47",
+    "1506401": "The Child",
+    "1655112": "O último pedido",
+    "1709391": "Hanuman Ansh",
+    "1802703": "Rob Lowe: O Marginal",
+    "1811599": "Tyson Fury",
+    "503736": "Exército dos Mortos",
+    "5375": "Titio Noel",
+    "62838": "Ano Novo, Vida Nova!",
+    "719221": "Tarot - Carta da Morte",
+    "738720": "Memórias de Ontem",
+    "846250": "Fire Island: Orgulho & Sedução",
+    "9273": "Ace Ventura em África"
    },
    "out": {
-    "1006917": "O Único Sobrevivente",
-    "1195506": "Novocaine: À Prova de Dor",
-    "1196207": "Quem Salva o Natal? 2",
-    "12403": "Uma Fuga Perfeita",
-    "15092": "Crank 2: Alta Voltagem",
-    "1593350": "Amor em Versos",
-    "352431": "Carrossel 2: O Sumiço de Maria Joaquina",
-    "495659": "Bayonet",
-    "862968": "Pain Hustlers"
+    "1169455": "O Depois",
+    "1230393": "Monsters 103 Mercies Dragon Damnation",
+    "1250786": "Technoboys",
+    "15080": "Memórias de Ontem",
+    "1651233": "O Genro",
+    "1843934": "NFL Netflix Gameday: Packers vs. Rams",
+    "2667": "O Projecto Blair Witch",
+    "327331": "The Dirt: Confissões do Mötley Crüe",
+    "37933": "Contos de Terramar",
+    "462108": "Chris D'Elia: Man on Fire",
+    "523277": "Manmarziyaan",
+    "551300": "Suzzanna: Enterrada Viva",
+    "554279": "Natal no Riacho",
+    "560050": "Para Além da Lua",
+    "590223": "Love and Monsters",
+    "756252": "Em Busca de Agnes",
+    "798612": "Shirley Chisholm",
+    "9767": "Separados Pelo Casamento"
    }
   },
   "name": "Netflix",
   "shows": {
    "in": {
-    "133678": "Era Uma Vez... Numa Pequena Cidade",
-    "302837": "Toos: Um Sequestro Entre os Van der Valk",
-    "313701": "Um Natal Filipino",
-    "338930": "De Plantão",
-    "39276": "Inesquecível",
-    "45666": "Sam & Cat",
-    "87387": "Glow Up - Deutschlands nächster Make-up-Star"
+    "136125": "Club Istanbul",
+    "206075": "Reformas Inacreditáveis",
+    "335918": "Meu Nome é Farah",
+    "343634": "Picturelogue ～Escape From Oogiri Labyrinth～",
+    "90194": "Eu Não Sou Um Robô",
+    "93826": "October Faction"
    },
    "out": {
-    "203280": "E Por Hoje É Só... com David Letterman",
-    "210529": "Glow Up - Deutschlands nächster Make-up-Star",
-    "229122": "Six Zeros",
-    "231681": "As Viúvas de Quinta-feira",
-    "284536": "Inesquecível",
-    "68799": "Gilmore Girls: Um Ano para Recordar",
-    "95121": "Ninguém Tá Olhando"
+    "210268": "Consumidas pelo Fogo",
+    "219826": "Meu Nome é Farah",
+    "45666": "Sam & Cat",
+    "71349": "Parceira Suspeita",
+    "74682": "Eu Não Sou Um Robô",
+    "90706": "Uisa Yohan"
    }
   }
  },
  "pmp": {
   "movies": {
    "in": {
-    "1507275": "O Natal da Patrulha Canina"
+    "1238200": "Sem Instruções",
+    "1723884": "Feliz Natal, Sr. Plankton",
+    "1773727": "O Show da JLo",
+    "1837215": "O Natal da Patrulha Canina",
+    "453807": "Justiça: Entre a Lei e a Vingança"
    },
    "out": {
-    "1238200": "Sem Instruções",
-    "1433719": "High Ground: Cerco fechado",
-    "1837215": "O Natal da Patrulha Canina"
+    "1507275": "O Natal da Patrulha Canina"
    }
   },
-  "name": "Paramount Plus",
-  "shows": {
-   "in": {},
-   "out": {
-    "517": "The Ultimate Fighter"
-   }
-  }
+  "name": "Paramount Plus"
  },
  "prv": {
   "movies": {
    "in": {
-    "1064103": "Como Se Tornar um Homem Moderno",
-    "1249289": "Código Alarum",
-    "1301214": "Atena",
-    "1430386": "Uma Mãe e o Seu Filho",
-    "534094": "As Aventuras de Errol Flynn",
-    "605874": "Nós Que Ficámos",
-    "864116": "Um Dia para Morrer",
-    "866346": "O Plano de Reforma",
-    "888001": "O Rio do Terror",
-    "900667": "One Piece Film - Red",
-    "937092": "Boa Esposa"
-   },
-   "out": {
-    "128454": "O Trapalhão e a Luz Azul",
     "133007": "Os Fantasmas Trapalhões",
     "143535": "O Incrível Monstro Trapalhão",
-    "143558": "Ali Babá e os Quarenta Ladrões",
-    "144060": "Uma Escola Atrapalhada",
-    "172519": "O Trapalhão na Ilha do Tesouro",
-    "189883": "Bonga, o Vagabundo",
     "251356": "O Cangaceiro Trapalhão",
-    "407528": "Robin Hood, O Trapalhão da Floresta",
+    "300693": "Verdade",
+    "40506": "Um Maluco Está no Ar",
     "547475": "Rendel 2: Ciclo da Vingança",
+    "557946": "Crime em Hollywood",
     "88697": "O Casamento dos Trapalhões"
+   },
+   "out": {
+    "1064103": "Como Se Tornar um Homem Moderno",
+    "11843": "O Regresso da Pantera Cor-de-Rosa",
+    "12183": "Ladrão que Engana Ladrão",
+    "1341548": "Superanfitriã",
+    "23827": "Actividade Paranormal",
+    "534094": "As Aventuras de Errol Flynn"
    }
   },
   "name": "Amazon Prime Video",
   "shows": {
    "in": {
-    "293031": "A Mulher da Casa Abandonada",
-    "341492": "Alan Carr's Great Big Bucket List",
-    "342696": "Plein"
+    "326560": "Os Smurfs"
    },
    "out": {
-    "341177": "A Mulher da Casa Abandonada"
+    "126729": "Feras das Águas",
+    "196322": "Matéria Escura",
+    "5687": "Os Smurfs"
    }
   }
+ },
+ "ptv": {
+  "movies": {
+   "in": {
+    "1708919": "Ali Baba and the Forty Thieves"
+   },
+   "out": {
+    "44475": "Ali Baba and the Forty Thieves"
+   }
+  },
+  "name": "Pluto TV"
  }
 }

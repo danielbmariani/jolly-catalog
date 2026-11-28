@@ -1,7 +1,7 @@
 {
   "_raw": [
     {
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -9,7 +9,7 @@
       "url": "https://www.rogerebert.com/reviews/minotaur-film-review-2026"
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
@@ -17,12 +17,20 @@
       "url": "https://www.rogerebert.com/reviews/elsinore-andrew-scott-olivia-colman-film-review-2026"
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "media_type": "movie",
       "outlet": "RogerEbert.com",
       "rating": "4★",
       "title": "Josephine",
       "url": "https://www.rogerebert.com/reviews/josephine-netflix-animated-film-review-2026"
+    },
+    {
+      "date": "2026-11-27",
+      "media_type": "tv",
+      "outlet": "The Guardian",
+      "rating": "4★",
+      "title": "A Ghost Story for Christmas: The Bride’s Chamber",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/27/a-ghost-story-for-christmas-the-brides-chamber-review-mark-gatiss-bbc"
     },
     {
       "date": "2026-11-25",
@@ -6215,14 +6223,6 @@
       "rating": "4★",
       "title": "Marty Supreme",
       "url": "https://www.rogerebert.com/reviews/marty-supreme-movie-review-2025"
-    },
-    {
-      "date": "2025-11-27",
-      "media_type": "tv",
-      "outlet": "The Guardian",
-      "rating": "4★",
-      "title": "Stranger Things season five",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/nov/27/stranger-things-final-season-five-review-netflix"
     }
   ],
   "movie:tmdb:1434103": {
@@ -7864,7 +7864,7 @@
           },
           "price": "9,90 R$",
           "provider": "Amazon Video",
-          "quality": "_4K",
+          "quality": "SD",
           "state": "trusted",
           "sub_pt": true,
           "tech": "amazon",
@@ -9339,7 +9339,7 @@
             "tvos": "https://tv.apple.com/br/movie/bob-esponja-em-busca-da-calca-quadrada/umc.cmc.1hhuyv8kcrbhhw877t5lawd0w?playableId=tvs.sbd.9001%3A1854387800",
             "web": "https://tv.apple.com/br/movie/bob-esponja-em-busca-da-calca-quadrada/umc.cmc.1hhuyv8kcrbhhw877t5lawd0w?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1854387800"
           },
-          "price": "37,90 R$",
+          "price": "24,90 R$",
           "provider": "Apple TV Store",
           "quality": "_4K",
           "state": "trusted",
@@ -13770,7 +13770,7 @@
     "poster": "/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
     "recs": [
       {
-        "date": "2026-11-27",
+        "date": "2026-11-28",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/josephine-netflix-animated-film-review-2026"
@@ -17226,28 +17226,6 @@
           "host": null,
           "kind": "rent",
           "links": {
-            "android": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.d7ee9489-801c-4a17-8adb-b4bd94f93a29",
-            "androidtv": "intent://app.primevideo.com/watch?gti=amzn1.dv.gti.d7ee9489-801c-4a17-8adb-b4bd94f93a29&time=0&territory=BR#Intent;package=com.amazon.amazonvideo.livingroom;scheme=https;end",
-            "tvos": "aiv://aiv/detail?gti=amzn1.dv.gti.d7ee9489-801c-4a17-8adb-b4bd94f93a29&territory=BR",
-            "web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7ee9489-801c-4a17-8adb-b4bd94f93a29"
-          },
-          "price": "4,90 R$",
-          "provider": "Amazon Video",
-          "quality": "HD",
-          "state": "trusted",
-          "sub_pt": null,
-          "tech": "amazon",
-          "until": "2026-12-01"
-        },
-        {
-          "audio": [
-            "pt"
-          ],
-          "audio_pt": true,
-          "channel": null,
-          "host": null,
-          "kind": "rent",
-          "links": {
             "android": "https://tv.apple.com/br/movie/o-ultimo-azul/umc.cmc.3gg8bxlp8iiziuf8nfaehvtw3?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1862605186",
             "androidtv": "intent://tv.apple.com/br/movie/o-ultimo-azul/umc.cmc.3gg8bxlp8iiziuf8nfaehvtw3?playableId=tvs.sbd.9001%3A1862605186#Intent;launchFlags=0x00800000;scheme=https;end",
             "tvos": "https://tv.apple.com/br/movie/o-ultimo-azul/umc.cmc.3gg8bxlp8iiziuf8nfaehvtw3?playableId=tvs.sbd.9001%3A1862605186",
@@ -19731,7 +19709,7 @@
     "poster": "/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
     "recs": [
       {
-        "date": "2026-11-27",
+        "date": "2026-11-28",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/minotaur-film-review-2026"
@@ -19979,7 +19957,7 @@
     "poster": "/mTd1B0Nq4vwMRilsf7eGNpdGIrv.jpg",
     "recs": [
       {
-        "date": "2026-11-27",
+        "date": "2026-11-28",
         "outlet": "RogerEbert.com",
         "rating": "4★",
         "url": "https://www.rogerebert.com/reviews/elsinore-andrew-scott-olivia-colman-film-review-2026"
@@ -24511,31 +24489,6 @@
     "title": "The Wargame",
     "tmdb_id": 330800,
     "year": 2026
-  },
-  "tt4574334": {
-    "age": {
-      "classind": "16",
-      "source": "BR"
-    },
-    "genres": [
-      10759,
-      9648,
-      10765
-    ],
-    "media_type": "tv",
-    "original_title": "Stranger Things",
-    "poster": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-    "recs": [
-      {
-        "date": "2025-11-27",
-        "outlet": "The Guardian",
-        "rating": "4★",
-        "url": "https://www.theguardian.com/tv-and-radio/2025/nov/27/stranger-things-final-season-five-review-netflix"
-      }
-    ],
-    "title": "Stranger Things",
-    "tmdb_id": 66732,
-    "year": 2016
   },
   "tt45821808": {
     "age": null,

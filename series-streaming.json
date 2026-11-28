@@ -539,7 +539,7 @@
       "HBO Max Amazon Channel"
     ],
     "urls": {
-      "HBO Max": "https://play.hbomax.com/video/watch/b9a84244-7898-49bf-a629-f34d07684222",
+      "HBO Max": "https://play.hbomax.com/video/watch/80cc2664-c9d3-40fe-9651-bd4f8fedac05",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2b683d9-58ef-d6e4-3822-729f7847d5b0"
     },
     "verified": [
@@ -1336,15 +1336,7 @@
     ]
   },
   "tt12190580": {
-    "providers": [
-      "Netflix"
-    ],
-    "urls": {
-      "Netflix": "https://www.netflix.com/title/80201728"
-    },
-    "verified": [
-      "Netflix"
-    ]
+    "providers": []
   },
   "tt1220617": {
     "providers": []
@@ -2265,7 +2257,9 @@
       "Looke Amazon Channel"
     ],
     "urls": {
-      "Looke": "https://www.looke.com.br/detalhes/487587"
+      "Amazon Prime Video": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.abd47f01-1d71-4e82-9b2c-ec4fa58ec01a",
+      "Looke": "https://www.looke.com.br/detalhes/487587",
+      "Looke Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.abd47f01-1d71-4e82-9b2c-ec4fa58ec01a"
     },
     "verified": [
       "Amazon Prime Video",
@@ -2396,6 +2390,9 @@
     "providers": [
       "Sony One Amazon Channel"
     ],
+    "urls": {
+      "Sony One Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.74b21277-88d8-4e0a-9da0-2c7f81d490da"
+    },
     "verified": [
       "Sony One Amazon Channel"
     ]
@@ -2470,6 +2467,9 @@
     "providers": [
       "Cindie Amazon Channel"
     ],
+    "urls": {
+      "Cindie Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9b0ba5a6-b001-4303-b18f-cba7335c02ee"
+    },
     "verified": [
       "Cindie Amazon Channel"
     ]
@@ -3033,7 +3033,7 @@
       "The Great Courses Signature Collection Amazon Channel"
     ],
     "urls": {
-      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bc63b0-75f2-35ee-7047-2cc4a4dcbae8"
+      "The Great Courses Signature Collection Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ae464a3-c62b-4c89-a2a0-d54b6f94a870"
     },
     "verified": [
       "The Great Courses Signature Collection Amazon Channel"
@@ -3708,7 +3708,7 @@
       "Netflix"
     ],
     "urls": {
-      "Crunchyroll": "https://www.crunchyroll.com/watch/G4VUWKN4G",
+      "Crunchyroll": "https://www.crunchyroll.com/watch/GWDU7V1ZV",
       "Crunchyroll Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
       "HBO Max": "https://play.hbomax.com/video/watch/61e42cc7-30a8-454a-9c92-236712db9130",
       "HBO Max Amazon Channel": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
@@ -4718,6 +4718,9 @@
     "verified": [
       "Sony One Amazon Channel"
     ]
+  },
+  "tt4677934": {
+    "providers": []
   },
   "tt4687880": {
     "providers": [
